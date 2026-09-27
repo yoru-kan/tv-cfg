@@ -14,9 +14,9 @@ CCTV4,http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub
 CCTV4K,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1790535600-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-ebb709ac574eaa86568f04d587506876&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
 CCTV4K,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1790538300-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-d02fb21d570839c737a19e0f31b37834&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
 CCTV4K,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1790549100-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-2cf1c3639e61e7d49341eca636dbdb08&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
-CCTV5,http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub
 CCTV5,http://107.150.60.122/live/cctv5hd.m3u8
 CCTV5,http://207.56.13.146:81/cdnlive/cctv5.m3u8
+CCTV5,http://gmxw.7766.org:808/hls/93/index.m3u8
 CCTV5+,http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
 CCTV5+,http://120.76.248.139/live/bfgd/4200000246.m3u8
 CCTV6,http://198.204.228.26/live/cctv6hd.m3u8
@@ -58,9 +58,9 @@ CCTV17,http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009
 CCTV世界地理,http://111.61.236.247:9081/hls/62/index.m3u8
 CCTV世界地理,http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
 CCTV世界地理,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=sjdl
-CCTV兵器科技,http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub
 CCTV兵器科技,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gfjs
 CCTV兵器科技,http://207.56.13.146:81/cdnlive/gfjs.m3u8
+CCTV兵器科技,https://live.264788.xyz/channel/bingqikeji?streamid=6fc55a0966bdad1e1cdf39a4d37dd776&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 CCTV台球,http://107.150.60.122/live/ystq.m3u8
 CCTV台球,http://207.56.13.146:81/cdnlive/ystq.m3u8
 CCTV台球,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ystq
