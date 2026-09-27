@@ -109,7 +109,6 @@ CGTN阿语,http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LST
 CGTN阿语,https://0472.org/hls/cgtna.m3u8
 上海第一财经,https://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
 上海第一财经,http://t.061899.xyz/tl/tl.php?id=dycj
-中国交通,http://drive.mxmy.net:8888/udp/239.3.1.188:8001
 北京新闻,https://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
 北京新闻,http://iptv.huuc.edu.cn/hls/btv9hd.m3u8
 山东教育,https://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8
@@ -300,18 +299,15 @@ TVBS新闻台,http://61.221.215.25:8800/hls/9/index.m3u8
 美亚电影,http://iptv.4666888.xyz/iptv2A.php?id=30
 美亚电影,http://ali.hlspull.yximgs.com/live/awei_mydy.flv
 美亚电影,https://php.946985.filegear-sg.me/mytv265.php?id=CMAM
-翡翠台,http://iptv.4666888.xyz/iptv2A.php?id=34
 翡翠台,http://r.jdshipin.com/62WM7
 翡翠台,http://r.jdshipin.com/qClQf
+翡翠台,http://r.jdshipin.com/qrfbg
 靖天映画,http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34838
 靖天映画,https://cdn12.178.indevs.in/163189/bd4752bd7828b2bf
 靖天映画,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv055&token=https://t.me/GPT_858
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
 香港卫视,https://stream1.freetv.fun/5335c88a9a7d8b74173b491f480d4f94e8d3bd596af54478106aa2399e6c7917.ctv
-龙华电影,http://iptv.4666888.xyz/iptv2A.php?id=45
-龙华电影,https://cdn8.163189.xyz/live/lhdy/stream.m3u8
-龙华电影,https://stream1.freetv.fun/1178a02eb676ee58293691fdc19fed767b2dc61d866c1fee41447a8503ec0253.m3u8
 
 影视剧场,#genre#
 上虞文化影视,http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
@@ -320,6 +316,7 @@ TVBS新闻台,http://61.221.215.25:8800/hls/9/index.m3u8
 上虞文化影院,https://stream1.freetv.fun/shang-yu-wen-hua-ying-yuan-1.m3u8
 与凤行,https://live.ottiptv.cc/huya/26355866
 东阳影视生活,http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8
+中华小当家「动漫」,https://cdn.ttvb.eu.org/huya/11342413
 仙剑奇侠传,https://live.ottiptv.cc/yy/1382749903
 倚天屠龙记,http://live.metshop.top/huya/11342403
 倚天屠龙记,https://live.ottiptv.cc/huya/11342403
@@ -348,7 +345,6 @@ TVBS新闻台,http://61.221.215.25:8800/hls/9/index.m3u8
 延禧攻略,https://live.ottiptv.cc/huya/26355864
 延禧攻略,http://live.metshop.top/huya/26355864
 延禧攻略,http://120.220.76.91:2003/huya.php?id=26355864
-恐怖电影「解说」,https://cdn.ttvb.eu.org/huya/23419131
 柳舟计,https://live.ottiptv.cc/huya/23860039
 梦中的那片海,https://live.ottiptv.cc/huya/26355765
 楚汉骄雄,https://live.metshop.top/huya/29465854
@@ -396,23 +392,30 @@ TVBS新闻台,http://61.221.215.25:8800/hls/9/index.m3u8
 陈情令,http://cdn.jdshipin.com:8880/huya.php?id=29465862
 
 体育赛事,#genre#
+「B站」CS2,https://cdn.ttvb.eu.org/bilibili/21622811
 「B站」使命召唤•手游,https://cdn.ttvb.eu.org/bilibili/22741849
 「B站」王者荣耀𝟙,https://cdn.ttvb.eu.org/bilibili/55
+「B站」第五人格,https://cdn.ttvb.eu.org/bilibili/5555
+「B站」绝地求生,https://cdn.ttvb.eu.org/bilibili/98
 「B站」英雄联盟•手游,https://cdn.ttvb.eu.org/bilibili/23138275
 「斗鱼」FIFA,https://cdn.ttvb.eu.org/douyu/7692166
 「斗鱼」QQ飞车•手游,https://cdn.ttvb.eu.org/douyu/5040227
+「斗鱼」云顶之弈,https://cdn.ttvb.eu.org/douyu/522423
 「斗鱼」使命召唤•手游,https://cdn.ttvb.eu.org/douyu/9223245
 「斗鱼」原神,https://cdn.ttvb.eu.org/douyu/10853239
 「斗鱼」我的世界,https://cdn.ttvb.eu.org/douyu/738878
+「斗鱼」梦幻西游·手游,https://cdn.ttvb.eu.org/huya/9163712
+「斗鱼」永劫无间,https://cdn.ttvb.eu.org/huya/9662891
 「斗鱼」火影忍者,https://cdn.ttvb.eu.org/douyu/1997723
 「斗鱼」王者荣耀𝟙,https://cdn.ttvb.eu.org/douyu/1863767
 「斗鱼」王者荣耀𝟚,https://cdn.ttvb.eu.org/douyu/1984839
+「斗鱼」穿越火线𝟚,https://cdn.ttvb.eu.org/douyu/5388537
 「斗鱼」绝地求生,https://cdn.ttvb.eu.org/douyu/100
 「斗鱼」英雄联盟𝟙,https://cdn.ttvb.eu.org/douyu/288016
+「斗鱼」英雄联盟𝟚,https://cdn.ttvb.eu.org/douyu/424559
 「斗鱼」跑跑卡丁车,https://cdn.ttvb.eu.org/douyu/7722576
 「斗鱼」跑跑卡丁车•手游,https://cdn.ttvb.eu.org/douyu/6672862
 「斗鱼」金铲铲之战,https://cdn.ttvb.eu.org/douyu/9715241
-「虎牙」CS2,https://cdn.ttvb.eu.org/huya/483917
 天元围棋,http://204.12.221.218:8181/3m1080p/gztywq.m3u8
 天津体育,http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub
 天津体育,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjtv5
