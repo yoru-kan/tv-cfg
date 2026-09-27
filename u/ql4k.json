@@ -1,0 +1,502 @@
+{
+ "spider": "https://fastlink.cokey.xyz/f/7l2Eh3/wex.jar",
+ "wallpaper": "https://fastlink.cokey.xyz/f/AZJKTm/%E8%83%8C%E6%99%AF.jpg",
+ "logo": "https://fastlink.cokey.xyz/f/W4oaI8/%E5%A4%B4%E5%83%8F.jpg",
+ "sites": [
+  {
+   "key": "Douban",
+   "name": "🐉豆瓣推荐",
+   "type": 3,
+   "api": "csp_NewDouBanGuard",
+   "indexs": 1,
+   "searchable": 0,
+   "quickSearch": 0,
+   "filterable": 0,
+   "ext": "https://fastlink.cokey.xyz/f/md2KHa/20260414181247-ae51abfbfe.txt"
+  },
+  {
+   "key": "Wexconfig",
+   "name": "👑网盘配置",
+   "type": 3,
+   "api": "csp_PanConfigGuard",
+   "searchable": 0,
+   "changeable": 0,
+   "indexs": 0,
+   "style": {
+    "type": "list"
+   }
+  },
+  {
+   "key": "MyPan",
+   "name": "👑我的网盘",
+   "type": 3,
+   "api": "csp_MyPanGuard",
+   "searchable": 0,
+   "changeable": 0,
+   "indexs": 0,
+   "style": {
+    "type": "list"
+   }
+  },
+  {
+   "key": "羊羊py",
+   "name": "🅿️羊羊",
+   "type": 3,
+   "api": "https://fastlink.cokey.xyz/f/kOrxc6/%E7%BE%8A%E7%BE%8A.py",
+   "searchable": 1,
+   "changeable": 0,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "二小",
+   "name": "👑‍指南4K‍",
+   "type": 3,
+   "api": "csp_AiNewXiaoPanGuard",
+   "searchable": 1,
+   "quickSearch": 1,
+   "changeable": 1
+  },
+  {
+   "key": "玩偶",
+   "name": "👑‍玩偶4K‍",
+   "type": 3,
+   "api": "csp_AiNewWoggGuard",
+   "searchable": 1,
+   "quickSearch": 1,
+   "changeable": 1
+  },
+  {
+   "key": "AiNewGuanYing",
+   "name": "👑‍观影4K‍",
+   "type": 3,
+   "api": "csp_AiNewGuanYingGuard",
+   "searchable": 1,
+   "quickSearch": 1,
+   "changeable": 1
+  },
+  {
+   "key": "AiQwMkv",
+   "name": "👑‍七味4K‍",
+   "type": 3,
+   "api": "csp_AiQwMkvGuard",
+   "searchable": 1,
+   "quickSearch": 1,
+   "changeable": 1
+  },
+  {
+   "key": "NewZhiZhen",
+   "name": "👑至臻4K",
+   "type": 3,
+   "api": "csp_AiNewZhiZhenGuard",
+   "searchable": 1,
+   "quickSearch": 1,
+   "changeable": 1
+  },
+  {
+   "key": "AiNewHuBan",
+   "name": "👑虎斑4K",
+   "type": 3,
+   "api": "csp_AiNewHuBanGuard",
+   "searchable": 1,
+   "quickSearch": 1,
+   "changeable": 1
+  },
+  {
+   "key": "AiNewMuOu",
+   "name": "👑木偶4K",
+   "type": 3,
+   "api": "csp_AiNewMuOuGuard",
+   "categories": [
+    "木偶剧集",
+    "木偶电影",
+    "木偶纪录片",
+    "木偶综艺",
+    "木偶动漫"
+   ],
+   "searchable": 1,
+   "quickSearch": 1,
+   "changeable": 1
+  },
+  {
+   "key": "AiNewDuoDuo",
+   "name": "👑多多4K",
+   "type": 3,
+   "api": "csp_AiNewDuoDuoGuard",
+   "searchable": 1,
+   "quickSearch": 1,
+   "changeable": 1
+  },
+  {
+   "key": "AiNewJuTou",
+   "name": "👑剧透4K",
+   "type": 3,
+   "api": "csp_AiNewJuTouGuard",
+   "searchable": 1,
+   "quickSearch": 1,
+   "changeable": 1
+  },
+  {
+   "key": "AiNewLibvio",
+   "name": "👑立播4K",
+   "type": 3,
+   "api": "csp_AiNewLibvioGuard",
+   "searchable": 1,
+   "quickSearch": 1,
+   "changeable": 1
+  },
+  {
+   "key": "原盘",
+   "name": "👑‍原盘4K‍",
+   "type": 3,
+   "api": "csp_AiNewZhiNan4KGuard",
+   "searchable": 1,
+   "quickSearch": 1,
+   "changeable": 1
+  },
+  {
+   "key": "AiNewYiDong4K",
+   "name": "👑移动4K",
+   "type": 3,
+   "api": "csp_AiNewYiDong4KGuard",
+   "searchable": 1,
+   "quickSearch": 1,
+   "changeable": 1
+  },
+  {
+   "key": "藤藤",
+   "name": "🍀藤藤4K",
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/spider.jar",
+   "type": 3,
+   "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
+   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/藤藤.png"
+  },
+  {
+   "key": "酷我",
+   "name": "🅿️酷我音乐",
+   "type": 3,
+   "api": "https://fastlink.cokey.xyz/f/p6k2ij/%E9%85%B7%E6%88%91.py",
+   "searchable": 1,
+   "changeable": 0,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "海星py",
+   "name": "🅿️海星体育",
+   "type": 3,
+   "api": "https://fastlink.cokey.xyz/f/GjAOcE/%E6%B5%B7%E6%98%9F.py",
+   "searchable": 0,
+   "changeable": 0,
+   "quickSearch": 0,
+   "filterable": 1
+  },
+  {
+   "key": "push_agent",
+   "name": "📱手机推送",
+   "type": 3,
+   "api": "csp_PushGuard",
+   "searchable": 0,
+   "ext": "https://www.czzy66.com"
+  }
+ ],
+ "parses": [
+  {
+   "name": "YuMi-vip",
+   "type": 0,
+   "url": "https://jx.xmflv.com/?url=",
+   "ext": {
+    "flag": [
+     "爱奇艺",
+     "奇艺",
+     "qq",
+     "腾讯",
+     "youku",
+     "优酷",
+     "pptv",
+     "PPTV",
+     "letv",
+     "乐视",
+     "leshi",
+     "bilibili",
+     "哔哩哔哩",
+     "哔哩",
+     "mgtv",
+     "芒果"
+    ],
+    "header": {
+     "User-Agent": "okhttp/5.0.0-alpha.14"
+    }
+   }
+  },
+  {
+   "name": "xmflv",
+   "type": 0,
+   "url": "https://jx.xmflv.com/?url=",
+   "ext": {
+    "flag": [
+     "qq",
+     "腾讯",
+     "qiyi",
+     "爱奇艺",
+     "奇艺",
+     "youku",
+     "优酷",
+     "mgtv",
+     "芒果",
+     "letv",
+     "乐视",
+     "pptv",
+     "PPTV",
+     "sohu",
+     "bilibili",
+     "哔哩哔哩",
+     "哔哩"
+    ]
+   }
+  },
+  {
+   "name": "聚合",
+   "type": 3,
+   "url": "Demo"
+  },
+  {
+   "name": "神秘的哥哥们",
+   "type": 1,
+   "url": "http://api.888484.xyz/神秘哥哥/super.php?v=",
+   "ext": {
+    "flag": [
+     "qq",
+     "腾讯",
+     "qiyi",
+     "爱奇艺",
+     "奇艺",
+     "youku",
+     "优酷",
+     "tucheng",
+     "sohu",
+     "搜狐",
+     "letv",
+     "乐视",
+     "mgtv",
+     "芒果",
+     "tnmb",
+     "seven",
+     "yzm",
+     "aliyun",
+     "RJuMao",
+     "bi123ili",
+     "1905",
+     "xinvip",
+     "XAL",
+     "qiqi",
+     "XALS",
+     "YuMi-vip"
+    ]
+   }
+  },
+  {
+   "name": "免费分享",
+   "type": 0,
+   "url": "https://jx.xmflv.com/?url=",
+   "ext": {
+    "flag": [
+     "qq",
+     "腾讯",
+     "qiyi",
+     "爱奇艺",
+     "奇艺",
+     "youku",
+     "优酷",
+     "mgtv",
+     "芒果",
+     "imgo",
+     "letv",
+     "乐视",
+     "pptv",
+     "PPTV",
+     "sohu",
+     "bi123ili",
+     "哔哩哔哩",
+     "哔哩"
+    ],
+    "header": {
+     "User-Agent": "okhttp/5.0.0-alpha.14"
+    }
+   }
+  }
+ ],
+ "doh": [
+  {
+   "name": "Google",
+   "url": "https://dns.google/dns-query",
+   "ips": [
+    "8.8.4.4",
+    "8.8.8.8"
+   ]
+  },
+  {
+   "name": "Cloudflare",
+   "url": "https://cloudflare-dns.com/dns-query",
+   "ips": [
+    "1.1.1.1",
+    "1.0.0.1",
+    "2606:4700:4700::1111",
+    "2606:4700:4700::1001"
+   ]
+  },
+  {
+   "name": "AdGuard",
+   "url": "https://dns.adguard.com/dns-query",
+   "ips": [
+    "94.140.14.140",
+    "94.140.14.141"
+   ]
+  },
+  {
+   "name": "DNSWatch",
+   "url": "https://resolver2.dns.watch/dns-query",
+   "ips": [
+    "84.200.69.80",
+    "84.200.70.40"
+   ]
+  },
+  {
+   "name": "Quad9",
+   "url": "https://dns.quad9.net/dns-quer",
+   "ips": [
+    "9.9.9.9",
+    "149.112.112.112"
+   ]
+  }
+ ],
+ "rules": [
+  {
+   "name": "hwk",
+   "hosts": [
+    "haiwaikan"
+   ],
+   "regex": [
+    "10.0099",
+    "10.3333",
+    "16.0599",
+    "8.1748",
+    "12.33",
+    "10.85"
+   ]
+  },
+  {
+   "name": "yqk",
+   "hosts": [
+    "yqk88"
+   ],
+   "regex": [
+    "18.4",
+    "15.1666"
+   ]
+  },
+  {
+   "name": "sn",
+   "hosts": [
+    "suonizy"
+   ],
+   "regex": [
+    "#EXTINF.*?\\s+.*?original.*?\\.ts\\s+",
+    "15.1666",
+    "15.2666",
+    "16.3333",
+    "15.266667"
+   ]
+  },
+  {
+   "name": "bf",
+   "hosts": [
+    "bfzy"
+   ],
+   "regex": [
+    "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,\r\n[\\s\\S]*?#EXT-X-DISCONTINUITY"
+   ]
+  },
+  {
+   "name": "xx",
+   "hosts": [
+    "aws.ulivetv.net"
+   ],
+   "regex": [
+    "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,\r\n[\\s\\S]*?#EXT-X-DISCONTINUITY"
+   ]
+  },
+  {
+   "name": "lz",
+   "hosts": [
+    "lz"
+   ],
+   "regex": [
+    "18.5333",
+    "19.52"
+   ]
+  },
+  {
+   "name": "ff",
+   "hosts": [
+    "vip.ffzy",
+    "hd.ffzy",
+    "ffzy"
+   ],
+   "regex": [
+    "25.0666",
+    "25.08",
+    "20.52",
+    "25.1",
+    "25.1999"
+   ]
+  },
+  {
+   "name": "hs",
+   "hosts": [
+    "huoshan.com"
+   ],
+   "regex": [
+    "item_id="
+   ]
+  },
+  {
+   "name": "dy",
+   "hosts": [
+    "douyin.com"
+   ],
+   "regex": [
+    "is_play_url="
+   ]
+  },
+  {
+   "name": "nm",
+   "hosts": [
+    "toutiaovod.com"
+   ],
+   "regex": [
+    "video/tos/cn"
+   ]
+  },
+  {
+   "name": "cl",
+   "hosts": [
+    "magnet"
+   ],
+   "regex": [
+    "最新",
+    "直播",
+    "更新"
+   ]
+  }
+ ],
+ "lives": [
+  {
+   "name": "📺青龙电视",
+   "type": 0,
+   "url": "https://www.9kds.com/tool/txt/files/yiwu369/ku9.txt",
+   "ua": "Goiptv/8.8.8",
+   "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
+  }
+ ]
+}
