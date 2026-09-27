@@ -328,8 +328,8 @@ CHC电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive
 金庸武侠,https://live.metshop.top/huya/11342435
 铁齿铜牙纪晓岚,https://live.ottiptv.cc/huya/11342396
 铁齿铜牙纪晓岚,http://live.metshop.top/huya/11342396
-陈情令,http://live.metshop.top/huya/29465862
 陈情令,https://live.ottiptv.cc/huya/29465862
+陈情令,http://live.metshop.top/huya/29465862
 鬼吹灯之云南虫谷,https://live.ottiptv.cc/huya/11352898
 鬼吹灯之龙岭迷窟,https://live.ottiptv.cc/huya/29465863
 鬼吹灯之龙岭迷窟,http://live.metshop.top/huya/29465863
