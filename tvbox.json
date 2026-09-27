@@ -280,6 +280,135 @@
    ]
   },
   {
+   "key": "pan_xflx_玩偶",
+   "name": "💾玩偶·网盘(百度/夸克/UC)",
+   "type": 3,
+   "api": "csp_Wogg",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "changeable": 1,
+   "ext": {
+    "site": "https://www.wogg.live/"
+   },
+   "timeout": 60,
+   "jar": "http://150.158.52.248/tgyg/09201933.png;md5;af187c2a2be1bcbb5e183d77e740b21b"
+  },
+  {
+   "key": "pan_xflx_木偶",
+   "name": "💾木偶·网盘(百度/夸克/UC)",
+   "type": 3,
+   "api": "csp_PanWebShare",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "changeable": 1,
+   "ext": {
+    "site": "https://666.666291.xyz/"
+   },
+   "timeout": 60,
+   "jar": "http://150.158.52.248/tgyg/09201933.png;md5;af187c2a2be1bcbb5e183d77e740b21b"
+  },
+  {
+   "key": "pan_xflx_多多",
+   "name": "💾多多·网盘(百度/夸克/UC)",
+   "type": 3,
+   "api": "csp_PanWebShare",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "changeable": 1,
+   "ext": {
+    "site": "https://tv.214521.xyz/"
+   },
+   "timeout": 60,
+   "jar": "http://150.158.52.248/tgyg/09201933.png;md5;af187c2a2be1bcbb5e183d77e740b21b"
+  },
+  {
+   "key": "pan_xflx_花卷",
+   "name": "💾花卷·网盘(百度/夸克)",
+   "type": 3,
+   "api": "csp_PanWebShareHJ",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "changeable": 1,
+   "ext": {
+    "site": "https://www.hjzhencai.top/"
+   },
+   "timeout": 60,
+   "jar": "http://150.158.52.248/tgyg/09201933.png;md5;af187c2a2be1bcbb5e183d77e740b21b"
+  },
+  {
+   "key": "pan_xflx_虎斑",
+   "name": "💾虎斑·网盘(百度/夸克)",
+   "type": 3,
+   "api": "csp_PanWebShare",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "changeable": 1,
+   "ext": {
+    "site": "http://xhban.xyz/"
+   },
+   "timeout": 60,
+   "jar": "http://150.158.52.248/tgyg/09201933.png;md5;af187c2a2be1bcbb5e183d77e740b21b"
+  },
+  {
+   "key": "pan_lee_csp_Duopan",
+   "name": "💾蜡笔·网盘(百度/夸克)",
+   "type": 3,
+   "api": "csp_Duopan",
+   "filterable": 1,
+   "ext": {
+    "site_urls": [
+     "http://tvpanpan.site/",
+     "http://feimo.fun",
+     "http://xiaocgege.shop",
+     "http://www.xiaocgege.shop",
+     "https://www.xiaocge.fun"
+    ],
+    "threadinfo": {
+     "chunksize": 512,
+     "threads": 16
+    },
+    "url_key": "Duopan2"
+   },
+   "searchable": 1,
+   "quickSearch": 1,
+   "jar": "https://leetvbox.qzz.io/jar/f7c90ebd0a6632f3347eeeb8d9bd555e;md5;f7c90ebd0a6632f3347eeeb8d9bd555e"
+  },
+  {
+   "key": "pan_xflx_八零",
+   "name": "💾八零·网盘(百度/夸克)",
+   "type": 3,
+   "api": "csp_PanWebShare",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "changeable": 1,
+   "ext": {
+    "site": "https://woog.nxog.eu.org/"
+   },
+   "timeout": 60,
+   "jar": "http://150.158.52.248/tgyg/09201933.png;md5;af187c2a2be1bcbb5e183d77e740b21b"
+  },
+  {
+   "key": "pan_xflx_快映",
+   "name": "💾快映·网盘(阿里)",
+   "type": 3,
+   "api": "csp_PanWebShare",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "changeable": 1,
+   "ext": {
+    "site": "http://xsayang.fun/"
+   },
+   "timeout": 60,
+   "jar": "http://150.158.52.248/tgyg/09201933.png;md5;af187c2a2be1bcbb5e183d77e740b21b"
+  },
+  {
    "key": "drpy_js_豆瓣",
    "name": "热播豆瓣",
    "type": 3,
