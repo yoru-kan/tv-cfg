@@ -19,6 +19,12 @@ http://207.56.13.146:81/cdnlive/cctv4.m3u8
 http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-4.png" group-title="央视频道",CCTV4
 http://74.91.26.218:82/live/cctv4hd.m3u8
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV4K.png" group-title="央视频道",CCTV4K
+https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1790538300-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-d02fb21d570839c737a19e0f31b37834&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV4K.png" group-title="央视频道",CCTV4K
+https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1790535600-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-ebb709ac574eaa86568f04d587506876&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV4K.png" group-title="央视频道",CCTV4K
+https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1790549100-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-2cf1c3639e61e7d49341eca636dbdb08&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-5.png" group-title="央视频道",CCTV5
 http://gmxw.7766.org:808/hls/93/index.m3u8
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-5.png" group-title="央视频道",CCTV5
@@ -433,8 +439,6 @@ https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 #EXTINF:-1 tvg-name="PetClubTV" tvg-logo="https://i.imgur.com/ykPNNwQ.png" group-title="港澳台",PetClubTV
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-name="TVBPlus" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/TVB Plus.png" group-title="港澳台",TVBPlus
-http://r.jdshipin.com/ndGgS
 #EXTINF:-1 tvg-name="TVBS-Asia" tvg-logo="https://i.imgur.com/4S1rkhm.png" group-title="港澳台",TVBS-Asia
 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 #EXTINF:-1 tvg-name="TVBSAsia" tvg-logo="" group-title="港澳台",TVBSAsia
@@ -447,6 +451,8 @@ http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
 http://61.221.215.25:8800/hls/9/index.m3u8
 #EXTINF:-1 tvg-name="三立戏剧" tvg-logo="" group-title="港澳台",三立戏剧
 http://61.221.215.25:8800/hls/41/index.m3u8
+#EXTINF:-1 tvg-name="东森洋片" tvg-logo="https://www.xn--rgv465a.top/tvlogo/东森洋片.png" group-title="港澳台",东森洋片
+http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34904
 #EXTINF:-1 tvg-name="东森超视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/东森超视.png" group-title="港澳台",东森超视
 http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 #EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/CTI2.png" group-title="港澳台",中天新闻
@@ -505,10 +511,10 @@ http://iptv.4666888.xyz/iptv2A.php?id=30
 http://iptv.4666888.xyz/iptv2A.php?id=34
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/翡翠台.png" group-title="港澳台",翡翠台
 http://r.jdshipin.com/62WM7
+#EXTINF:-1 tvg-name="靖天映画" tvg-logo="https://www.xn--rgv465a.top/tvlogo/靖天映画.png" group-title="港澳台",靖天映画
+http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34838
 #EXTINF:-1 tvg-name="香港卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/香港卫视.png" group-title="港澳台",香港卫视
 http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:-1 tvg-name="龙华电影" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/龙华电影.png" group-title="港澳台",龙华电影
-http://iptv.4666888.xyz/iptv2A.php?id=45
 #EXTINF:-1 tvg-name="1905电影网" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/shuzi/1905dy.png" group-title="影视剧场",1905电影网
 http://8.138.7.223/tv/1905.php?id=LIVE8J4LTCXPI7QJ5
 #EXTINF:-1 tvg-name="1905电影网" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/shuzi/1905dy.png" group-title="影视剧场",1905电影网
@@ -531,6 +537,8 @@ http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=
 http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
 #EXTINF:-1 tvg-name="上虞文化影院" tvg-logo="https://www.xn--rgv465a.top/tvlogo/上虞文化影院.png" group-title="影视剧场",上虞文化影院
 http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
+#EXTINF:-1 tvg-name="与凤行" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/电视剧.png" group-title="影视剧场",与凤行
+https://live.ottiptv.cc/huya/26355866
 #EXTINF:-1 tvg-name="东阳影视生活" tvg-logo="https://www.xn--rgv465a.top/tvlogo/东阳影视生活.png" group-title="影视剧场",东阳影视生活
 http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8
 #EXTINF:-1 tvg-name="仙剑奇侠传" tvg-logo="https://www.xn--rgv465a.top/tvlogo/仙剑奇侠传.png" group-title="影视剧场",仙剑奇侠传
@@ -635,30 +643,6 @@ https://live.ottiptv.cc/huya/11352898
 https://live.ottiptv.cc/huya/29465863
 #EXTINF:-1 tvg-name="鬼吹灯之龙岭迷窟" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/龙岭迷窟.png" group-title="影视剧场",鬼吹灯之龙岭迷窟
 http://live.metshop.top/huya/29465863
-#EXTINF:-1 tvg-name="「B站」CS2" tvg-logo="https://epg.yang-1989.xyz/logo/哔哩哔哩.png" group-title="体育赛事",「B站」CS2
-https://cdn.ttvb.eu.org/bilibili/21622811
-#EXTINF:-1 tvg-name="「B站」使命召唤•手游" tvg-logo="https://epg.yang-1989.xyz/logo/哔哩哔哩.png" group-title="体育赛事",「B站」使命召唤•手游
-https://cdn.ttvb.eu.org/bilibili/22741849
-#EXTINF:-1 tvg-name="「B站」王者荣耀𝟙" tvg-logo="https://epg.yang-1989.xyz/logo/哔哩哔哩.png" group-title="体育赛事",「B站」王者荣耀𝟙
-https://cdn.ttvb.eu.org/bilibili/55
-#EXTINF:-1 tvg-name="「B站」第五人格" tvg-logo="https://epg.yang-1989.xyz/logo/哔哩哔哩.png" group-title="体育赛事",「B站」第五人格
-https://cdn.ttvb.eu.org/bilibili/5555
-#EXTINF:-1 tvg-name="「B站」英雄联盟•手游" tvg-logo="https://epg.yang-1989.xyz/logo/哔哩哔哩.png" group-title="体育赛事",「B站」英雄联盟•手游
-https://cdn.ttvb.eu.org/bilibili/23138275
-#EXTINF:-1 tvg-name="「斗鱼」使命召唤•手游" tvg-logo="https://epg.yang-1989.xyz/logo/斗鱼.png" group-title="体育赛事",「斗鱼」使命召唤•手游
-https://cdn.ttvb.eu.org/douyu/9223245
-#EXTINF:-1 tvg-name="「斗鱼」永劫无间" tvg-logo="https://epg.yang-1989.xyz/logo/斗鱼.png" group-title="体育赛事",「斗鱼」永劫无间
-https://cdn.ttvb.eu.org/huya/9662891
-#EXTINF:-1 tvg-name="「斗鱼」英雄联盟𝟙" tvg-logo="https://epg.yang-1989.xyz/logo/斗鱼.png" group-title="体育赛事",「斗鱼」英雄联盟𝟙
-https://cdn.ttvb.eu.org/douyu/288016
-#EXTINF:-1 tvg-name="「斗鱼」英雄联盟𝟚" tvg-logo="https://epg.yang-1989.xyz/logo/斗鱼.png" group-title="体育赛事",「斗鱼」英雄联盟𝟚
-https://cdn.ttvb.eu.org/douyu/424559
-#EXTINF:-1 tvg-name="「斗鱼」跑跑卡丁车" tvg-logo="https://epg.yang-1989.xyz/logo/斗鱼.png" group-title="体育赛事",「斗鱼」跑跑卡丁车
-https://cdn.ttvb.eu.org/douyu/7722576
-#EXTINF:-1 tvg-name="「斗鱼」跑跑卡丁车•手游" tvg-logo="https://epg.yang-1989.xyz/logo/斗鱼.png" group-title="体育赛事",「斗鱼」跑跑卡丁车•手游
-https://cdn.ttvb.eu.org/douyu/6672862
-#EXTINF:-1 tvg-name="「斗鱼」金铲铲之战" tvg-logo="https://epg.yang-1989.xyz/logo/斗鱼.png" group-title="体育赛事",「斗鱼」金铲铲之战
-https://cdn.ttvb.eu.org/douyu/9715241
 #EXTINF:-1 tvg-name="天元围棋" tvg-logo="https://www.xn--rgv465a.top/tvlogo/天元围棋.png" group-title="体育赛事",天元围棋
 http://204.12.221.218:8181/3m1080p/gztywq.m3u8
 #EXTINF:-1 tvg-name="天津体育" tvg-logo="https://www.xn--rgv465a.top/tvlogo/天津体育.png" group-title="体育赛事",天津体育
