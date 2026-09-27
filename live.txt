@@ -223,6 +223,7 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 BeautifulLifeTV,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
 DaliTV,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 PetClubTV,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8
+TVBPlus,http://r.jdshipin.com/ndGgS
 TVBS-Asia,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 TVBSAsia,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
@@ -259,8 +260,8 @@ TVBS新闻台,http://61.221.215.25:8800/hls/9/index.m3u8
 美亚电影,http://iptv.4666888.xyz/iptv2A.php?id=30
 翡翠台,http://iptv.4666888.xyz/iptv2A.php?id=34
 翡翠台,http://r.jdshipin.com/62WM7
-靖天映画,http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34838
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+龙华电影,http://iptv.4666888.xyz/iptv2A.php?id=45
 
 影视剧场,#genre#
 1905电影网,http://8.138.7.223/tv/1905.php?id=LIVE8J4LTCXPI7QJ5
@@ -329,6 +330,19 @@ CHC电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive
 鬼吹灯之龙岭迷窟,http://live.metshop.top/huya/29465863
 
 体育赛事,#genre#
+「B站」CS2,https://cdn.ttvb.eu.org/bilibili/21622811
+「B站」使命召唤•手游,https://cdn.ttvb.eu.org/bilibili/22741849
+「B站」王者荣耀𝟙,https://cdn.ttvb.eu.org/bilibili/55
+「B站」第五人格,https://cdn.ttvb.eu.org/bilibili/5555
+「B站」英雄联盟•手游,https://cdn.ttvb.eu.org/bilibili/23138275
+「斗鱼」QQ飞车•手游,https://cdn.ttvb.eu.org/douyu/5040227
+「斗鱼」使命召唤•手游,https://cdn.ttvb.eu.org/douyu/9223245
+「斗鱼」永劫无间,https://cdn.ttvb.eu.org/huya/9662891
+「斗鱼」英雄联盟𝟙,https://cdn.ttvb.eu.org/douyu/288016
+「斗鱼」英雄联盟𝟚,https://cdn.ttvb.eu.org/douyu/424559
+「斗鱼」跑跑卡丁车,https://cdn.ttvb.eu.org/douyu/7722576
+「斗鱼」跑跑卡丁车•手游,https://cdn.ttvb.eu.org/douyu/6672862
+「斗鱼」金铲铲之战,https://cdn.ttvb.eu.org/douyu/9715241
 天元围棋,http://204.12.221.218:8181/3m1080p/gztywq.m3u8
 天津体育,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjtv5
 天津体育,http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub
