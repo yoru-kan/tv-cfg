@@ -678,7 +678,7 @@
    "name": "🧸少儿直播",
    "type": 0,
    "url": "https://cdn.jsdelivr.net/gh/yoru-kan/tv-cfg@main/kids.txt",
-   "epg": "http://epg.112114.eu.org/?ch={name}&date={date}",
+   "epg": "https://ghfast.top/https://raw.githubusercontent.com/yoru-kan/tv-cfg/main/epg/{date}/{name}.json",
    "logo": "https://epg.112114.eu.org/logo/{name}.png",
    "playerType": 2
   }
