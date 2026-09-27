@@ -8,9 +8,9 @@ CCTV2,http://192.151.150.154/live/cctv2hd.m3u8
 CCTV3,http://139.227.221.147:9901/tsfile/live/0003_1.m3u8?key=txiptv
 CCTV3,http://107.150.60.122/live/cctv3hd.m3u8
 CCTV3,http://iptv.4666888.xyz/iptv2A.php?id=9
-CCTV4,http://207.56.13.146:81/cdnlive/cctv4.m3u8
 CCTV4,http://173.208.212.130:8181/1080p/cctv4.m3u8
 CCTV4,http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub
+CCTV4,http://74.91.26.218:82/live/cctv4hd.m3u8
 CCTV4K,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1790593200-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-99cc503dd5cb22a841724c2015567475&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
 CCTV4K,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1790549100-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-2cf1c3639e61e7d49341eca636dbdb08&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
 CCTV4K,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1790538300-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-d02fb21d570839c737a19e0f31b37834&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
@@ -59,15 +59,15 @@ CCTV17,https://live.264788.xyz/channel/cctv17?streamid=348c8c0c04a6d2b900e5a3bcb
 CCTV世界地理,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=sjdl
 CCTV世界地理,http://111.61.236.247:9081/hls/62/index.m3u8
 CCTV世界地理,http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
-CCTV兵器科技,http://207.56.13.146:81/cdnlive/gfjs.m3u8
 CCTV兵器科技,https://live.264788.xyz/channel/bingqikeji?streamid=6fc55a0966bdad1e1cdf39a4d37dd776&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 CCTV兵器科技,https://live.264788.xyz/channel/bingqikeji?streamid=530cb4e58bbc48b7fc26f5e0a2e47966&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-CCTV台球,http://207.56.13.146:81/cdnlive/ystq.m3u8
+CCTV兵器科技,http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub
 CCTV台球,http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
 CCTV台球,http://107.150.60.122/live/ystq.m3u8
-CCTV女性时尚,http://207.56.13.146:81/cdnlive/nxss.m3u8
+CCTV台球,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ystq
 CCTV女性时尚,http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub
 CCTV女性时尚,http://111.61.236.247:9081/hls/59/index.m3u8
+CCTV女性时尚,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=nxss
 CCTV怀旧剧场,http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
 CCTV怀旧剧场,http://111.61.236.247:9081/hls/67/index.m3u8
 CCTV怀旧剧场,https://live.264788.xyz/channel/huaijiujuchang?streamid=7e5d1abdddde08f588234f3f640f75ff&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
@@ -80,15 +80,15 @@ CCTV第一剧场,https://live.264788.xyz/channel/diyijuchang?streamid=e9b0fb1ca1
 CCTV风云剧场,http://173.208.212.130:8181/720p/fyjc.m3u8
 CCTV风云剧场,http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
 CCTV风云剧场,https://live.264788.xyz/channel/fengyunjuchang?streamid=31e7b5b7032d25dd215a4069cdee1a48&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-CCTV风云足球,http://207.56.13.146:81/cdnlive/fyzq.m3u8
 CCTV风云足球,http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
 CCTV风云足球,http://111.61.236.247:9081/hls/58/index.m3u8
-CCTV风云音乐,http://207.56.13.146:81/cdnlive/fyyy.m3u8
+CCTV风云足球,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fyzq
 CCTV风云音乐,https://live.264788.xyz/channel/fengyunyinyue?streamid=be37d16b874e7ba11dd383d7ecd75752&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 CCTV风云音乐,https://live.264788.xyz/channel/fengyunyinyue?streamid=1b41fb9153cba3ee19bd5d1b323da27e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-CCTV高尔夫网球,http://207.56.13.146:81/cdnlive/gefwq.m3u8
+CCTV风云音乐,http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
 CCTV高尔夫网球,http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
 CCTV高尔夫网球,http://104.152.209.49:8181/720p/gefwq.m3u8
+CCTV高尔夫网球,https://hls-gateway.vpstv.net/streams/708857.m3u8
 CETV-1,http://198.204.228.26/live/cetv1hd.m3u8
 CETV-1,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cetv1hd
 CETV-1,http://38.75.136.137:98/gslb/dsdqpub/cetv1hd.m3u8?auth=testpub
@@ -306,6 +306,9 @@ TVBS新闻台,http://61.221.215.25:8800/hls/9/index.m3u8
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
 香港卫视,https://stream1.freetv.fun/5335c88a9a7d8b74173b491f480d4f94e8d3bd596af54478106aa2399e6c7917.ctv
+龙华电影,http://iptv.4666888.xyz/iptv2A.php?id=45
+龙华电影,https://cdn8.163189.xyz/live/lhdy/stream.m3u8
+龙华电影,https://stream1.freetv.fun/1178a02eb676ee58293691fdc19fed767b2dc61d866c1fee41447a8503ec0253.m3u8
 
 影视剧场,#genre#
 七龙珠「动漫」,https://cdn.ttvb.eu.org/huya/11601966
@@ -344,14 +347,12 @@ TVBS新闻台,http://61.221.215.25:8800/hls/9/index.m3u8
 延禧攻略,https://live.ottiptv.cc/huya/26355864
 延禧攻略,http://live.metshop.top/huya/26355864
 延禧攻略,http://120.220.76.91:2003/huya.php?id=26355864
-恐怖电影「解说」,https://cdn.ttvb.eu.org/huya/23419131
 柳舟计,https://live.ottiptv.cc/huya/23860039
 梦中的那片海,https://live.ottiptv.cc/huya/26355765
 楚汉骄雄,https://live.metshop.top/huya/29465854
 楚汉骄雄,http://120.220.76.91:2003/huya.php?id=29465854
 永夜星河,https://live.ottiptv.cc/huya/23734169
 河北影视,http://1.94.31.214/php/hebei.php?id=hbys
-治愈•放松「音乐」,https://cdn.ttvb.eu.org/huya/21241811
 洗冤录,https://live.metshop.top/huya/29465851
 浙江教科影视,http://ali-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8
 浙江教科影视,http://ali-vl.cztv.com/channels/lantian/channel004/360p.m3u8
@@ -375,7 +376,6 @@ TVBS新闻台,http://61.221.215.25:8800/hls/9/index.m3u8
 绍兴文化影视,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
 绍兴文化影视,https://stream1.freetv.fun/shao-xing-wen-hua-ying-shi-1.m3u8
 绍兴文化影视,https://t.freetv.fun/live/shao-xing-wen-hua-ying-shi-1.m3u8
-航海王「动漫」,https://cdn.ttvb.eu.org/huya/16913382
 芈月传,https://live.ottiptv.cc/huya/11352975
 西游记,http://live.ottiptv.cc/huya/20985836
 西游记,http://173.208.234.146/live/vlxyj.m3u8
@@ -384,7 +384,6 @@ TVBS新闻台,http://61.221.215.25:8800/hls/9/index.m3u8
 贺岁电影,http://cdn.jdshipin.com:8880/huya.php?id=11601986
 贺岁电影,http://live.iill.top/huya.php?id=11601986
 野蛮亲家,https://live.metshop.top/huya/23863796
-野行者「其他」,https://cdn.ttvb.eu.org/huya/20072663
 金枝欲孽,https://live.metshop.top/huya/29465847
 铁齿铜牙纪晓岚,https://live.ottiptv.cc/huya/11342396
 铁齿铜牙纪晓岚,http://live.metshop.top/huya/11342396
@@ -419,8 +418,6 @@ TVBS新闻台,http://61.221.215.25:8800/hls/9/index.m3u8
 「斗鱼」跑跑卡丁车,https://cdn.ttvb.eu.org/douyu/7722576
 「斗鱼」跑跑卡丁车•手游,https://cdn.ttvb.eu.org/douyu/6672862
 「斗鱼」金铲铲之战,https://cdn.ttvb.eu.org/douyu/9715241
-「虎牙」CS2,https://cdn.ttvb.eu.org/huya/483917
-「虎牙」DOTA2,https://cdn.ttvb.eu.org/huya/660118
 天元围棋,http://204.12.221.218:8181/3m1080p/gztywq.m3u8
 天津体育,http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub
 天津体育,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjtv5
@@ -450,6 +447,7 @@ TVBS新闻台,http://61.221.215.25:8800/hls/9/index.m3u8
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 海绵宝宝,https://live.metshop.top/douyu/3949681
 海绵宝宝,http://120.220.76.91:2003/huya.php?id=11352919
+灌篮高手,https://live.ottiptv.cc/yy/1382735626
 猫和老鼠,https://live.ottiptv.cc/huya/11352879
 猫和老鼠,https://live.metshop.top/huya/11352879
 猫和老鼠,http://cdn.jdshipin.com:8880/huya.php?id=11352879
