@@ -11,9 +11,6 @@ CCTV3,http://173.208.212.130:8181/720p/cctv3.m3u8
 CCTV4,http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub
 CCTV4,http://173.208.212.130:8181/1080p/cctv4.m3u8
 CCTV4,http://107.150.60.122/live/cctv4hd.m3u8
-CCTV4K,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1790593200-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-99cc503dd5cb22a841724c2015567475&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
-CCTV4K,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1790549100-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-2cf1c3639e61e7d49341eca636dbdb08&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
-CCTV4K,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1790538300-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-d02fb21d570839c737a19e0f31b37834&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
 CCTV5,http://107.150.60.122/live/cctv5hd.m3u8
 CCTV5,http://207.56.13.146:81/cdnlive/cctv5.m3u8
 CCTV5,http://173.208.212.130:8181/720p/cctv5.m3u8
@@ -29,9 +26,9 @@ CCTV7,http://74.91.26.218:82/live/cctv7hd.m3u8
 CCTV8,http://124.165.251.82:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV8,http://gmxw.7766.org:808/hls/96/index.m3u8
 CCTV8,http://74.91.26.218:82/live/cctv8hd.m3u8
-CCTV9,http://107.150.60.122/live/cctv9hd.m3u8
 CCTV9,http://74.91.26.218:82/live/cctv9hd.m3u8
 CCTV9,http://198.204.228.26/live/cctv9hd.m3u8
+CCTV9,http://192.151.150.154/live/cctv9hd.m3u8
 CCTV10,http://74.91.26.218:82/live/cctv10hd.m3u8
 CCTV10,http://204.12.221.218:8181/3m1080p/cctv10.m3u8
 CCTV10,http://bztv.tvbus.cc:8081/cdnlive/cctv10.m3u8
@@ -233,26 +230,25 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 青海卫视,https://hls-qhmh.lanzhousobey.cn/qhmh/mhds.m3u8
 青海卫视,http://107.150.60.122/live/qhws.m3u8
 青海卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=qhws
-黑龙江卫视,http://38.75.136.137:98/gslb/dsdqpub/hljwshd.m3u8?auth=testpub
 黑龙江卫视,http://198.204.228.26/live/hljwshd.m3u8
 黑龙江卫视,http://107.150.60.122/live/hljwshd.m3u8
+黑龙江卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hljwshd
 
 港澳台,#genre#
 BeautifulLifeTV,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
 DaliTV,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+PetClubTV,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8
+RTHKTV31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 TVBPlus,http://r.jdshipin.com/ndGgS
 TVBPlus,http://r.jdshipin.com/Nr5jq
 TVBPlus,http://bxtv.3a.ink/api.php?id=tvbp
 TVBS-Asia,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 TVBSAsia,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
-TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
 TVBS新闻台,http://61.221.215.25:8800/hls/9/index.m3u8
 三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
-东森洋片,http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34904
-东森洋片,https://hls-gateway.vpstv.net/streams/476997.m3u8
-东森洋片,http://live4play.uk/livehttpplay?channel_id=20080
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 东森超视,https://stream1.freetv.fun/dong-sen-chao-shi-4.m3u8
 东森超视,https://smart.pendy.dpdns.org/Smart.php?id=ettvsuper
@@ -286,7 +282,6 @@ TVBS新闻台,http://61.221.215.25:8800/hls/9/index.m3u8
 明珠台,http://iptv.4666888.xyz/iptv2A.php?id=29
 明珠台,http://r.jdshipin.com/jUx8K
 明珠台,https://hls-gateway.vpstv.net/streams/476936.m3u8
-有线新闻,http://iptv.4666888.xyz/iptv2A.php?id=31
 民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 民视新闻台,http://live4play.uk/livehttpplay?channel_id=20097
 港台电视31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
@@ -306,6 +301,7 @@ TVBS新闻台,http://61.221.215.25:8800/hls/9/index.m3u8
 香港卫视,https://stream1.freetv.fun/5335c88a9a7d8b74173b491f480d4f94e8d3bd596af54478106aa2399e6c7917.ctv
 
 影视剧场,#genre#
+七龙珠「动漫」,https://cdn.ttvb.eu.org/huya/11601966
 上虞文化影视,http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
 上虞文化影院,http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
 上虞文化影院,https://stream1.freetv.fun/shang-yu-wen-hua-ying-yuan-2.ctv
@@ -321,7 +317,6 @@ TVBS新闻台,http://61.221.215.25:8800/hls/9/index.m3u8
 南宁影视娱乐,http://hls.nntv.cn/nnlive/YSYL_244.m3u8
 南宁影视娱乐,http://hls.nntv.cn/nnlive/NNTV_VOD_A.m3u8
 句容影视,http://jrlive.jrntv.com/live/_definst_/yingshis/playlist.m3u8
-句容影院,http://jrlive.jrntv.com/live/_definst_/yingshis/chunklist_w1994429382.m3u8?zjiangsd
 固镇影视,http://www.guzhenm.com:7004/hls/hd-live.m3u8
 大时代,https://live.metshop.top/huya/23865161
 如懿传,https://live.ottiptv.cc/huya/29465868
@@ -400,15 +395,14 @@ TVBS新闻台,http://61.221.215.25:8800/hls/9/index.m3u8
 「斗鱼」原神,https://cdn.ttvb.eu.org/douyu/10853239
 「斗鱼」我的世界,https://cdn.ttvb.eu.org/douyu/738878
 「斗鱼」梦幻西游·手游,https://cdn.ttvb.eu.org/huya/9163712
+「斗鱼」永劫无间,https://cdn.ttvb.eu.org/huya/9662891
+「斗鱼」火影忍者,https://cdn.ttvb.eu.org/douyu/1997723
 「斗鱼」王者荣耀𝟙,https://cdn.ttvb.eu.org/douyu/1863767
 「斗鱼」王者荣耀𝟚,https://cdn.ttvb.eu.org/douyu/1984839
-「斗鱼」穿越火线𝟚,https://cdn.ttvb.eu.org/douyu/5388537
-「斗鱼」英雄联盟𝟙,https://cdn.ttvb.eu.org/douyu/288016
+「斗鱼」绝地求生,https://cdn.ttvb.eu.org/douyu/100
 「斗鱼」英雄联盟𝟚,https://cdn.ttvb.eu.org/douyu/424559
 「斗鱼」跑跑卡丁车,https://cdn.ttvb.eu.org/douyu/7722576
 「斗鱼」跑跑卡丁车•手游,https://cdn.ttvb.eu.org/douyu/6672862
-「斗鱼」金铲铲之战,https://cdn.ttvb.eu.org/douyu/9715241
-「虎牙」DOTA2,https://cdn.ttvb.eu.org/huya/660118
 天元围棋,http://204.12.221.218:8181/3m1080p/gztywq.m3u8
 天津体育,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjtv5
 天津体育,http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub
