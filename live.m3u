@@ -471,10 +471,10 @@ http://198.204.228.26/live/hljwshd.m3u8
 http://61.136.172.236:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="BeautifulLifeTV" tvg-logo="https://i.imgur.com/hkwcBM9.png" group-title="港澳台",BeautifulLifeTV
 https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
+#EXTINF:-1 tvg-name="DaliTV" tvg-logo="https://i.imgur.com/pFIMLsA.png" group-title="港澳台",DaliTV
+http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 #EXTINF:-1 tvg-name="PetClubTV" tvg-logo="https://i.imgur.com/ykPNNwQ.png" group-title="港澳台",PetClubTV
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-name="RTHKTV31" tvg-logo="" group-title="港澳台",RTHKTV31
-https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 #EXTINF:-1 tvg-name="TVBPlus" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/TVB Plus.png" group-title="港澳台",TVBPlus
 http://r.jdshipin.com/ndGgS
 #EXTINF:-1 tvg-name="TVBPlus" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/TVB Plus.png" group-title="港澳台",TVBPlus
@@ -537,6 +537,8 @@ http://r.jdshipin.com/nWaZO
 http://222.128.55.152:9080/live/ts.m3u8
 #EXTINF:-1 tvg-name="台视新闻" tvg-logo="https://live.fanmingming.cn/tv/台视新闻.png" group-title="港澳台",台视新闻
 http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
+#EXTINF:-1 tvg-name="大立电视台" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/dalitv.png" group-title="港澳台",大立电视台
+http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 #EXTINF:-1 tvg-name="天映经典" tvg-logo="https://www.xn--rgv465a.top/tvlogo/天映经典.png" group-title="港澳台",天映经典
 http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:7E:2F:ED&stream=1919463
 #EXTINF:-1 tvg-name="天映经典" tvg-logo="https://www.xn--rgv465a.top/tvlogo/天映经典.png" group-title="港澳台",天映经典
@@ -583,18 +585,18 @@ http://utv1.hqtvzb.com:9999/hls/world.m3u8
 http://61.221.215.25:8800/hls/48/index.m3u8
 #EXTINF:-1 tvg-name="美亚C+" tvg-logo="https://gitee.com/suxuang/logo/raw/master/logo/美亚C.png" group-title="港澳台",美亚C+
 http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
-#EXTINF:-1 tvg-name="美亚电影" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/美亚电影.png" group-title="港澳台",美亚电影
-http://iptv.4666888.xyz/iptv2A.php?id=30
-#EXTINF:-1 tvg-name="美亚电影" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/美亚电影.png" group-title="港澳台",美亚电影
-http://ali.hlspull.yximgs.com/live/awei_mydy.flv
-#EXTINF:-1 tvg-name="美亚电影" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/美亚电影.png" group-title="港澳台",美亚电影
-https://php.946985.filegear-sg.me/mytv265.php?id=CMAM
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/翡翠台.png" group-title="港澳台",翡翠台
 http://r.jdshipin.com/62WM7
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/翡翠台.png" group-title="港澳台",翡翠台
 http://r.jdshipin.com/qClQf
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/翡翠台.png" group-title="港澳台",翡翠台
 http://r.jdshipin.com/qrfbg
+#EXTINF:-1 tvg-name="靖天映画" tvg-logo="https://www.xn--rgv465a.top/tvlogo/靖天映画.png" group-title="港澳台",靖天映画
+http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34838
+#EXTINF:-1 tvg-name="靖天映画" tvg-logo="https://www.xn--rgv465a.top/tvlogo/靖天映画.png" group-title="港澳台",靖天映画
+https://cdn12.178.indevs.in/163189/bd4752bd7828b2bf
+#EXTINF:-1 tvg-name="靖天映画" tvg-logo="https://www.xn--rgv465a.top/tvlogo/靖天映画.png" group-title="港澳台",靖天映画
+https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv055&token=https://t.me/GPT_858
 #EXTINF:-1 tvg-name="香港卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/香港卫视.png" group-title="港澳台",香港卫视
 http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-name="香港卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/香港卫视.png" group-title="港澳台",香港卫视
@@ -785,12 +787,8 @@ https://cdn.ttvb.eu.org/bilibili/23138275
 https://cdn.ttvb.eu.org/douyu/7692166
 #EXTINF:-1 tvg-name="「斗鱼」QQ飞车•手游" tvg-logo="https://epg.yang-1989.xyz/logo/斗鱼.png" group-title="体育赛事",「斗鱼」QQ飞车•手游
 https://cdn.ttvb.eu.org/douyu/5040227
-#EXTINF:-1 tvg-name="「斗鱼」云顶之弈" tvg-logo="https://epg.yang-1989.xyz/logo/斗鱼.png" group-title="体育赛事",「斗鱼」云顶之弈
-https://cdn.ttvb.eu.org/douyu/522423
 #EXTINF:-1 tvg-name="「斗鱼」使命召唤•手游" tvg-logo="https://epg.yang-1989.xyz/logo/斗鱼.png" group-title="体育赛事",「斗鱼」使命召唤•手游
 https://cdn.ttvb.eu.org/douyu/9223245
-#EXTINF:-1 tvg-name="「斗鱼」原神" tvg-logo="https://epg.yang-1989.xyz/logo/斗鱼.png" group-title="体育赛事",「斗鱼」原神
-https://cdn.ttvb.eu.org/douyu/10853239
 #EXTINF:-1 tvg-name="「斗鱼」我的世界" tvg-logo="https://epg.yang-1989.xyz/logo/斗鱼.png" group-title="体育赛事",「斗鱼」我的世界
 https://cdn.ttvb.eu.org/douyu/738878
 #EXTINF:-1 tvg-name="「斗鱼」梦幻西游·手游" tvg-logo="https://epg.yang-1989.xyz/logo/斗鱼.png" group-title="体育赛事",「斗鱼」梦幻西游·手游
@@ -805,8 +803,6 @@ https://cdn.ttvb.eu.org/douyu/1863767
 https://cdn.ttvb.eu.org/douyu/1984839
 #EXTINF:-1 tvg-name="「斗鱼」穿越火线𝟚" tvg-logo="https://epg.yang-1989.xyz/logo/斗鱼.png" group-title="体育赛事",「斗鱼」穿越火线𝟚
 https://cdn.ttvb.eu.org/douyu/5388537
-#EXTINF:-1 tvg-name="「斗鱼」绝地求生" tvg-logo="https://epg.yang-1989.xyz/logo/斗鱼.png" group-title="体育赛事",「斗鱼」绝地求生
-https://cdn.ttvb.eu.org/douyu/100
 #EXTINF:-1 tvg-name="「斗鱼」英雄联盟𝟙" tvg-logo="https://epg.yang-1989.xyz/logo/斗鱼.png" group-title="体育赛事",「斗鱼」英雄联盟𝟙
 https://cdn.ttvb.eu.org/douyu/288016
 #EXTINF:-1 tvg-name="「斗鱼」英雄联盟𝟚" tvg-logo="https://epg.yang-1989.xyz/logo/斗鱼.png" group-title="体育赛事",「斗鱼」英雄联盟𝟚
@@ -817,6 +813,8 @@ https://cdn.ttvb.eu.org/douyu/7722576
 https://cdn.ttvb.eu.org/douyu/6672862
 #EXTINF:-1 tvg-name="「斗鱼」金铲铲之战" tvg-logo="https://epg.yang-1989.xyz/logo/斗鱼.png" group-title="体育赛事",「斗鱼」金铲铲之战
 https://cdn.ttvb.eu.org/douyu/9715241
+#EXTINF:-1 tvg-name="「虎牙」DOTA2" tvg-logo="https://epg.yang-1989.xyz/logo/虎牙.png" group-title="体育赛事",「虎牙」DOTA2
+https://cdn.ttvb.eu.org/huya/660118
 #EXTINF:-1 tvg-name="天元围棋" tvg-logo="https://www.xn--rgv465a.top/tvlogo/天元围棋.png" group-title="体育赛事",天元围棋
 http://204.12.221.218:8181/3m1080p/gztywq.m3u8
 #EXTINF:-1 tvg-name="天津体育" tvg-logo="https://www.xn--rgv465a.top/tvlogo/天津体育.png" group-title="体育赛事",天津体育
