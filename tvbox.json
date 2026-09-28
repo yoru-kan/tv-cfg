@@ -280,34 +280,215 @@
    ]
   },
   {
-   "key": "pan_xflx_虎斑",
-   "name": "💾虎斑·网盘(百度/夸克/UC)",
+   "key": "panb_wex_Wexconfig",
+   "name": "⚙️网盘登录·王二小(先在这里扫码)",
    "type": 3,
-   "api": "csp_PanWebShare",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1,
-   "changeable": 1,
-   "ext": {
-    "site": "http://xhban.xyz/"
+   "api": "csp_PanConfigGuard",
+   "searchable": 0,
+   "changeable": 0,
+   "indexs": 0,
+   "style": {
+    "type": "list"
    },
-   "timeout": 60,
-   "jar": "http://150.158.52.248/tgyg/09201933.png;md5;af187c2a2be1bcbb5e183d77e740b21b"
+   "jar": "http://oss4liview.moji.com/thd_file/2026/09/24/06cf2230c30d9c26fa46ea79147b330d.jpg;md5;fc8f993c9297d38139363cd0e3db9853"
   },
   {
-   "key": "pan_xflx_木偶",
-   "name": "💾木偶·网盘(百度/夸克/UC)",
+   "key": "panb_wex_MyPan",
+   "name": "📁我的网盘·王二小",
    "type": 3,
-   "api": "csp_PanWebShare",
+   "api": "csp_MyPanGuard",
+   "searchable": 0,
+   "changeable": 0,
+   "indexs": 0,
+   "style": {
+    "type": "list"
+   },
+   "jar": "http://oss4liview.moji.com/thd_file/2026/09/24/06cf2230c30d9c26fa46ea79147b330d.jpg;md5;fc8f993c9297d38139363cd0e3db9853"
+  },
+  {
+   "key": "panb_wex_花卷",
+   "name": "💾花卷4K·网盘·王二小",
+   "type": 3,
+   "api": "csp_AiNewHuaJuanGuard",
    "searchable": 1,
    "quickSearch": 1,
-   "filterable": 1,
-   "changeable": 1,
-   "ext": {
-    "site": "https://666.666291.xyz/"
-   },
-   "timeout": 60,
-   "jar": "http://150.158.52.248/tgyg/09201933.png;md5;af187c2a2be1bcbb5e183d77e740b21b"
+   "changeable": 0,
+   "jar": "http://oss4liview.moji.com/thd_file/2026/09/24/06cf2230c30d9c26fa46ea79147b330d.jpg;md5;fc8f993c9297d38139363cd0e3db9853"
+  },
+  {
+   "key": "panb_wex_玩偶",
+   "name": "💾玩偶4K·网盘·王二小",
+   "type": 3,
+   "api": "csp_AiNewWoggGuard",
+   "searchable": 1,
+   "quickSearch": 1,
+   "changeable": 0,
+   "jar": "http://oss4liview.moji.com/thd_file/2026/09/24/06cf2230c30d9c26fa46ea79147b330d.jpg;md5;fc8f993c9297d38139363cd0e3db9853"
+  },
+  {
+   "key": "panb_wex_AiNewGuanYing",
+   "name": "💾观影4K·网盘·王二小",
+   "type": 3,
+   "api": "csp_AiNewGuanYingGuard",
+   "searchable": 1,
+   "quickSearch": 1,
+   "changeable": 0,
+   "jar": "http://oss4liview.moji.com/thd_file/2026/09/24/06cf2230c30d9c26fa46ea79147b330d.jpg;md5;fc8f993c9297d38139363cd0e3db9853"
+  },
+  {
+   "key": "panb_wex_AiQwMkv",
+   "name": "💾七味4K·网盘·王二小",
+   "type": 3,
+   "api": "csp_AiQwMkvGuard",
+   "searchable": 1,
+   "quickSearch": 1,
+   "changeable": 0,
+   "jar": "http://oss4liview.moji.com/thd_file/2026/09/24/06cf2230c30d9c26fa46ea79147b330d.jpg;md5;fc8f993c9297d38139363cd0e3db9853"
+  },
+  {
+   "key": "panb_wex_AiNewPianKu",
+   "name": "💾盘库4K·网盘·王二小",
+   "type": 3,
+   "api": "csp_AiNewPianKuGuard",
+   "searchable": 1,
+   "quickSearch": 1,
+   "changeable": 0,
+   "jar": "http://oss4liview.moji.com/thd_file/2026/09/24/06cf2230c30d9c26fa46ea79147b330d.jpg;md5;fc8f993c9297d38139363cd0e3db9853"
+  },
+  {
+   "key": "panb_wex_AiNewHuBan",
+   "name": "💾虎斑4K·网盘·王二小",
+   "type": 3,
+   "api": "csp_AiNewHuBanGuard",
+   "searchable": 1,
+   "quickSearch": 1,
+   "changeable": 0,
+   "jar": "http://oss4liview.moji.com/thd_file/2026/09/24/06cf2230c30d9c26fa46ea79147b330d.jpg;md5;fc8f993c9297d38139363cd0e3db9853"
+  },
+  {
+   "key": "panb_wex_AiNewMuOu",
+   "name": "💾木偶4K·网盘·王二小",
+   "type": 3,
+   "api": "csp_AiNewMuOuGuard",
+   "searchable": 1,
+   "quickSearch": 1,
+   "changeable": 0,
+   "jar": "http://oss4liview.moji.com/thd_file/2026/09/24/06cf2230c30d9c26fa46ea79147b330d.jpg;md5;fc8f993c9297d38139363cd0e3db9853"
+  },
+  {
+   "key": "panb_wex_AiNewDuoDuo",
+   "name": "💾多多4K·网盘·王二小",
+   "type": 3,
+   "api": "csp_AiNewDuoDuoGuard",
+   "searchable": 1,
+   "quickSearch": 1,
+   "changeable": 0,
+   "jar": "http://oss4liview.moji.com/thd_file/2026/09/24/06cf2230c30d9c26fa46ea79147b330d.jpg;md5;fc8f993c9297d38139363cd0e3db9853"
+  },
+  {
+   "key": "panb_wex_AiNewJuTou",
+   "name": "💾剧透4K·网盘·王二小",
+   "type": 3,
+   "api": "csp_AiNewJuTouGuard",
+   "searchable": 1,
+   "quickSearch": 1,
+   "changeable": 0,
+   "jar": "http://oss4liview.moji.com/thd_file/2026/09/24/06cf2230c30d9c26fa46ea79147b330d.jpg;md5;fc8f993c9297d38139363cd0e3db9853"
+  },
+  {
+   "key": "panb_wex_AiNewLibvio",
+   "name": "💾立播4K·网盘·王二小",
+   "type": 3,
+   "api": "csp_AiNewLibvioGuard",
+   "searchable": 1,
+   "quickSearch": 1,
+   "changeable": 0,
+   "jar": "http://oss4liview.moji.com/thd_file/2026/09/24/06cf2230c30d9c26fa46ea79147b330d.jpg;md5;fc8f993c9297d38139363cd0e3db9853"
+  },
+  {
+   "key": "panb_wex_原盘",
+   "name": "💾原盘4K·网盘·王二小",
+   "type": 3,
+   "api": "csp_AiNewZhiNan4KGuard",
+   "searchable": 1,
+   "quickSearch": 1,
+   "changeable": 0,
+   "jar": "http://oss4liview.moji.com/thd_file/2026/09/24/06cf2230c30d9c26fa46ea79147b330d.jpg;md5;fc8f993c9297d38139363cd0e3db9853"
+  },
+  {
+   "key": "panb_wex_蜗牛",
+   "name": "💾蜗牛4K·网盘·王二小",
+   "type": 3,
+   "api": "csp_AiNewWoNiu4KGuard",
+   "searchable": 1,
+   "quickSearch": 1,
+   "changeable": 0,
+   "jar": "http://oss4liview.moji.com/thd_file/2026/09/24/06cf2230c30d9c26fa46ea79147b330d.jpg;md5;fc8f993c9297d38139363cd0e3db9853"
+  },
+  {
+   "key": "panb_wex_AiPan1Me",
+   "name": "💾盘迷4K·网盘·王二小",
+   "type": 3,
+   "api": "csp_AiPan1MeGuard",
+   "searchable": 1,
+   "quickSearch": 1,
+   "changeable": 0,
+   "jar": "http://oss4liview.moji.com/thd_file/2026/09/24/06cf2230c30d9c26fa46ea79147b330d.jpg;md5;fc8f993c9297d38139363cd0e3db9853"
+  },
+  {
+   "key": "panb_wex_AiNewYiDong4K",
+   "name": "💾逸动4K·网盘·王二小",
+   "type": 3,
+   "api": "csp_AiNewYiDong4KGuard",
+   "searchable": 1,
+   "quickSearch": 1,
+   "changeable": 0,
+   "jar": "http://oss4liview.moji.com/thd_file/2026/09/24/06cf2230c30d9c26fa46ea79147b330d.jpg;md5;fc8f993c9297d38139363cd0e3db9853"
+  },
+  {
+   "key": "panb_wex_SoAiHaiYin",
+   "name": "🔎盘搜综合·盘搜·王二小",
+   "type": 3,
+   "api": "csp_SoAiHaiYinGuard",
+   "searchable": 1,
+   "changeable": 0,
+   "jar": "http://oss4liview.moji.com/thd_file/2026/09/24/06cf2230c30d9c26fa46ea79147b330d.jpg;md5;fc8f993c9297d38139363cd0e3db9853"
+  },
+  {
+   "key": "panb_wex_SoAiPanSoo",
+   "name": "🔎九七综合·盘搜·王二小",
+   "type": 3,
+   "api": "csp_SoAiPanSooGuard",
+   "searchable": 1,
+   "changeable": 0,
+   "jar": "http://oss4liview.moji.com/thd_file/2026/09/24/06cf2230c30d9c26fa46ea79147b330d.jpg;md5;fc8f993c9297d38139363cd0e3db9853"
+  },
+  {
+   "key": "panb_wex_SoAiQuPanShe",
+   "name": "🔎趣搜百度·盘搜·王二小",
+   "type": 3,
+   "api": "csp_SoAiQuPanSheGuard",
+   "searchable": 1,
+   "changeable": 0,
+   "jar": "http://oss4liview.moji.com/thd_file/2026/09/24/06cf2230c30d9c26fa46ea79147b330d.jpg;md5;fc8f993c9297d38139363cd0e3db9853"
+  },
+  {
+   "key": "panb_wex_SoAiAiPanSo",
+   "name": "🔎爱盘综合·盘搜·王二小",
+   "type": 3,
+   "api": "csp_SoAiAiPanSoGuard",
+   "searchable": 1,
+   "changeable": 0,
+   "jar": "http://oss4liview.moji.com/thd_file/2026/09/24/06cf2230c30d9c26fa46ea79147b330d.jpg;md5;fc8f993c9297d38139363cd0e3db9853"
+  },
+  {
+   "key": "panb_wex_SoKaKa",
+   "name": "🔎卡卡综合·盘搜·王二小",
+   "type": 3,
+   "api": "csp_SoKaKaGuard",
+   "searchable": 1,
+   "changeable": 0,
+   "jar": "http://oss4liview.moji.com/thd_file/2026/09/24/06cf2230c30d9c26fa46ea79147b330d.jpg;md5;fc8f993c9297d38139363cd0e3db9853"
   },
   {
    "key": "pan_hb_傻样",
@@ -343,36 +524,6 @@
    "jar": "http://150.158.52.248/tgyg/09201933.png;md5;af187c2a2be1bcbb5e183d77e740b21b"
   },
   {
-   "key": "pan_xflx_玩偶",
-   "name": "💾玩偶·网盘(百度/夸克/UC)",
-   "type": 3,
-   "api": "csp_Wogg",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1,
-   "changeable": 1,
-   "ext": {
-    "site": "https://wogg.xxooo.cf/"
-   },
-   "timeout": 60,
-   "jar": "http://150.158.52.248/tgyg/09201933.png;md5;af187c2a2be1bcbb5e183d77e740b21b"
-  },
-  {
-   "key": "pan_xflx_多多",
-   "name": "💾多多·网盘(百度/夸克/UC)",
-   "type": 3,
-   "api": "csp_PanWebShare",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1,
-   "changeable": 1,
-   "ext": {
-    "site": "https://tv.yydsys.cc/"
-   },
-   "timeout": 60,
-   "jar": "http://150.158.52.248/tgyg/09201933.png;md5;af187c2a2be1bcbb5e183d77e740b21b"
-  },
-  {
    "key": "pan_xflx_八零",
    "name": "💾八零·网盘(百度/夸克)",
    "type": 3,
@@ -388,19 +539,28 @@
    "jar": "http://150.158.52.248/tgyg/09201933.png;md5;af187c2a2be1bcbb5e183d77e740b21b"
   },
   {
-   "key": "pan_xflx_花卷",
-   "name": "💾花卷·网盘(百度/夸克)",
+   "key": "pan_lee_csp_Duopan",
+   "name": "💾蜡笔·网盘(夸克)",
    "type": 3,
-   "api": "csp_PanWebShareHJ",
+   "api": "csp_Duopan",
+   "filterable": 1,
+   "ext": {
+    "site_urls": [
+     "http://tvpanpan.site/",
+     "http://feimo.fun",
+     "http://xiaocgege.shop",
+     "http://www.xiaocgege.shop",
+     "https://www.xiaocge.fun"
+    ],
+    "threadinfo": {
+     "chunksize": 512,
+     "threads": 16
+    },
+    "url_key": "Duopan2"
+   },
    "searchable": 1,
    "quickSearch": 1,
-   "filterable": 1,
-   "changeable": 1,
-   "ext": {
-    "site": "https://www.hjzhencai.top/"
-   },
-   "timeout": 60,
-   "jar": "http://150.158.52.248/tgyg/09201933.png;md5;af187c2a2be1bcbb5e183d77e740b21b"
+   "jar": "https://leetvbox.qzz.io/jar/f7c90ebd0a6632f3347eeeb8d9bd555e;md5;f7c90ebd0a6632f3347eeeb8d9bd555e"
   },
   {
    "key": "drpy_js_豆瓣",
