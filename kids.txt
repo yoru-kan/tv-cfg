@@ -22,6 +22,7 @@
 猫和老鼠,https://live.ottiptv.cc/huya/11352879
 猫和老鼠,http://cdn.jdshipin.com:8880/huya.php?id=11352879
 福州少儿,http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
+韩国EBS少儿,http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
 黑龙江少儿,https://ls.qingting.fm/live/4972/64k.m3u8
 黑龙江少儿,https://stream1.freetv.fun/hei-long-jiang-shao-er-8.m3u8
 黑龙江少儿,https://stream1.freetv.fun/hei-long-jiang-shao-er-2.m3u8
