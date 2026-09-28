@@ -280,16 +280,16 @@
    ]
   },
   {
-   "key": "pan_xflx_玩偶",
-   "name": "💾玩偶·网盘(百度/夸克/UC)",
+   "key": "pan_xflx_虎斑",
+   "name": "💾虎斑·网盘(百度/夸克/UC)",
    "type": 3,
-   "api": "csp_Wogg",
+   "api": "csp_PanWebShare",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
    "changeable": 1,
    "ext": {
-    "site": "https://www.wogg.live/"
+    "site": "http://xhban.xyz/"
    },
    "timeout": 60,
    "jar": "http://150.158.52.248/tgyg/09201933.png;md5;af187c2a2be1bcbb5e183d77e740b21b"
@@ -310,6 +310,54 @@
    "jar": "http://150.158.52.248/tgyg/09201933.png;md5;af187c2a2be1bcbb5e183d77e740b21b"
   },
   {
+   "key": "pan_hb_傻样",
+   "name": "💾傻样·网盘(夸克/UC)",
+   "type": 3,
+   "playerType": 2,
+   "api": "csp_Mogg",
+   "ext": {
+    "token": "http://127.0.0.1:9978/file/TVBox/Altoken.txt",
+    "cookie": "http://127.0.0.1:9978/file/TVBox/qkcookie.txt",
+    "uccookie": "http://127.0.0.1:9978/file/TVBox/uccookie.txt",
+    "tyitoken": "http://127.0.0.1:9978/file/TVBox/tyitoken.txt",
+    "dutoken": "http://127.0.0.1:9978/file/TVBox/dutoken.txt",
+    "p123token": "http://127.0.0.1:9978/file/TVBox/p123token.txt",
+    "tuctoken": "http://127.0.0.1:9978/file/TVBox/tuctoken.txt",
+    "site": "http://38.76.197.172:12521/"
+   },
+   "jar": "http://43.248.128.118:25252/仅供测试/custom_spider.jar;md5;b67face36a403eecb061aca15ce337cc"
+  },
+  {
+   "key": "pan_xflx_快映",
+   "name": "💾快映·网盘(夸克/UC)",
+   "type": 3,
+   "api": "csp_PanWebShare",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "changeable": 1,
+   "ext": {
+    "site": "http://xsayang.fun/"
+   },
+   "timeout": 60,
+   "jar": "http://150.158.52.248/tgyg/09201933.png;md5;af187c2a2be1bcbb5e183d77e740b21b"
+  },
+  {
+   "key": "pan_xflx_玩偶",
+   "name": "💾玩偶·网盘(百度/夸克/UC)",
+   "type": 3,
+   "api": "csp_Wogg",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "changeable": 1,
+   "ext": {
+    "site": "https://wogg.xxooo.cf/"
+   },
+   "timeout": 60,
+   "jar": "http://150.158.52.248/tgyg/09201933.png;md5;af187c2a2be1bcbb5e183d77e740b21b"
+  },
+  {
    "key": "pan_xflx_多多",
    "name": "💾多多·网盘(百度/夸克/UC)",
    "type": 3,
@@ -319,7 +367,22 @@
    "filterable": 1,
    "changeable": 1,
    "ext": {
-    "site": "https://tv.214521.xyz/"
+    "site": "https://tv.yydsys.cc/"
+   },
+   "timeout": 60,
+   "jar": "http://150.158.52.248/tgyg/09201933.png;md5;af187c2a2be1bcbb5e183d77e740b21b"
+  },
+  {
+   "key": "pan_xflx_八零",
+   "name": "💾八零·网盘(百度/夸克)",
+   "type": 3,
+   "api": "csp_PanWebShare",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "changeable": 1,
+   "ext": {
+    "site": "https://woog.430520.xyz/"
    },
    "timeout": 60,
    "jar": "http://150.158.52.248/tgyg/09201933.png;md5;af187c2a2be1bcbb5e183d77e740b21b"
@@ -335,75 +398,6 @@
    "changeable": 1,
    "ext": {
     "site": "https://www.hjzhencai.top/"
-   },
-   "timeout": 60,
-   "jar": "http://150.158.52.248/tgyg/09201933.png;md5;af187c2a2be1bcbb5e183d77e740b21b"
-  },
-  {
-   "key": "pan_xflx_虎斑",
-   "name": "💾虎斑·网盘(百度/夸克)",
-   "type": 3,
-   "api": "csp_PanWebShare",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1,
-   "changeable": 1,
-   "ext": {
-    "site": "http://xhban.xyz/"
-   },
-   "timeout": 60,
-   "jar": "http://150.158.52.248/tgyg/09201933.png;md5;af187c2a2be1bcbb5e183d77e740b21b"
-  },
-  {
-   "key": "pan_lee_csp_Duopan",
-   "name": "💾蜡笔·网盘(百度/夸克)",
-   "type": 3,
-   "api": "csp_Duopan",
-   "filterable": 1,
-   "ext": {
-    "site_urls": [
-     "http://tvpanpan.site/",
-     "http://feimo.fun",
-     "http://xiaocgege.shop",
-     "http://www.xiaocgege.shop",
-     "https://www.xiaocge.fun"
-    ],
-    "threadinfo": {
-     "chunksize": 512,
-     "threads": 16
-    },
-    "url_key": "Duopan2"
-   },
-   "searchable": 1,
-   "quickSearch": 1,
-   "jar": "https://leetvbox.qzz.io/jar/f7c90ebd0a6632f3347eeeb8d9bd555e;md5;f7c90ebd0a6632f3347eeeb8d9bd555e"
-  },
-  {
-   "key": "pan_xflx_八零",
-   "name": "💾八零·网盘(百度/夸克)",
-   "type": 3,
-   "api": "csp_PanWebShare",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1,
-   "changeable": 1,
-   "ext": {
-    "site": "https://woog.nxog.eu.org/"
-   },
-   "timeout": 60,
-   "jar": "http://150.158.52.248/tgyg/09201933.png;md5;af187c2a2be1bcbb5e183d77e740b21b"
-  },
-  {
-   "key": "pan_xflx_快映",
-   "name": "💾快映·网盘(阿里)",
-   "type": 3,
-   "api": "csp_PanWebShare",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1,
-   "changeable": 1,
-   "ext": {
-    "site": "http://xsayang.fun/"
    },
    "timeout": 60,
    "jar": "http://150.158.52.248/tgyg/09201933.png;md5;af187c2a2be1bcbb5e183d77e740b21b"
