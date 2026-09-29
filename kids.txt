@@ -17,6 +17,7 @@
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 海绵宝宝,https://live.metshop.top/douyu/3949681
 海绵宝宝,http://120.220.76.91:2003/huya.php?id=11352919
+灌篮高手,https://live.ottiptv.cc/yy/1382735626
 猫和老鼠,https://live.ottiptv.cc/huya/11352879
 猫和老鼠,https://live.metshop.top/huya/11352879
 猫和老鼠,http://cdn.jdshipin.com:8880/huya.php?id=11352879
