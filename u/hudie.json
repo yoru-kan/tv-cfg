@@ -2821,6 +2821,16 @@
    "category": "短剧"
   },
   {
+   "key": "开心短剧",
+   "name": "🦋 开心短剧",
+   "type": 3,
+   "api": "https://sub.lytvs.top/pydl/kaixinduanju.py?tk=cj_6727dccf",
+   "ext": "",
+   "searchable": 1,
+   "quickSearch": 1,
+   "category": "短剧"
+  },
+  {
    "key": "红豆短剧",
    "name": "🦋 红豆短剧.py",
    "type": 3,
