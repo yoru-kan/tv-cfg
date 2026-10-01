@@ -238,7 +238,6 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 重庆卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cqwshd
 重庆卫视,http://107.150.60.122/live/cqwshd.m3u8
 重庆卫视,http://p.ytelc.com/videojs.php?id=https://sjlivecdn9.cbg.cn/202502032311/app_2/_definst_/ls_2.stream/chunklist.m3u8
-陕西农林卫视,https://live.chinacert.cftest5.cn/cnmg/live/956904896
 陕西卫视,http://192.151.150.154/live/snwshd.m3u8
 陕西卫视,http://107.150.60.122/live/snwshd.m3u8
 陕西卫视,https://live.264788.xyz/channel/shaanxiweishi?streamid=9dc887dba8ecb4e4143baf4f2373800c&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
@@ -299,6 +298,7 @@ TVBS新闻台,http://rihou.cc:555/tv/[FY]tvbS新闻
 唯心电视,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
 唯心电视,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
 唯心电视,https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+大立电视台,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 天映经典,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:7E:2F:ED&stream=1919463
 天映经典,https://cdn3.indevs.in/stream/live/ccm/
 天映经典,http://php.jdshipin.com:8880/smt.php?id=Celestial2
@@ -332,15 +332,9 @@ TVBS新闻台,http://rihou.cc:555/tv/[FY]tvbS新闻
 环球电视,http://utv1.hqtvzb.com:9999/hls/world.m3u8
 纬来精采,http://61.221.215.25:8800/hls/48/index.m3u8
 美亚C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
-美亚电影,http://iptv.4666888.xyz/iptv2A.php?id=30
-美亚电影,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
-美亚电影,http://ali.hlspull.yximgs.com/live/awei_mydy.flv
 翡翠台,http://103.172.187.30:12000/stream/mytv/null-1/master.m3u8
 翡翠台,http://cdn6.123.rr.kg/163189/fct
 翡翠台,http://r.jdshipin.com/62WM7
-靖天映画,http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34838
-靖天映画,https://cdn12.178.indevs.in/163189/bd4752bd7828b2bf
-靖天映画,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv055&token=https://t.me/GPT_858
 香港卫视,https://hkstv.tv/api/m3u8-proxy?url=http%3A%2F%2Fwebcast.hkstv.tv%2Flivestream%2Fmutfysrq%2Fplaylist.m3u8
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
@@ -474,6 +468,9 @@ CHC电影,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240325_1/playlist.m
 天津体育,http://192.151.150.154/live/tjtv5.m3u8#http://lanfenggood.cn:4022/udp/225.1.1.122:5002
 天津体育,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjtv5
 天津体育,http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub
+广东体育,http://38.75.136.137:98/gslb/dsdqpub/gdty.m3u8?auth=testpub
+广东体育,http://r.jdshipin.com/LiYdg
+广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8
 快乐垂钓,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/ydcmklcd/50/20251225/index.m3u8?msisdn=20261002020303a7f9b793d6754c3291f00593ba7c822b&mdspid=&spid=600603&netType=0&sid=5910022317&pid=2028597139&timestamp=20261002020303&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=961930263&ParentNodeID=-99&assertID=5910022317&client_ip=171.8.79.254&SecurityKey=20261002020303&promotionId=&mvid=5900006783&mcid=500020&playurlVersion=WX-A1-9.9.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=87c2c33b8224036438f3943abd41582d
 快乐垂钓,https://phoneal.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/KLCDMPP360.m3u8
 快乐垂钓,http://drive.mxmy.net:8888/udp/239.3.1.164:8001
