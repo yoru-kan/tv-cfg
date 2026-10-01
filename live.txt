@@ -145,6 +145,9 @@ CGTN阿语,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Content
 内蒙古卫视,http://play1-qk.nmtv.cn/live/1769652018126032.m3u8
 内蒙古卫视,https://live.264788.xyz/channel/neimengguweishi?streamid=81a015dbecf3031d7d847b7a9b059f67&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 内蒙古卫视,http://107.150.60.122/live/nmgws.m3u8
+农林卫视,http://45.192.97.170:8880/play/35.m3u8
+农林卫视,http://120.76.248.139/live/bfgd/4200000122.m3u8
+农林卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221226204/index.m3u8
 北京卫视,http://173.208.212.130:8181/720p/bjws.m3u8
 北京卫视,http://45.192.97.170:8880/play/29.m3u8
 北京卫视,http://107.150.60.122/live/bjwshd.m3u8
