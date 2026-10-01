@@ -276,23 +276,17 @@ http://107.150.60.122/live/ynwshd.m3u8
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/云南卫视.png" group-title="卫视频道",云南卫视
 http://192.151.150.154/live/ynwshd.m3u8
 #EXTINF:-1 tvg-name="人间卫视" tvg-logo="" group-title="卫视频道",人间卫视
-http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
-#EXTINF:-1 tvg-name="人间卫视" tvg-logo="" group-title="卫视频道",人间卫视
 https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
 #EXTINF:-1 tvg-name="人间卫视" tvg-logo="" group-title="卫视频道",人间卫视
 http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
+#EXTINF:-1 tvg-name="人间卫视" tvg-logo="" group-title="卫视频道",人间卫视
+https://stream1.freetv.fun/05b9099bef592e55129817a0f82b4cc60378970bc856b993ae9e330e85f4351f.m3u8
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
 http://play1-qk.nmtv.cn/live/1769652018126032.m3u8
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
 https://live.264788.xyz/channel/neimengguweishi?streamid=3e7340acf8869ac1c7dad1bb836dcd35&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
 http://107.150.60.122/live/nmgws.m3u8
-#EXTINF:-1 tvg-name="农林卫视" tvg-logo="" group-title="卫视频道",农林卫视
-http://45.192.97.170:8880/play/35.m3u8
-#EXTINF:-1 tvg-name="农林卫视" tvg-logo="" group-title="卫视频道",农林卫视
-http://120.76.248.139/live/bfgd/4200000122.m3u8
-#EXTINF:-1 tvg-name="农林卫视" tvg-logo="" group-title="卫视频道",农林卫视
-http://39.135.138.58:18890/PLTV/88888888/224/3221226204/index.m3u8
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/北京卫视.png" group-title="卫视频道",北京卫视
 http://107.150.60.122/live/bjwshd.m3u8
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/北京卫视.png" group-title="卫视频道",北京卫视
@@ -471,8 +465,6 @@ http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cqwshd
 http://107.150.60.122/live/cqwshd.m3u8
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/重庆卫视.png" group-title="卫视频道",重庆卫视
 http://iptv.huuc.edu.cn/hls/cqhd.m3u8
-#EXTINF:-1 tvg-name="陕西农林卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/陕西农林卫视.png" group-title="卫视频道",陕西农林卫视
-https://live.chinacert.cftest5.cn/cnmg/live/956904896
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/陕西卫视.png" group-title="卫视频道",陕西卫视
 http://192.151.150.154/live/snwshd.m3u8
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/陕西卫视.png" group-title="卫视频道",陕西卫视
