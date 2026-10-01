@@ -330,9 +330,15 @@ TVBS新闻台,http://61.221.215.25:8800/hls/9/index.m3u8
 翡翠台,http://r.jdshipin.com/62WM7
 翡翠台,http://iptv.4666888.xyz/iptv2A.php?id=28
 翡翠台,http://cdn6.123.rr.kg/163189/fct
+靖天映画,http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34838
+靖天映画,https://cdn12.178.indevs.in/163189/bd4752bd7828b2bf
+靖天映画,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv055&token=https://t.me/GPT_858
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,https://hkstv.tv/api/m3u8-proxy?url=http%3A%2F%2Fwebcast.hkstv.tv%2Flivestream%2Fmutfysrq%2Fplaylist.m3u8
 香港卫视,http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
+龙华电影,http://iptv.4666888.xyz/iptv2A.php?id=45
+龙华电影,http://iptv.4666888.xyz/iptv2A.php?id=56
+龙华电影,https://cdn8.163189.xyz/live/lhdy/stream.m3u8
 龙祥电影,http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34825
 龙祥电影,http://43.251.226.89:8080/play/678.m3u8$LR•IPV4『线路1』
 龙祥电影,http://free.cnlive.club/channel/67548a4f.m3u8$LR•IPV4『线路2』
@@ -347,7 +353,6 @@ CHC家庭影院,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=chcjt
 上虞文化影院,https://stream1.freetv.fun/shang-yu-wen-hua-ying-yuan-1.m3u8
 与凤行,https://live.ottiptv.cc/huya/26355866
 东阳影视生活,http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8
-仙剑奇侠传,https://live.ottiptv.cc/yy/1382749903
 伪装者,https://live.ottiptv.cc/yy/1354936244
 倚天屠龙记,https://live.ottiptv.cc/huya/11342403
 倚天屠龙记,http://live.metshop.top/huya/11342403
@@ -366,6 +371,7 @@ CHC家庭影院,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=chcjt
 唐诡之西行,https://live.ottiptv.cc/huya/26355763
 固镇影视,http://www.guzhenm.com:7004/hls/hd-live.m3u8
 大时代,https://live.metshop.top/huya/23865161
+大秦赋,https://live.ottiptv.cc/huya/23903130
 如懿传,https://live.ottiptv.cc/huya/29465868
 妙手仁心,https://live.metshop.top/huya/29465853
 妙手仁心,http://120.220.76.91:2003/huya.php?id=29465853

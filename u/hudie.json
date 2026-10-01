@@ -1251,6 +1251,26 @@
    "category": "综合"
   },
   {
+   "key": "小蜜蜂影院",
+   "name": "🦋 小蜜蜂影院",
+   "type": 3,
+   "api": "https://sub.lytvs.top/pydl/xiaomifengyingyuan.py?tk=cj_6727dccf",
+   "ext": "",
+   "searchable": 1,
+   "quickSearch": 1,
+   "category": "综合"
+  },
+  {
+   "key": "界影视",
+   "name": "🦋 界影视",
+   "type": 3,
+   "api": "https://sub.lytvs.top/pydl/jieyingshi.py?tk=cj_6727dccf",
+   "ext": "",
+   "searchable": 1,
+   "quickSearch": 1,
+   "category": "综合"
+  },
+  {
    "key": "飞牛影视",
    "name": "🦋 飞牛影视(关梯)",
    "type": 3,
@@ -2815,6 +2835,16 @@
    "name": "🦋 短剧巴士.py(关梯)",
    "type": 3,
    "api": "https://sub.lytvs.top/pydl/duanjubashi.py?tk=cj_6727dccf",
+   "ext": "",
+   "searchable": 1,
+   "quickSearch": 1,
+   "category": "短剧"
+  },
+  {
+   "key": "红果短剧",
+   "name": "🦋 红果短剧(关梯)",
+   "type": 3,
+   "api": "https://sub.lytvs.top/pydl/hongguoduanju.py?tk=cj_6727dccf",
    "ext": "",
    "searchable": 1,
    "quickSearch": 1,
