@@ -235,6 +235,7 @@ CGTN阿语,http://183.51.190.156:6633/rtp/239.253.43.200:5146
 重庆卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cqwshd
 重庆卫视,http://58.210.97.102:1234/738910914
 重庆卫视,http://107.150.60.122/live/cqwshd.m3u8
+陕西农林卫视,https://live.chinacert.cftest5.cn/cnmg/live/956904896
 陕西卫视,http://107.150.60.122/live/snwshd.m3u8
 陕西卫视,http://192.151.150.154/live/snwshd.m3u8
 陕西卫视,https://live.264788.xyz/channel/shaanxiweishi?streamid=9dc887dba8ecb4e4143baf4f2373800c&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
@@ -246,7 +247,6 @@ CGTN阿语,http://183.51.190.156:6633/rtp/239.253.43.200:5146
 黑龙江卫视,http://107.150.60.122/live/hljwshd.m3u8
 
 港澳台,#genre#
-BeautifulLifeTV,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
 HOYTV,http://cdn6.123.rr.kg/163189/hoy
 HOYTV,http://cdn.123.rr.kg/163189/hoy
 HOYTV,https://liveopen.siliconweb.com/openTvLive/liveopen/playlist.m3u8
@@ -274,9 +274,9 @@ TVBS新闻台,http://rihou.cc:555/tv/[FY]tvbS新闻
 东森超视,https://stream1.freetv.fun/dong-sen-chao-shi-4.m3u8
 东森超视,https://smart.pendy.dpdns.org/Smart.php?id=ettvsuper
 东森超视34.5,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
-中天新闻,https://d2jc41c1shgcol.cloudfront.net/live/CtiNEWS1/playlist.m3u8
 中天新闻,http://222.128.55.152:9080/live/fc.m3u8
 中天新闻,http://tv.redrainl.site:9500/live.m3u8?c=3
+中天新闻,https://v.hystudio.cn:8088/live/yifatv-ztxw0.m3u8
 凤凰中文,http://173.208.234.146/live/fhzw.m3u8
 凤凰中文,http://43.152.224.209/qctv.fengshows.cn/live/0701pcc72.flv
 凤凰中文,http://183.10.180.238:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -295,6 +295,7 @@ TVBS新闻台,http://rihou.cc:555/tv/[FY]tvbS新闻
 唯心电视,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
 唯心电视,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
 唯心电视,https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+大立电视台,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 天映经典,https://cdn3.indevs.in/stream/live/ccm/
 天映经典,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:7E:2F:ED&stream=1919463
 天映经典,http://php.jdshipin.com:8880/smt.php?id=Celestial2
@@ -334,15 +335,15 @@ TVBS新闻台,http://rihou.cc:555/tv/[FY]tvbS新闻
 翡翠台,http://iptv.4666888.xyz/iptv2A.php?id=28
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=j1
 翡翠台,http://r.jdshipin.com/thuYX
-靖天映画,http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34838
-靖天映画,https://cdn12.178.indevs.in/163189/bd4752bd7828b2bf
-靖天映画,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv055&token=https://t.me/GPT_858
 香港卫视,https://hkstv.tv/api/m3u8-proxy?url=http%3A%2F%2Fwebcast.hkstv.tv%2Flivestream%2Fmutfysrq%2Fplaylist.m3u8
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
 龙华电影,http://iptv.4666888.xyz/iptv2A.php?id=45
 龙华电影,http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
 龙华电影,https://cdn8.163189.xyz/live/lhdy/stream.m3u8
+龙祥电影,http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34825
+龙祥电影,http://43.251.226.89:8080/play/678.m3u8$LR•IPV4『线路1』
+龙祥电影,http://free.cnlive.club/channel/67548a4f.m3u8$LR•IPV4『线路2』
 
 影视剧场,#genre#
 CHC家庭影院,http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
@@ -388,9 +389,9 @@ CHC电影,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240325_1/playlist.m
 封神榜,http://cfss.cc/cdn/huya/29465849.flv
 封神榜,https://huyazhibo.de5.net/?id=29465849
 封神榜,https://live.metshop.top/huya/29465849
-射雕英雄传,https://live.metshop.top/huya/23824164
 射雕英雄传,https://live.ottiptv.cc/huya/23824164
 射雕英雄传,http://cdn.jdshipin.com:8880/huya.php?id=23824164
+射雕英雄传,https://live.metshop.top/huya/23824164$LR•IPV4『线路1』
 平泉影视,https://jwcdnqx.hebyun.com.cn/live/pqys/1500k/tzwj_video.m3u8
 平泉影视,https://jwcdnqx.hebyun.com.cn/zb/pqys/1500k/tzwj_video.m3u8
 平泉影视,https://jwliveqxzb.hebyun.com.cn/pqys/pqys.m3u8
@@ -429,10 +430,8 @@ CHC电影,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240325_1/playlist.m
 湖南电视剧,http://phoneal.qing.mgtv.com/nn_live/nn_x64/Y2hzPSZkZWY9MSZ1aXA9MTA2LjE0LjM4LjU1JnRlcm09NSZtYWNpZD02ODZlOGNmOGM4OGU3N2VjOWEwNzkzMjg5ZjUzNDg0MmFiZWM0ZjNjJnFpZD0mcmF1dGhfZW5hYmxlPW9uJmNkbmV4X2lkPWFsX3Bob25lMyZlcz0xNzkwODExNzA0JnV1aWQ9MjY4MzVmZDQ3ZmJiYzk4ZWNhYTJiMzdiODMxOWIwNGQtNmEwZTI2Mzcmcz1hMWI3YTI2ZmVkZTAzZTA0MmFhMTE3MTQ3MjVlZDdkNiZ1aWQ9Jm5kdj1pb3MtNi41LjAmdj0yJmFzPTAmX2NhckNvZGU9MA,,/HNDSMPP360.m3u8
 狄仁杰电影,https://live.metshop.top/huya/30080229
 电影八点档,http://live.metshop.top/huya/880261?cdn=alicdn
-电影周星星,http://live.metshop.top/huya/11336587?cdn=alicdn
 电影喜剧专场,http://live.metshop.top/huya/11602044?cdn=alicdn
 电影谍战片,http://live.metshop.top/huya/21059587?cdn=alicdn
-电影贺岁,http://live.metshop.top/huya/11601971?cdn=alicdn
 绍兴文化影视,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
 绍兴文化影视,https://stream1.freetv.fun/shao-xing-wen-hua-ying-shi-1.m3u8
 绍兴文化影视,https://t.freetv.fun/live/shao-xing-wen-hua-ying-shi-1.m3u8
@@ -470,9 +469,6 @@ CHC电影,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240325_1/playlist.m
 天津体育,http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub
 天津体育,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjtv5
 天津体育,http://192.151.150.154/live/tjtv5.m3u8#http://lanfenggood.cn:4022/udp/225.1.1.122:5002
-广东体育,http://38.75.136.137:98/gslb/dsdqpub/gdty.m3u8?auth=testpub
-广东体育,http://r.jdshipin.com/LiYdg
-广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8
 快乐垂钓,https://phoneal.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/KLCDMPP360.m3u8
 快乐垂钓,http://drive.mxmy.net:8888/udp/239.3.1.164:8001
 快乐垂钓,https://migu.188766.xyz/?migutoken=103d22404add9b90cd72174eb1a0108b&id=%E5%BF%AB%E4%B9%90%E5%9E%82%E9%92%93&type=yy
@@ -484,9 +480,9 @@ CHC电影,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240325_1/playlist.m
 中华小当家,https://cdn.ttvb.eu.org/huya/11342413
 中华小当家,https://live.ottiptv.cc/huya/11342413
 中华小当家,https://live.metshop.top/huya/11342413
+名侦探柯南,https://live.ottiptv.cc/huya/30080236
 名侦探柯南,https://huyazhibo.de5.net/?id=30080236
 名侦探柯南,https://isus.cc/php/huya.php?id=30080236
-名侦探柯南,https://live.ottiptv.cc/huya/30080236
 哆啦A梦,https://live.ottiptv.cc/huya/11601963
 哆啦A梦,https://huyazhibo.de5.net/?id=11601963
 哆啦A梦,http://cdn.jdshipin.com:8880/huya.php?id=11601963
