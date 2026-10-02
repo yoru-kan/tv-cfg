@@ -1251,6 +1251,46 @@
    "category": "综合"
   },
   {
+   "key": "绿色影视",
+   "name": "🦋 绿色影视",
+   "type": 3,
+   "api": "https://sub.lytvs.top/pydl/lvseyingshi.py?tk=cj_6727dccf",
+   "ext": "",
+   "searchable": 1,
+   "quickSearch": 1,
+   "category": "综合"
+  },
+  {
+   "key": "极速追剧",
+   "name": "🦋 极速追剧",
+   "type": 3,
+   "api": "https://sub.lytvs.top/pydl/jisuzhuiju.py?tk=cj_6727dccf",
+   "ext": "",
+   "searchable": 1,
+   "quickSearch": 1,
+   "category": "综合"
+  },
+  {
+   "key": "小宝影院",
+   "name": "🦋 小宝影院",
+   "type": 3,
+   "api": "https://sub.lytvs.top/pydl/xiaobaoyingyuan.py?tk=cj_6727dccf",
+   "ext": "",
+   "searchable": 1,
+   "quickSearch": 1,
+   "category": "综合"
+  },
+  {
+   "key": "达达兔影院",
+   "name": "🦋 达达兔影院(关梯)",
+   "type": 3,
+   "api": "https://sub.lytvs.top/pydl/dadatuyingyuan_guanti.py?tk=cj_6727dccf",
+   "ext": "",
+   "searchable": 1,
+   "quickSearch": 1,
+   "category": "综合"
+  },
+  {
    "key": "懂片帝AI",
    "name": "🦋 懂片帝AI",
    "type": 3,
@@ -3141,21 +3181,21 @@
    "category": "动漫"
   },
   {
-   "key": "路漫漫",
-   "name": "🦋 路漫漫 • 动漫",
-   "type": 3,
-   "api": "https://cnb.cool/fish2035/xs/-/git/raw/main/js/drpy2.min.js",
-   "ext": "https://cnb.cool/fish2035/xs/-/git/raw/main/js/路漫漫.js",
-   "searchable": 1,
-   "quickSearch": 1,
-   "category": "动漫"
-  },
-  {
    "key": "去看吧",
    "name": "🦋 去看吧 • 动漫",
    "type": 3,
    "api": "https://cnb.cool/fish2035/xs/-/git/raw/main/js/drpy2.min.js",
    "ext": "https://cnb.cool/fish2035/xs/-/git/raw/main/js/去看吧.js",
+   "searchable": 1,
+   "quickSearch": 1,
+   "category": "动漫"
+  },
+  {
+   "key": "animexin",
+   "name": "🦋 [动漫]animexin.py",
+   "type": 3,
+   "api": "https://sub.lytvs.top/pydl/animexin.py?tk=cj_6727dccf",
+   "ext": "",
    "searchable": 1,
    "quickSearch": 1,
    "category": "动漫"
