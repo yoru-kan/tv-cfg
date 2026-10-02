@@ -1251,6 +1251,26 @@
    "category": "综合"
   },
   {
+   "key": "懂片帝AI",
+   "name": "🦋 懂片帝AI",
+   "type": 3,
+   "api": "https://sub.lytvs.top/pydl/dongpiandiAI.py?tk=cj_6727dccf",
+   "ext": "",
+   "searchable": 1,
+   "quickSearch": 1,
+   "category": "综合"
+  },
+  {
+   "key": "影巢movie",
+   "name": "🦋 影巢movie(关梯)",
+   "type": 3,
+   "api": "https://sub.lytvs.top/pydl/yingchaomovie.py?tk=cj_6727dccf",
+   "ext": "",
+   "searchable": 1,
+   "quickSearch": 1,
+   "category": "综合"
+  },
+  {
    "key": "小蜜蜂影院",
    "name": "🦋 小蜜蜂影院",
    "type": 3,
@@ -1976,16 +1996,6 @@
    "type": 3,
    "api": "https://sub.lytvs.top/pydl/chabeihu.py?tk=cj_6727dccf",
    "ext": "",
-   "searchable": 1,
-   "quickSearch": 1,
-   "category": "综合"
-  },
-  {
-   "key": "ppx",
-   "name": "🦋 皮皮虾.py",
-   "type": 3,
-   "api": "https://sub.lytvs.top/pydl/pipixia.py?tk=cj_6727dccf",
-   "ext": "http://43.248.117.123:4680",
    "searchable": 1,
    "quickSearch": 1,
    "category": "综合"
@@ -2931,16 +2941,6 @@
    "category": "短剧"
   },
   {
-   "key": "糯米短剧",
-   "name": "🦋 糯米短剧.py",
-   "type": 3,
-   "api": "https://sub.lytvs.top/pydl/nuomiduanju.py?tk=cj_6727dccf",
-   "ext": "",
-   "searchable": 1,
-   "quickSearch": 1,
-   "category": "短剧"
-  },
-  {
    "key": "毒舌短剧",
    "name": "🦋 毒舌短剧.py(关梯)",
    "type": 3,
@@ -3675,16 +3675,6 @@
    "category": "音乐"
   },
   {
-   "key": "听书网456",
-   "name": "🦋 听书网456.py",
-   "type": 3,
-   "api": "https://sub.lytvs.top/pydl/tingshuwang456.py?tk=cj_6727dccf",
-   "ext": "",
-   "searchable": 1,
-   "quickSearch": 1,
-   "category": "音乐"
-  },
-  {
    "key": "275ts",
    "name": "🦋 275听书.py",
    "type": 3,
@@ -3729,16 +3719,6 @@
    "name": "🦋 千千音乐.py",
    "type": 3,
    "api": "https://sub.lytvs.top/pydl/qianqianyinyue.py?tk=cj_6727dccf",
-   "ext": "",
-   "searchable": 1,
-   "quickSearch": 1,
-   "category": "音乐"
-  },
-  {
-   "key": "枫叶音乐",
-   "name": "🦋 枫叶音乐.py",
-   "type": 3,
-   "api": "https://sub.lytvs.top/pydl/fengyeyinyue.py?tk=cj_6727dccf",
    "ext": "",
    "searchable": 1,
    "quickSearch": 1,
