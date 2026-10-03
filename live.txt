@@ -11,6 +11,9 @@ CCTV3,http://74.91.26.218:82/live/cctv3hd.m3u8
 CCTV4,http://58.56.162.102:4466/newlive/live/hls/4/live.m3u8
 CCTV4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1791025200-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-4ad5dd19673e86e7e2c8bf87dd3f683b&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
 CCTV4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1790938800-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-b23e99bfcab33c5a4c4a60b5c2213cc9&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
+CCTV4K,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1791111600-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-8f7fc6b2c2faa4c789456989e04a46ea&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
+CCTV4K,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1791025200-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-ac29f7b1f9ceb436acf7a4f1e27e134b&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
+CCTV4K,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1790938800-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-f0f731c2357abf27559ea338a13113cb&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
 CCTV5,http://153.0.171.163:85/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5,http://gmxw.7766.org:808/hls/93/index.m3u8
 CCTV5,http://59.39.89.130:60901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -233,6 +236,7 @@ CGTN阿语,http://183.51.190.156:6633/rtp/239.253.43.200:5146
 重庆卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cqwshd
 重庆卫视,http://107.150.60.122/live/cqwshd.m3u8
 重庆卫视,http://p.ytelc.com/videojs.php?id=https://sjlivecdn9.cbg.cn/202502032311/app_2/_definst_/ls_2.stream/chunklist.m3u8
+陕西农林卫视,https://live.chinacert.cftest5.cn/cnmg/live/956904896
 陕西卫视,http://192.151.150.154/live/snwshd.m3u8
 陕西卫视,http://107.150.60.122/live/snwshd.m3u8
 陕西卫视,https://live.264788.xyz/channel/shaanxiweishi?streamid=9dc887dba8ecb4e4143baf4f2373800c&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
@@ -341,9 +345,6 @@ TVBS新闻台,http://rihou.cc:555/tv/[FY]tvbS新闻
 美亚电影,http://iptv.4666888.xyz/iptv2A.php?id=30
 美亚电影,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
 美亚电影,http://ali.hlspull.yximgs.com/live/awei_mydy.flv
-靖天映画,http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34838
-靖天映画,https://cdn12.178.indevs.in/163189/bd4752bd7828b2bf
-靖天映画,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv055&token=https://t.me/GPT_858
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,https://hkstv.tv/api/m3u8-proxy?url=http%3A%2F%2Fwebcast.hkstv.tv%2Flivestream%2Fmutfysrq%2Fplaylist.m3u8
 香港卫视,http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
