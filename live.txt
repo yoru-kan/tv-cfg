@@ -218,6 +218,8 @@ CGTN阿语,http://183.51.190.156:6633/rtp/239.253.43.200:5146
 湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 湖南卫视,http://74.91.26.218:82/live/hnwshd.m3u8
 湖南卫视,http://107.150.60.122/live/hnwshd.m3u8
+珠江卫视,http://iptv.4666888.xyz/iptv2A.php?id=19
+珠江卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.24:11111
 甘肃卫视,http://38.75.136.137:98/gslb/dsdqpub/gswshd.m3u8?auth=testpub
 甘肃卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gswshd
 甘肃卫视,http://218.13.170.98:9901/tsfile/live/0141_1.m3u8
@@ -335,9 +337,9 @@ TVBS新闻台,http://rihou.cc:555/tv/[FY]tvbS新闻
 港台电视31,http://iptv.4666888.xyz/iptv2A.php?id=23
 环球电视,http://utv1.hqtvzb.com:9999/hls/world.m3u8
 环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
-纬来体育,http://31.43.191.125:8080/restream/restream/34855
 纬来体育,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=c0331d87d7f452e2b16f03a3b0a2b267;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
 纬来体育,https://smart.pendy.dpdns.org/Smart.php?id=videolandsport
+纬来体育,https://hls-gateway.vpstv.net/streams/477026.m3u8
 纬来精采,http://61.221.215.25:8800/hls/48/index.m3u8
 纬来精采,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=4dab5a92e41236d0d252cad9c2a713b7;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
 纬来精采,http://31.43.191.125:8080/restream/restream/34851
@@ -351,9 +353,6 @@ TVBS新闻台,http://rihou.cc:555/tv/[FY]tvbS新闻
 龙华电影,http://iptv.4666888.xyz/iptv2A.php?id=56
 龙华电影,http://iptv.4666888.xyz/iptv2A.php?id=45
 龙华电影,http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
-龙祥电影,http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34825
-龙祥电影,http://43.251.226.89:8080/play/678.m3u8$LR•IPV4『线路1』
-龙祥电影,http://free.cnlive.club/channel/67548a4f.m3u8$LR•IPV4『线路2』
 
 影视剧场,#genre#
 CHC动作电影,http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
@@ -367,8 +366,8 @@ CHC动作电影,http://107.150.60.122/live/chcdz.m3u8
 与凤行,http://8.155.43.98:35455/huya/26355866
 与凤行,https://live.ottiptv.cc/huya/26355866
 东阳影视生活,http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8
-仙剑奇侠传,http://8.155.43.98:35455/yy/1382749903
 仙剑奇侠传,https://live.ottiptv.cc/yy/1382749903
+仙剑奇侠传,http://8.155.43.98:35455/yy/1382749903
 倚天屠龙记,http://live.metshop.top/huya/11342403
 倚天屠龙记,https://live.ottiptv.cc/huya/11342403
 倚天屠龙记,https://live.metshop.top/huya/23734246
@@ -519,9 +518,9 @@ CHC动作电影,http://107.150.60.122/live/chcdz.m3u8
 海绵宝宝,https://live.metshop.top/douyu/3949681
 海绵宝宝,http://cfss.cc/cdn/huya/11352919.flv
 海绵宝宝,https://huyazhibo.de5.net/?id=11352919
-灌篮高手,https://live.ottiptv.cc/yy/1382735626
 灌篮高手,https://huyazhibo.de5.net/?id=25039461
 灌篮高手,http://www.douzhicloud.site:35455/yy/1382735626$LR•IPV4『线路1』
+灌篮高手,http://alist.xicp.fun:35455/yy/1382735626$LR•IPV4『线路2』
 猫和老鼠,https://cdn.ttvb.eu.org/huya/11352879
 猫和老鼠,https://live.metshop.top/huya/11352879
 猫和老鼠,https://live.ottiptv.cc/huya/11352879
