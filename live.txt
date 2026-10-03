@@ -241,6 +241,9 @@ CGTN阿语,http://183.51.190.156:6633/rtp/239.253.43.200:5146
 青海卫视,https://hls-qhmh.lanzhousobey.cn/qhmh/mhds.m3u8
 青海卫视,http://107.150.60.122/live/qhws.m3u8
 青海卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=qhws
+黑龙江卫视,http://61.136.172.236:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
+黑龙江卫视,http://101.66.194.125:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=0&authid=0
+黑龙江卫视,http://iptv.huuc.edu.cn/hls/hljhd.m3u8
 
 港澳台,#genre#
 BeautifulLifeTV,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
@@ -265,6 +268,9 @@ TVBS新闻台,http://80story.us.to:8073/live.m3u8?c=3
 三立新闻,https://d2jc41c1shgcol.cloudfront.net/live/iNEWS/playlist.m3u8
 三立新闻,https://stream1.freetv.fun/san-li-xin-wen-3.m3u8
 三立新闻,https://stream1.freetv.fun/san-li-xin-wen-4.m3u8
+东森洋片,http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34904
+东森洋片,https://hls-gateway.vpstv.net/streams/476997.m3u8
+东森洋片,http://live4play.uk/livehttpplay?channel_id=20080
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 东森超视,https://stream1.freetv.fun/dong-sen-chao-shi-4.m3u8
 东森超视,https://smart.pendy.dpdns.org/Smart.php?id=ettvsuper
@@ -328,15 +334,9 @@ TVBS新闻台,http://80story.us.to:8073/live.m3u8?c=3
 美亚电影,http://iptv.4666888.xyz/iptv2A.php?id=30
 美亚电影,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
 美亚电影,http://ali.hlspull.yximgs.com/live/awei_mydy.flv
-靖天映画,http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34838
-靖天映画,https://cdn12.178.indevs.in/163189/bd4752bd7828b2bf
-靖天映画,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv055&token=https://t.me/GPT_858
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,https://hkstv.tv/api/m3u8-proxy?url=http%3A%2F%2Fwebcast.hkstv.tv%2Flivestream%2Fmutfysrq%2Fplaylist.m3u8
 香港卫视,http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
-龙华电影,http://iptv.4666888.xyz/iptv2A.php?id=45
-龙华电影,http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
-龙华电影,https://cdn8.163189.xyz/live/lhdy/stream.m3u8
 龙祥电影,http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34825
 龙祥电影,http://43.251.226.89:8080/play/678.m3u8$LR•IPV4『线路1』
 龙祥电影,http://free.cnlive.club/channel/67548a4f.m3u8$LR•IPV4『线路2』
@@ -370,8 +370,8 @@ CHC电影,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240325_1/playlist.m
 周星驰电影,http://192.151.150.154/live/lbzxc.m3u8
 周星驰电影,http://198.204.228.26/live/lbzxc.m3u8
 周星驰电影,http://38.75.136.137:98/gslb/dsdqpub/lbzxc.m3u8?auth=testpub
-唐诡之西行,http://cfss.cc/cdn/huya/26355763.flv
 唐诡之西行,https://live.ottiptv.cc/huya/26355763
+唐诡之西行,http://cfss.cc/cdn/huya/26355763.flv
 固镇影视,http://www.guzhenm.com:7004/hls/hd-live.m3u8
 大唐双龙传,https://live.metshop.top/huya/29465850
 大时代,https://live.metshop.top/huya/23865161
