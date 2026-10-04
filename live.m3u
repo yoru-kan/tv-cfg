@@ -703,6 +703,12 @@ http://iptv.4666888.xyz/iptv2A.php?id=56
 http://iptv.4666888.xyz/iptv2A.php?id=45
 #EXTINF:-1 tvg-name="龙华电影" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/龙华电影.png" group-title="港澳台",龙华电影
 http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
+#EXTINF:-1 tvg-name="龙祥电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/龙祥电影.png" group-title="港澳台",龙祥电影
+http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34825
+#EXTINF:-1 tvg-name="龙祥电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/龙祥电影.png" group-title="港澳台",龙祥电影
+http://43.251.226.89:8080/play/678.m3u8$LR•IPV4『线路1』
+#EXTINF:-1 tvg-name="龙祥电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/龙祥电影.png" group-title="港澳台",龙祥电影
+http://free.cnlive.club/channel/67548a4f.m3u8$LR•IPV4『线路2』
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CHC动作电影.png" group-title="影视剧场",CHC动作电影
 http://107.150.60.122/live/chcdz.m3u8
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CHC动作电影.png" group-title="影视剧场",CHC动作电影
@@ -1022,11 +1028,11 @@ https://live.metshop.top/douyu/3949681
 #EXTINF:-1 tvg-name="海绵宝宝" tvg-logo="https://www.xn--rgv465a.top/tvlogo/海绵宝宝.png" group-title="少儿动画",海绵宝宝
 https://huyazhibo.de5.net/?id=11352919
 #EXTINF:-1 tvg-name="灌篮高手" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/灌篮高手.png" group-title="少儿动画",灌篮高手
-https://huyazhibo.de5.net/?id=25039461
-#EXTINF:-1 tvg-name="灌篮高手" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/灌篮高手.png" group-title="少儿动画",灌篮高手
 https://live.ottiptv.cc/yy/1382735626
 #EXTINF:-1 tvg-name="灌篮高手" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/灌篮高手.png" group-title="少儿动画",灌篮高手
 http://www.douzhicloud.site:35455/yy/1382735626$LR•IPV4『线路1』
+#EXTINF:-1 tvg-name="灌篮高手" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/灌篮高手.png" group-title="少儿动画",灌篮高手
+http://alist.xicp.fun:35455/yy/1382735626$LR•IPV4『线路2』
 #EXTINF:-1 tvg-name="猫和老鼠" tvg-logo="https://www.xn--rgv465a.top/tvlogo/猫和老鼠.png" group-title="少儿动画",猫和老鼠
 https://huyazhibo.de5.net/?id=11352879
 #EXTINF:-1 tvg-name="猫和老鼠" tvg-logo="https://www.xn--rgv465a.top/tvlogo/猫和老鼠.png" group-title="少儿动画",猫和老鼠
