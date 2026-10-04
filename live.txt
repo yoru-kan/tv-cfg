@@ -220,9 +220,9 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 甘肃卫视,http://38.75.136.137:98/gslb/dsdqpub/gswshd.m3u8?auth=testpub
 甘肃卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gswshd
 甘肃卫视,http://218.13.170.98:9901/tsfile/live/0141_1.m3u8
-福建海峡卫视,http://r.jdshipin.com/WtYt3
 福建海峡卫视,http://38.64.72.148:80/hls/modn/list/4009/playlist.m3u8
 福建海峡卫视,http://38.64.72.148/hls/modn/list/4009/playlist.m3u8
+福建海峡卫视,http://38.64.72.148:80/hls/modn/list/4009/chunklist0.m3u8
 西藏卫视,http://112.27.5.218:9901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
 西藏卫视,http://107.150.60.122/live/xzws.m3u8
 西藏卫视,https://live.264788.xyz/channel/xizangweishi?streamid=4b4e8ea919f1cfd5e43deed1d1675251&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
@@ -247,13 +247,9 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 黑龙江卫视,http://iptv.huuc.edu.cn/hls/hljhd.m3u8
 
 港澳台,#genre#
-BeautifulLifeTV,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
 HOYTV,http://cdn6.123.rr.kg/163189/hoy
 HOYTV,http://cdn.123.rr.kg/163189/hoy
 HOYTV,https://liveopen.siliconweb.com/openTvLive/liveopen/playlist.m3u8
-J2,http://r.jdshipin.com/ndGgS
-J2,https://hls-gateway.vpstv.net/streams/476932.m3u8
-J2,http://api.kkitv.itv888.vip:8080/streams/48uxa7dlbga/index.m3u8
 PetClubTV,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=02fe7cf0f125a2b343582a63a8f9855b;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
 PetClubTV,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8
 PetClubTV,https://petclub-samsungaus.amagi.tv/playlist.m3u8
@@ -272,9 +268,9 @@ TVBS新闻台,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=f3818c484ecc5469
 三立新闻,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=7f87b183d2fc14254c78c63883271264;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
 三立新闻,https://d2jc41c1shgcol.cloudfront.net/live/iNEWS/playlist.m3u8
 三立新闻,https://stream1.freetv.fun/san-li-xin-wen-3.m3u8
-东森洋片,http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34904
 东森洋片,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=404c047310e78077b398d2b5999e8459;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
 东森洋片,https://hls-gateway.vpstv.net/streams/476997.m3u8
+东森洋片,http://live4play.uk/livehttpplay?channel_id=20080
 东森超视,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=163e6c3e3bd21f2beb6af46d4b6b9353;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 东森超视,https://stream1.freetv.fun/dong-sen-chao-shi-4.m3u8
@@ -353,9 +349,6 @@ TVBS新闻台,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=f3818c484ecc5469
 龙华电影,http://iptv.4666888.xyz/iptv2A.php?id=56
 龙华电影,http://iptv.4666888.xyz/iptv2A.php?id=45
 龙华电影,http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
-龙祥电影,http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34825
-龙祥电影,http://43.251.226.89:8080/play/678.m3u8$LR•IPV4『线路1』
-龙祥电影,http://free.cnlive.club/channel/67548a4f.m3u8$LR•IPV4『线路2』
 
 影视剧场,#genre#
 CHC动作电影,http://107.150.60.122/live/chcdz.m3u8
@@ -390,6 +383,9 @@ CHC动作电影,http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
 周星驰电影,http://192.151.150.154/live/lbzxc.m3u8
 周星驰电影,http://198.204.228.26/live/lbzxc.m3u8
 固镇影视,http://www.guzhenm.com:7004/hls/hd-live.m3u8
+大时代,https://live.metshop.top/huya/23865161
+大时代,https://live.metshop.top/huya/23865161$LR•IPV4『线路1』
+大时代,http://www.douzhicloud.site:35455/huya/23865161$LR•IPV4『线路2』
 大秦赋,https://live.ottiptv.cc/huya/23903130
 大秦赋,http://cfss.cc/cdn/huya/23903130.flv
 大秦赋,http://footyun.top:35455/huya/23903130
@@ -547,6 +543,9 @@ BRTV纪实科教,http://120.76.248.139/live/bfgd/4200000113.m3u8
 伊犁维吾尔,http://110.153.180.106:55555/out_2/index.m3u8?zxinjd
 兵团五师双河影,https://liveout.btzx.com.cn/62ds9e/6o77s4.m3u8?zxinjd
 双辽,http://stream5.jlntv.cn/sl/sd/live.m3u8?zjild
+四川科教,http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8
+四川科教,https://stream1.freetv.fun/si-chuan-ke-jiao-3.ctv
+四川科教,https://stream1.freetv.fun/si-chuan-ke-jiao-1.m3u8
 奎屯汉语,http://218.84.12.186:8001/hls/main/playlist.m3u8?zxinjd
 敦化一套,http://stream8.jlntv.cn/dhtv/playlist.m3u8
 敦化一套,http://stream8.jlntv.cn/dhtv/playlist.m3u8?zjild
