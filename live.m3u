@@ -23,12 +23,6 @@ http://58.56.162.102:4466/newlive/live/hls/4/live.m3u8
 https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1791284400-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-548948e1323eab76cb910225f8f64399&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-4.png" group-title="央视频道",CCTV4
 http://116.236.204.18:1234/631780421
-#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV4K.png" group-title="央视频道",CCTV4K
-https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1791284400-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-df80012854c2231fab2178f9d137d4cd&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
-#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV4K.png" group-title="央视频道",CCTV4K
-https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1791111600-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-8f7fc6b2c2faa4c789456989e04a46ea&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
-#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV4K.png" group-title="央视频道",CCTV4K
-https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1791025200-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-ac29f7b1f9ceb436acf7a4f1e27e134b&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-5.png" group-title="央视频道",CCTV5
 http://153.0.171.163:85/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-5.png" group-title="央视频道",CCTV5
