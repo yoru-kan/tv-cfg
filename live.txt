@@ -1,7 +1,7 @@
 央视频道,#genre#
-CCTV1,http://120.40.39.246:352/newlive/live/hls/1/live.m3u8
-CCTV1,http://219.147.245.238:25480/newlive/live/hls/1/live.m3u8
 CCTV1,http://113.57.140.161:10081/newlive/live/hls/1/live.m3u8
+CCTV1,http://74.91.26.218:82/live/cctv1hd.m3u8
+CCTV1,http://204.12.221.218:8181/3m1080p/cctv1.m3u8
 CCTV2,http://116.128.243.121:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV2,http://204.12.221.218:8181/3m1080p/cctv2.m3u8
 CCTV2,http://183.10.180.81:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -107,6 +107,9 @@ CGTN西语,http://183.51.190.156:6633/rtp/239.77.0.221:5146
 CGTN阿语,http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd.m3u8
 CGTN阿语,https://arabic-liveali.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
 CGTN阿语,https://0472.org/hls/cgtna.m3u8
+上海第一财经,https://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
+上海第一财经,http://hlsztemgsplive.miguvideo.com:8080/wd_r1/2018/bestv/dycj/1000/index.m3u8?msisdn=2026100102030745b3f8ce61f24c1fa30b7d103fc5f71b&mdspid=&spid=699212&netType=0&sid=2201008312&pid=2028597139&timestamp=20261001020307&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608780988&ParentNodeID=-99&assertID=2201008312&client_ip=171.8.79.254&SecurityKey=20261001020307&promotionId=&mvid=2201008312&mcid=500020&playurlVersion=WX-A1-9.9.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=9a93e96b8ca3afaf0ff217207f78aa2d
+上海第一财经,http://t.061899.xyz/tl/tl.php?id=dycj
 中国交通,http://drive.mxmy.net:8888/udp/239.3.1.188:8001
 北京新闻,http://114.242.62.109:888/hls/25/index.m3u8
 北京新闻,https://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
