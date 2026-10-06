@@ -124,9 +124,9 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 电视指南,http://tonyk.56301232.xyz:3477/rtp/239.37.0.115:5540
 
 卫视频道,#genre#
-三沙卫视,http://8.138.7.223/tv/ssws.m3u8
 三沙卫视,http://107.150.60.122/live/ssws.m3u8
 三沙卫视,http://38.75.136.137:98/gslb/dsdqpub/ssws.m3u8?auth=testpub
+三沙卫视,http://198.204.228.26/live/ssws.m3u8
 东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 东南卫视,http://107.150.60.122/live/dnwshd.m3u8
 东南卫视,http://38.75.136.137:98/gslb/dsdqpub/dnwshd.m3u8?auth=testpub
@@ -309,9 +309,9 @@ TVBS新闻台,http://61.221.215.25:8800/hls/9/index.m3u8
 广东珠江,http://38.75.136.137:98/gslb/dsdqpub/gdzj.m3u8?auth=testpub
 广东珠江,http://198.204.228.26/live/gdzj.m3u8
 广东珠江,http://iptv.4666888.xyz/iptv2A.php?id=7
-广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=f0147ae6453a80f5989f382368b72aad&txTime=18d00acf487
 广州综合,http://tencentplaygzrb01.gztv.com/live/zonghes.m3u8
 广州综合,http://r.jdshipin.com/iR6Gq
+广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=439b0fd2cf766b363c93a59cbcbe1370&txTime=18d00acf488
 无线新闻台,http://cdn6.123.rr.kg/163189/wxxw
 无线新闻台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV62.m3u8
 无线新闻台,http://r.jdshipin.com/CkuBd
@@ -369,6 +369,8 @@ CHC电影,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240325_1/playlist.m
 与凤行,http://222.186.39.21:35466/huya/26355866
 与凤行,https://live.ottiptv.cc/huya/26355866
 东阳影视生活,http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8
+仙剑奇侠传,http://8.155.43.98:35455/yy/1382749903
+仙剑奇侠传,https://live.ottiptv.cc/yy/1382749903
 倚天屠龙记,https://live.ottiptv.cc/huya/11342403
 倚天屠龙记,http://live.metshop.top/huya/11342403
 倚天屠龙记,https://live.metshop.top/huya/23734246
