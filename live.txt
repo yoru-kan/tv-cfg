@@ -107,6 +107,9 @@ CGTN西语,http://183.51.190.156:6633/rtp/239.77.0.221:5146
 CGTN阿语,http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd.m3u8
 CGTN阿语,https://arabic-liveali.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
 CGTN阿语,https://0472.org/hls/cgtna.m3u8
+上海第一财经,https://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
+上海第一财经,http://hlsztemgsplive.miguvideo.com:8080/wd_r1/2018/bestv/dycj/1000/index.m3u8?msisdn=202610060203064f23396c4d5f4bb1a2b31e4519780ef3&mdspid=&spid=699212&netType=0&sid=2201008312&pid=2028597139&timestamp=20261006020306&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608780988&ParentNodeID=-99&assertID=2201008312&client_ip=171.8.79.254&SecurityKey=20261006020306&promotionId=&mvid=2201008312&mcid=500020&playurlVersion=WX-A1-9.9.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=043301d3d47ee28a3c39a85a3cc9568c
+上海第一财经,https://live.chinacert.cftest5.cn/cnmg/live/608780988
 北京新闻,http://8.138.7.223/tv/bj.php?id=0007
 北京新闻,http://114.242.62.109:888/hls/25/index.m3u8
 北京新闻,https://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
@@ -133,9 +136,9 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 云南卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ynwshd
 云南卫视,http://192.151.150.154/live/ynwshd.m3u8
 云南卫视,http://120.76.248.139/live/bfgd/4200000482.m3u8
-人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
-人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
+人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
+人间卫视,https://stream1.freetv.fun/05b9099bef592e55129817a0f82b4cc60378970bc856b993ae9e330e85f4351f.m3u8
 内蒙古卫视,http://play1-qk.nmtv.cn/live/1769652018126032.m3u8
 内蒙古卫视,http://120.76.248.139/live/bfgd/4200000110.m3u8
 内蒙古卫视,https://live.264788.xyz/channel/neimengguweishi?streamid=81a015dbecf3031d7d847b7a9b059f67&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
@@ -187,9 +190,9 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 江苏卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=jswshd
 江苏卫视,http://107.150.60.122/live/jswshd.m3u8
 江苏卫视,http://38.75.136.137:98/gslb/dsdqpub/jswshd.m3u8?auth=testpub
-江西卫视,https://live.ottiptv.cc/mg/783847495.m3u8?userid=7016733139&sign=91e84b50af9216483096306d61734ea9edd2797666789fd15a3cdf259e4830e4d6094393cff3ddaa6c802c2358dd7851b3d5fbeca633918544afbedaeff0932cd8c58466773e60c0e59eb7d910f8602f4a&auth_token=f0fae0390afc154591af60a5ceedcb38
 江西卫视,http://107.150.60.122/live/jxwshd.m3u8
 江西卫视,http://116.236.204.18:1234/783847495
+江西卫视,https://jsp-tv-live.jxtvcn.com.cn/live-jsp/tv_jxtv2.m3u8?t=1791172803&token=d3a95c96-0636-4b15-b788-c77b2ae82c9c&d=a028b90c91c4466daeed76c9cf08a3b6
 河北卫视,http://event.pull.hebtv.com/jishi/weishi_tingyun.m3u8
 河北卫视,http://38.75.136.137:98/gslb/dsdqpub/hewshd.m3u8?auth=testpub
 河北卫视,http://204.12.221.218:8181/3m1080p/hews.m3u8
@@ -225,12 +228,13 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 贵州卫视,http://38.75.136.137:98/gslb/dsdqpub/gzwshd.m3u8?auth=testpub
 贵州卫视,http://204.12.221.218:8181/3m1080p/gzws.m3u8
 贵州卫视,https://live.264788.xyz/channel/guizhouweishi?streamid=091bd59ea031989839c23459bb8cc9d4&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-辽宁卫视,http://38.75.136.137:98/gslb/dsdqpub/lnwshd.m3u8?auth=testpub
 辽宁卫视,http://198.204.228.26/live/lnwshd.m3u8
 辽宁卫视,http://61.136.172.236:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
-重庆卫视,https://live.ottiptv.cc/mg/738910914.m3u8?userid=7016733139&sign=ef39eb9c3fad579a7adce6d24a433f76299eb7717feb20b579e9157ff5d4a5fc57c44c782e069f41e251b95444e4675e3eb1987abaf8176340be70c432443c46a101379a35d38458478be2182afdd6c2ef&auth_token=f0fae0390afc154591af60a5ceedcb38
+辽宁卫视,http://107.150.60.122/live/lnwshd.m3u8
 重庆卫视,http://107.150.60.122/live/cqwshd.m3u8
 重庆卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cqwshd
+重庆卫视,http://iptv.huuc.edu.cn/hls/cqhd.m3u8
+陕西农林卫视,https://live.chinacert.cftest5.cn/cnmg/live/956904896
 陕西卫视,http://107.150.60.122/live/snwshd.m3u8
 陕西卫视,https://live.264788.xyz/channel/shaanxiweishi?streamid=9dc887dba8ecb4e4143baf4f2373800c&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 陕西卫视,http://192.151.150.154/live/snwshd.m3u8
@@ -315,9 +319,9 @@ TVBS新闻台,http://61.221.215.25:8800/hls/9/index.m3u8
 明珠台,http://cdn3.123.rr.kg/stream/tvb/mzt/
 明珠台,http://iptv.4666888.xyz/iptv2A.php?id=29
 明珠台,http://cdn10.123.rr.kg/163189/mzt/
-有线新闻,http://61.10.2.140/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
-有线新闻,http://61.10.2.141/live_freedirect/hd110_h.live/playlist.m3u8
 有线新闻,http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/chunklist_w1949275579.m3u8
+有线新闻,http://61.10.2.140/live_freedirect/freehd209_h.live/playlist.m3u8
+有线新闻,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
 民视新闻,http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
 民视新闻,http://211.72.174.95:8117/0.ts
 民视新闻,https://d2jc41c1shgcol.cloudfront.net/live/ftvnewsqt/playlist.m3u8
@@ -356,6 +360,8 @@ TVBS新闻台,http://61.221.215.25:8800/hls/9/index.m3u8
 龙祥电影,http://43.251.226.89:8080/play/678.m3u8$LR•IPV4『线路1』
 
 影视剧场,#genre#
+CHC电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
+CHC电影,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240325_1/playlist.m3u8?CONTENTID=00000110240325_1
 上虞文化影视,http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
 上虞文化影院,http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
 上虞文化影院,http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8?zzhed
@@ -363,6 +369,9 @@ TVBS新闻台,http://61.221.215.25:8800/hls/9/index.m3u8
 与凤行,http://8.155.43.98:35455/huya/26355866
 与凤行,http://222.186.39.21:35466/huya/26355866
 与凤行,https://live.ottiptv.cc/huya/26355866
+东方影视,https://live.chinacert.cftest5.cn/cnmg/live/617290047
+东方影视,https://zby.130519.xyz/PLTV/11/224/3221225744/index.m3u8
+东方影视,http://t.061899.xyz/tl/tl.php?id=dfys
 东阳影视生活,http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8
 仙剑奇侠传,http://8.155.43.98:35455/yy/1382749903
 仙剑奇侠传,https://live.ottiptv.cc/yy/1382749903
@@ -435,7 +444,6 @@ TVBS新闻台,http://61.221.215.25:8800/hls/9/index.m3u8
 狄仁杰电影,https://live.metshop.top/huya/30080229
 玫瑰的故事,https://live.ottiptv.cc/huya/23865142
 电影八点档,http://live.metshop.top/huya/880261?cdn=alicdn
-电影谍战片,http://live.metshop.top/huya/21059587?cdn=alicdn
 笑傲江湖,https://live.metshop.top/huya/23865142
 笑傲江湖,https://live.ottiptv.cc/huya/26355790
 笑傲江湖,https://live.metshop.top/huya/26355790
