@@ -5,9 +5,9 @@ CCTV1,http://74.91.26.218:82/live/cctv1hd.m3u8
 CCTV2,http://116.128.243.121:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV2,http://198.204.228.26/live/cctv2hd.m3u8
 CCTV2,http://173.208.212.130:8181/720p/cctv2.m3u8
-CCTV3,http://107.150.60.122/live/cctv3hd.m3u8
 CCTV3,http://153.0.171.163:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV3,http://74.91.26.218:82/live/cctv3hd.m3u8
+CCTV3,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv3hd
 CCTV4,http://58.56.162.102:4466/newlive/live/hls/4/live.m3u8
 CCTV4,https://live.ottiptv.cc/mg/631780421.m3u8?userid=7016733139&sign=2d3df5fe45b2ed5067ea472475bc3d67962f66e2199020c505ee074948266f8c774f104db445f3b6c3e055602d3151af88bdb1a285bdf450fa67aa36890f855635350dc0028b16ea4d4f32635aa964a1de&auth_token=f0fae0390afc154591af60a5ceedcb38
 CCTV4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1791284400-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-548948e1323eab76cb910225f8f64399&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
@@ -50,9 +50,9 @@ CCTV15,http://101.66.194.121:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&
 CCTV16,http://183.129.255.66:8480/hls/17/index.m3u8
 CCTV16,http://58.56.162.102:4466/newlive/live/hls/17/live.m3u8
 CCTV16,http://207.56.13.146:81/cdnlive/cctv16.m3u8
-CCTV17,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv17hd
 CCTV17,https://live.264788.xyz/channel/cctv17?streamid=f9c36f1e95b5b35eac89cc89583e7c0a&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 CCTV17,http://222.169.85.8:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV17,http://1.197.250.140:9901/tsfile/live/0007_2.m3u8?key=txiptv&playlive=1&authid=0
 CCTV世界地理,http://111.61.236.247:9081/hls/62/index.m3u8
 CCTV世界地理,http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
 CCTV世界地理,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=sjdl
@@ -234,7 +234,6 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 重庆卫视,http://107.150.60.122/live/cqwshd.m3u8
 重庆卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cqwshd
 重庆卫视,http://iptv.huuc.edu.cn/hls/cqhd.m3u8
-陕西农林卫视,https://live.chinacert.cftest5.cn/cnmg/live/956904896
 陕西卫视,https://live.264788.xyz/channel/shaanxiweishi?streamid=9dc887dba8ecb4e4143baf4f2373800c&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 陕西卫视,http://192.151.150.154/live/snwshd.m3u8
 陕西卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=snwshd
@@ -369,9 +368,6 @@ CHC电影,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240325_1/playlist.m
 与凤行,http://8.155.43.98:35455/huya/26355866
 与凤行,http://222.186.39.21:35466/huya/26355866
 与凤行,https://live.ottiptv.cc/huya/26355866
-东方影视,https://live.chinacert.cftest5.cn/cnmg/live/617290047
-东方影视,https://zby.130519.xyz/PLTV/11/224/3221225744/index.m3u8
-东方影视,http://t.061899.xyz/tl/tl.php?id=dfys
 东阳影视生活,http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8
 仙剑奇侠传,http://8.155.43.98:35455/yy/1382749903
 仙剑奇侠传,https://live.ottiptv.cc/yy/1382749903
