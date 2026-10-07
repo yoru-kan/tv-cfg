@@ -252,6 +252,9 @@ BeautifulLifeTV,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
 HOYTV,http://cdn.123.rr.kg/163189/hoy
 HOYTV,http://cdn6.123.rr.kg/163189/hoy
 HOYTV,https://liveopen.siliconweb.com/openTvLive/liveopen/playlist.m3u8
+J2,http://r.jdshipin.com/ndGgS
+J2,https://hls-gateway.vpstv.net/streams/476932.m3u8
+J2,http://api.kkitv.itv888.vip:8080/streams/48uxa7dlbga/index.m3u8
 PetClubTV,https://petclub-samsungaus.amagi.tv/playlist.m3u8
 PetClubTV,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=02fe7cf0f125a2b343582a63a8f9855b;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;machineid=495211d81289c09b;userip=36.231.95.229;useragent=Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2012%3B%20V2166A%20Build%2Fd063e58.0%29;source=dl_app
 PetClubTV,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=02fe7cf0f125a2b343582a63a8f9855b;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL

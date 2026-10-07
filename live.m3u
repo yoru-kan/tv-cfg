@@ -497,6 +497,12 @@ http://cdn.123.rr.kg/163189/hoy
 http://cdn6.123.rr.kg/163189/hoy
 #EXTINF:-1 tvg-name="HOYTV" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/HOY TV.png" group-title="港澳台",HOYTV
 https://liveopen.siliconweb.com/openTvLive/liveopen/playlist.m3u8
+#EXTINF:-1 tvg-name="J2" tvg-logo="https://www.xn--rgv465a.top/tvlogo/J2.png" group-title="港澳台",J2
+http://r.jdshipin.com/ndGgS
+#EXTINF:-1 tvg-name="J2" tvg-logo="https://www.xn--rgv465a.top/tvlogo/J2.png" group-title="港澳台",J2
+https://hls-gateway.vpstv.net/streams/476932.m3u8
+#EXTINF:-1 tvg-name="J2" tvg-logo="https://www.xn--rgv465a.top/tvlogo/J2.png" group-title="港澳台",J2
+http://api.kkitv.itv888.vip:8080/streams/48uxa7dlbga/index.m3u8
 #EXTINF:-1 tvg-name="PetClubTV" tvg-logo="https://i.imgur.com/ykPNNwQ.png" group-title="港澳台",PetClubTV
 https://petclub-samsungaus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="PetClubTV" tvg-logo="https://i.imgur.com/ykPNNwQ.png" group-title="港澳台",PetClubTV
