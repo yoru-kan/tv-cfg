@@ -190,6 +190,9 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 新疆卫视,http://218.84.12.186:8001/hls/main/playlist.m3u8?zxinjd;http://218.84.12.186:8001/hls/main/playlist.m3u8zxinjd
 新疆卫视,http://198.204.228.26/live/xjws.m3u8
 新疆卫视,https://live.264788.xyz/channel/xinjiangweishi?streamid=4f481f56ae39ce5d24203471de9df635&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+江苏卫视,https://live.ottiptv.cc/mg/623899368.m3u8?userid=7016733139&sign=1e9ce7678ecb5a1f240ced5c1f0aa671627da98b07a4ca3ecff3abc11cdeb5262c4022bdf253e3bb05d318303229ccd3fc11e54afb745636ad5e3dd77499e8c10106ecd3d261369ee105dffb3a11f5fab7&auth_token=f0fae0390afc154591af60a5ceedcb38
+江苏卫视,https://hwapi.yntv.net/ew265l/z1z6s5.m3u8
+江苏卫视,http://104.152.209.49:8181/720p/jsws.m3u8
 江西卫视,http://107.150.60.122/live/jxwshd.m3u8
 江西卫视,https://jsp-tv-live.jxtvcn.com.cn/live-jsp/tv_jxtv2.m3u8?t=1791172803&token=d3a95c96-0636-4b15-b788-c77b2ae82c9c&d=a028b90c91c4466daeed76c9cf08a3b6
 江西卫视,https://jsp-tv-live.jxtvcn.com.cn/live-jsp/tv_jxtv1.m3u8?t=1790784475&token=24f0c3cc-d328-4224-b1a2-02b79192edec&d=a9f59b1fb82e40cb847df7a741564259
@@ -216,9 +219,9 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 甘肃卫视,http://218.13.170.98:9901/tsfile/live/0141_1.m3u8
 甘肃卫视,http://38.75.136.137:98/gslb/dsdqpub/gswshd.m3u8?auth=testpub
 甘肃卫视,http://120.76.248.139/live/bfgd/4200000119.m3u8
-福建海峡卫视,http://38.64.72.148:80/hls/modn/list/4009/playlist.m3u8
 福建海峡卫视,http://r.jdshipin.com/WtYt3
 福建海峡卫视,http://38.64.72.148:80/hls/modn/list/4009/chunklist0.m3u8
+福建海峡卫视,http://38.64.72.148/hls/modn/list/4009/playlist.m3u8
 西藏卫视,https://live.264788.xyz/channel/xizangweishi?streamid=4b4e8ea919f1cfd5e43deed1d1675251&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 西藏卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=xzws
 西藏卫视,http://101.35.240.114:88/live.php?id=西藏卫视
@@ -242,16 +245,12 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 黑龙江卫视,http://iptv.huuc.edu.cn/hls/hljhd.m3u8
 
 港澳台,#genre#
-BeautifulLifeTV,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
 HOYTV,http://cdn.123.rr.kg/163189/hoy
 HOYTV,http://cdn6.123.rr.kg/163189/hoy
 HOYTV,https://liveopen.siliconweb.com/openTvLive/liveopen/playlist.m3u8
-J2,http://r.jdshipin.com/ndGgS
-J2,https://hls-gateway.vpstv.net/streams/476932.m3u8
-J2,http://api.kkitv.itv888.vip:8080/streams/48uxa7dlbga/index.m3u8
+PetClubTV,https://petclub-samsungaus.amagi.tv/playlist.m3u8
 PetClubTV,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8
 PetClubTV,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=02fe7cf0f125a2b343582a63a8f9855b;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;machineid=495211d81289c09b;userip=36.231.95.229;useragent=Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2012%3B%20V2166A%20Build%2Fd063e58.0%29;source=dl_app
-PetClubTV,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=02fe7cf0f125a2b343582a63a8f9855b;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
 TVBPlus,http://cdn3.123.rr.kg/stream/tvb/tvbp/
 TVBPlus,https://cdn3.indevs.in/stream/tvb/tvbp/
 TVBPlus,http://cdn10.123.rr.kg/163189/tvbp/
