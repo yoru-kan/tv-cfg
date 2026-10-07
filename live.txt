@@ -119,9 +119,9 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 山东教育,https://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8
 山东教育,http://183.11.239.36:808/hls/72/index.m3u8
 山东教育,http://116.236.204.18:1234/609154353
-海峡卫视,http://58.210.97.102:1234/849119120
 海峡卫视,http://8.138.7.223/tv/hxws.m3u8
 海峡卫视,http://t.061899.xyz/tl/tl.php?id=hxws
+海峡卫视,http://183.239.235.3:1234/849119120
 电视指南,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dszn
 电视指南,http://107.150.60.122/live/dszn.m3u8
 电视指南,http://tonyk.56301232.xyz:3477/rtp/239.37.0.115:5540
@@ -327,11 +327,14 @@ TVBS新闻台,http://61.221.215.25:8800/hls/9/index.m3u8
 民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 民视新闻台,http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
 民视新闻台,http://live4play.uk/livehttpplay?channel_id=20097
-港台电视31,http://cdn.123.rr.kg/163189/rthk31
-港台电视31,http://iptv.4666888.xyz/iptv2A.php?id=23
 港台电视31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
+港台电视31,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31
+港台电视31,https://cdn5.163189.xyz/live/rthk31/stream.m3u8
 环球电视,http://utv1.hqtvzb.com:9999/hls/world.m3u8
 环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
+纬来体育,http://31.43.191.125:8080/restream/restream/34855
+纬来体育,https://smart.pendy.dpdns.org/Smart.php?id=videolandsport
+纬来体育,https://hls-gateway.vpstv.net/streams/477026.m3u8
 纬来精采,http://61.221.215.25:8800/hls/48/index.m3u8
 纬来精采,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=4dab5a92e41236d0d252cad9c2a713b7;token=fRfrVRwByx2YB2HDJeYAgdVDU9tZVSat;machineid=495211d81289c09b;userip=36.231.95.229;useragent=Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2012%3B%20V2166A%20Build%2Fd063e58.0%29;source=dl_app
 纬来精采,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=4dab5a92e41236d0d252cad9c2a713b7;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
@@ -351,9 +354,6 @@ TVBS新闻台,http://61.221.215.25:8800/hls/9/index.m3u8
 龙华电影,http://iptv.4666888.xyz/iptv2A.php?id=56
 龙华电影,https://8.fast.hidns.vip/163189/lhdy
 龙华电影,http://iptv.4666888.xyz/iptv2A.php?id=45
-龙祥电影,http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34825
-龙祥电影,http://31.43.191.125:8080/restream/restream/34825
-龙祥电影,http://43.251.226.89:8080/play/678.m3u8$LR•IPV4『线路1』
 
 影视剧场,#genre#
 上虞文化影视,http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
