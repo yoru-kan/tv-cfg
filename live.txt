@@ -300,6 +300,10 @@ TVBS新闻台,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=f3818c484ecc5469
 唯心电视,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
 唯心电视,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
 唯心电视,https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+大立电视台,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+天映经典,https://cdn3.indevs.in/stream/live/ccm/
+天映经典,http://php.jdshipin.com:8880/smt.php?id=Celestial2
+天映经典,http://o11.163189.xyz/stream/live/ccm/
 寰宇新闻,http://222.128.55.152:9080/live/hy.m3u8
 寰宇新闻,http://jnzq.ohoyee.com:9080/live/xiangjiaoge-hyxw.m3u8
 寰宇新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
@@ -372,9 +376,9 @@ TVBS新闻台,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=f3818c484ecc5469
 刑事侦缉档案,http://cfss.cc/cdn/huya/23734169.flv
 刑事侦缉档案,https://live.metshop.top/huya/29465856
 刑事侦缉档案,http://footyun.top:35455/huya/23734169
-创世纪,http://footyun.top:35455/huya/23749083
 创世纪,https://live.metshop.top/huya/29465852
 创世纪,http://cfss.cc/cdn/huya/23749083.flv
+创世纪,https://live.metshop.top/huya/29465852$LR•IPV4『线路1』
 南宁影视娱乐,https://hls.nntv.cn/nnlive/YSYL_244.m3u8
 南宁影视娱乐,http://hls.nntv.cn/nnlive/YSYL_244.m3u8
 南宁影视娱乐,http://hls.nntv.cn/nnlive/NNTV_VOD_A.m3u8
@@ -432,9 +436,9 @@ TVBS新闻台,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=f3818c484ecc5469
 湖南电视剧,http://8.138.7.223/tv/mgtv.php?id=484
 湖南电视剧,http://phoneal.qing.mgtv.com/nn_live/nn_x64/Y2hzPSZkZWY9MSZ1aXA9MTA2LjE0LjM4LjU1JnRlcm09NSZtYWNpZD02ODZlOGNmOGM4OGU3N2VjOWEwNzkzMjg5ZjUzNDg0MmFiZWM0ZjNjJnFpZD0mcmF1dGhfZW5hYmxlPW9uJmNkbmV4X2lkPWFsX3Bob25lMyZlcz0xNzkwODExNzA0JnV1aWQ9MjY4MzVmZDQ3ZmJiYzk4ZWNhYTJiMzdiODMxOWIwNGQtNmEwZTI2Mzcmcz1hMWI3YTI2ZmVkZTAzZTA0MmFhMTE3MTQ3MjVlZDdkNiZ1aWQ9Jm5kdj1pb3MtNi41LjAmdj0yJmFzPTAmX2NhckNvZGU9MA,,/HNDSMPP360.m3u8
 狄仁杰电影,https://live.metshop.top/huya/30080229
-玫瑰的故事,http://footyun.top:35455/huya/23865142
 玫瑰的故事,http://cfss.cc/cdn/huya/23865142.flv
 玫瑰的故事,https://live.ottiptv.cc/huya/23865142
+玫瑰的故事,http://footyun.top:35455/huya/23865142
 甄子丹电影,https://live.metshop.top/huya/11352935
 甄子丹电影,http://cdn.jdshipin.com:8880/huya.php?id=11352935
 甄子丹电影,http://live.iill.top/huya.php?id=11352935
@@ -451,9 +455,6 @@ TVBS新闻台,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=f3818c484ecc5469
 贺岁电影,https://live.metshop.top/huya/11601986
 贺岁电影,http://footyun.top:35455/huya/11601986
 贺岁电影,http://cfss.cc/cdn/huya/11601986.flv
-都市剧场,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dsjchd
-都市剧场,http://38.75.136.137:98/gslb/dsdqpub/dsjchd.m3u8?auth=testpub
-都市剧场,https://zby.130519.xyz/PLTV/11/224/3221225762/index.m3u8
 野蛮亲家,http://footyun.top:35455/huya/23863796
 野蛮亲家,https://live.metshop.top/huya/23863796
 野蛮亲家,https://huyazhibo.de5.net/?id=23863796
@@ -480,9 +481,9 @@ TVBS新闻台,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=f3818c484ecc5469
 天津体育,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjtv5
 天津体育,http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub
 天津体育,http://192.151.150.154/live/tjtv5.m3u8#http://lanfenggood.cn:4022/udp/225.1.1.122:5002
-广东体育,http://38.75.136.137:98/gslb/dsdqpub/gdty.m3u8?auth=testpub
 广东体育,https://epg.pw/stream/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.m3u8
 广东体育,http://198.204.228.26/live/gdty.m3u8
+广东体育,http://iptv.4666888.xyz/iptv2A.php?id=8
 快乐垂钓,https://phoneal.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/KLCDMPP360.m3u8
 快乐垂钓,http://116.236.204.18:1234/961930263
 快乐垂钓,http://drive.mxmy.net:8888/udp/239.3.1.164:8001
@@ -560,7 +561,6 @@ BRTV纪实科教,http://120.76.248.139/live/bfgd/4200000113.m3u8
 玛纳斯,http://218.84.127.245:1026/hls/main1/playlist.m3u8?zxinjd
 珲春新闻,http://stream8.jlntv.cn/hctv/sd/live.m3u8?zjild
 白山公共,http://stream8.jlntv.cn/baishan2/playlist.m3u8?zjild
-磐石,http://stream5.jlntv.cn/ps/sd/live.m3u8?zjild
 舒兰新闻,http://stream8.jlntv.cn/shulan/sd/live.m3u8?zjild
 辉南新闻,http://stream5.jlntv.cn/hn/sd/live.m3u8?zjild
 通化县,http://stream5.jlntv.cn/thx/sd/live.m3u8?zjild
