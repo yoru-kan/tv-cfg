@@ -248,7 +248,6 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 黑龙江卫视,http://hwzbout.yunshicloud.com/0spq8i/71gv42.m3u8
 
 港澳台,#genre#
-BeautifulLifeTV,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
 HOYTV,http://cdn6.123.rr.kg/163189/hoy
 HOYTV,http://cdn.123.rr.kg/163189/hoy
 HOYTV,https://liveopen.siliconweb.com/openTvLive/liveopen/playlist.m3u8
@@ -270,6 +269,9 @@ TVBS新闻台,http://rihou.cc:555/tv/[FY]tvbS新闻
 三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
 三立戏剧,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=518b909ed6614cd138677611897c162c;token=fRfrVRwByx2YB2HDJeYAgdVDU9tZVSat;machineid=495211d81289c09b;userip=36.231.95.229;useragent=Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2012%3B%20V2166A%20Build%2Fd063e58.0%29;source=dl_app
 三立戏剧,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=518b909ed6614cd138677611897c162c;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
+东森洋片,http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34904
+东森洋片,http://31.43.191.125:8080/restream/restream/34904
+东森洋片,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=404c047310e78077b398d2b5999e8459;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 东森超视,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=163e6c3e3bd21f2beb6af46d4b6b9353;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;machineid=495211d81289c09b;userip=36.231.95.229;useragent=Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2012%3B%20V2166A%20Build%2Fd063e58.0%29;source=dl_app
 东森超视,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=163e6c3e3bd21f2beb6af46d4b6b9353;token=fRfrVRwByx2YB2HDJeYAgdVDU9tZVSat;machineid=495211d81289c09b;userip=36.231.95.229;useragent=Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2012%3B%20V2166A%20Build%2Fd063e58.0%29;source=dl_app
@@ -296,6 +298,7 @@ TVBS新闻台,http://rihou.cc:555/tv/[FY]tvbS新闻
 唯心电视,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
 唯心电视,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
 唯心电视,https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+大立电视台,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 天映经典,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:7E:2F:ED&stream=1919463
 天映经典,http://php.jdshipin.com:8880/smt.php?id=Celestial2
 天映经典,http://o11.163189.xyz/stream/live/ccm/
@@ -328,6 +331,9 @@ TVBS新闻台,http://rihou.cc:555/tv/[FY]tvbS新闻
 港台电视31,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31
 环球电视,http://utv1.hqtvzb.com:9999/hls/world.m3u8
 环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
+纬来体育,http://31.43.191.125:8080/restream/restream/34855
+纬来体育,https://smart.pendy.dpdns.org/Smart.php?id=videolandsport
+纬来体育,https://hls-gateway.vpstv.net/streams/477026.m3u8
 纬来精采,http://61.221.215.25:8800/hls/48/index.m3u8
 纬来精采,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=4dab5a92e41236d0d252cad9c2a713b7;token=fRfrVRwByx2YB2HDJeYAgdVDU9tZVSat;machineid=495211d81289c09b;userip=36.231.95.229;useragent=Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2012%3B%20V2166A%20Build%2Fd063e58.0%29;source=dl_app
 纬来精采,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=4dab5a92e41236d0d252cad9c2a713b7;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
@@ -338,12 +344,18 @@ TVBS新闻台,http://rihou.cc:555/tv/[FY]tvbS新闻
 翡翠台,http://iptv.4666888.xyz/iptv2A.php?id=28
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=j1
 翡翠台,http://r.jdshipin.com/thuYX
+靖天映画,http://31.43.191.125:8080/restream/restream/34838
+靖天映画,https://cdn12.178.indevs.in/163189/bd4752bd7828b2bf
+靖天映画,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv055&token=https://t.me/GPT_858
 香港卫视,https://hkstv.tv/api/m3u8-proxy?url=http%3A%2F%2Fwebcast.hkstv.tv%2Flivestream%2Fmutfysrq%2Fplaylist.m3u8
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
 龙华电影,https://8.fast.hidns.vip/163189/lhdy
 龙华电影,http://iptv.4666888.xyz/iptv2A.php?id=56
 龙华电影,http://iptv.4666888.xyz/iptv2A.php?id=45
+龙祥电影,http://31.43.191.125:8080/restream/restream/34825
+龙祥电影,http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34825
+龙祥电影,http://43.251.226.89:8080/play/678.m3u8$LR•IPV4『线路1』
 
 影视剧场,#genre#
 CHC家庭影院,http://192.151.150.154/live/chcjt.m3u8
@@ -435,7 +447,6 @@ CHC家庭影院,http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
 玫瑰的故事,https://live.ottiptv.cc/huya/23865142
 玫瑰的故事,http://footyun.top:35455/huya/23865142
 玫瑰的故事,http://cfss.cc/cdn/huya/23865142.flv
-电影梁家辉,http://live.metshop.top/huya/11342429?cdn=alicdn
 电影谍战片,http://live.metshop.top/huya/21059587?cdn=alicdn
 绍兴文化影视,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
 绍兴文化影视,https://stream1.freetv.fun/shao-xing-wen-hua-ying-shi-1.m3u8
@@ -514,9 +525,9 @@ CHC家庭影院,http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
 灌篮高手,https://live.ottiptv.cc/yy/1382735626
 灌篮高手,http://footyun.top:35455/yy/1382735626
 灌篮高手,http://www.douzhicloud.site:35455/yy/1382735626$LR•IPV4『线路1』
-猫和老鼠,https://cdn.ttvb.eu.org/huya/11352879
 猫和老鼠,https://live.metshop.top/huya/11352879
 猫和老鼠,https://live.ottiptv.cc/huya/11352879
+猫和老鼠,https://huyazhibo.de5.net/?id=11352879
 福州少儿,http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
 金鹰卡通,https://phoneal.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/JYKTMPP360.m3u8
 金鹰卡通,http://phoneal.qing.mgtv.com/nn_live/nn_x64/Y2hzPSZkZWY9MSZ1aXA9MTA2LjE0LjM4LjU1JnRlcm09NSZtYWNpZD02ODZlOGNmOGM4OGU3N2VjOWEwNzkzMjg5ZjUzNDg0MmFiZWM0ZjNjJnFpZD0mcmF1dGhfZW5hYmxlPW9uJmNkbmV4X2lkPWFsX3Bob25lMyZlcz0xNzkxMjAwMzY0JnV1aWQ9OWEyZmVmM2UzYjdhMzUyN2I2M2M4ZjdkN2E2MzI1ZWQtNmEwZTI2Mzcmcz1hZjNhZTk1Y2JkNDIyMTgxZDE2NDNhOWM3ZjA3ZGQwMSZ1aWQ9Jm5kdj1pb3MtNi41LjAmdj0yJmFzPTAmX2NhckNvZGU9MA,,/JYKTMPP360.m3u8
