@@ -237,7 +237,6 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 重庆卫视,http://222.223.41.27:8888/hls/43/index.m3u8
 重庆卫视,http://47.100.80.251:50001/738910914
 重庆卫视,http://61.138.99.166:10089/hls/87/index.m3u8
-陕西农林卫视,https://live.chinacert.cftest5.cn/cnmg/live/956904896
 陕西卫视,http://192.151.150.154/live/snwshd.m3u8
 陕西卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=snwshd
 陕西卫视,http://107.150.60.122/live/snwshd.m3u8
@@ -322,9 +321,9 @@ TVBS新闻台,http://rihou.cc:555/tv/[FY]tvbS新闻
 有线新闻,http://cm61-10-2-143.hkcable.com.hk/live_freedirect/hd110_h.live/playlist.m3u8
 有线新闻,http://61.10.2.140/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
 有线新闻,http://61.10.2.141:80/live_freedirect/freehd209_h.live/chunklist.m3u8
-民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 民视新闻,https://d2jc41c1shgcol.cloudfront.net/live/ftvnewsqt/playlist.m3u8
 民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
+民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
 民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 民视新闻台,http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
 民视新闻台,http://live4play.uk/livehttpplay?channel_id=20097
@@ -355,9 +354,9 @@ TVBS新闻台,http://rihou.cc:555/tv/[FY]tvbS新闻
 龙华电影,https://8.fast.hidns.vip/163189/lhdy
 龙华电影,http://iptv.4666888.xyz/iptv2A.php?id=56
 龙华电影,http://iptv.4666888.xyz/iptv2A.php?id=45
-龙祥电影,http://31.43.191.125:8080/restream/restream/34825
 龙祥电影,http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34825
 龙祥电影,http://43.251.226.89:8080/play/678.m3u8$LR•IPV4『线路1』
+龙祥电影,http://free.cnlive.club/channel/67548a4f.m3u8$LR•IPV4『线路2』
 
 影视剧场,#genre#
 CHC家庭影院,http://192.151.150.154/live/chcjt.m3u8
@@ -398,6 +397,7 @@ CHC家庭影院,http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
 大秦赋,http://footyun.top:35455/huya/23903130
 大秦赋,https://live.ottiptv.cc/huya/23903130
 大秦赋,http://cfss.cc/cdn/huya/23903130.flv
+如懿传,https://live.ottiptv.cc/huya/29465868
 妙手仁心,http://cfss.cc/cdn/huya/29465853.flv
 妙手仁心,https://huyazhibo.de5.net/?id=29465853
 妙手仁心,https://live.metshop.top/huya/29465853
