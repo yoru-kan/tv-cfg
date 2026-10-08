@@ -248,6 +248,7 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 黑龙江卫视,http://hwzbout.yunshicloud.com/0spq8i/71gv42.m3u8
 
 港澳台,#genre#
+BeautifulLifeTV,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
 HOYTV,https://liveopen.siliconweb.com/openTvLive/liveopen/playlist.m3u8
 HOYTV,http://r.jdshipin.com/sFw4S
 HOYTV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
@@ -302,9 +303,9 @@ TVBS新闻台,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=f3818c484ecc5469
 天映经典,https://cdn10.123.rr.kg/163189/ccm/
 天映经典,https://cdn3.indevs.in/stream/live/ccm/
 天映经典,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:7E:2F:ED&stream=1919463
-寰宇新闻,http://jnzq.ohoyee.com:9080/live/332123-hyxw.m3u8
 寰宇新闻,http://222.128.55.152:9080/live/hy.m3u8
 寰宇新闻,http://jnzq.ohoyee.com:9080/live/xiangjiaoge-hyxw.m3u8
+寰宇新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
 广东珠江,http://38.75.136.137:98/gslb/dsdqpub/gdzj.m3u8?auth=testpub
 广东珠江,http://198.204.228.26/live/gdzj.m3u8
 广东珠江,http://iptv.4666888.xyz/iptv2A.php?id=7
@@ -344,9 +345,6 @@ TVBS新闻台,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=f3818c484ecc5469
 翡翠台,http://iptv.4666888.xyz/iptv2A.php?id=28
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=j1
 翡翠台,http://r.jdshipin.com/thuYX
-靖天映画,http://31.43.191.125:8080/restream/restream/34838
-靖天映画,https://cdn12.178.indevs.in/163189/bd4752bd7828b2bf
-靖天映画,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv055&token=https://t.me/GPT_858
 香港卫视,https://hkstv.tv/api/m3u8-proxy?url=http%3A%2F%2Fwebcast.hkstv.tv%2Flivestream%2Fmutfysrq%2Fplaylist.m3u8
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
@@ -575,7 +573,10 @@ BRTV纪实科教,http://120.76.248.139/live/bfgd/4200000113.m3u8
 舒兰新闻,http://stream8.jlntv.cn/shulan/sd/live.m3u8?zjild
 辉南新闻,http://stream5.jlntv.cn/hn/sd/live.m3u8?zjild
 通化县,http://stream5.jlntv.cn/thx/sd/live.m3u8?zjild
+邯郸科教,https://jwcdnqx.hebyun.com.cn/live/hdkj/1500k/tzwj_video.m3u8
+邯郸科教,https://jwliveqxzb.hebyun.com.cn/hdkj/hdkj.m3u8
 金鹰纪实,https://phoneal.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/JYJSMPP360.m3u8
 金鹰纪实,http://183.11.239.36:808/hls/171/index.m3u8
 金鹰纪实,http://phoneal.qing.mgtv.com/nn_live/nn_x64/Y2hzPSZkZWY9MSZ1aXA9MTA2LjE0LjM4LjU1JnRlcm09NSZtYWNpZD02ODZlOGNmOGM4OGU3N2VjOWEwNzkzMjg5ZjUzNDg0MmFiZWM0ZjNjJnFpZD0mcmF1dGhfZW5hYmxlPW9uJmNkbmV4X2lkPWFsX3Bob25lMyZlcz0xNzkxMjAwMzY0JnV1aWQ9OWEyZmVmM2UzYjdhMzUyN2I2M2M4ZjdkN2E2MzI1ZWQtNmEwZTI2Mzcmcz1hZjNhZTk1Y2JkNDIyMTgxZDE2NDNhOWM3ZjA3ZGQwMSZ1aWQ9Jm5kdj1pb3MtNi41LjAmdj0yJmFzPTAmX2NhckNvZGU9MA,,/JYKTMPP360.m3u8
 靖宇,http://stream8.jlntv.cn/jytv/sd/live.m3u8?zjild
+龙井,http://stream8.jlntv.cn/ljtv/sd/live.m3u8?zjild
