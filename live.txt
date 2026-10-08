@@ -222,9 +222,9 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 甘肃卫视,http://38.75.136.137:98/gslb/dsdqpub/gswshd.m3u8?auth=testpub
 甘肃卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gswshd
 甘肃卫视,http://218.13.170.98:9901/tsfile/live/0141_1.m3u8
-福建海峡卫视,http://38.64.72.148:80/hls/modn/list/4009/playlist.m3u8
 福建海峡卫视,http://r.jdshipin.com/WtYt3
 福建海峡卫视,http://38.64.72.148:80/hls/modn/list/4009/chunklist0.m3u8
+福建海峡卫视,http://38.64.72.148/hls/modn/list/4009/playlist.m3u8
 西藏卫视,http://107.150.60.122/live/xzws.m3u8
 西藏卫视,http://112.27.5.218:9901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
 西藏卫视,https://live.264788.xyz/channel/xizangweishi?streamid=4b4e8ea919f1cfd5e43deed1d1675251&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
@@ -237,6 +237,7 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 重庆卫视,http://222.223.41.27:8888/hls/43/index.m3u8
 重庆卫视,http://61.138.99.166:10089/hls/87/index.m3u8
 重庆卫视,http://47.100.80.251:50001/738910914
+陕西农林卫视,https://live.chinacert.cftest5.cn/cnmg/live/956904896
 陕西卫视,http://107.150.60.122/live/snwshd.m3u8
 陕西卫视,http://192.151.150.154/live/snwshd.m3u8
 陕西卫视,https://live.264788.xyz/channel/shaanxiweishi?streamid=9dc887dba8ecb4e4143baf4f2373800c&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
@@ -248,10 +249,12 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 黑龙江卫视,http://hwzbout.yunshicloud.com/0spq8i/71gv42.m3u8
 
 港澳台,#genre#
-BeautifulLifeTV,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
 HOYTV,http://cdn.123.rr.kg/163189/hoy
 HOYTV,http://cdn6.123.rr.kg/163189/hoy
 HOYTV,https://liveopen.siliconweb.com/openTvLive/liveopen/playlist.m3u8
+J2,http://r.jdshipin.com/ndGgS
+J2,https://hls-gateway.vpstv.net/streams/476932.m3u8
+J2,http://api.kkitv.itv888.vip:8080/streams/48uxa7dlbga/index.m3u8
 PetClubTV,https://petclub-samsungaus.amagi.tv/playlist.m3u8
 PetClubTV,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=02fe7cf0f125a2b343582a63a8f9855b;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;machineid=495211d81289c09b;userip=36.231.95.229;useragent=Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2012%3B%20V2166A%20Build%2Fd063e58.0%29;source=dl_app
 PetClubTV,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=02fe7cf0f125a2b343582a63a8f9855b;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
@@ -261,9 +264,9 @@ TVBPlus,http://cdn10.123.rr.kg/163189/tvbp/
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
-TVBS新闻台,http://38.64.72.148/hls/modn/list/4027/playlist.m3u8
 TVBS新闻台,http://61.221.215.25:8800/hls/9/index.m3u8
 TVBS新闻台,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=f3818c484ecc5469690bbd713c31465d;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;machineid=495211d81289c09b;userip=36.231.95.229;useragent=Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2012%3B%20V2166A%20Build%2Fd063e58.0%29;source=dl_app
+TVBS新闻台,http://rihou.cc:555/tv/[FY]tvbS新闻
 三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
 三立戏剧,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=518b909ed6614cd138677611897c162c;token=fRfrVRwByx2YB2HDJeYAgdVDU9tZVSat;machineid=495211d81289c09b;userip=36.231.95.229;useragent=Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2012%3B%20V2166A%20Build%2Fd063e58.0%29;source=dl_app
 三立戏剧,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=518b909ed6614cd138677611897c162c;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
@@ -315,12 +318,12 @@ TVBS新闻台,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=f3818c484ecc5469
 明珠台,http://cdn3.123.rr.kg/stream/tvb/mzt/
 明珠台,http://iptv.4666888.xyz/iptv2A.php?id=29
 明珠台,http://cdn10.123.rr.kg/163189/mzt/
-有线新闻,http://61.10.2.140/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
-有线新闻,http://cm61-10-2-143.hkcable.com.hk/live_freedirect/hd110_h.live/playlist.m3u8
 有线新闻,http://61.10.2.140/live_freedirect/freehd209_h.live/playlist.m3u8
-民视新闻,http://211.72.174.95:8117/0.ts
+有线新闻,http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u8
+有线新闻,http://cm61-10-2-140.hkcable.com.hk/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
 民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
 民视新闻,https://d2jc41c1shgcol.cloudfront.net/live/ftvnewsqt/playlist.m3u8
+民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 民视新闻台,http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
 民视新闻台,http://live4play.uk/livehttpplay?channel_id=20097
