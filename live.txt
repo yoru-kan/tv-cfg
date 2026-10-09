@@ -142,9 +142,6 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 内蒙古卫视,http://play1-qk.nmtv.cn/live/1769652018126032.m3u8
 内蒙古卫视,https://live.264788.xyz/channel/neimengguweishi?streamid=3e7340acf8869ac1c7dad1bb836dcd35&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 内蒙古卫视,http://107.150.60.122/live/nmgws.m3u8
-农林卫视,http://gxlive.snrtv.com/nlws-SD.m3u8
-农林卫视,http://120.76.248.139/live/bfgd/4200000122.m3u8
-农林卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221226204/index.m3u8
 北京卫视,http://38.75.136.137:98/gslb/dsdqbv/bjwshd.m3u8?auth=test20251009
 北京卫视,http://101.66.194.125:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=0&authid=0
 北京卫视,http://104.152.209.49:8181/720p/bjws.m3u8
@@ -196,6 +193,9 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 河北卫视,http://222.223.41.27:8888/hls/16/index.m3u8
 河北卫视,https://tv.pull.hebtv.com/jishi/nongminpindao.m3u8?t=1790782916&k=d43d5d6075dd9a5702e2bc61a3c15797
 河北卫视,http://101.66.194.125:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=0&authid=0
+河南卫视,http://47.100.80.251:50001/790187291
+河南卫视,http://116.236.204.18:1234/790187291
+河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=78bbeb3b6b4f097b23098c38f9bb4635&wsTime=1790789344
 浙江卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=zjwshd
 浙江卫视,http://zwebl02.cztv.com/live/channel01720Pnew.m3u8?auth_key=1791169322-da0df3030813da0ac5fda36840c89cb2-0-fbc31d61206c3315390422f48a09801d
 浙江卫视,http://zwebl02.cztv.com/live/channel01720Pnew.m3u8?auth_key=1790774944-b3ef21ee24e141de005bc4b6c0c6431d-0-0ee1eff4632c936985539c222a9fb285
@@ -324,6 +324,9 @@ TVBS新闻台,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=f3818c484ecc5469
 港台电视31,https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/master.m3u8
 环球电视,http://utv1.hqtvzb.com:9999/hls/world.m3u8
 环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
+纬来体育,http://31.43.191.125:8080/restream/restream/34855
+纬来体育,https://smart.pendy.dpdns.org/Smart.php?id=videolandsport
+纬来体育,https://hls-gateway.vpstv.net/streams/477026.m3u8
 纬来精采,http://61.221.215.25:8800/hls/48/index.m3u8
 纬来精采,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=4dab5a92e41236d0d252cad9c2a713b7;token=fRfrVRwByx2YB2HDJeYAgdVDU9tZVSat;machineid=495211d81289c09b;userip=36.231.95.229;useragent=Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2012%3B%20V2166A%20Build%2Fd063e58.0%29;source=dl_app
 纬来精采,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=4dab5a92e41236d0d252cad9c2a713b7;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
@@ -334,6 +337,9 @@ TVBS新闻台,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=f3818c484ecc5469
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali2
 翡翠台,http://r.jdshipin.com/qClQf
 翡翠台,http://r.jdshipin.com/qrfbg
+靖天映画,http://31.43.191.125:8080/restream/restream/34838
+靖天映画,https://cdn12.178.indevs.in/163189/bd4752bd7828b2bf
+靖天映画,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv055&token=https://t.me/GPT_858
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
 香港卫视,https://stream1.freetv.fun/5335c88a9a7d8b74173b491f480d4f94e8d3bd596af54478106aa2399e6c7917.ctv
