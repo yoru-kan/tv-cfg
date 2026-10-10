@@ -50,12 +50,16 @@ CCTV15,https://zby.130519.xyz/PLTV/11/224/3221226147/index.m3u8
 CCTV16,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
 CCTV16,http://183.10.180.81:9901/tsfile/live/1065_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV16,https://zby.130519.xyz/PLTV/11/224/3221226120/index.m3u8
+CCTV17,http://t.061899.xyz/tl/tl.php?id=cctv17
+CCTV17,http://1.197.250.140:9901/tsfile/live/0007_2.m3u8?key=txiptv&playlive=1&authid=0
+CCTV17,http://p.ytelc.com/169l/0/cctv.php?id=cctv17
 CCTV世界地理,http://111.61.236.247:9081/hls/62/index.m3u8
 CCTV世界地理,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=sjdl
 CCTV世界地理,http://www.lizhinas.top:1009/rtp/239.252.219.93:5140
 CCTV兵器科技,http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub
 CCTV兵器科技,https://live.264788.xyz/channel/bingqikeji?streamid=6fc55a0966bdad1e1cdf39a4d37dd776&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 CCTV兵器科技,http://198.204.228.26/live/gfjs.m3u8
+CCTV发现之旅,http://t.061899.xyz/tl/tl.php?id=fxzl
 CCTV台球,http://107.150.60.122/live/ystq.m3u8
 CCTV台球,http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
 CCTV台球,http://207.56.13.146:81/cdnlive/ystq.m3u8
@@ -223,7 +227,6 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 重庆卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cqwshd
 重庆卫视,http://iptv.huuc.edu.cn/hls/cqhd.m3u8
 重庆卫视,https://zby.130519.xyz/PLTV/11/224/3221226171/index.m3u8
-陕西农林卫视,https://live.chinacert.cftest5.cn/cnmg/live/956904896
 陕西卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=snwshd
 陕西卫视,http://107.150.60.122/live/snwshd.m3u8
 陕西卫视,http://192.151.150.154/live/snwshd.m3u8
@@ -301,6 +304,7 @@ ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
 唯心电视,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
 唯心电视,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
 唯心电视,https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+大立电视台,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 天映经典,https://cdn10.123.rr.kg/163189/ccm/
 天映经典,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:7E:2F:ED&stream=1919463
 天映经典,http://php.jdshipin.com:8880/smt.php?id=Celestial2
@@ -484,6 +488,8 @@ CHC动作电影,http://107.150.60.122/live/chcdz.m3u8
 陈情令,https://live.ottiptv.cc/huya/29465862
 陈情令,http://live.metshop.top/huya/29465862
 陈情令,http://cfss.cc/cdn/huya/29465862.flv
+韩国电影1,https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
+韩国电影2,https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
 鬼吹灯之云南虫谷,https://live.ottiptv.cc/huya/11352898
 鬼吹灯之云南虫谷,http://footyun.top:35455/huya/11352898
 鬼吹灯之云南虫谷,http://cdn.jdshipin.com:8880/huya.php?id=11352898
