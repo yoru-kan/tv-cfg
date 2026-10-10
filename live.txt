@@ -5,9 +5,9 @@ CCTV1,http://61.138.99.166:10089/hls/1/index.m3u8
 CCTV2,http://bztv.tvbus.cc:8081/cdnlive/cctv2.m3u8
 CCTV2,http://renpcboy.3322.org:8012/udp/239.3.1.60:8084
 CCTV2,http://183.10.180.81:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1791630000-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-7a92cfd6b700dd1a3ae56a8fc57b49be&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
-CCTV4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1791543600-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-f872dd313845e4aec1b29fb7ad13ec5e&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
-CCTV4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1791457200-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-235d22a222739a6f6bc1f1ae54b89de4&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
+CCTV3,http://t.061899.xyz/tl/tl.php?id=cctv3
+CCTV3,http://112.30.73.119:229/tsfile/live/0003_2.m3u8?key=txiptv&playlive=0&authid=0
+CCTV3,http://101.66.194.125:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV4K,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1791630000-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-d3aa6cfe2a82b3a05c2b6d064bca7fd1&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
 CCTV4K,http://107.150.60.122/live/cctv4k.m3u8
 CCTV4K,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1791543600-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-6745df98ca5d7e4a16fbabefc5ea5904&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
@@ -32,9 +32,9 @@ CCTV9,http://222.223.41.27:8888/hls/9/index.m3u8
 CCTV10,http://222.223.41.27:8888/hls/10/index.m3u8
 CCTV10,http://bztv.tvbus.cc:8081/cdnlive/cctv10.m3u8
 CCTV10,http://61.138.99.166:10089/hls/10/index.m3u8
-CCTV11,http://113.25.252.226:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV11,http://125.125.236.31:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV11,http://61.138.99.166:10089/hls/11/index.m3u8
+CCTV11,http://222.223.41.27:8888/hls/11/index.m3u8
 CCTV12,http://124.165.251.82:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV12,http://222.223.41.27:8888/hls/12/index.m3u8
 CCTV12,http://125.125.236.31:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -59,6 +59,7 @@ CCTV世界地理,http://204.12.221.218:8181/3m1080p/sjdl.m3u8
 CCTV兵器科技,http://204.12.221.218:8181/3m1080p/gfjs.m3u8
 CCTV兵器科技,https://live.264788.xyz/channel/bingqikeji?streamid=6fc55a0966bdad1e1cdf39a4d37dd776&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 CCTV兵器科技,http://207.56.13.146:81/cdnlive/gfjs.m3u8
+CCTV发现之旅,http://t.061899.xyz/tl/tl.php?id=fxzl
 CCTV台球,http://107.150.60.122/live/ystq.m3u8
 CCTV台球,http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
 CCTV台球,http://207.56.13.146:81/cdnlive/ystq.m3u8
@@ -148,9 +149,9 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 北京卫视,http://222.223.41.27:8888/hls/31/index.m3u8
 北京卫视,http://38.75.136.137:98/gslb/dsdqbv/bjwshd.m3u8?auth=test20251009
 北京卫视,http://61.138.99.166:10089/hls/68/index.m3u8
-厦门卫视,http://198.204.228.26/live/xmws.m3u8
 厦门卫视,http://107.150.60.122/live/xmws.m3u8
 厦门卫视,http://192.151.150.154/live/xmws.m3u8
+厦门卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=xmws
 吉林卫视,http://222.223.41.27:8888/hls/47/index.m3u8
 吉林卫视,http://47.100.80.251:50001/947472500
 吉林卫视,http://61.138.99.166:10089/hls/71/index.m3u8
@@ -370,6 +371,9 @@ ViuTV,http://r.jdshipin.com/vSJvl
 纬来精采,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=4dab5a92e41236d0d252cad9c2a713b7;token=fRfrVRwByx2YB2HDJeYAgdVDU9tZVSat;machineid=495211d81289c09b;userip=36.231.95.229;useragent=Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2012%3B%20V2166A%20Build%2Fd063e58.0%29;source=dl_app
 纬来精采,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=4dab5a92e41236d0d252cad9c2a713b7;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
 美亚C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
+美亚电影,http://31.43.191.125:8080/restream/restream/34848
+美亚电影,http://iptv.4666888.xyz/iptv2A.php?id=30
+美亚电影,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
 翡翠台,http://r.jdshipin.com/qrfbg
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali2
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
@@ -382,9 +386,18 @@ ViuTV,http://r.jdshipin.com/vSJvl
 翡翠台北美版,http://r.jdshipin.com/qClQf
 翡翠台北美版,http://php.jdshipin.com:8880/TVOD/iptv.php?id=j1
 翡翠台北美版,http://r.jdshipin.com/qrfbg
+靖天映画,http://31.43.191.125:8080/restream/restream/34838
+靖天映画,https://cdn12.178.indevs.in/163189/bd4752bd7828b2bf
+靖天映画,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv055&token=https://t.me/GPT_858
 香港卫视,https://hkstv.tv/api/m3u8-proxy?url=http%3A%2F%2Fwebcast.hkstv.tv%2Flivestream%2Fmutfysrq%2Fplaylist.m3u8
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
+龙华电影,https://8.fast.hidns.vip/163189/lhdy
+龙华电影,http://iptv.4666888.xyz/iptv2A.php?id=56
+龙华电影,http://iptv.4666888.xyz/iptv2A.php?id=45
+龙祥电影,http://31.43.191.125:8080/restream/restream/34825
+龙祥电影,http://43.251.226.89:8080/play/678.m3u8$LR•IPV4『线路1』
+龙祥电影,http://free.cnlive.club/channel/67548a4f.m3u8$LR•IPV4『线路2』
 
 影视剧场,#genre#
 CHC动作电影,http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
@@ -529,6 +542,9 @@ CHC动作电影,http://107.150.60.122/live/chcdz.m3u8
 中华小当家,https://huyazhibo.de5.net/?id=30613314
 中华小当家,https://live.metshop.top/huya/11342413
 中华小当家,https://live.ottiptv.cc/huya/11342413
+优漫卡通,http://t.061899.xyz/tl/tl.php?id=ymkt
+优漫卡通,https://stream1.freetv.fun/you-man-qia-tong-11.m3u8
+优漫卡通,https://www.freetv.top/migu/626064703.m3u8?migutoken=7f7c4b909389a0cd5172701768041a0f3887534c4534a68bf1dc85550389e9ab156655484be16e89604513fde9da2f036ebae28d31515b0be32eb12462f5de9d9cab8f00c44671241d5c6e1356
 名侦探柯南,https://huyazhibo.de5.net/?id=30080236
 名侦探柯南,https://live.ottiptv.cc/huya/30080236
 名侦探柯南,https://isus.cc/php/huya.php?id=30080236
