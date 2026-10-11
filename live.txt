@@ -214,8 +214,6 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 湖南卫视,http://61.138.99.166:10089/hls/60/index.m3u8
 湖南卫视,http://101.66.194.125:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=0&authid=0
 湖南卫视,http://1.197.250.140:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
-珠江卫视,http://iptv.4666888.xyz/iptv2A.php?id=19
-珠江卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.24:11111
 甘肃卫视,http://38.75.136.137:98/gslb/dsdqpub/gswshd.m3u8?auth=testpub
 甘肃卫视,http://218.13.170.98:9901/tsfile/live/0141_1.m3u8
 甘肃卫视,http://120.76.248.139/live/bfgd/4200000119.m3u8
@@ -248,7 +246,6 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 港澳台,#genre#
 AstroAOD,https://cdn3.indevs.in/stream/live/aod/
 AstroAOD,http://php.jdshipin.com/TVOD/iptv.php?id=aod
-BeautifulLifeTV,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
 PetClubTV,https://petclub-samsungaus.amagi.tv/playlist.m3u8
 PetClubTV,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8
 PetClubTV,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=02fe7cf0f125a2b343582a63a8f9855b;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;machineid=495211d81289c09b;userip=36.231.95.229;useragent=Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2012%3B%20V2166A%20Build%2Fd063e58.0%29;source=dl_app
@@ -350,16 +347,10 @@ ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 澳视澳门,http://r.jdshipin.com/n2YZI
 环球电视,http://utv1.hqtvzb.com:9999/hls/world.m3u8
 环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
-纬来体育,http://31.43.191.125:8080/restream/restream/34855
-纬来体育,https://smart.pendy.dpdns.org/Smart.php?id=videolandsport
-纬来体育,https://hls-gateway.vpstv.net/streams/477026.m3u8
 纬来精采,http://61.221.215.25:8800/hls/48/index.m3u8
 纬来精采,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=4dab5a92e41236d0d252cad9c2a713b7;token=fRfrVRwByx2YB2HDJeYAgdVDU9tZVSat;machineid=495211d81289c09b;userip=36.231.95.229;useragent=Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2012%3B%20V2166A%20Build%2Fd063e58.0%29;source=dl_app
 纬来精采,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=4dab5a92e41236d0d252cad9c2a713b7;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
 美亚C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
-美亚电影,http://31.43.191.125:8080/restream/restream/34848
-美亚电影,http://iptv.4666888.xyz/iptv2A.php?id=30
-美亚电影,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
 翡翠台,http://cdn6.123.rr.kg/163189/fct
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
