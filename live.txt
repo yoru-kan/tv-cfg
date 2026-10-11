@@ -32,9 +32,9 @@ CCTV8,http://222.169.85.8:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&aut
 CCTV9,http://116.236.204.18:1234/673168140
 CCTV9,https://v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=a7bcfda2a54c9c2ba49d2c04c5cdcafe
 CCTV9,http://45.192.97.170:8880/play/10.m3u8
-CCTV10,http://116.236.204.18:1234/624878405
 CCTV10,http://45.192.97.170:8880/play/13.m3u8
 CCTV10,http://t.061899.xyz/tl/tl.php?id=cctv10
+CCTV10,http://101.66.194.125:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV11,http://222.223.41.27:8888/hls/11/index.m3u8
 CCTV11,http://61.138.99.166:10089/hls/11/index.m3u8
 CCTV11,http://125.125.236.31:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -133,9 +133,9 @@ CGTN阿语,http://183.51.190.156:6633/rtp/239.253.43.200:5146
 三沙卫视,http://107.150.60.122/live/ssws.m3u8
 三沙卫视,http://38.75.136.137:98/gslb/dsdqpub/ssws.m3u8?auth=testpub
 三沙卫视,http://198.204.228.26/live/ssws.m3u8
-东南卫视,http://116.236.204.18:1234/849116810
 东南卫视,http://61.138.99.166:10089/hls/88/index.m3u8
 东南卫视,http://120.76.248.139/live/bfgd/4200000483.m3u8
+东南卫视,http://iptv.huuc.edu.cn/hls/dnhd.m3u8
 东方卫视,http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
 东方卫视,http://116.236.204.18:1234/651632648
 东方卫视,http://45.192.97.170:8880/play/29.m3u8
@@ -240,6 +240,7 @@ CGTN阿语,http://183.51.190.156:6633/rtp/239.253.43.200:5146
 重庆卫视,http://222.223.41.27:8888/hls/43/index.m3u8
 重庆卫视,http://107.150.60.122/live/cqwshd.m3u8
 重庆卫视,http://61.138.99.166:10089/hls/87/index.m3u8
+陕西农林卫视,https://live.chinacert.cftest5.cn/cnmg/live/956904896
 陕西卫视,http://107.150.60.122/live/snwshd.m3u8
 陕西卫视,http://45.192.97.170:8880/play/36.m3u8
 陕西卫视,https://live.264788.xyz/channel/shaanxiweishi?streamid=9dc887dba8ecb4e4143baf4f2373800c&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
@@ -319,7 +320,6 @@ ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 唯心电视,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
 唯心电视,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
 唯心电视,https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
-大立电视台,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 天映经典,https://cdn3.indevs.in/stream/live/ccm/
 天映经典,https://cdn10.123.rr.kg/163189/ccm/
 天映经典,http://php.jdshipin.com:8880/smt.php?id=Celestial2
@@ -377,6 +377,9 @@ ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 翡翠台4K,https://cdn3.indevs.in/stream/tvb/fct4k/
 翡翠台4K,http://r.jdshipin.com/qrfbg
 翡翠台4K,http://r.jdshipin.com/qClQf
+靖天映画,http://31.43.191.125:8080/restream/restream/34838
+靖天映画,https://cdn12.178.indevs.in/163189/bd4752bd7828b2bf
+靖天映画,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv055&token=https://t.me/GPT_858
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,https://hkstv.tv/api/m3u8-proxy?url=http%3A%2F%2Fwebcast.hkstv.tv%2Flivestream%2Fmutfysrq%2Fplaylist.m3u8
 香港卫视,http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
@@ -400,6 +403,9 @@ CHC电影,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240325_1/playlist.m
 与凤行,http://222.186.39.21:35466/huya/26355866
 与凤行,http://8.155.43.98:35455/huya/26355866
 与凤行,https://live.ottiptv.cc/huya/26355866
+东方影视,https://live.chinacert.cftest5.cn/cnmg/live/617290047
+东方影视,https://zby.130519.xyz/PLTV/11/224/3221225744/index.m3u8
+东方影视,http://t.061899.xyz/tl/tl.php?id=dfys
 东阳影视生活,http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8
 仙剑奇侠传,https://live.ottiptv.cc/yy/1382749903
 刑事侦缉档案,https://live.metshop.top/huya/29465856
