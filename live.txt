@@ -5,6 +5,9 @@ CCTV1,http://61.138.99.166:10089/hls/1/index.m3u8
 CCTV2,http://222.223.41.27:8888/hls/2/index.m3u8
 CCTV2,http://183.10.180.46:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2,http://61.138.99.166:10089/hls/2/index.m3u8
+CCTV3,http://45.192.97.170:8880/play/3.m3u8
+CCTV3,http://101.66.195.33:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV3,http://t.061899.xyz/tl/tl.php?id=cctv3
 CCTV4,http://222.223.41.27:8888/hls/4/index.m3u8
 CCTV4,http://58.56.162.102:4466/newlive/live/hls/4/live.m3u8
 CCTV4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1791802800-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-fda1c76f22057f8b91c2564856664592&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
@@ -20,6 +23,9 @@ CCTV5+,http://120.198.95.220:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&
 CCTV6,http://116.236.204.18:1234/624878396
 CCTV6,http://183.10.180.81:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV6,http://101.66.194.125:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV7,http://45.192.97.170:8880/play/10.m3u8
+CCTV7,http://101.66.194.125:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV7,http://1.197.250.140:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV8,http://116.236.204.18:1234/624878356
 CCTV8,http://61.138.99.166:10089/hls/8/index.m3u8
 CCTV8,http://101.66.194.125:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -133,9 +139,9 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 云南卫视,http://61.138.99.166:10089/hls/92/index.m3u8
 云南卫视,http://120.76.248.139/live/bfgd/4200000482.m3u8
 云南卫视,http://p2.ioioz.com/xgplayer.php?id=https://hwapi.yntv.net/ew265l/z1z6s5.m3u8
-人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
+人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
 内蒙古卫视,http://107.150.60.122/live/nmgws.m3u8
 内蒙古卫视,https://live.264788.xyz/channel/neimengguweishi?streamid=3e7340acf8869ac1c7dad1bb836dcd35&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 内蒙古卫视,https://live.264788.xyz/channel/neimengguweishi?streamid=81a015dbecf3031d7d847b7a9b059f67&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
@@ -184,9 +190,12 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 新疆卫视,http://218.84.12.186:8001/hls/main/playlist.m3u8?zxinjd;http://218.84.12.186:8001/hls/main/playlist.m3u8zxinjd
 新疆卫视,http://38.75.136.137:98/gslb/dsdqpub/xjws.m3u8?auth=testpub
 新疆卫视,https://live.264788.xyz/channel/xinjiangweishi?streamid=4f481f56ae39ce5d24203471de9df635&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-江苏卫视,http://222.223.41.27:8888/hls/29/index.m3u8
 江苏卫视,http://47.100.80.251:50001/623899368
 江苏卫视,http://61.138.99.166:10089/hls/61/index.m3u8
+江苏卫视,https://hwapi.yntv.net/ew265l/z1z6s5.m3u8
+河北卫视,http://222.223.41.27:8888/hls/16/index.m3u8
+河北卫视,http://116.236.204.18:1234/962042070
+河北卫视,http://45.192.97.170:8880/play/34.m3u8
 河南卫视,http://47.100.80.251:50001/790187291
 河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=78bbeb3b6b4f097b23098c38f9bb4635&wsTime=1790789344
 河南卫视,http://101.66.194.125:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -225,6 +234,7 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 重庆卫视,http://222.223.41.27:8888/hls/43/index.m3u8
 重庆卫视,http://107.150.60.122/live/cqwshd.m3u8
 重庆卫视,http://61.138.99.166:10089/hls/87/index.m3u8
+陕西农林卫视,https://live.chinacert.cftest5.cn/cnmg/live/956904896
 陕西卫视,https://live.264788.xyz/channel/shaanxiweishi?streamid=9dc887dba8ecb4e4143baf4f2373800c&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 陕西卫视,http://t.061899.xyz/tl/tl.php?id=sxws
 陕西卫视,http://stream.snrtv.com/sxbc-star-qAEFTV.m3u8
@@ -251,9 +261,9 @@ PetClubTV,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=02fe7cf0f125a2b34358
 TVBPlus,http://cdn3.123.rr.kg/stream/tvb/tvbp/
 TVBPlus,http://cdn10.123.rr.kg/163189/tvbp/
 TVBPlus,http://r.jdshipin.com/ndGgS
-TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
+TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
 TVBS新闻台,http://38.64.72.148/hls/modn/list/4027/playlist.m3u8
 TVBS新闻台,http://61.221.215.25:8800/hls/9/index.m3u8
 TVBS新闻台,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=f3818c484ecc5469690bbd713c31465d;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;machineid=495211d81289c09b;userip=36.231.95.229;useragent=Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2012%3B%20V2166A%20Build%2Fd063e58.0%29;source=dl_app
@@ -388,6 +398,9 @@ CHC电影,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240325_1/playlist.m
 与凤行,http://8.155.43.98:35455/huya/26355866
 与凤行,https://live.ottiptv.cc/huya/26355866
 与凤行,http://live.ottiptv.cc/huya/26355866
+东方影视,https://live.chinacert.cftest5.cn/cnmg/live/617290047
+东方影视,https://zby.130519.xyz/PLTV/11/224/3221225744/index.m3u8
+东方影视,http://t.061899.xyz/tl/tl.php?id=dfys
 东阳影视生活,http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8
 仙剑奇侠传,https://live.ottiptv.cc/yy/1382749903
 刑事侦缉档案,https://live.metshop.top/huya/29465856
@@ -459,6 +472,7 @@ CHC电影,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240325_1/playlist.m
 玫瑰的故事,http://footyun.top:35455/huya/23865142
 玫瑰的故事,https://live.ottiptv.cc/huya/23865142
 玫瑰的故事,http://cfss.cc/cdn/huya/23865142.flv
+电影八点档,http://live.metshop.top/huya/880261?cdn=alicdn
 电影谍战片,http://live.metshop.top/huya/21059587?cdn=alicdn
 绍兴文化影视,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
 绍兴文化影视,https://stream1.freetv.fun/shao-xing-wen-hua-ying-shi-1.m3u8
@@ -537,9 +551,9 @@ CHC电影,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240325_1/playlist.m
 海绵宝宝,https://isus.cc/php/huya.php?id=11352919
 海绵宝宝,http://cfss.cc/cdn/huya/11352919.flv
 海绵宝宝,https://live.metshop.top/douyu/3949681
-灌篮高手,https://huyazhibo.de5.net/?id=25039461
 灌篮高手,http://footyun.top:35455/yy/1382735626
 灌篮高手,https://live.ottiptv.cc/yy/1382735626
+灌篮高手,http://www.douzhicloud.site:35455/yy/1382735626$LR•IPV4『线路1』
 猫和老鼠,https://huyazhibo.de5.net/?id=11352879
 猫和老鼠,https://live.ottiptv.cc/huya/11352879
 猫和老鼠,https://live.metshop.top/huya/11352879
