@@ -11,6 +11,12 @@ http://61.138.99.166:10089/hls/2/index.m3u8
 http://222.223.41.27:8888/hls/2/index.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-2.png" group-title="央视频道",CCTV2
 http://183.10.180.46:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-3.png" group-title="央视频道",CCTV3
+http://45.192.97.170:8880/play/3.m3u8
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-3.png" group-title="央视频道",CCTV3
+http://101.66.195.33:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-3.png" group-title="央视频道",CCTV3
+http://t.061899.xyz/tl/tl.php?id=cctv3
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-4.png" group-title="央视频道",CCTV4
 http://116.236.204.18:1234/631780421
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-4.png" group-title="央视频道",CCTV4
@@ -59,6 +65,12 @@ http://116.236.204.18:1234/673168140
 https://v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=a7bcfda2a54c9c2ba49d2c04c5cdcafe
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-9.png" group-title="央视频道",CCTV9
 https://v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=d931cc5b31f6a3011843920fea5277fb
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-10.png" group-title="央视频道",CCTV10
+http://45.192.97.170:8880/play/13.m3u8
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-10.png" group-title="央视频道",CCTV10
+http://t.061899.xyz/tl/tl.php?id=cctv10
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-10.png" group-title="央视频道",CCTV10
+http://101.66.194.125:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-11.png" group-title="央视频道",CCTV11
 http://222.223.41.27:8888/hls/11/index.m3u8
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-11.png" group-title="央视频道",CCTV11
@@ -377,6 +389,12 @@ http://222.223.41.27:8888/hls/29/index.m3u8
 http://61.138.99.166:10089/hls/61/index.m3u8
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/江苏卫视.png" group-title="卫视频道",江苏卫视
 http://47.100.80.251:50001/623899368
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/江西卫视.png" group-title="卫视频道",江西卫视
+http://45.192.97.170:8880/play/32.m3u8
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/江西卫视.png" group-title="卫视频道",江西卫视
+http://renpcboy.3322.org:8012/udp/239.3.1.123:8164
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/江西卫视.png" group-title="卫视频道",江西卫视
+https://jsp-tv-live.jxtvcn.com.cn/live-jsp/tv_jxtv2.m3u8?t=1791172803&token=d3a95c96-0636-4b15-b788-c77b2ae82c9c&d=a028b90c91c4466daeed76c9cf08a3b6
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/河北卫视.png" group-title="卫视频道",河北卫视
 http://222.223.41.27:8888/hls/16/index.m3u8
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/河北卫视.png" group-title="卫视频道",河北卫视
@@ -551,6 +569,12 @@ http://31.43.191.125:8080/restream/restream/34805
 http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=7f87b183d2fc14254c78c63883271264;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;machineid=495211d81289c09b;userip=36.231.95.229;useragent=Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2012%3B%20V2166A%20Build%2Fd063e58.0%29;source=dl_app
 #EXTINF:-1 tvg-name="三立新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/三立新闻.png" group-title="港澳台",三立新闻
 http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=7f87b183d2fc14254c78c63883271264;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
+#EXTINF:-1 tvg-name="东森洋片" tvg-logo="https://www.xn--rgv465a.top/tvlogo/东森洋片.png" group-title="港澳台",东森洋片
+http://31.43.191.125:8080/restream/restream/34904
+#EXTINF:-1 tvg-name="东森洋片" tvg-logo="https://www.xn--rgv465a.top/tvlogo/东森洋片.png" group-title="港澳台",东森洋片
+http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=404c047310e78077b398d2b5999e8459;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
+#EXTINF:-1 tvg-name="东森洋片" tvg-logo="https://www.xn--rgv465a.top/tvlogo/东森洋片.png" group-title="港澳台",东森洋片
+https://hls-gateway.vpstv.net/streams/476997.m3u8
 #EXTINF:-1 tvg-name="东森超视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/东森超视.png" group-title="港澳台",东森超视
 http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 #EXTINF:-1 tvg-name="东森超视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/东森超视.png" group-title="港澳台",东森超视
@@ -706,11 +730,11 @@ http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=4dab5a92e41236d0d252cad9c2a713
 #EXTINF:-1 tvg-name="美亚C+" tvg-logo="https://gitee.com/suxuang/logo/raw/master/logo/美亚C.png" group-title="港澳台",美亚C+
 http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 #EXTINF:-1 tvg-name="美亚电影" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/美亚电影.png" group-title="港澳台",美亚电影
-http://31.43.191.125:8080/restream/restream/34848
-#EXTINF:-1 tvg-name="美亚电影" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/美亚电影.png" group-title="港澳台",美亚电影
 http://iptv.4666888.xyz/iptv2A.php?id=30
 #EXTINF:-1 tvg-name="美亚电影" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/美亚电影.png" group-title="港澳台",美亚电影
 http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
+#EXTINF:-1 tvg-name="美亚电影" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/美亚电影.png" group-title="港澳台",美亚电影
+http://ali.hlspull.yximgs.com/live/awei_mydy.flv
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/翡翠台.png" group-title="港澳台",翡翠台
 http://cdn6.123.rr.kg/163189/fct
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/翡翠台.png" group-title="港澳台",翡翠台
@@ -735,12 +759,6 @@ https://8.fast.hidns.vip/163189/lhdy
 http://iptv.4666888.xyz/iptv2A.php?id=56
 #EXTINF:-1 tvg-name="龙华电影" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/龙华电影.png" group-title="港澳台",龙华电影
 http://iptv.4666888.xyz/iptv2A.php?id=45
-#EXTINF:-1 tvg-name="龙祥电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/龙祥电影.png" group-title="港澳台",龙祥电影
-http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34825
-#EXTINF:-1 tvg-name="龙祥电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/龙祥电影.png" group-title="港澳台",龙祥电影
-http://31.43.191.125:8080/restream/restream/34825
-#EXTINF:-1 tvg-name="龙祥电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/龙祥电影.png" group-title="港澳台",龙祥电影
-http://43.251.226.89:8080/play/678.m3u8$LR•IPV4『线路1』
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CHC动作电影.png" group-title="影视剧场",CHC动作电影
 http://107.150.60.122/live/chcdz.m3u8
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CHC动作电影.png" group-title="影视剧场",CHC动作电影
@@ -773,6 +791,8 @@ https://zby.130519.xyz/PLTV/11/224/3221225744/index.m3u8
 http://t.061899.xyz/tl/tl.php?id=dfys
 #EXTINF:-1 tvg-name="东阳影视生活" tvg-logo="https://www.xn--rgv465a.top/tvlogo/东阳影视生活.png" group-title="影视剧场",东阳影视生活
 http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8
+#EXTINF:-1 tvg-name="仙剑奇侠传" tvg-logo="https://www.xn--rgv465a.top/tvlogo/仙剑奇侠传.png" group-title="影视剧场",仙剑奇侠传
+https://live.ottiptv.cc/yy/1382749903
 #EXTINF:-1 tvg-name="刑事侦缉档案" tvg-logo="" group-title="影视剧场",刑事侦缉档案
 https://live.metshop.top/huya/29465856
 #EXTINF:-1 tvg-name="创世纪" tvg-logo="" group-title="影视剧场",创世纪
@@ -1019,12 +1039,6 @@ https://cdn.ttvb.eu.org/huya/11342413
 https://live.metshop.top/huya/11342413
 #EXTINF:-1 tvg-name="中华小当家" tvg-logo="https://www.xn--rgv465a.top/tvlogo/中华小当家.png" group-title="少儿动画",中华小当家
 https://live.ottiptv.cc/huya/11342413
-#EXTINF:-1 tvg-name="优漫卡通" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/优漫卡通.png" group-title="少儿动画",优漫卡通
-http://38.75.136.137:98/gslb/dsdqpub/ymkt.m3u8?auth=testpub
-#EXTINF:-1 tvg-name="优漫卡通" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/优漫卡通.png" group-title="少儿动画",优漫卡通
-http://192.151.150.154/live/ymkt.m3u8
-#EXTINF:-1 tvg-name="优漫卡通" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/优漫卡通.png" group-title="少儿动画",优漫卡通
-http://t.061899.xyz/tl/tl.php?id=ymkt
 #EXTINF:-1 tvg-name="名侦探柯南" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/名侦探柯南.png" group-title="少儿动画",名侦探柯南
 https://live.ottiptv.cc/huya/30080236
 #EXTINF:-1 tvg-name="名侦探柯南" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/名侦探柯南.png" group-title="少儿动画",名侦探柯南
