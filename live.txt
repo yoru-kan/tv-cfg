@@ -240,6 +240,7 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 重庆卫视,http://222.223.41.27:8888/hls/43/index.m3u8
 重庆卫视,http://61.138.99.166:10089/hls/87/index.m3u8
 重庆卫视,http://107.150.60.122/live/cqwshd.m3u8
+陕西农林卫视,https://live.chinacert.cftest5.cn/cnmg/live/956904896
 陕西卫视,http://107.150.60.122/live/snwshd.m3u8
 陕西卫视,https://live.264788.xyz/channel/shaanxiweishi?streamid=9dc887dba8ecb4e4143baf4f2373800c&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 陕西卫视,http://45.192.97.170:8880/play/36.m3u8
@@ -383,6 +384,9 @@ ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 龙华电影,https://8.fast.hidns.vip/163189/lhdy
 龙华电影,http://iptv.4666888.xyz/iptv2A.php?id=56
 龙华电影,http://iptv.4666888.xyz/iptv2A.php?id=45
+龙祥电影,http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34825
+龙祥电影,http://31.43.191.125:8080/restream/restream/34825
+龙祥电影,http://43.251.226.89:8080/play/678.m3u8$LR•IPV4『线路1』
 
 影视剧场,#genre#
 CHC动作电影,http://107.150.60.122/live/chcdz.m3u8
@@ -426,9 +430,9 @@ CHC电影,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240325_1/playlist.m
 封神榜,http://cfss.cc/cdn/huya/29465849.flv
 封神榜,https://live.ottiptv.cc/huya/29465849
 封神榜,https://live.metshop.top/huya/29465849
-射雕英雄传,http://footyun.top:35455/huya/23824164
 射雕英雄传,https://live.ottiptv.cc/huya/23824164
 射雕英雄传,https://live.metshop.top/huya/23824164
+射雕英雄传,http://cdn.jdshipin.com:8880/huya.php?id=23824164
 庆余年,https://live.ottiptv.cc/huya/11352960
 庆余年,http://cdn.jdshipin.com:8880/huya.php?id=11352960
 庆余年,http://live.iill.top/huya.php?id=11352960
