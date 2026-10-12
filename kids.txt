@@ -5,15 +5,15 @@
 中华小当家,https://live.metshop.top/huya/11342413
 中华小当家,https://live.ottiptv.cc/huya/11342413
 中华小当家,https://huyazhibo.de5.net/?id=30613314
-优漫卡通,http://yjj888.f3322.net:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=0&authid=0
 优漫卡通,http://38.75.136.137:98/gslb/dsdqpub/ymkt.m3u8?auth=testpub
 优漫卡通,http://192.151.150.154/live/ymkt.m3u8
+优漫卡通,http://t.061899.xyz/tl/tl.php?id=ymkt
 名侦探柯南,https://live.ottiptv.cc/huya/30080236
 名侦探柯南,https://huyazhibo.de5.net/?id=30080236
 名侦探柯南,https://isus.cc/php/huya.php?id=30080236
-哆啦A梦,https://isus.cc/php/huya.php?id=11601963
 哆啦A梦,http://footyun.top:35455/huya/11601963
 哆啦A梦,https://live.ottiptv.cc/huya/11601963
+哆啦A梦,https://huyazhibo.de5.net/?id=11601963
 喜羊羊与灰太狼,http://footyun.top:35455/huya/23865080
 喜羊羊与灰太狼,https://live.ottiptv.cc/huya/23865080
 喜羊羊与灰太狼,https://huyazhibo.de5.net/?id=23865080
