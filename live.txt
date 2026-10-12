@@ -77,9 +77,9 @@ CCTV文化精品,https://live.264788.xyz/channel/yangshiwenhuajingpin?streamid=b
 CCTV第一剧场,http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub
 CCTV第一剧场,http://192.151.150.154/live/dyjc.m3u8
 CCTV第一剧场,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dyjc
-CCTV老故事,http://k.061899.xyz/k.php?id=lgs
 CCTV老故事,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=lgs
 CCTV老故事,http://38.75.136.137:98/gslb/dsdqpub/lgs.m3u8?auth=testpub
+CCTV老故事,http://t.061899.xyz/tl/tl.php?id=lgs
 CCTV风云剧场,http://173.208.212.130:8181/720p/fyjc.m3u8
 CCTV风云剧场,http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
 CCTV风云剧场,https://live.264788.xyz/channel/fengyunjuchang?streamid=31e7b5b7032d25dd215a4069cdee1a48&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
@@ -122,9 +122,9 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 山东教育,https://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8
 山东教育,http://116.236.204.18:1234/609154353
 山东教育,http://183.11.239.36:808/hls/72/index.m3u8
-海峡卫视,http://58.210.97.102:1234/849119120
-海峡卫视,http://116.236.204.18:1234/849119120
 海峡卫视,http://r.jdshipin.com/WtYt3
+海峡卫视,https://cdn.qd.je/163189/hxws2
+海峡卫视,http://183.239.235.3:1234/849119120
 电视指南,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dszn
 电视指南,http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2026875103_dlna.m3u8
 电视指南,http://tonyk.56301232.xyz:3477/rtp/239.37.0.115:5540
@@ -307,6 +307,7 @@ ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 唯心电视,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
 唯心电视,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
 唯心电视,https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+大立电视台,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 天映经典,https://cdn10.123.rr.kg/163189/ccm/
 天映经典,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:7E:2F:ED&stream=1919463
 天映经典,http://php.jdshipin.com:8880/smt.php?id=Celestial2
@@ -361,12 +362,18 @@ ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 翡翠台4K,https://cdn3.indevs.in/stream/tvb/fct4k/
 翡翠台4K,http://r.jdshipin.com/qrfbg
 翡翠台4K,http://r.jdshipin.com/qClQf
+靖天映画,http://31.43.191.125:8080/restream/restream/34838
+靖天映画,https://cdn12.178.indevs.in/163189/bd4752bd7828b2bf
+靖天映画,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv055&token=https://t.me/GPT_858
 香港卫视,https://hkstv.tv/api/m3u8-proxy?url=http%3A%2F%2Fwebcast.hkstv.tv%2Flivestream%2Fmutfysrq%2Fplaylist.m3u8
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
 龙华电影,http://iptv.4666888.xyz/iptv2A.php?id=56
 龙华电影,http://iptv.4666888.xyz/iptv2A.php?id=45
 龙华电影,https://cdn.qd.je/163189/lhdy
+龙祥电影,http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34825
+龙祥电影,http://31.43.191.125:8080/restream/restream/34825
+龙祥电影,http://43.251.226.89:8080/play/678.m3u8$LR•IPV4『线路1』
 
 影视剧场,#genre#
 CHC动作电影,http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
@@ -381,15 +388,12 @@ CHC电影,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240325_1/playlist.m
 与凤行,http://222.186.39.21:35466/huya/26355866
 与凤行,http://8.155.43.98:35455/huya/26355866
 与凤行,http://live.ottiptv.cc/huya/26355866
-东方影视,https://live.chinacert.cftest5.cn/cnmg/live/617290047
-东方影视,https://zby.130519.xyz/PLTV/11/224/3221225744/index.m3u8
-东方影视,http://t.061899.xyz/tl/tl.php?id=dfys
 东阳影视生活,http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8
 仙剑奇侠传,https://live.ottiptv.cc/yy/1382749903
 刑事侦缉档案,https://live.metshop.top/huya/29465856
-创世纪,http://footyun.top:35455/huya/29465852
 创世纪,http://cfss.cc/cdn/huya/23749083.flv
 创世纪,https://live.metshop.top/huya/29465852
+创世纪,http://footyun.top:35455/huya/23749083
 南宁影视娱乐,http://hls.nntv.cn/nnlive/YSYL_244.m3u8
 南宁影视娱乐,https://hls.nntv.cn/nnlive/YSYL_244.m3u8
 南宁影视娱乐,http://hls.nntv.cn/nnlive/NNTV_VOD_A.m3u8
