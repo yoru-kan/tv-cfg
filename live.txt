@@ -116,9 +116,9 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 北京新闻,http://114.242.62.109:888/hls/25/index.m3u8
 北京新闻,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=btv9
 北京新闻,https://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
-山东教育,http://116.236.204.18:1234/609154353
 山东教育,https://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8
 山东教育,http://183.11.239.36:808/hls/72/index.m3u8
+山东教育,http://my1nas.dpdns.org:1234/609154353
 海峡卫视,http://116.236.204.18:1234/849119120
 海峡卫视,https://cdn.qd.je/163189/hxws2
 海峡卫视,http://183.239.235.3:1234/849119120
@@ -412,7 +412,6 @@ CHC电影,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240325_1/playlist.m
 南宁影视娱乐,http://hls.nntv.cn/nnlive/YSYL_244.m3u8
 南宁影视娱乐,https://hls.nntv.cn/nnlive/YSYL_244.m3u8
 南宁影视娱乐,http://hls.nntv.cn/nnlive/NNTV_VOD_A.m3u8
-句容影视,http://jrlive.jrntv.com/live/_definst_/yingshis/playlist.m3u8
 句容影院,http://jrlive.jrntv.com/live/_definst_/yingshis/chunklist_w1994429382.m3u8?zjiangsd
 句容影院,http://jrlive.jrntv.com/live/_definst_/yingshis/chunklist_w1994429382.m3u8
 唐诡之西行,http://cfss.cc/cdn/huya/26355763.flv
@@ -432,9 +431,6 @@ CHC电影,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240325_1/playlist.m
 射雕英雄传,https://live.ottiptv.cc/huya/23824164
 射雕英雄传,http://cdn.jdshipin.com:8880/huya.php?id=23824164
 射雕英雄传,https://live.metshop.top/huya/23824164$LR•IPV4『线路1』
-平泉影视,https://jwcdnqx.hebyun.com.cn/live/pqys/1500k/tzwj_video.m3u8
-平泉影视,https://jwcdnqx.hebyun.com.cn/zb/pqys/1500k/tzwj_video.m3u8
-平泉影视,https://jwliveqxzb.hebyun.com.cn/pqys/pqys.m3u8
 庆余年,http://footyun.top:35455/huya/11352960
 庆余年,http://173.208.234.146/live/lbqingyunian.m3u8
 庆余年,http://cfss.cc/cdn/huya/11352960.flv
@@ -519,9 +515,6 @@ CHC电影,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240325_1/playlist.m
 广东体育,http://iptv.4666888.xyz/iptv2A.php?id=8
 广东体育,https://epg.pw/stream/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.m3u8
 广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8
-快乐垂钓,http://47.100.80.251:50001/961930263
-快乐垂钓,http://drive.mxmy.net:8888/udp/239.3.1.164:8001
-快乐垂钓,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/ydcmklcd/50/20251225/index.m3u8?msisdn=202610040203034b95620186af40a29399c22ddd507524&mdspid=&spid=600603&netType=0&sid=5910022317&pid=2028597139&timestamp=20261004020303&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=961930263&ParentNodeID=-99&assertID=5910022317&client_ip=171.8.79.254&SecurityKey=20261004020303&promotionId=&mvid=5900006783&mcid=500020&playurlVersion=WX-A1-9.9.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=9a29821d5404b0ac96792d4fd78cfa63
 
 少儿动画,#genre#
 七龙珠,https://live.metshop.top/huya/11601966
