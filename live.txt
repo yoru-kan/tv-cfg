@@ -172,6 +172,9 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 宁夏卫视,http://107.150.60.122/live/nxws.m3u8
 宁夏卫视,http://61.138.99.166:10089/hls/93/index.m3u8
 宁夏卫视,https://live.264788.xyz/channel/ningxiaweishi?streamid=551474d02bee1c160e1692e22c45ddba&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+安徽卫视,http://123.130.84.106:8154/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
+安徽卫视,http://104.152.209.49:8181/720p/ahws.m3u8
+安徽卫视,http://101.66.194.125:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=0&authid=0
 山东卫视,http://101.66.195.243:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=0&authid=0
 山东卫视,http://101.66.194.125:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=0&authid=0
 山东卫视,http://1.197.250.140:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -199,6 +202,9 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 河北卫视,http://101.66.195.243:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=0&authid=0
 河北卫视,http://101.66.198.93:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=0&authid=0
 河北卫视,https://tv.pull.hebtv.com/jishi/nongminpindao.m3u8?t=1791785019&k=529e523e4a89d11eef42f73bbabe64bf
+河南卫视,http://123.130.84.106:8154/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
+河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=fedd0e335d6cefa2f7cab4e8bc7640dc&wsTime=1791788510
+河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=78bbeb3b6b4f097b23098c38f9bb4635&wsTime=1790789344
 浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
 浙江卫视,https://kzhibo.pages.dev/channel/617?type=2
 浙江卫视,http://zwebl02.cztv.com/live/channel01720Pnew.m3u8?auth_key=1791594505-5f3d562b0203e17254f4e6ba3a85af67-0-579edc459f4649a7340db2449a801975
@@ -232,12 +238,16 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 重庆卫视,http://61.138.99.166:10089/hls/87/index.m3u8
 重庆卫视,http://107.150.60.122/live/cqwshd.m3u8
 重庆卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cqwshd
+陕西农林卫视,https://live.chinacert.cftest5.cn/cnmg/live/956904896
 陕西卫视,http://192.151.150.154/live/snwshd.m3u8
 陕西卫视,https://live.264788.xyz/channel/shaanxiweishi?streamid=9dc887dba8ecb4e4143baf4f2373800c&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 陕西卫视,http://stream.snrtv.com/sxbc-star-rtxBDT.m3u8
 青海卫视,http://107.150.60.122/live/qhws.m3u8
 青海卫视,http://222.223.41.27:8888/hls/50/index.m3u8
 青海卫视,http://61.138.99.166:10089/hls/96/index.m3u8
+黑龙江卫视,https://kzhibo.pages.dev/channel/621?type=2
+黑龙江卫视,http://huanggang.live.cjyun.org/video/s10120-xwzh.m3u8
+黑龙江卫视,http://hwzbout.yunshicloud.com/0spq8i/71gv42.m3u8
 
 港澳台,#genre#
 AstroAOD,https://cdn3.indevs.in/stream/live/aod/
@@ -277,6 +287,9 @@ ViuTV,http://r.jdshipin.com/vSJvl
 三立新闻,http://zby.lskk.top/cdnlive.php?mode=play&id=61fa0ee02bc94cdd984a6673c27bcee0&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
 三立新闻,http://31.43.191.125:8080/restream/restream/34805
 三立新闻,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=7f87b183d2fc14254c78c63883271264;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;machineid=495211d81289c09b;userip=36.231.95.229;useragent=Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2012%3B%20V2166A%20Build%2Fd063e58.0%29;source=dl_app
+东森洋片,http://31.43.191.125:8080/restream/restream/34904
+东森洋片,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=404c047310e78077b398d2b5999e8459;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
+东森洋片,https://hls-gateway.vpstv.net/streams/476997.m3u8
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 东森超视,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=163e6c3e3bd21f2beb6af46d4b6b9353;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;machineid=495211d81289c09b;userip=36.231.95.229;useragent=Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2012%3B%20V2166A%20Build%2Fd063e58.0%29;source=dl_app
 东森超视,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=163e6c3e3bd21f2beb6af46d4b6b9353;token=fRfrVRwByx2YB2HDJeYAgdVDU9tZVSat;machineid=495211d81289c09b;userip=36.231.95.229;useragent=Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2012%3B%20V2166A%20Build%2Fd063e58.0%29;source=dl_app
@@ -508,9 +521,6 @@ CHC电影,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240325_1/playlist.m
 广东体育,http://38.75.136.137:98/gslb/dsdqpub/gdty.m3u8?auth=testpub
 广东体育,https://epg.pw/stream/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.m3u8
 广东体育,http://198.204.228.26/live/gdty.m3u8
-快乐垂钓,http://47.100.80.251:50001/961930263
-快乐垂钓,http://drive.mxmy.net:8888/udp/239.3.1.164:8001
-快乐垂钓,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/ydcmklcd/50/20251225/index.m3u8?msisdn=202610040203034b95620186af40a29399c22ddd507524&mdspid=&spid=600603&netType=0&sid=5910022317&pid=2028597139&timestamp=20261004020303&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=961930263&ParentNodeID=-99&assertID=5910022317&client_ip=171.8.79.254&SecurityKey=20261004020303&promotionId=&mvid=5900006783&mcid=500020&playurlVersion=WX-A1-9.9.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=9a29821d5404b0ac96792d4fd78cfa63
 
 少儿动画,#genre#
 七龙珠,https://live.metshop.top/huya/11601966
