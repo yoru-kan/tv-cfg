@@ -241,6 +241,9 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 青海卫视,http://222.223.41.27:8888/hls/50/index.m3u8
 青海卫视,http://61.138.99.166:10089/hls/96/index.m3u8
 青海卫视,http://107.150.60.122/live/qhws.m3u8
+黑龙江卫视,https://kzhibo.pages.dev/channel/621?type=2
+黑龙江卫视,http://huanggang.live.cjyun.org/video/s10120-xwzh.m3u8
+黑龙江卫视,http://hwzbout.yunshicloud.com/0spq8i/71gv42.m3u8
 
 港澳台,#genre#
 AstroAOD,https://cdn3.indevs.in/stream/live/aod/
@@ -351,9 +354,6 @@ ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 澳门卫视,http://61.244.22.4/ch1/ch1.live/playlist.m3u8
 环球电视,http://utv1.hqtvzb.com:9999/hls/world.m3u8
 环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
-纬来体育,http://31.43.191.125:8080/restream/restream/34855
-纬来体育,https://smart.pendy.dpdns.org/Smart.php?id=videolandsport
-纬来体育,https://hls-gateway.vpstv.net/streams/477026.m3u8
 纬来精采,http://61.221.215.25:8800/hls/48/index.m3u8
 纬来精采,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=4dab5a92e41236d0d252cad9c2a713b7;token=fRfrVRwByx2YB2HDJeYAgdVDU9tZVSat;machineid=495211d81289c09b;userip=36.231.95.229;useragent=Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2012%3B%20V2166A%20Build%2Fd063e58.0%29;source=dl_app
 纬来精采,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=4dab5a92e41236d0d252cad9c2a713b7;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;type=mobile2026Acc3iL
@@ -367,9 +367,6 @@ ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 翡翠台4K,https://cdn3.indevs.in/stream/tvb/fct4k/
 翡翠台4K,http://r.jdshipin.com/qrfbg
 翡翠台4K,http://r.jdshipin.com/qClQf
-靖天映画,http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34838
-靖天映画,https://cdn12.178.indevs.in/163189/bd4752bd7828b2bf
-靖天映画,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv055&token=https://t.me/GPT_858
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,https://hkstv.tv/api/m3u8-proxy?url=http%3A%2F%2Fwebcast.hkstv.tv%2Flivestream%2Fmutfysrq%2Fplaylist.m3u8
 香港卫视,http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
@@ -395,7 +392,6 @@ CHC电影,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240325_1/playlist.m
 与凤行,http://8.155.43.98:35455/huya/26355866
 与凤行,https://live.ottiptv.cc/huya/26355866
 东阳影视生活,http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8
-仙剑奇侠传,https://live.ottiptv.cc/yy/1382749903
 伪装者,https://live.ottiptv.cc/yy/1354936244
 伪装者,http://footyun.top:35455/yy/1354936244
 伪装者,http://alist.xicp.fun:35455/yy/1382851593
