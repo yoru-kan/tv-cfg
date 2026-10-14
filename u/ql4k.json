@@ -39,16 +39,6 @@
    }
   },
   {
-   "key": "羊羊py",
-   "name": "🅿️羊羊",
-   "type": 3,
-   "api": "https://fastlink.cokey.xyz/f/kOrxc6/%E7%BE%8A%E7%BE%8A.py",
-   "searchable": 1,
-   "changeable": 0,
-   "quickSearch": 1,
-   "filterable": 1
-  },
-  {
    "key": "二小",
    "name": "👑‍指南4K‍",
    "type": 3,
@@ -76,22 +66,13 @@
    "changeable": 1
   },
   {
-   "key": "AiQwMkv",
-   "name": "👑‍七味4K‍",
+   "key": "AiNewKuaiYing",
+   "name": "👑快影4K",
    "type": 3,
-   "api": "csp_AiQwMkvGuard",
+   "api": "csp_AiNewKuaiYingGuard",
    "searchable": 1,
    "quickSearch": 1,
-   "changeable": 1
-  },
-  {
-   "key": "NewZhiZhen",
-   "name": "👑至臻4K",
-   "type": 3,
-   "api": "csp_AiNewZhiZhenGuard",
-   "searchable": 1,
-   "quickSearch": 1,
-   "changeable": 1
+   "changeable": 0
   },
   {
    "key": "AiNewHuBan",
@@ -164,14 +145,6 @@
    "changeable": 1
   },
   {
-   "key": "藤藤",
-   "name": "🍀藤藤4K",
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/spider.jar",
-   "type": 3,
-   "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
-   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/藤藤.png"
-  },
-  {
    "key": "酷我",
    "name": "🅿️酷我音乐",
    "type": 3,
@@ -179,16 +152,6 @@
    "searchable": 1,
    "changeable": 0,
    "quickSearch": 1,
-   "filterable": 1
-  },
-  {
-   "key": "海星py",
-   "name": "🅿️海星体育",
-   "type": 3,
-   "api": "https://fastlink.cokey.xyz/f/GjAOcE/%E6%B5%B7%E6%98%9F.py",
-   "searchable": 0,
-   "changeable": 0,
-   "quickSearch": 0,
    "filterable": 1
   },
   {
