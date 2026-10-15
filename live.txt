@@ -205,9 +205,9 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 湖南卫视,http://45.192.97.170:8880/play/20.m3u8
 湖南卫视,http://61.138.99.166:10089/hls/60/index.m3u8
 湖南卫视,http://www.yao87.com:4022/udp/239.76.246.101:1234
+珠江卫视,http://iptv.4666888.xyz/iptv2A.php?id=19
 珠江卫视,http://183.239.226.235:9901/tsfile/live/0133_1.m3u8?key=txiptv&playlive=1&authid=0
 珠江卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.24:11111
-珠江卫视,http://iptv.4666888.xyz/iptv2A.php?id=19
 甘肃卫视,http://38.75.136.137:98/gslb/dsdqpub/gswshd.m3u8?auth=testpub
 甘肃卫视,http://218.13.170.98:9901/tsfile/live/0141_1.m3u8
 甘肃卫视,http://61.138.99.166:10089/hls/95/index.m3u8
@@ -307,6 +307,7 @@ ViuTV,http://r.jdshipin.com/vSJvl
 唯心电视,http://jy.bhzz.today:2026/YY1/WMHS.php?id=2e442016e05c9555&t=275128454570561086&line=0&token=xxx
 唯心电视,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
 唯心电视,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
+大立电视台,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 天映经典,http://zby.lskk.top/cdnlive.php?mode=play&id=95fbe855a1df5dc78b38a61bc64e7e9e&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
 天映经典,https://cdn3.indevs.in/stream/live/ccm/
 天映经典,https://cdn10.123.rr.kg/163189/ccm/
@@ -367,9 +368,9 @@ ViuTV,http://r.jdshipin.com/vSJvl
 香港卫视,https://hkstv.tv/api/m3u8-proxy?url=http%3A%2F%2Fwebcast.hkstv.tv%2Flivestream%2Fmutfysrq%2Fplaylist.m3u8
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
-龙华电影,https://8.fast.hidns.vip/163189/lhdy
 龙华电影,http://iptv.4666888.xyz/iptv2A.php?id=45
 龙华电影,https://cdn.qd.je/163189/lhdy
+龙华电影,http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
 龙祥电影,http://jy.bhzz.today:2026/YY1/WMHS.php?id=6f021ad5b758b2a8&t=911960020880798391&line=0&token=xxx
 龙祥电影,http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34825
 龙祥电影,http://31.43.191.125:8080/restream/restream/34825
