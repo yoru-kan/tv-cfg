@@ -14,6 +14,15 @@ CCTV5,http://207.56.13.146:81/cdnlive/cctv5.m3u8
 CCTV5+,http://124.228.160.112:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5+,http://61.138.99.166:10089/hls/16/index.m3u8
 CCTV5+,http://45.192.97.170:8880/play/277.m3u8
+CCTV6,http://101.66.198.93:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV6,http://116.236.204.18:1234/624878396
+CCTV6,http://183.10.180.81:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV7,http://101.66.195.243:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV7,http://101.66.194.125:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV7,http://1.197.250.140:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV8,http://123.130.84.106:8154/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV8,http://116.236.204.18:1234/624878356
+CCTV8,http://101.66.194.125:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV9,http://61.138.99.166:10089/hls/9/index.m3u8
 CCTV9,http://74.91.26.218:82/live/cctv9hd.m3u8
 CCTV9,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv9hd
@@ -151,6 +160,9 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 宁夏卫视,http://107.150.60.122/live/nxws.m3u8
 宁夏卫视,https://live.264788.xyz/channel/ningxiaweishi?streamid=551474d02bee1c160e1692e22c45ddba&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 宁夏卫视,http://61.138.99.166:10089/hls/93/index.m3u8
+山东卫视,http://101.66.195.243:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=0&authid=0
+山东卫视,http://101.66.194.125:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=0&authid=0
+山东卫视,http://1.197.250.140:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
 山西卫视,http://113.26.202.52:1299/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
 山西卫视,http://204.12.221.218:8181/3m1080p/sxws.m3u8
 山西卫视,https://livehhhttps.sxrtv.com/lsdream/q8RVWgs/1000/x1sqpR0.m3u8
@@ -169,6 +181,9 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 江苏卫视,http://47.100.80.251:50001/623899368
 江苏卫视,http://61.138.99.166:10089/hls/61/index.m3u8
 江苏卫视,http://101.66.195.137:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=0&authid=0
+河北卫视,http://101.66.198.93:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=0&authid=0
+河北卫视,https://tv.pull.hebtv.com/jishi/nongminpindao.m3u8?t=1791785019&k=529e523e4a89d11eef42f73bbabe64bf
+河北卫视,https://tv.pull.hebtv.com/jishi/nongminpindao.m3u8?t=1791180204&k=b2455a88802f67d9923ef0384ecd7cb5
 浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
 浙江卫视,https://kzhibo.pages.dev/channel/617?type=2
 浙江卫视,http://zwebl02.cztv.com/live/channel01720Pnew.m3u8?auth_key=1791594505-5f3d562b0203e17254f4e6ba3a85af67-0-579edc459f4649a7340db2449a801975
@@ -202,7 +217,6 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 重庆卫视,http://222.223.41.27:8888/hls/43/index.m3u8
 重庆卫视,https://kzhibo.pages.dev/channel/607?type=2
 重庆卫视,http://61.138.99.166:10089/hls/87/index.m3u8
-陕西农林卫视,https://live.chinacert.cftest5.cn/cnmg/live/956904896
 陕西卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=snwshd
 陕西卫视,https://live.264788.xyz/channel/shaanxiweishi?streamid=9dc887dba8ecb4e4143baf4f2373800c&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 陕西卫视,http://stream.snrtv.com/sxbc-star-rtxBDT.m3u8
@@ -296,9 +310,6 @@ ViuTV,http://r.jdshipin.com/vSJvl
 广州综合,http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8
 广州综合,http://tencentplaygzrb01.gztv.com/live/zonghes.m3u8
 广州综合,http://r.jdshipin.com/iR6Gq
-无线新闻台,https://cdn.haititivi.com/website/haitinews/index.m3u8
-无线新闻台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV62.m3u8
-无线新闻台,http://php.jdshipin.com:8880/smt.php?id=inews_twn
 明珠台,http://iptv.4666888.xyz/iptv2A.php?id=29
 明珠台,http://cdn3.123.rr.kg/stream/tvb/mzt/
 明珠台,http://cdn10.123.rr.kg/163189/mzt/
@@ -406,6 +417,9 @@ CHC电影,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240325_1/playlist.m
 射雕英雄传,http://footyun.top:35455/huya/23824164
 射雕英雄传,https://live.metshop.top/huya/23824164
 射雕英雄传,https://live.ottiptv.cc/huya/23824164
+平泉影视,https://jwcdnqx.hebyun.com.cn/live/pqys/1500k/tzwj_video.m3u8
+平泉影视,https://jwcdnqx.hebyun.com.cn/zb/pqys/1500k/tzwj_video.m3u8
+平泉影视,https://jwliveqxzb.hebyun.com.cn/pqys/pqys.m3u8
 延禧攻略,http://cfss.cc/cdn/huya/26355864.flv
 延禧攻略,http://live.metshop.top/huya/26355864
 延禧攻略,https://live.ottiptv.cc/huya/26355864
