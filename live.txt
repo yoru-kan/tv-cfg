@@ -233,9 +233,6 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 青海卫视,https://hls-qhmh.lanzhousobey.cn/qhmh/mhds.m3u8
 青海卫视,http://107.150.60.122/live/qhws.m3u8
 青海卫视,http://61.138.99.166:10089/hls/96/index.m3u8
-黑龙江卫视,https://kzhibo.pages.dev/channel/621?type=2
-黑龙江卫视,http://huanggang.live.cjyun.org/video/s10120-xwzh.m3u8
-黑龙江卫视,http://hwzbout.yunshicloud.com/0spq8i/71gv42.m3u8
 
 港澳台,#genre#
 AstroAOD,https://cdn3.indevs.in/stream/live/aod/
@@ -368,6 +365,9 @@ ViuTV,http://r.jdshipin.com/vSJvl
 香港卫视,https://hkstv.tv/api/m3u8-proxy?url=http%3A%2F%2Fwebcast.hkstv.tv%2Flivestream%2Fmutfysrq%2Fplaylist.m3u8
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
+龙华电影,http://iptv.4666888.xyz/iptv2A.php?id=45
+龙华电影,https://cdn.qd.je/163189/lhdy
+龙华电影,http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
 龙祥电影,http://jy.bhzz.today:2026/YY1/WMHS.php?id=6f021ad5b758b2a8&t=911960020880798391&line=0&token=xxx
 龙祥电影,http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34825
 龙祥电影,http://31.43.191.125:8080/restream/restream/34825
