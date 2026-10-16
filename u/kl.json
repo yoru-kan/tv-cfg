@@ -18,11 +18,6 @@
    "url": "https://stymei.pages.dev/live.m3u"
   },
   {
-   "name": "👖裤佬NBA直播[腾讯体育源]",
-   "type": 0,
-   "url": "https://stymei1.pages.dev/live.m3u"
-  },
-  {
    "name": "👖裤佬抖音直播",
    "type": 0,
    "url": "https://douyin.445569.xyz/live.m3u"
@@ -51,6 +46,11 @@
    "name": "👖裤佬来疯直播",
    "type": 0,
    "url": "https://laifeng.445569.xyz/live.m3u"
+  },
+  {
+   "name": "👖裤佬百战直播",
+   "type": 0,
+   "url": "https://baizhan.445569.xyz/live.m3u"
   },
   {
    "name": "👖裤佬YY直播",
@@ -96,6 +96,11 @@
    "name": "🍿全球TV直播",
    "type": 0,
    "url": "https://seep.eu.org/iptv-org.github.io/iptv/index.m3u"
+  },
+  {
+   "name": "✍🏻学习直播",
+   "type": 1,
+   "url": "https://paste.c-net.org/ForgivesAmateurs"
   }
  ],
  "sites": [
