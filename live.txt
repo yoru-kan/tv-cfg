@@ -133,9 +133,6 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 农林卫视,http://gxlive.snrtv.com/nlws-SD.m3u8
 农林卫视,http://45.192.97.170:8880/play/38.m3u8
 农林卫视,http://120.76.248.139/live/bfgd/4200000122.m3u8
-北京卫视,http://101.66.198.93:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=0&authid=0
-北京卫视,http://116.236.204.18:1234/630287636
-北京卫视,http://101.66.194.125:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=0&authid=0
 厦门卫视,http://192.151.150.154/live/xmws.m3u8
 厦门卫视,http://107.150.60.122/live/xmws.m3u8
 厦门卫视,http://198.204.228.26/live/xmws.m3u8
@@ -184,9 +181,9 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 湖南卫视,http://61.138.99.166:10089/hls/60/index.m3u8
 湖南卫视,http://www.yao87.com:4022/udp/239.76.246.101:1234
 湖南卫视,http://101.66.198.93:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=0&authid=0
+珠江卫视,http://iptv.4666888.xyz/iptv2A.php?id=19
 珠江卫视,http://183.239.226.235:9901/tsfile/live/0133_1.m3u8?key=txiptv&playlive=1&authid=0
 珠江卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.24:11111
-珠江卫视,http://iptv.4666888.xyz/iptv2A.php?id=19
 甘肃卫视,http://61.138.99.166:10089/hls/95/index.m3u8
 甘肃卫视,http://38.75.136.137:98/gslb/dsdqpub/gswshd.m3u8?auth=testpub
 甘肃卫视,https://kzhibo.pages.dev/channel/622?type=2
@@ -211,9 +208,6 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 青海卫视,https://hls-qhmh.lanzhousobey.cn/qhmh/mhds.m3u8
 青海卫视,http://222.223.41.27:8888/hls/50/index.m3u8
 青海卫视,http://61.138.99.166:10089/hls/96/index.m3u8
-黑龙江卫视,https://kzhibo.pages.dev/channel/621?type=2
-黑龙江卫视,http://huanggang.live.cjyun.org/video/s10120-xwzh.m3u8
-黑龙江卫视,http://hwzbout.yunshicloud.com/0spq8i/71gv42.m3u8
 
 港澳台,#genre#
 AstroAOD,https://cdn3.indevs.in/stream/live/aod/
@@ -301,9 +295,9 @@ ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 明珠台,http://cdn10.123.rr.kg/163189/mzt/
 明珠台,https://live2.tensila.com/pearl-v-1.pearlfm/hls/live/mystream.m3u8
 明珠台,http://r.jdshipin.com/ZQ4kN
-有线新闻,http://cm61-10-2-140.hkcable.com.hk/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
 有线新闻,http://61.10.2.140/live_freedirect/opentvhd002_h.live/playlist.m3u8
 有线新闻,http://61.10.2.141:80/live_freedirect/freehd209_h.live/chunklist.m3u8
+有线新闻,http://cm61-10-2-143.hkcable.com.hk/live_freedirect/hd110_h.live/playlist.m3u8
 民视新闻,http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
 民视新闻,http://211.72.174.95:8117/0.ts
 民视新闻,https://d2jc41c1shgcol.cloudfront.net/live/ftvnewsqt/playlist.m3u8
@@ -541,6 +535,9 @@ BRTV纪实科教,http://120.76.248.139/live/bfgd/4200000113.m3u8
 伊犁维吾尔,http://110.153.180.106:55555/out_2/index.m3u8?zxinjd
 兵团五师双河影,https://liveout.btzx.com.cn/62ds9e/6o77s4.m3u8?zxinjd
 双辽,http://stream5.jlntv.cn/sl/sd/live.m3u8?zjild
+四川科教,http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8
+四川科教,https://stream1.freetv.fun/si-chuan-ke-jiao-3.ctv
+四川科教,https://stream1.freetv.fun/si-chuan-ke-jiao-1.m3u8
 宿州科教,http://live.ahsz.tv/video/s10001-kxjy/index.m3u8
 敦化一套,http://stream8.jlntv.cn/dhtv/playlist.m3u8?zjild
 敦化一套,http://stream8.jlntv.cn/dhtv/playlist.m3u8
