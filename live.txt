@@ -80,9 +80,6 @@ CCTV高尔夫网球,http://207.56.13.146:81/cdnlive/gefwq.m3u8
 CETV-1,http://198.204.228.26/live/cetv1hd.m3u8
 CETV-1,http://61.138.99.166:10089/hls/17/index.m3u8
 CETV-1,http://38.75.136.137:98/gslb/dsdqpub/cetv1hd.m3u8?auth=testpub
-CETV-3,http://107.150.60.122/live/cetv3.m3u8
-CETV-3,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226722/1.m3u8
-CETV-3,http://ott.mobaibox.com/PLTV/3/224/3221227018/index.m3u8
 CGTN,https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
 CGTN,http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 CGTN,https://0472.org/hls/cgtn.m3u8
@@ -139,9 +136,9 @@ CGTN阿语,http://183.51.190.156:6633/rtp/239.253.43.200:5146
 厦门卫视,http://192.151.150.154/live/xmws.m3u8
 厦门卫视,http://198.204.228.26/live/xmws.m3u8
 厦门卫视,http://107.150.60.122/live/xmws.m3u8
-吉林卫视,http://38.75.136.137:98/gslb/dsdqpub/jlwshd.m3u8?auth=testpub
 吉林卫视,http://61.138.99.166:10089/hls/71/index.m3u8
 吉林卫视,http://107.150.60.122/live/jlwshd.m3u8
+吉林卫视,http://101.66.198.93:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=0&authid=0
 四川卫视,https://live.264788.xyz/channel/sichuanweishi4k?streamid=21be5901ee81559c827dc84e46f26452&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 四川卫视,http://101.66.195.137:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=0&authid=0
 四川卫视,http://101.66.195.192:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -184,6 +181,9 @@ CGTN阿语,http://183.51.190.156:6633/rtp/239.253.43.200:5146
 湖南卫视,http://45.192.97.170:8880/play/20.m3u8
 湖南卫视,http://61.138.99.166:10089/hls/60/index.m3u8
 湖南卫视,http://www.yao87.com:4022/udp/239.76.246.101:1234
+珠江卫视,http://iptv.4666888.xyz/iptv2A.php?id=19
+珠江卫视,http://183.239.226.235:9901/tsfile/live/0133_1.m3u8?key=txiptv&playlive=1&authid=0
+珠江卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.24:11111
 甘肃卫视,http://38.75.136.137:98/gslb/dsdqpub/gswshd.m3u8?auth=testpub
 甘肃卫视,http://61.138.99.166:10089/hls/95/index.m3u8
 甘肃卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gswshd
@@ -214,10 +214,6 @@ CGTN阿语,http://183.51.190.156:6633/rtp/239.253.43.200:5146
 黑龙江卫视,http://hwzbout.yunshicloud.com/0spq8i/71gv42.m3u8
 
 港澳台,#genre#
-AstroAOD,https://cdn3.indevs.in/stream/live/aod/
-AstroAOD,http://php.jdshipin.com/TVOD/iptv.php?id=aod
-AstroAOD,https://o11.163189.xyz/stream/live/aod/
-BeautifulLifeTV,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
 HOYTV,https://liveopen.siliconweb.com/openTvLive/liveopen/playlist.m3u8
 HOYTV,http://cdn.123.rr.kg/163189/hoy
 HOYTV,http://uc6.i-cable.com/live_freedirect/opentvhd001_h.live/playlist.m3u8
@@ -293,9 +289,6 @@ ViuTV,http://r.jdshipin.com/vSJvl
 广州综合,http://tencentplaygzrb01.gztv.com/live/zonghes.m3u8
 广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=439b0fd2cf766b363c93a59cbcbe1370&txTime=18d00acf488
 广州综合,http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8
-无线新闻台,https://cdn.haititivi.com/website/haitinews/index.m3u8
-无线新闻台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV62.m3u8
-无线新闻台,http://php.jdshipin.com:8880/smt.php?id=inews_twn
 明珠台,http://cdn10.123.rr.kg/163189/mzt/
 明珠台,https://live2.tensila.com/pearl-v-1.pearlfm/hls/live/mystream.m3u8
 明珠台,http://r.jdshipin.com/jUx8K
@@ -437,7 +430,6 @@ CHC电影,http://222.136.68.161:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive
 玫瑰的故事,https://live.ottiptv.cc/huya/23865142
 电影八点档,http://live.metshop.top/huya/880261?cdn=alicdn
 电影喜剧专场,http://live.metshop.top/huya/11602044?cdn=alicdn
-电影谍战片,http://live.metshop.top/huya/21059587?cdn=alicdn
 绍兴文化影视,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
 绍兴文化影视,https://stream1.freetv.fun/shao-xing-wen-hua-ying-shi-1.m3u8
 绍兴文化影视,https://t.freetv.fun/live/shao-xing-wen-hua-ying-shi-1.m3u8
