@@ -29,6 +29,9 @@ CCTV7,http://101.66.194.125:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&a
 CCTV9,http://61.138.99.166:10089/hls/9/index.m3u8
 CCTV9,http://124.228.160.112:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV9,https://v4-e6b1c5baf4e240fe63adbf68dda23435.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=c37ca06bd18d91a720e274a8f2ebb465
+CCTV10,http://101.66.198.93:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV10,http://t.061899.xyz/tl/tl.php?id=cctv10
+CCTV10,http://101.66.194.125:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV11,http://61.138.99.166:10089/hls/11/index.m3u8
 CCTV11,http://101.66.195.192:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV11,http://101.66.195.137:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -41,6 +44,9 @@ CCTV13,http://120.76.248.139/live/bfgd/4200000067.m3u8
 CCTV14,http://120.198.95.220:9901/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&down=1
 CCTV14,http://101.66.198.174:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV14,http://124.228.160.112:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV15,http://101.66.195.243:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV15,http://101.66.195.33:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV15,http://183.10.180.81:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV16,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
 CCTV16,http://183.10.180.81:9901/tsfile/live/1065_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV16,https://zby.130519.xyz/PLTV/11/224/3221226120/index.m3u8
@@ -288,7 +294,6 @@ ViuTV,https://pull-mpeg-hs-cny-f5.douyincdn.com/live/viu-WaLq7QU9ShukSHJr4y4T8i0
 唯心电视,http://jy.bhzz.today:2026/YY1/WMHS.php?id=2e442016e05c9555&t=275128454570561086&line=0&token=xxx
 唯心电视,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
 唯心电视,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
-大立电视台,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 天映经典,http://zby.lskk.top/cdnlive.php?mode=play&id=95fbe855a1df5dc78b38a61bc64e7e9e&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
 天映经典,https://cdn3.indevs.in/stream/live/ccm/
 天映经典,https://cdn10.123.rr.kg/163189/ccm/
@@ -557,6 +562,7 @@ BRTV纪实科教,http://120.76.248.139/live/bfgd/4200000113.m3u8
 伊犁维吾尔,http://110.153.180.106:55555/out_2/index.m3u8?zxinjd
 伊犁维吾尔,http://110.153.180.106:55555/out_2/index.m3u8
 兵团五师双河影,https://liveout.btzx.com.cn/62ds9e/6o77s4.m3u8?zxinjd
+双辽,http://stream5.jlntv.cn/sl/sd/live.m3u8?zjild
 四川科教,http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8
 四川科教,https://stream1.freetv.fun/si-chuan-ke-jiao-3.ctv
 四川科教,https://stream1.freetv.fun/si-chuan-ke-jiao-1.m3u8
