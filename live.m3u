@@ -95,6 +95,12 @@ http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
 http://183.10.180.81:9901/tsfile/live/1065_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-16.png" group-title="央视频道",CCTV16
 https://zby.130519.xyz/PLTV/11/224/3221226120/index.m3u8
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-17.png" group-title="央视频道",CCTV17
+https://kzhibo.pages.dev/channel/594?type=1
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-17.png" group-title="央视频道",CCTV17
+http://smartzhu.cn:1234/673168256
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-17.png" group-title="央视频道",CCTV17
+http://t.061899.xyz/tl/tl.php?id=cctv17
 #EXTINF:-1 tvg-name="CCTV世界地理" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/世界地理.png" group-title="央视频道",CCTV世界地理
 http://111.61.236.247:9081/hls/62/index.m3u8
 #EXTINF:-1 tvg-name="CCTV世界地理" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/世界地理.png" group-title="央视频道",CCTV世界地理
@@ -221,6 +227,12 @@ http://183.11.239.36:808/hls/72/index.m3u8
 http://my1nas.dpdns.org:1234/609154353
 #EXTINF:-1 tvg-name="山东教育" tvg-logo="https://www.xn--rgv465a.top/tvlogo/山东教育.png" group-title="央视频道",山东教育
 http://smartzhu.cn:1234/609154353
+#EXTINF:-1 tvg-name="海峡卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/海峡卫视.png" group-title="央视频道",海峡卫视
+http://r.jdshipin.com/WtYt3
+#EXTINF:-1 tvg-name="海峡卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/海峡卫视.png" group-title="央视频道",海峡卫视
+http://58.210.97.102:1234/849119120
+#EXTINF:-1 tvg-name="海峡卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/海峡卫视.png" group-title="央视频道",海峡卫视
+http://smartzhu.cn:1234/849119120
 #EXTINF:-1 tvg-name="电视指南" tvg-logo="https://www.xn--rgv465a.top/tvlogo/电视指南.png" group-title="央视频道",电视指南
 http://107.150.60.122/live/dszn.m3u8
 #EXTINF:-1 tvg-name="电视指南" tvg-logo="https://www.xn--rgv465a.top/tvlogo/电视指南.png" group-title="央视频道",电视指南
@@ -449,12 +461,6 @@ http://222.223.41.27:8888/hls/50/index.m3u8
 http://61.138.99.166:10089/hls/96/index.m3u8
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/青海卫视.png" group-title="卫视频道",青海卫视
 http://107.150.60.122/live/qhws.m3u8
-#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
-https://kzhibo.pages.dev/channel/621?type=2
-#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
-http://huanggang.live.cjyun.org/video/s10120-xwzh.m3u8
-#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
-http://hwzbout.yunshicloud.com/0spq8i/71gv42.m3u8
 #EXTINF:-1 tvg-name="AstroAOD" tvg-logo="https://live.fanmingming.cn/tv/Astro AOD.png" group-title="港澳台",AstroAOD
 https://cdn3.indevs.in/stream/live/aod/
 #EXTINF:-1 tvg-name="AstroAOD" tvg-logo="https://live.fanmingming.cn/tv/Astro AOD.png" group-title="港澳台",AstroAOD
@@ -587,6 +593,8 @@ http://jy.bhzz.today:2026/YY1/WMHS.php?id=2e442016e05c9555&t=275128454570561086&
 http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
 #EXTINF:-1 tvg-name="唯心电视" tvg-logo="" group-title="港澳台",唯心电视
 http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+#EXTINF:-1 tvg-name="大立电视台" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/dalitv.png" group-title="港澳台",大立电视台
+http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 #EXTINF:-1 tvg-name="天映经典" tvg-logo="https://www.xn--rgv465a.top/tvlogo/天映经典.png" group-title="港澳台",天映经典
 http://zby.lskk.top/cdnlive.php?mode=play&id=95fbe855a1df5dc78b38a61bc64e7e9e&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
 #EXTINF:-1 tvg-name="天映经典" tvg-logo="https://www.xn--rgv465a.top/tvlogo/天映经典.png" group-title="港澳台",天映经典
@@ -957,12 +965,6 @@ http://bp-livetytv.bestv.cn/ch/bestvwxty.m3u8
 http://43.249.195.13:10213/cdnlive.php?mode=play;id=d6ae87637cb6bd59ba1e4d8ddb8041eb;token=NhHKwLOLfUweXATNNbtGMVrOJw5cPmeP
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://www.xn--rgv465a.top/tvlogo/五星体育.png" group-title="体育赛事",五星体育
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=wxtyhd
-#EXTINF:-1 tvg-name="天元围棋" tvg-logo="https://www.xn--rgv465a.top/tvlogo/天元围棋.png" group-title="体育赛事",天元围棋
-http://107.150.60.122/live/gztywq.m3u8
-#EXTINF:-1 tvg-name="天元围棋" tvg-logo="https://www.xn--rgv465a.top/tvlogo/天元围棋.png" group-title="体育赛事",天元围棋
-http://204.12.221.218:8181/3m1080p/gztywq.m3u8
-#EXTINF:-1 tvg-name="天元围棋" tvg-logo="https://www.xn--rgv465a.top/tvlogo/天元围棋.png" group-title="体育赛事",天元围棋
-http://192.151.150.154/live/gztywq.m3u8
 #EXTINF:-1 tvg-name="天津体育" tvg-logo="https://www.xn--rgv465a.top/tvlogo/天津体育.png" group-title="体育赛事",天津体育
 http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="天津体育" tvg-logo="https://www.xn--rgv465a.top/tvlogo/天津体育.png" group-title="体育赛事",天津体育
@@ -1063,6 +1065,10 @@ https://ls.qingting.fm/live/4972/64k.m3u8
 https://idclive.hljtv.com:4430/live/hljse_hd.m3u8
 #EXTINF:-1 tvg-name="黑龙江少儿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/黑龙江少儿.png" group-title="少儿动画",黑龙江少儿
 https://stream1.freetv.fun/hei-long-jiang-shao-er-8.m3u8
+#EXTINF:-1 tvg-name="BRTV纪实科教" tvg-logo="https://live.fanmingming.cn/tv/北京纪实科教.png" group-title="纪实科教",BRTV纪实科教
+http://k.061899.xyz/k.php?id=bjjs
+#EXTINF:-1 tvg-name="BRTV纪实科教" tvg-logo="https://live.fanmingming.cn/tv/北京纪实科教.png" group-title="纪实科教",BRTV纪实科教
+http://120.76.248.139/live/bfgd/4200000113.m3u8
 #EXTINF:-1 tvg-name="东丰" tvg-logo="" group-title="纪实科教",东丰
 http://stream5.jlntv.cn/df/sd/live.m3u8?zjild
 #EXTINF:-1 tvg-name="之江纪录" tvg-logo="https://www.xn--rgv465a.top/tvlogo/之江纪录.png" group-title="纪实科教",之江纪录
