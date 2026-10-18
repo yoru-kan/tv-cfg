@@ -1,5 +1,5 @@
 {
- "spider": "https://gitee.com/xhuban/getjar/raw/master/jar/custom_spider_cat.jar;md5;10d83579c52f5097dff961453d713f29",
+ "spider": "https://gitee.com/xhuban/getjar/raw/master/jar/custom_spider_cat.jar;md5;603bd5b3eae1bada6576bfe07a1ddcc7",
  "wallpaper": "https://xn--11x805d.xn--4kq62z5rby2qupq9ub.xyz/",
  "warningText": "仅作学习交流测试使用，配置或下载后请于24小时之内删除",
  "lives": [
@@ -450,6 +450,15 @@
    "type": 3,
    "api": "csp_JianpianCAT",
    "ext": "https://zxfmj.com/"
+  },
+  {
+   "key": "qingmai",
+   "name": "青麦|弹幕",
+   "type": 3,
+   "api": "csp_HBQingMaiCAT",
+   "searchable": 1,
+   "filterable": 1,
+   "quickSearch": 1
   },
   {
    "key": "磁力",
