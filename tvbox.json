@@ -372,30 +372,6 @@
    "quickSearch": 0
   },
   {
-   "key": "pan_lee_csp_Netfixtv",
-   "name": "💾至臻·网盘(夸克)",
-   "type": 3,
-   "api": "csp_Duopan",
-   "filterable": 1,
-   "ext": {
-    "site_urls": [
-     "https://www.zhizhen8.click/",
-     "https://pan.mihdr.top",
-     "https://www.zhizhen1.top",
-     "https://www.mihdr.top",
-     "https://www.miqk.cc"
-    ],
-    "url_key": "Netfixtv2",
-    "threadinfo": {
-     "chunksize": 512,
-     "threads": 16
-    }
-   },
-   "searchable": 0,
-   "quickSearch": 0,
-   "jar": "https://leetvbox.qzz.io/jar/f7c90ebd0a6632f3347eeeb8d9bd555e;md5;f7c90ebd0a6632f3347eeeb8d9bd555e"
-  },
-  {
    "key": "drpy_js_豆瓣",
    "name": "热播豆瓣",
    "type": 3,
