@@ -8,7 +8,7 @@
    "name": "🎯精选聚合·5站合一(搜索看这里)",
    "type": 3,
    "api": "https://cdn.jsdelivr.net/gh/yoru-kan/tv-cfg@main/vod/cms/unify.js",
-   "ext": "{\"api\":\"https://jszyapi.com/api.php/provide/vod\",\"class\":[{\"type_id\":\"movie\",\"type_name\":\"电影\"},{\"type_id\":\"tv\",\"type_name\":\"电视剧\"},{\"type_id\":\"variety\",\"type_name\":\"综艺\"},{\"type_id\":\"anime\",\"type_name\":\"动漫\"},{\"type_id\":\"short\",\"type_name\":\"短剧\"},{\"type_id\":\"doc\",\"type_name\":\"纪录片\"},{\"type_id\":\"sport\",\"type_name\":\"体育\"}],\"filters\":{\"movie\":[{\"key\":\"cateId\",\"name\":\"类型\",\"value\":[{\"n\":\"全部\",\"v\":\"\"},{\"n\":\"动作片\",\"v\":\"9\"},{\"n\":\"爱情片\",\"v\":\"10\"},{\"n\":\"喜剧片\",\"v\":\"11\"},{\"n\":\"科幻片\",\"v\":\"12\"},{\"n\":\"恐怖片\",\"v\":\"13\"},{\"n\":\"剧情片\",\"v\":\"14\"},{\"n\":\"战争片\",\"v\":\"15\"},{\"n\":\"悬疑片\",\"v\":\"35\"},{\"n\":\"犯罪片\",\"v\":\"36\"},{\"n\":\"奇幻片\",\"v\":\"37\"}]}],\"tv\":[{\"key\":\"cateId\",\"name\":\"类型\",\"value\":[{\"n\":\"全部\",\"v\":\"\"},{\"n\":\"欧美剧\",\"v\":\"3\"},{\"n\":\"港剧\",\"v\":\"4\"},{\"n\":\"韩剧\",\"v\":\"5\"},{\"n\":\"日剧\",\"v\":\"6\"},{\"n\":\"泰剧\",\"v\":\"7\"},{\"n\":\"国产剧\",\"v\":\"20\"},{\"n\":\"台剧\",\"v\":\"28\"}]}],\"variety\":[{\"key\":\"cateId\",\"name\":\"类型\",\"value\":[{\"n\":\"全部\",\"v\":\"\"},{\"n\":\"大陆综艺\",\"v\":\"30\"},{\"n\":\"日韩综艺\",\"v\":\"31\"},{\"n\":\"港台综艺\",\"v\":\"32\"},{\"n\":\"欧美综艺\",\"v\":\"33\"}]}],\"anime\":[{\"key\":\"cateId\",\"name\":\"类型\",\"value\":[{\"n\":\"全部\",\"v\":\"\"},{\"n\":\"动画片\",\"v\":\"23\"},{\"n\":\"国产动漫\",\"v\":\"24\"},{\"n\":\"日韩动漫\",\"v\":\"25\"},{\"n\":\"欧美动漫\",\"v\":\"26\"}]}],\"short\":[{\"key\":\"cateId\",\"name\":\"类型\",\"value\":[{\"n\":\"全部\",\"v\":\"\"},{\"n\":\"古装仙侠\",\"v\":\"45\"},{\"n\":\"现代都市\",\"v\":\"46\"},{\"n\":\"穿越年代\",\"v\":\"47\"},{\"n\":\"言情总裁\",\"v\":\"48\"},{\"n\":\"重生民国\",\"v\":\"49\"},{\"n\":\"反转爽剧\",\"v\":\"50\"},{\"n\":\"脑洞悬疑\",\"v\":\"52\"},{\"n\":\"AI漫剧\",\"v\":\"54\"}]}],\"sport\":[{\"key\":\"cateId\",\"name\":\"类型\",\"value\":[{\"n\":\"全部\",\"v\":\"\"},{\"n\":\"足球\",\"v\":\"40\"},{\"n\":\"篮球\",\"v\":\"41\"},{\"n\":\"台球\",\"v\":\"42\"},{\"n\":\"其他赛事\",\"v\":\"43\"}]}]},\"members\":{\"tv\":[[\"3\",4149],[\"4\",507],[\"5\",880],[\"6\",1403],[\"7\",737],[\"20\",6840],[\"28\",301]],\"movie\":[[\"9\",5218],[\"10\",2626],[\"11\",5683],[\"12\",1252],[\"13\",3729],[\"14\",14885],[\"15\",641],[\"35\",373],[\"36\",254],[\"37\",119]],\"doc\":[[\"16\",2437]],\"anime\":[[\"23\",2050],[\"24\",2837],[\"25\",2540],[\"26\",455]],\"variety\":[[\"30\",1933],[\"31\",588],[\"32\",59],[\"33\",289]],\"sport\":[[\"40\",5136],[\"41\",2976],[\"42\",273],[\"43\",42]],\"short\":[[\"45\",5856],[\"46\",15242],[\"47\",2024],[\"48\",6166],[\"49\",859],[\"50\",4716],[\"52\",2775],[\"54\",536]]},\"sources\":[{\"name\":\"极速\",\"api\":\"https://jszyapi.com/api.php/provide/vod\",\"search\":1},{\"name\":\"百度\",\"api\":\"https://api.apibdzy.com/api.php/provide/vod\",\"search\":1},{\"name\":\"虎牙\",\"api\":\"https://www.huyaapi.com/api.php/provide/vod\",\"search\":1},{\"name\":\"U酷\",\"api\":\"https://api.ukuapi88.com/api.php/provide/vod\",\"search\":1},{\"name\":\"索尼\",\"api\":\"https://suoniapi.com/api.php/provide/vod\",\"search\":0}]}",
+   "ext": "{\"api\":\"https://jszyapi.com/api.php/provide/vod\",\"class\":[{\"type_id\":\"movie\",\"type_name\":\"电影\"},{\"type_id\":\"tv\",\"type_name\":\"电视剧\"},{\"type_id\":\"variety\",\"type_name\":\"综艺\"},{\"type_id\":\"anime\",\"type_name\":\"动漫\"},{\"type_id\":\"short\",\"type_name\":\"短剧\"},{\"type_id\":\"doc\",\"type_name\":\"纪录片\"},{\"type_id\":\"sport\",\"type_name\":\"体育\"}],\"filters\":{\"movie\":[{\"key\":\"cateId\",\"name\":\"类型\",\"value\":[{\"n\":\"全部\",\"v\":\"\"},{\"n\":\"动作片\",\"v\":\"9\"},{\"n\":\"爱情片\",\"v\":\"10\"},{\"n\":\"喜剧片\",\"v\":\"11\"},{\"n\":\"科幻片\",\"v\":\"12\"},{\"n\":\"恐怖片\",\"v\":\"13\"},{\"n\":\"剧情片\",\"v\":\"14\"},{\"n\":\"战争片\",\"v\":\"15\"},{\"n\":\"悬疑片\",\"v\":\"35\"},{\"n\":\"犯罪片\",\"v\":\"36\"},{\"n\":\"奇幻片\",\"v\":\"37\"}]}],\"tv\":[{\"key\":\"cateId\",\"name\":\"类型\",\"value\":[{\"n\":\"全部\",\"v\":\"\"},{\"n\":\"欧美剧\",\"v\":\"3\"},{\"n\":\"港剧\",\"v\":\"4\"},{\"n\":\"韩剧\",\"v\":\"5\"},{\"n\":\"日剧\",\"v\":\"6\"},{\"n\":\"泰剧\",\"v\":\"7\"},{\"n\":\"国产剧\",\"v\":\"20\"},{\"n\":\"台剧\",\"v\":\"28\"}]}],\"variety\":[{\"key\":\"cateId\",\"name\":\"类型\",\"value\":[{\"n\":\"全部\",\"v\":\"\"},{\"n\":\"大陆综艺\",\"v\":\"30\"},{\"n\":\"日韩综艺\",\"v\":\"31\"},{\"n\":\"港台综艺\",\"v\":\"32\"},{\"n\":\"欧美综艺\",\"v\":\"33\"}]}],\"anime\":[{\"key\":\"cateId\",\"name\":\"类型\",\"value\":[{\"n\":\"全部\",\"v\":\"\"},{\"n\":\"动画片\",\"v\":\"23\"},{\"n\":\"国产动漫\",\"v\":\"24\"},{\"n\":\"日韩动漫\",\"v\":\"25\"},{\"n\":\"欧美动漫\",\"v\":\"26\"}]}],\"short\":[{\"key\":\"cateId\",\"name\":\"类型\",\"value\":[{\"n\":\"全部\",\"v\":\"\"},{\"n\":\"古装仙侠\",\"v\":\"45\"},{\"n\":\"现代都市\",\"v\":\"46\"},{\"n\":\"穿越年代\",\"v\":\"47\"},{\"n\":\"言情总裁\",\"v\":\"48\"},{\"n\":\"重生民国\",\"v\":\"49\"},{\"n\":\"反转爽剧\",\"v\":\"50\"},{\"n\":\"脑洞悬疑\",\"v\":\"52\"},{\"n\":\"AI漫剧\",\"v\":\"54\"}]}],\"sport\":[{\"key\":\"cateId\",\"name\":\"类型\",\"value\":[{\"n\":\"全部\",\"v\":\"\"},{\"n\":\"足球\",\"v\":\"40\"},{\"n\":\"篮球\",\"v\":\"41\"},{\"n\":\"台球\",\"v\":\"42\"},{\"n\":\"其他赛事\",\"v\":\"43\"}]}]},\"members\":{\"tv\":[[\"3\",4153],[\"4\",507],[\"5\",880],[\"6\",1404],[\"7\",737],[\"20\",6844],[\"28\",301]],\"movie\":[[\"9\",5218],[\"10\",2626],[\"11\",5684],[\"12\",1252],[\"13\",3730],[\"14\",14885],[\"15\",641],[\"35\",374],[\"36\",254],[\"37\",119]],\"doc\":[[\"16\",2438]],\"anime\":[[\"23\",2050],[\"24\",2837],[\"25\",2541],[\"26\",455]],\"variety\":[[\"30\",1933],[\"31\",588],[\"32\",59],[\"33\",290]],\"sport\":[[\"40\",5136],[\"41\",2976],[\"42\",273],[\"43\",42]],\"short\":[[\"45\",5856],[\"46\",15243],[\"47\",2024],[\"48\",6166],[\"49\",859],[\"50\",4716],[\"52\",2775],[\"54\",536]]},\"sources\":[{\"name\":\"极速\",\"api\":\"https://jszyapi.com/api.php/provide/vod\",\"search\":1},{\"name\":\"百度\",\"api\":\"https://api.apibdzy.com/api.php/provide/vod\",\"search\":1},{\"name\":\"虎牙\",\"api\":\"https://www.huyaapi.com/api.php/provide/vod\",\"search\":1},{\"name\":\"U酷\",\"api\":\"https://api.ukuapi88.com/api.php/provide/vod\",\"search\":1},{\"name\":\"索尼\",\"api\":\"https://suoniapi.com/api.php/provide/vod\",\"search\":0}]}",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
@@ -18,7 +18,7 @@
    "name": "🎯极速资源·实测无插播",
    "type": 3,
    "api": "https://cdn.jsdelivr.net/gh/yoru-kan/tv-cfg@main/vod/cms/unify.js",
-   "ext": "{\"api\":\"https://jszyapi.com/api.php/provide/vod\",\"class\":[{\"type_id\":\"movie\",\"type_name\":\"电影\"},{\"type_id\":\"tv\",\"type_name\":\"电视剧\"},{\"type_id\":\"variety\",\"type_name\":\"综艺\"},{\"type_id\":\"anime\",\"type_name\":\"动漫\"},{\"type_id\":\"short\",\"type_name\":\"短剧\"},{\"type_id\":\"doc\",\"type_name\":\"纪录片\"},{\"type_id\":\"sport\",\"type_name\":\"体育\"}],\"filters\":{\"movie\":[{\"key\":\"cateId\",\"name\":\"类型\",\"value\":[{\"n\":\"全部\",\"v\":\"\"},{\"n\":\"动作片\",\"v\":\"9\"},{\"n\":\"爱情片\",\"v\":\"10\"},{\"n\":\"喜剧片\",\"v\":\"11\"},{\"n\":\"科幻片\",\"v\":\"12\"},{\"n\":\"恐怖片\",\"v\":\"13\"},{\"n\":\"剧情片\",\"v\":\"14\"},{\"n\":\"战争片\",\"v\":\"15\"},{\"n\":\"悬疑片\",\"v\":\"35\"},{\"n\":\"犯罪片\",\"v\":\"36\"},{\"n\":\"奇幻片\",\"v\":\"37\"}]}],\"tv\":[{\"key\":\"cateId\",\"name\":\"类型\",\"value\":[{\"n\":\"全部\",\"v\":\"\"},{\"n\":\"欧美剧\",\"v\":\"3\"},{\"n\":\"港剧\",\"v\":\"4\"},{\"n\":\"韩剧\",\"v\":\"5\"},{\"n\":\"日剧\",\"v\":\"6\"},{\"n\":\"泰剧\",\"v\":\"7\"},{\"n\":\"国产剧\",\"v\":\"20\"},{\"n\":\"台剧\",\"v\":\"28\"}]}],\"variety\":[{\"key\":\"cateId\",\"name\":\"类型\",\"value\":[{\"n\":\"全部\",\"v\":\"\"},{\"n\":\"大陆综艺\",\"v\":\"30\"},{\"n\":\"日韩综艺\",\"v\":\"31\"},{\"n\":\"港台综艺\",\"v\":\"32\"},{\"n\":\"欧美综艺\",\"v\":\"33\"}]}],\"anime\":[{\"key\":\"cateId\",\"name\":\"类型\",\"value\":[{\"n\":\"全部\",\"v\":\"\"},{\"n\":\"动画片\",\"v\":\"23\"},{\"n\":\"国产动漫\",\"v\":\"24\"},{\"n\":\"日韩动漫\",\"v\":\"25\"},{\"n\":\"欧美动漫\",\"v\":\"26\"}]}],\"short\":[{\"key\":\"cateId\",\"name\":\"类型\",\"value\":[{\"n\":\"全部\",\"v\":\"\"},{\"n\":\"古装仙侠\",\"v\":\"45\"},{\"n\":\"现代都市\",\"v\":\"46\"},{\"n\":\"穿越年代\",\"v\":\"47\"},{\"n\":\"言情总裁\",\"v\":\"48\"},{\"n\":\"重生民国\",\"v\":\"49\"},{\"n\":\"反转爽剧\",\"v\":\"50\"},{\"n\":\"脑洞悬疑\",\"v\":\"52\"},{\"n\":\"AI漫剧\",\"v\":\"54\"}]}],\"sport\":[{\"key\":\"cateId\",\"name\":\"类型\",\"value\":[{\"n\":\"全部\",\"v\":\"\"},{\"n\":\"足球\",\"v\":\"40\"},{\"n\":\"篮球\",\"v\":\"41\"},{\"n\":\"台球\",\"v\":\"42\"},{\"n\":\"其他赛事\",\"v\":\"43\"}]}]},\"members\":{\"tv\":[[\"3\",4149],[\"4\",507],[\"5\",880],[\"6\",1403],[\"7\",737],[\"20\",6840],[\"28\",301]],\"movie\":[[\"9\",5218],[\"10\",2626],[\"11\",5683],[\"12\",1252],[\"13\",3729],[\"14\",14885],[\"15\",641],[\"35\",373],[\"36\",254],[\"37\",119]],\"doc\":[[\"16\",2437]],\"anime\":[[\"23\",2050],[\"24\",2837],[\"25\",2540],[\"26\",455]],\"variety\":[[\"30\",1933],[\"31\",588],[\"32\",59],[\"33\",289]],\"sport\":[[\"40\",5136],[\"41\",2976],[\"42\",273],[\"43\",42]],\"short\":[[\"45\",5856],[\"46\",15242],[\"47\",2024],[\"48\",6166],[\"49\",859],[\"50\",4716],[\"52\",2775],[\"54\",536]]}}",
+   "ext": "{\"api\":\"https://jszyapi.com/api.php/provide/vod\",\"class\":[{\"type_id\":\"movie\",\"type_name\":\"电影\"},{\"type_id\":\"tv\",\"type_name\":\"电视剧\"},{\"type_id\":\"variety\",\"type_name\":\"综艺\"},{\"type_id\":\"anime\",\"type_name\":\"动漫\"},{\"type_id\":\"short\",\"type_name\":\"短剧\"},{\"type_id\":\"doc\",\"type_name\":\"纪录片\"},{\"type_id\":\"sport\",\"type_name\":\"体育\"}],\"filters\":{\"movie\":[{\"key\":\"cateId\",\"name\":\"类型\",\"value\":[{\"n\":\"全部\",\"v\":\"\"},{\"n\":\"动作片\",\"v\":\"9\"},{\"n\":\"爱情片\",\"v\":\"10\"},{\"n\":\"喜剧片\",\"v\":\"11\"},{\"n\":\"科幻片\",\"v\":\"12\"},{\"n\":\"恐怖片\",\"v\":\"13\"},{\"n\":\"剧情片\",\"v\":\"14\"},{\"n\":\"战争片\",\"v\":\"15\"},{\"n\":\"悬疑片\",\"v\":\"35\"},{\"n\":\"犯罪片\",\"v\":\"36\"},{\"n\":\"奇幻片\",\"v\":\"37\"}]}],\"tv\":[{\"key\":\"cateId\",\"name\":\"类型\",\"value\":[{\"n\":\"全部\",\"v\":\"\"},{\"n\":\"欧美剧\",\"v\":\"3\"},{\"n\":\"港剧\",\"v\":\"4\"},{\"n\":\"韩剧\",\"v\":\"5\"},{\"n\":\"日剧\",\"v\":\"6\"},{\"n\":\"泰剧\",\"v\":\"7\"},{\"n\":\"国产剧\",\"v\":\"20\"},{\"n\":\"台剧\",\"v\":\"28\"}]}],\"variety\":[{\"key\":\"cateId\",\"name\":\"类型\",\"value\":[{\"n\":\"全部\",\"v\":\"\"},{\"n\":\"大陆综艺\",\"v\":\"30\"},{\"n\":\"日韩综艺\",\"v\":\"31\"},{\"n\":\"港台综艺\",\"v\":\"32\"},{\"n\":\"欧美综艺\",\"v\":\"33\"}]}],\"anime\":[{\"key\":\"cateId\",\"name\":\"类型\",\"value\":[{\"n\":\"全部\",\"v\":\"\"},{\"n\":\"动画片\",\"v\":\"23\"},{\"n\":\"国产动漫\",\"v\":\"24\"},{\"n\":\"日韩动漫\",\"v\":\"25\"},{\"n\":\"欧美动漫\",\"v\":\"26\"}]}],\"short\":[{\"key\":\"cateId\",\"name\":\"类型\",\"value\":[{\"n\":\"全部\",\"v\":\"\"},{\"n\":\"古装仙侠\",\"v\":\"45\"},{\"n\":\"现代都市\",\"v\":\"46\"},{\"n\":\"穿越年代\",\"v\":\"47\"},{\"n\":\"言情总裁\",\"v\":\"48\"},{\"n\":\"重生民国\",\"v\":\"49\"},{\"n\":\"反转爽剧\",\"v\":\"50\"},{\"n\":\"脑洞悬疑\",\"v\":\"52\"},{\"n\":\"AI漫剧\",\"v\":\"54\"}]}],\"sport\":[{\"key\":\"cateId\",\"name\":\"类型\",\"value\":[{\"n\":\"全部\",\"v\":\"\"},{\"n\":\"足球\",\"v\":\"40\"},{\"n\":\"篮球\",\"v\":\"41\"},{\"n\":\"台球\",\"v\":\"42\"},{\"n\":\"其他赛事\",\"v\":\"43\"}]}]},\"members\":{\"tv\":[[\"3\",4153],[\"4\",507],[\"5\",880],[\"6\",1404],[\"7\",737],[\"20\",6844],[\"28\",301]],\"movie\":[[\"9\",5218],[\"10\",2626],[\"11\",5684],[\"12\",1252],[\"13\",3730],[\"14\",14885],[\"15\",641],[\"35\",374],[\"36\",254],[\"37\",119]],\"doc\":[[\"16\",2438]],\"anime\":[[\"23\",2050],[\"24\",2837],[\"25\",2541],[\"26\",455]],\"variety\":[[\"30\",1933],[\"31\",588],[\"32\",59],[\"33\",290]],\"sport\":[[\"40\",5136],[\"41\",2976],[\"42\",273],[\"43\",42]],\"short\":[[\"45\",5856],[\"46\",15243],[\"47\",2024],[\"48\",6166],[\"49\",859],[\"50\",4716],[\"52\",2775],[\"54\",536]]}}",
    "searchable": 0,
    "quickSearch": 0,
    "filterable": 1
@@ -38,7 +38,7 @@
    "name": "🎯虎牙资源·实测无插播",
    "type": 3,
    "api": "https://cdn.jsdelivr.net/gh/yoru-kan/tv-cfg@main/vod/cms/unify.js",
-   "ext": "{\"api\":\"https://www.huyaapi.com/api.php/provide/vod\",\"class\":[{\"type_id\":\"movie\",\"type_name\":\"电影\"},{\"type_id\":\"tv\",\"type_name\":\"电视剧\"},{\"type_id\":\"variety\",\"type_name\":\"综艺\"},{\"type_id\":\"anime\",\"type_name\":\"动漫\"},{\"type_id\":\"short\",\"type_name\":\"短剧\"},{\"type_id\":\"doc\",\"type_name\":\"纪录片\"},{\"type_id\":\"sport\",\"type_name\":\"体育\"}],\"filters\":{\"movie\":[{\"key\":\"cateId\",\"name\":\"类型\",\"value\":[{\"n\":\"全部\",\"v\":\"\"},{\"n\":\"动作片\",\"v\":\"9\"},{\"n\":\"爱情片\",\"v\":\"10\"},{\"n\":\"喜剧片\",\"v\":\"11\"},{\"n\":\"科幻片\",\"v\":\"12\"},{\"n\":\"恐怖片\",\"v\":\"13\"},{\"n\":\"剧情片\",\"v\":\"14\"},{\"n\":\"战争片\",\"v\":\"15\"}]}],\"tv\":[{\"key\":\"cateId\",\"name\":\"类型\",\"value\":[{\"n\":\"全部\",\"v\":\"\"},{\"n\":\"欧美剧\",\"v\":\"3\"},{\"n\":\"港剧\",\"v\":\"4\"},{\"n\":\"韩剧\",\"v\":\"5\"},{\"n\":\"日剧\",\"v\":\"6\"},{\"n\":\"泰剧\",\"v\":\"7\"},{\"n\":\"国产剧\",\"v\":\"20\"},{\"n\":\"台剧\",\"v\":\"28\"}]}],\"variety\":[{\"key\":\"cateId\",\"name\":\"类型\",\"value\":[{\"n\":\"全部\",\"v\":\"\"},{\"n\":\"大陆综艺\",\"v\":\"38\"},{\"n\":\"日韩综艺\",\"v\":\"39\"},{\"n\":\"港台综艺\",\"v\":\"40\"},{\"n\":\"欧美综艺\",\"v\":\"41\"}]}],\"anime\":[{\"key\":\"cateId\",\"name\":\"类型\",\"value\":[{\"n\":\"全部\",\"v\":\"\"},{\"n\":\"动画片\",\"v\":\"23\"},{\"n\":\"国产动漫\",\"v\":\"24\"},{\"n\":\"日韩动漫\",\"v\":\"25\"},{\"n\":\"欧美动漫\",\"v\":\"26\"}]}],\"short\":[{\"key\":\"cateId\",\"name\":\"类型\",\"value\":[{\"n\":\"全部\",\"v\":\"\"},{\"n\":\"古装仙侠\",\"v\":\"42\"},{\"n\":\"现代都市\",\"v\":\"43\"},{\"n\":\"穿越年代\",\"v\":\"44\"},{\"n\":\"言情总裁\",\"v\":\"45\"},{\"n\":\"重生民国\",\"v\":\"46\"},{\"n\":\"反转爽剧\",\"v\":\"47\"},{\"n\":\"脑洞悬疑\",\"v\":\"48\"},{\"n\":\"AI漫剧\",\"v\":\"50\"}]}],\"sport\":[{\"key\":\"cateId\",\"name\":\"类型\",\"value\":[{\"n\":\"全部\",\"v\":\"\"},{\"n\":\"足球\",\"v\":\"32\"},{\"n\":\"篮球\",\"v\":\"33\"},{\"n\":\"台球\",\"v\":\"34\"},{\"n\":\"其他赛事\",\"v\":\"35\"}]}]},\"members\":{\"tv\":[[\"3\",4155],[\"4\",520],[\"5\",893],[\"6\",1404],[\"7\",738],[\"20\",6908],[\"28\",310]],\"movie\":[[\"9\",5199],[\"10\",2584],[\"11\",5664],[\"12\",1242],[\"13\",3720],[\"14\",15632],[\"15\",648]],\"doc\":[[\"16\",2434]],\"anime\":[[\"23\",2079],[\"24\",2858],[\"25\",2554],[\"26\",454]],\"variety\":[[\"38\",1917],[\"39\",589],[\"40\",58],[\"41\",289]],\"sport\":[[\"32\",5338],[\"33\",3300],[\"34\",273],[\"35\",95]],\"short\":[[\"42\",5856],[\"43\",15243],[\"44\",2024],[\"45\",6166],[\"46\",859],[\"47\",4716],[\"48\",2775],[\"50\",533]]}}",
+   "ext": "{\"api\":\"https://www.huyaapi.com/api.php/provide/vod\",\"class\":[{\"type_id\":\"movie\",\"type_name\":\"电影\"},{\"type_id\":\"tv\",\"type_name\":\"电视剧\"},{\"type_id\":\"variety\",\"type_name\":\"综艺\"},{\"type_id\":\"anime\",\"type_name\":\"动漫\"},{\"type_id\":\"short\",\"type_name\":\"短剧\"},{\"type_id\":\"doc\",\"type_name\":\"纪录片\"},{\"type_id\":\"sport\",\"type_name\":\"体育\"}],\"filters\":{\"movie\":[{\"key\":\"cateId\",\"name\":\"类型\",\"value\":[{\"n\":\"全部\",\"v\":\"\"},{\"n\":\"动作片\",\"v\":\"9\"},{\"n\":\"爱情片\",\"v\":\"10\"},{\"n\":\"喜剧片\",\"v\":\"11\"},{\"n\":\"科幻片\",\"v\":\"12\"},{\"n\":\"恐怖片\",\"v\":\"13\"},{\"n\":\"剧情片\",\"v\":\"14\"},{\"n\":\"战争片\",\"v\":\"15\"}]}],\"tv\":[{\"key\":\"cateId\",\"name\":\"类型\",\"value\":[{\"n\":\"全部\",\"v\":\"\"},{\"n\":\"欧美剧\",\"v\":\"3\"},{\"n\":\"港剧\",\"v\":\"4\"},{\"n\":\"韩剧\",\"v\":\"5\"},{\"n\":\"日剧\",\"v\":\"6\"},{\"n\":\"泰剧\",\"v\":\"7\"},{\"n\":\"国产剧\",\"v\":\"20\"},{\"n\":\"台剧\",\"v\":\"28\"}]}],\"variety\":[{\"key\":\"cateId\",\"name\":\"类型\",\"value\":[{\"n\":\"全部\",\"v\":\"\"},{\"n\":\"大陆综艺\",\"v\":\"38\"},{\"n\":\"日韩综艺\",\"v\":\"39\"},{\"n\":\"港台综艺\",\"v\":\"40\"},{\"n\":\"欧美综艺\",\"v\":\"41\"}]}],\"anime\":[{\"key\":\"cateId\",\"name\":\"类型\",\"value\":[{\"n\":\"全部\",\"v\":\"\"},{\"n\":\"动画片\",\"v\":\"23\"},{\"n\":\"国产动漫\",\"v\":\"24\"},{\"n\":\"日韩动漫\",\"v\":\"25\"},{\"n\":\"欧美动漫\",\"v\":\"26\"}]}],\"short\":[{\"key\":\"cateId\",\"name\":\"类型\",\"value\":[{\"n\":\"全部\",\"v\":\"\"},{\"n\":\"古装仙侠\",\"v\":\"42\"},{\"n\":\"现代都市\",\"v\":\"43\"},{\"n\":\"穿越年代\",\"v\":\"44\"},{\"n\":\"言情总裁\",\"v\":\"45\"},{\"n\":\"重生民国\",\"v\":\"46\"},{\"n\":\"反转爽剧\",\"v\":\"47\"},{\"n\":\"脑洞悬疑\",\"v\":\"48\"},{\"n\":\"AI漫剧\",\"v\":\"50\"}]}],\"sport\":[{\"key\":\"cateId\",\"name\":\"类型\",\"value\":[{\"n\":\"全部\",\"v\":\"\"},{\"n\":\"足球\",\"v\":\"32\"},{\"n\":\"篮球\",\"v\":\"33\"},{\"n\":\"台球\",\"v\":\"34\"},{\"n\":\"其他赛事\",\"v\":\"35\"}]}]},\"members\":{\"tv\":[[\"3\",4159],[\"4\",520],[\"5\",893],[\"6\",1405],[\"7\",738],[\"20\",6912],[\"28\",310]],\"movie\":[[\"9\",5199],[\"10\",2584],[\"11\",5665],[\"12\",1242],[\"13\",3721],[\"14\",15633],[\"15\",648]],\"doc\":[[\"16\",2435]],\"anime\":[[\"23\",2079],[\"24\",2858],[\"25\",2555],[\"26\",454]],\"variety\":[[\"38\",1917],[\"39\",589],[\"40\",58],[\"41\",290]],\"sport\":[[\"32\",5338],[\"33\",3300],[\"34\",273],[\"35\",95]],\"short\":[[\"42\",5856],[\"43\",15244],[\"44\",2024],[\"45\",6166],[\"46\",859],[\"47\",4716],[\"48\",2775],[\"50\",533]]}}",
    "searchable": 0,
    "quickSearch": 0,
    "filterable": 1
@@ -48,7 +48,7 @@
    "name": "🎯U酷资源·实测无插播",
    "type": 3,
    "api": "https://cdn.jsdelivr.net/gh/yoru-kan/tv-cfg@main/vod/cms/unify.js",
-   "ext": "{\"api\":\"https://api.ukuapi88.com/api.php/provide/vod\",\"class\":[{\"type_id\":\"movie\",\"type_name\":\"电影\"},{\"type_id\":\"tv\",\"type_name\":\"电视剧\"},{\"type_id\":\"variety\",\"type_name\":\"综艺\"},{\"type_id\":\"anime\",\"type_name\":\"动漫\"},{\"type_id\":\"short\",\"type_name\":\"短剧\"},{\"type_id\":\"doc\",\"type_name\":\"纪录片\"}],\"filters\":{\"movie\":[{\"key\":\"cateId\",\"name\":\"类型\",\"value\":[{\"n\":\"全部\",\"v\":\"\"},{\"n\":\"动作片\",\"v\":\"6\"},{\"n\":\"喜剧片\",\"v\":\"7\"},{\"n\":\"爱情片\",\"v\":\"8\"},{\"n\":\"科幻片\",\"v\":\"9\"},{\"n\":\"恐怖片\",\"v\":\"10\"},{\"n\":\"剧情片\",\"v\":\"11\"},{\"n\":\"战争片\",\"v\":\"12\"},{\"n\":\"奇幻片\",\"v\":\"33\"},{\"n\":\"犯罪片\",\"v\":\"34\"}]}],\"tv\":[{\"key\":\"cateId\",\"name\":\"类型\",\"value\":[{\"n\":\"全部\",\"v\":\"\"},{\"n\":\"国产剧\",\"v\":\"13\"},{\"n\":\"港剧\",\"v\":\"14\"},{\"n\":\"日剧\",\"v\":\"15\"},{\"n\":\"欧美剧\",\"v\":\"16\"},{\"n\":\"台剧\",\"v\":\"21\"},{\"n\":\"韩剧\",\"v\":\"22\"},{\"n\":\"泰剧\",\"v\":\"23\"}]}]},\"members\":{\"movie\":[[\"6\",4452],[\"7\",4922],[\"8\",2588],[\"9\",1073],[\"10\",3113],[\"11\",9099],[\"12\",483],[\"33\",238],[\"34\",421]],\"tv\":[[\"13\",3555],[\"14\",197],[\"15\",1202],[\"16\",2515],[\"21\",180],[\"22\",701],[\"23\",702]],\"variety\":[[\"3\",2235]],\"anime\":[[\"4\",6113],[\"20\",661]],\"doc\":[[\"24\",656]],\"short\":[[\"32\",11610]]}}",
+   "ext": "{\"api\":\"https://api.ukuapi88.com/api.php/provide/vod\",\"class\":[{\"type_id\":\"movie\",\"type_name\":\"电影\"},{\"type_id\":\"tv\",\"type_name\":\"电视剧\"},{\"type_id\":\"variety\",\"type_name\":\"综艺\"},{\"type_id\":\"anime\",\"type_name\":\"动漫\"},{\"type_id\":\"short\",\"type_name\":\"短剧\"},{\"type_id\":\"doc\",\"type_name\":\"纪录片\"}],\"filters\":{\"movie\":[{\"key\":\"cateId\",\"name\":\"类型\",\"value\":[{\"n\":\"全部\",\"v\":\"\"},{\"n\":\"动作片\",\"v\":\"6\"},{\"n\":\"喜剧片\",\"v\":\"7\"},{\"n\":\"爱情片\",\"v\":\"8\"},{\"n\":\"科幻片\",\"v\":\"9\"},{\"n\":\"恐怖片\",\"v\":\"10\"},{\"n\":\"剧情片\",\"v\":\"11\"},{\"n\":\"战争片\",\"v\":\"12\"},{\"n\":\"奇幻片\",\"v\":\"33\"},{\"n\":\"犯罪片\",\"v\":\"34\"}]}],\"tv\":[{\"key\":\"cateId\",\"name\":\"类型\",\"value\":[{\"n\":\"全部\",\"v\":\"\"},{\"n\":\"国产剧\",\"v\":\"13\"},{\"n\":\"港剧\",\"v\":\"14\"},{\"n\":\"日剧\",\"v\":\"15\"},{\"n\":\"欧美剧\",\"v\":\"16\"},{\"n\":\"台剧\",\"v\":\"21\"},{\"n\":\"韩剧\",\"v\":\"22\"},{\"n\":\"泰剧\",\"v\":\"23\"}]}]},\"members\":{\"movie\":[[\"6\",4452],[\"7\",4924],[\"8\",2589],[\"9\",1073],[\"10\",3114],[\"11\",9100],[\"12\",483],[\"33\",238],[\"34\",423]],\"tv\":[[\"13\",3555],[\"14\",197],[\"15\",1202],[\"16\",2515],[\"21\",180],[\"22\",701],[\"23\",702]],\"variety\":[[\"3\",2235]],\"anime\":[[\"4\",6114],[\"20\",661]],\"doc\":[[\"24\",656]],\"short\":[[\"32\",11614]]}}",
    "searchable": 0,
    "quickSearch": 0,
    "filterable": 1
@@ -58,7 +58,7 @@
    "name": "🎯索尼资源·实测无插播",
    "type": 3,
    "api": "https://cdn.jsdelivr.net/gh/yoru-kan/tv-cfg@main/vod/cms/unify.js",
-   "ext": "{\"api\":\"https://suoniapi.com/api.php/provide/vod\",\"class\":[{\"type_id\":\"movie\",\"type_name\":\"电影\"},{\"type_id\":\"tv\",\"type_name\":\"电视剧\"},{\"type_id\":\"variety\",\"type_name\":\"综艺\"},{\"type_id\":\"anime\",\"type_name\":\"动漫\"},{\"type_id\":\"short\",\"type_name\":\"短剧\"},{\"type_id\":\"doc\",\"type_name\":\"纪录片\"},{\"type_id\":\"sport\",\"type_name\":\"体育\"}],\"filters\":{\"movie\":[{\"key\":\"cateId\",\"name\":\"类型\",\"value\":[{\"n\":\"全部\",\"v\":\"\"},{\"n\":\"动作片\",\"v\":\"6\"},{\"n\":\"喜剧片\",\"v\":\"7\"},{\"n\":\"爱情片\",\"v\":\"8\"},{\"n\":\"科幻片\",\"v\":\"9\"},{\"n\":\"恐怖片\",\"v\":\"10\"},{\"n\":\"剧情片\",\"v\":\"11\"},{\"n\":\"战争片\",\"v\":\"12\"},{\"n\":\"4K电影\",\"v\":\"62\"},{\"n\":\"邵氏电影\",\"v\":\"70\"},{\"n\":\"Netflix电影\",\"v\":\"71\"}]}],\"tv\":[{\"key\":\"cateId\",\"name\":\"类型\",\"value\":[{\"n\":\"全部\",\"v\":\"\"},{\"n\":\"国产剧\",\"v\":\"13\"},{\"n\":\"欧美剧\",\"v\":\"14\"},{\"n\":\"韩剧\",\"v\":\"15\"},{\"n\":\"日剧\",\"v\":\"16\"},{\"n\":\"港剧\",\"v\":\"17\"},{\"n\":\"台剧\",\"v\":\"18\"},{\"n\":\"泰剧\",\"v\":\"19\"},{\"n\":\"海外剧\",\"v\":\"23\"},{\"n\":\"Netflix自制剧\",\"v\":\"72\"}]}],\"variety\":[{\"key\":\"cateId\",\"name\":\"类型\",\"value\":[{\"n\":\"全部\",\"v\":\"\"},{\"n\":\"大陆综艺\",\"v\":\"25\"},{\"n\":\"日韩综艺\",\"v\":\"26\"},{\"n\":\"港台综艺\",\"v\":\"27\"},{\"n\":\"欧美综艺\",\"v\":\"28\"},{\"n\":\"演唱会\",\"v\":\"47\"}]}],\"anime\":[{\"key\":\"cateId\",\"name\":\"类型\",\"value\":[{\"n\":\"全部\",\"v\":\"\"},{\"n\":\"国产动漫\",\"v\":\"29\"},{\"n\":\"日韩动漫\",\"v\":\"30\"},{\"n\":\"欧美动漫\",\"v\":\"31\"},{\"n\":\"动画片\",\"v\":\"39\"},{\"n\":\"港台动漫\",\"v\":\"44\"},{\"n\":\"海外动漫\",\"v\":\"45\"},{\"n\":\"有声动漫\",\"v\":\"63\"},{\"n\":\"儿童儿歌\",\"v\":\"77\"}]}],\"short\":[{\"key\":\"cateId\",\"name\":\"类型\",\"value\":[{\"n\":\"全部\",\"v\":\"\"},{\"n\":\"女频恋爱\",\"v\":\"64\"},{\"n\":\"反转爽剧\",\"v\":\"65\"},{\"n\":\"古装仙侠\",\"v\":\"66\"},{\"n\":\"年代穿越\",\"v\":\"67\"},{\"n\":\"脑洞悬疑\",\"v\":\"68\"},{\"n\":\"现代都市\",\"v\":\"69\"},{\"n\":\"漫剧\",\"v\":\"76\"}]}],\"sport\":[{\"key\":\"cateId\",\"name\":\"类型\",\"value\":[{\"n\":\"全部\",\"v\":\"\"},{\"n\":\"篮球\",\"v\":\"49\"},{\"n\":\"足球\",\"v\":\"50\"}]}]},\"members\":{\"movie\":[[\"6\",5695],[\"7\",9330],[\"8\",1426],[\"9\",1247],[\"10\",4829],[\"11\",26076],[\"12\",424],[\"62\",838],[\"70\",568],[\"71\",135]],\"tv\":[[\"13\",8741],[\"14\",3567],[\"15\",928],[\"16\",1802],[\"17\",1702],[\"18\",353],[\"19\",937],[\"23\",201],[\"72\",237]],\"variety\":[[\"25\",2660],[\"26\",392],[\"27\",175],[\"28\",499],[\"47\",47]],\"anime\":[[\"29\",1716],[\"30\",4566],[\"31\",1057],[\"39\",1424],[\"44\",37],[\"45\",75],[\"63\",1412],[\"77\",65]],\"doc\":[[\"20\",2468],[\"75\",56]],\"sport\":[[\"49\",2847],[\"50\",4005]],\"short\":[[\"64\",10076],[\"65\",4655],[\"66\",4509],[\"67\",4521],[\"68\",1145],[\"69\",11879],[\"76\",5520]]}}",
+   "ext": "{\"api\":\"https://suoniapi.com/api.php/provide/vod\",\"class\":[{\"type_id\":\"movie\",\"type_name\":\"电影\"},{\"type_id\":\"tv\",\"type_name\":\"电视剧\"},{\"type_id\":\"variety\",\"type_name\":\"综艺\"},{\"type_id\":\"anime\",\"type_name\":\"动漫\"},{\"type_id\":\"short\",\"type_name\":\"短剧\"},{\"type_id\":\"doc\",\"type_name\":\"纪录片\"},{\"type_id\":\"sport\",\"type_name\":\"体育\"}],\"filters\":{\"movie\":[{\"key\":\"cateId\",\"name\":\"类型\",\"value\":[{\"n\":\"全部\",\"v\":\"\"},{\"n\":\"动作片\",\"v\":\"6\"},{\"n\":\"喜剧片\",\"v\":\"7\"},{\"n\":\"爱情片\",\"v\":\"8\"},{\"n\":\"科幻片\",\"v\":\"9\"},{\"n\":\"恐怖片\",\"v\":\"10\"},{\"n\":\"剧情片\",\"v\":\"11\"},{\"n\":\"战争片\",\"v\":\"12\"},{\"n\":\"4K电影\",\"v\":\"62\"},{\"n\":\"邵氏电影\",\"v\":\"70\"},{\"n\":\"Netflix电影\",\"v\":\"71\"}]}],\"tv\":[{\"key\":\"cateId\",\"name\":\"类型\",\"value\":[{\"n\":\"全部\",\"v\":\"\"},{\"n\":\"国产剧\",\"v\":\"13\"},{\"n\":\"欧美剧\",\"v\":\"14\"},{\"n\":\"韩剧\",\"v\":\"15\"},{\"n\":\"日剧\",\"v\":\"16\"},{\"n\":\"港剧\",\"v\":\"17\"},{\"n\":\"台剧\",\"v\":\"18\"},{\"n\":\"泰剧\",\"v\":\"19\"},{\"n\":\"海外剧\",\"v\":\"23\"},{\"n\":\"Netflix自制剧\",\"v\":\"72\"}]}],\"variety\":[{\"key\":\"cateId\",\"name\":\"类型\",\"value\":[{\"n\":\"全部\",\"v\":\"\"},{\"n\":\"大陆综艺\",\"v\":\"25\"},{\"n\":\"日韩综艺\",\"v\":\"26\"},{\"n\":\"港台综艺\",\"v\":\"27\"},{\"n\":\"欧美综艺\",\"v\":\"28\"},{\"n\":\"演唱会\",\"v\":\"47\"}]}],\"anime\":[{\"key\":\"cateId\",\"name\":\"类型\",\"value\":[{\"n\":\"全部\",\"v\":\"\"},{\"n\":\"国产动漫\",\"v\":\"29\"},{\"n\":\"日韩动漫\",\"v\":\"30\"},{\"n\":\"欧美动漫\",\"v\":\"31\"},{\"n\":\"动画片\",\"v\":\"39\"},{\"n\":\"港台动漫\",\"v\":\"44\"},{\"n\":\"海外动漫\",\"v\":\"45\"},{\"n\":\"有声动漫\",\"v\":\"63\"},{\"n\":\"儿童儿歌\",\"v\":\"77\"}]}],\"short\":[{\"key\":\"cateId\",\"name\":\"类型\",\"value\":[{\"n\":\"全部\",\"v\":\"\"},{\"n\":\"女频恋爱\",\"v\":\"64\"},{\"n\":\"反转爽剧\",\"v\":\"65\"},{\"n\":\"古装仙侠\",\"v\":\"66\"},{\"n\":\"年代穿越\",\"v\":\"67\"},{\"n\":\"脑洞悬疑\",\"v\":\"68\"},{\"n\":\"现代都市\",\"v\":\"69\"},{\"n\":\"漫剧\",\"v\":\"76\"}]}],\"sport\":[{\"key\":\"cateId\",\"name\":\"类型\",\"value\":[{\"n\":\"全部\",\"v\":\"\"},{\"n\":\"篮球\",\"v\":\"49\"},{\"n\":\"足球\",\"v\":\"50\"}]}]},\"members\":{\"movie\":[[\"6\",5695],[\"7\",9330],[\"8\",1426],[\"9\",1247],[\"10\",4830],[\"11\",26076],[\"12\",424],[\"62\",838],[\"70\",568],[\"71\",135]],\"tv\":[[\"13\",8742],[\"14\",3568],[\"15\",928],[\"16\",1802],[\"17\",1702],[\"18\",353],[\"19\",937],[\"23\",202],[\"72\",237]],\"variety\":[[\"25\",2661],[\"26\",392],[\"27\",176],[\"28\",499],[\"47\",47]],\"anime\":[[\"29\",1716],[\"30\",4567],[\"31\",1057],[\"39\",1424],[\"44\",37],[\"45\",75],[\"63\",1412],[\"77\",65]],\"doc\":[[\"20\",2468],[\"75\",56]],\"sport\":[[\"49\",2847],[\"50\",4005]],\"short\":[[\"64\",10076],[\"65\",4655],[\"66\",4509],[\"67\",4521],[\"68\",1145],[\"69\",11879],[\"76\",5520]]}}",
    "searchable": 0,
    "quickSearch": 0,
    "filterable": 1
@@ -312,31 +312,6 @@
    "quickSearch": 0
   },
   {
-   "key": "pan_xpb_csp_woog2",
-   "name": "💾装歌·网盘(百度/夸克)",
-   "type": 3,
-   "changeable": "0",
-   "api": "csp_Duopan",
-   "filterable": 1,
-   "jar": "https://ncstatic-file.clewm.net/rsrc/2026/0524/23/bddac79856595d96120f2620c139605d.jpg;md5;ce0e1ac1479b78f120064cc4669f40ae",
-   "ext": {
-    "site_urls": [
-     "https://ogkk.nxog.eu.org/",
-     "https://ogkk.nxog.fun",
-     "https://ogkk.430520.xyz",
-     "https://ogkk.装歌.de5.net",
-     "https://woog.430520.xyz"
-    ],
-    "url_key": "woog2",
-    "threadinfo": {
-     "chunksize": 422,
-     "threads": 16
-    }
-   },
-   "searchable": 0,
-   "quickSearch": 0
-  },
-  {
    "key": "pan_xflx_八零",
    "name": "💾八零·网盘(百度/夸克)",
    "type": 3,
@@ -346,45 +321,10 @@
    "filterable": 1,
    "changeable": 1,
    "ext": {
-    "site": "https://woog.430520.xyz/"
+    "site": "https://woog.nxog.eu.org/"
    },
    "timeout": 60,
    "jar": "http://150.158.52.248/tgyg/spider.jar"
-  },
-  {
-   "key": "pan_xflx_快映",
-   "name": "💾快映·网盘(阿里)",
-   "type": 3,
-   "api": "csp_PanWebShare",
-   "searchable": 0,
-   "quickSearch": 0,
-   "filterable": 1,
-   "changeable": 1,
-   "ext": {
-    "site": "http://xsayang.fun/"
-   },
-   "timeout": 60,
-   "jar": "http://150.158.52.248/tgyg/spider.jar"
-  },
-  {
-   "key": "pan_hb_傻样",
-   "name": "💾傻样·网盘(阿里)",
-   "type": 3,
-   "playerType": 2,
-   "api": "csp_MoggCAT",
-   "ext": {
-    "token": "http://127.0.0.1:9978/file/TVBox/Altoken.txt",
-    "cookie": "http://127.0.0.1:9978/file/TVBox/qkcookie.txt",
-    "uccookie": "http://127.0.0.1:9978/file/TVBox/uccookie.txt",
-    "tyitoken": "http://127.0.0.1:9978/file/TVBox/tyitoken.txt",
-    "dutoken": "http://127.0.0.1:9978/file/TVBox/dutoken.txt",
-    "p123token": "http://127.0.0.1:9978/file/TVBox/p123token.txt",
-    "tuctoken": "http://127.0.0.1:9978/file/TVBox/tuctoken.txt",
-    "site": "http://38.76.197.172:12521/"
-   },
-   "jar": "https://gitee.com/xhuban/getjar/raw/master/jar/custom_spider_cat.jar;md5;603bd5b3eae1bada6576bfe07a1ddcc7",
-   "searchable": 0,
-   "quickSearch": 0
   },
   {
    "key": "drpy_js_豆瓣",
@@ -521,8 +461,8 @@
    "name": "🧑🏻农民影视",
    "type": 3,
    "api": "csp_XYQHiker",
-   "searchable": 0,
-   "quickSearch": 0,
+   "searchable": 1,
+   "quickSearch": 1,
    "filterable": 1,
    "ext": "https://cdn.jsdelivr.net/gh/yoru-kan/tv-cfg@main/vod/tvboxqw/bd/lib/json/农民影视.json"
   },
@@ -981,19 +921,7 @@
    "quickSearch": 1,
    "changeable": 0,
    "ext": "rfOIzPkSUkANv6AT2prC8en3+Trbx4j10CIoZMv3Ag4bdEYQqTMqu/Z3YPtC2NJv6n6YeZdgyWlo4WJjBL5gUt6B7LvCEDT4CLrWka31GRq7jwVkfQRB/Jy9HkG7E8xUBIJi5DdVFk3qAuGnwUWqQNRblRxzHW+tdSm6zoFcG/QkZ97bzWOXn0fzbgwjBDkBHgcPIYjlULlctCNKgJ9DzGNSl+zMZDZgmxczsZeeahRS38Cst3qvaHn1T2lmLBGVGXPaRovi77LPRRDOJSNRrdpvCHdRikYwgar0MU56hXMGeGBiKp/OmGTIYR8dFRGvZ/m8xGOqs8U13h6wvADOGlYoP9VaQBqTcDnz9Q0Urhw3oFXWyvIlUrDhX9la5L2NYzagbyk3afqhxeSXXp07nAFsNy2CojHRTbmz4eohLoIJTSi2DzPpheVx1DAapfgRdTc7Ax5ddYpN338GiDAa0GnEgLe04a1pZ5jF+/Q7HJswqlSO+DXCQ3FjRbb/ZPQcozcCWwzhUHE1QUAt799V9DPMuiHGyudIcZarGQmezB+Lb45RdHIRy0PXD+NRVPJlfDFD5FMGSqsiVklibvuwlVHT8J5vHgh/1nEZoI1RlYYLrkjTts2EeQmrpB/sgLyo1vnjFw==",
-   "jar": "https://xiuxiu-pro-new.meitudata.com/posters/3c60a3e44d582b5a74fdcab19a150ad5.jpg;md5;aa8d37525617af470b3b8dfc91db8669"
-  },
-  {
-   "key": "fty_原创",
-   "name": "👒原创┃不卡·饭太",
-   "type": 3,
-   "api": "csp_YCyzGuard",
-   "timeout": 15,
-   "playerType": 2,
-   "searchable": 1,
-   "quickSearch": 1,
-   "changeable": 1,
-   "jar": "https://xiuxiu-pro-new.meitudata.com/posters/3c60a3e44d582b5a74fdcab19a150ad5.jpg;md5;aa8d37525617af470b3b8dfc91db8669"
+   "jar": "https://xiuxiu-pro-new.meitudata.com/posters/6d1de81b30c4ebc594bfcbece29161ba.jpg;md5;42869e09ec9d744c7ab61b6ae27839b8"
   },
   {
    "key": "fty_厂长",
@@ -1005,7 +933,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "changeable": 1,
-   "jar": "https://xiuxiu-pro-new.meitudata.com/posters/3c60a3e44d582b5a74fdcab19a150ad5.jpg;md5;aa8d37525617af470b3b8dfc91db8669"
+   "jar": "https://xiuxiu-pro-new.meitudata.com/posters/6d1de81b30c4ebc594bfcbece29161ba.jpg;md5;42869e09ec9d744c7ab61b6ae27839b8"
   },
   {
    "key": "fty_海绵",
@@ -1017,7 +945,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "changeable": 1,
-   "jar": "https://xiuxiu-pro-new.meitudata.com/posters/3c60a3e44d582b5a74fdcab19a150ad5.jpg;md5;aa8d37525617af470b3b8dfc91db8669"
+   "jar": "https://xiuxiu-pro-new.meitudata.com/posters/6d1de81b30c4ebc594bfcbece29161ba.jpg;md5;42869e09ec9d744c7ab61b6ae27839b8"
   },
   {
    "key": "fty_立播",
@@ -1032,7 +960,7 @@
     "Cloud-drive": "tvfan/Cloud-drive.txt",
     "siteUrl": "https://www.libvio.pw/"
    },
-   "jar": "https://xiuxiu-pro-new.meitudata.com/posters/3c60a3e44d582b5a74fdcab19a150ad5.jpg;md5;aa8d37525617af470b3b8dfc91db8669"
+   "jar": "https://xiuxiu-pro-new.meitudata.com/posters/6d1de81b30c4ebc594bfcbece29161ba.jpg;md5;42869e09ec9d744c7ab61b6ae27839b8"
   },
   {
    "key": "fty_瓜子",
@@ -1044,7 +972,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "changeable": 1,
-   "jar": "https://xiuxiu-pro-new.meitudata.com/posters/3c60a3e44d582b5a74fdcab19a150ad5.jpg;md5;aa8d37525617af470b3b8dfc91db8669"
+   "jar": "https://xiuxiu-pro-new.meitudata.com/posters/6d1de81b30c4ebc594bfcbece29161ba.jpg;md5;42869e09ec9d744c7ab61b6ae27839b8"
   },
   {
    "key": "fty_比特",
@@ -1055,7 +983,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "changeable": 1,
-   "jar": "https://xiuxiu-pro-new.meitudata.com/posters/3c60a3e44d582b5a74fdcab19a150ad5.jpg;md5;aa8d37525617af470b3b8dfc91db8669"
+   "jar": "https://xiuxiu-pro-new.meitudata.com/posters/6d1de81b30c4ebc594bfcbece29161ba.jpg;md5;42869e09ec9d744c7ab61b6ae27839b8"
   },
   {
    "key": "fty_糯米",
@@ -1066,7 +994,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "changeable": 1,
-   "jar": "https://xiuxiu-pro-new.meitudata.com/posters/3c60a3e44d582b5a74fdcab19a150ad5.jpg;md5;aa8d37525617af470b3b8dfc91db8669"
+   "jar": "https://xiuxiu-pro-new.meitudata.com/posters/6d1de81b30c4ebc594bfcbece29161ba.jpg;md5;42869e09ec9d744c7ab61b6ae27839b8"
   },
   {
    "key": "fty_文采",
@@ -1078,7 +1006,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "changeable": 1,
-   "jar": "https://xiuxiu-pro-new.meitudata.com/posters/3c60a3e44d582b5a74fdcab19a150ad5.jpg;md5;aa8d37525617af470b3b8dfc91db8669"
+   "jar": "https://xiuxiu-pro-new.meitudata.com/posters/6d1de81b30c4ebc594bfcbece29161ba.jpg;md5;42869e09ec9d744c7ab61b6ae27839b8"
   },
   {
    "key": "fty_奶酪",
@@ -1089,7 +1017,21 @@
    "quickSearch": 1,
    "changeable": 0,
    "ext": "rfOIzPkSUkANv6AT2prC8en3+TzKx9TnlT8vaY37HhtYfAQe6C5xqrVuJPhQwYV6r3eRdMBGm3Qm6Th+BushR86B6KqJGXDsHazHw7alBG/7zUxkN1tK/NypRxnpBNoeUtpw4jcCGhytI75yO4g4zG6SOPA0RSwhksM0IF2friAkrHCWoW3v+0mdw6sjz4t4XB1Df7yL/R5cfaA/5LQYq3I8OkvMrJMU9Q1P7JXwx7NSF2zTyH/ANVmZ4u5m567DW1KVG7OuQjXPjZiOXTYk0+wjpfBRTf19yIq6q/C76k2Fs80joAMPw0ueDR+QHxtuDcTom2rmHkI1Fonkzi6BotbpUcbSi4PiIgmfdbvVwhG6Z+i4nvt+IYa48l5aLA7PLgDiERpuOs31aHaXlgFswT87XyTb8QaF4CuzKWJuXptwNTjvXAS9KHdxH49Ay+hfBAB2bCvUf4CMoldF2wZUv0mI2qY966erFpOFg+FOc7t88EUH8j8ACXQtHJiKC9RQ+SaLIF0=",
-   "jar": "https://xiuxiu-pro-new.meitudata.com/posters/3c60a3e44d582b5a74fdcab19a150ad5.jpg;md5;aa8d37525617af470b3b8dfc91db8669"
+   "jar": "https://xiuxiu-pro-new.meitudata.com/posters/6d1de81b30c4ebc594bfcbece29161ba.jpg;md5;42869e09ec9d744c7ab61b6ae27839b8"
+  },
+  {
+   "key": "fty_风云",
+   "name": "☁️风云┃多线·饭太",
+   "type": 3,
+   "api": "csp_FyGuard",
+   "ext": {
+    "type": "video",
+    "name": "Fy"
+   },
+   "quickSearch": 0,
+   "searchable": 0,
+   "changeable": 1,
+   "jar": "https://xiuxiu-pro-new.meitudata.com/posters/6d1de81b30c4ebc594bfcbece29161ba.jpg;md5;42869e09ec9d744c7ab61b6ae27839b8"
   },
   {
    "key": "fty_视界",
@@ -1101,7 +1043,7 @@
    "quickSearch": 0,
    "changeable": 1,
    "ext": "rfOX1voDIQhH8epBwtCFsuby/mmdmIu8kGlnJc+7VkMRLQ1K+jMy+KN1MKQe0MZ6tmGSO5oFzD8/vWwiSqEpFczDqLrdGT3iH6fZmryrFzKijwYkJUMctdztE0O4CsgYZdBu8XhZSwuhSqqllQz4AZMa1l0sT+1NrbhNIxHkrY0upiYSTLNqEaledgZikMCviOXWr3cPBP4COOeoGUyJSJrrybmUppnWGeDAOHhHOVUSXjwSb+QQvcJIT2lmrf1Bk68myGs7qOqc19tD/rnzf2WOb2MzJZqtURBmUFgaW6ea2dL8OPSpSeVAvaGCAnqwuUNGE9hHpK8jfOs0bLJRdkFLnijAn5Q+ofVM5hgGb8c=",
-   "jar": "https://xiuxiu-pro-new.meitudata.com/posters/3c60a3e44d582b5a74fdcab19a150ad5.jpg;md5;aa8d37525617af470b3b8dfc91db8669"
+   "jar": "https://xiuxiu-pro-new.meitudata.com/posters/6d1de81b30c4ebc594bfcbece29161ba.jpg;md5;42869e09ec9d744c7ab61b6ae27839b8"
   },
   {
    "key": "fty_剧圈",
@@ -1113,7 +1055,7 @@
    "quickSearch": 0,
    "changeable": 1,
    "ext": "rfOX1voDIQhH8epBwpmIsuSluiuZl4+/lm1iJsy3HwNWMxpf9CY77fshI+kByoxy7DyPatUZ1jk0ty1p",
-   "jar": "https://xiuxiu-pro-new.meitudata.com/posters/3c60a3e44d582b5a74fdcab19a150ad5.jpg;md5;aa8d37525617af470b3b8dfc91db8669"
+   "jar": "https://xiuxiu-pro-new.meitudata.com/posters/6d1de81b30c4ebc594bfcbece29161ba.jpg;md5;42869e09ec9d744c7ab61b6ae27839b8"
   },
   {
    "key": "fty_荐片",
@@ -1125,7 +1067,7 @@
    "searchable": 0,
    "quickSearch": 0,
    "changeable": 0,
-   "jar": "https://xiuxiu-pro-new.meitudata.com/posters/3c60a3e44d582b5a74fdcab19a150ad5.jpg;md5;aa8d37525617af470b3b8dfc91db8669"
+   "jar": "https://xiuxiu-pro-new.meitudata.com/posters/6d1de81b30c4ebc594bfcbece29161ba.jpg;md5;42869e09ec9d744c7ab61b6ae27839b8"
   },
   {
    "key": "fty_奥特",
@@ -1136,7 +1078,7 @@
    "searchable": 0,
    "quickSearch": 0,
    "changeable": 1,
-   "jar": "https://xiuxiu-pro-new.meitudata.com/posters/3c60a3e44d582b5a74fdcab19a150ad5.jpg;md5;aa8d37525617af470b3b8dfc91db8669"
+   "jar": "https://xiuxiu-pro-new.meitudata.com/posters/6d1de81b30c4ebc594bfcbece29161ba.jpg;md5;42869e09ec9d744c7ab61b6ae27839b8"
   },
   {
    "key": "fty_AiDj",
@@ -1152,7 +1094,7 @@
    "quickSearch": 0,
    "searchable": 0,
    "changeable": 0,
-   "jar": "https://xiuxiu-pro-new.meitudata.com/posters/3c60a3e44d582b5a74fdcab19a150ad5.jpg;md5;aa8d37525617af470b3b8dfc91db8669"
+   "jar": "https://xiuxiu-pro-new.meitudata.com/posters/6d1de81b30c4ebc594bfcbece29161ba.jpg;md5;42869e09ec9d744c7ab61b6ae27839b8"
   },
   {
    "key": "fty_咕咕",
@@ -1164,7 +1106,7 @@
    "quickSearch": 0,
    "changeable": 1,
    "ext": "rfOX1voDIQhH8epBwpmIsuS/sSCZxc/l0mxkeoroQVYOelMAvX1kuYptSLB36YxEjVawS9p37Cgo",
-   "jar": "https://xiuxiu-pro-new.meitudata.com/posters/3c60a3e44d582b5a74fdcab19a150ad5.jpg;md5;aa8d37525617af470b3b8dfc91db8669"
+   "jar": "https://xiuxiu-pro-new.meitudata.com/posters/6d1de81b30c4ebc594bfcbece29161ba.jpg;md5;42869e09ec9d744c7ab61b6ae27839b8"
   },
   {
    "key": "fty_Dm84",
@@ -1175,7 +1117,7 @@
    "searchable": 0,
    "quickSearch": 0,
    "changeable": 1,
-   "jar": "https://xiuxiu-pro-new.meitudata.com/posters/3c60a3e44d582b5a74fdcab19a150ad5.jpg;md5;aa8d37525617af470b3b8dfc91db8669"
+   "jar": "https://xiuxiu-pro-new.meitudata.com/posters/6d1de81b30c4ebc594bfcbece29161ba.jpg;md5;42869e09ec9d744c7ab61b6ae27839b8"
   },
   {
    "key": "fty_Bili",
@@ -1192,7 +1134,7 @@
    "ext": {
     "json": "https://nos.netease.com/ysf/0075389dca9afadd4614e9713765ff17.txt"
    },
-   "jar": "https://xiuxiu-pro-new.meitudata.com/posters/3c60a3e44d582b5a74fdcab19a150ad5.jpg;md5;aa8d37525617af470b3b8dfc91db8669"
+   "jar": "https://xiuxiu-pro-new.meitudata.com/posters/6d1de81b30c4ebc594bfcbece29161ba.jpg;md5;42869e09ec9d744c7ab61b6ae27839b8"
   },
   {
    "key": "fty_Biliych",
@@ -1209,7 +1151,7 @@
    "ext": {
     "json": "https://nos.netease.com/ysf/6496356286589c68f52c2f99c0c674c7.txt"
    },
-   "jar": "https://xiuxiu-pro-new.meitudata.com/posters/3c60a3e44d582b5a74fdcab19a150ad5.jpg;md5;aa8d37525617af470b3b8dfc91db8669"
+   "jar": "https://xiuxiu-pro-new.meitudata.com/posters/6d1de81b30c4ebc594bfcbece29161ba.jpg;md5;42869e09ec9d744c7ab61b6ae27839b8"
   },
   {
    "key": "fty_少儿教育",
@@ -1226,7 +1168,7 @@
    "ext": {
     "json": "https://nos.netease.com/ysf/89370c8ddf36b5e1beb4d71adb921bda.txt"
    },
-   "jar": "https://xiuxiu-pro-new.meitudata.com/posters/3c60a3e44d582b5a74fdcab19a150ad5.jpg;md5;aa8d37525617af470b3b8dfc91db8669"
+   "jar": "https://xiuxiu-pro-new.meitudata.com/posters/6d1de81b30c4ebc594bfcbece29161ba.jpg;md5;42869e09ec9d744c7ab61b6ae27839b8"
   },
   {
    "key": "fm_潮流",
