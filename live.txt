@@ -17,6 +17,9 @@ CCTV5,http://153.0.171.163:85/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&auth
 CCTV5+,http://61.138.99.166:10089/hls/16/index.m3u8
 CCTV5+,http://58.210.97.102:1234/641886773
 CCTV5+,http://124.228.160.112:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV6,http://173.208.212.130:8181/1080p/cctv6.m3u8
+CCTV6,http://116.236.204.18:1234/624878396
+CCTV6,http://183.10.180.81:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV9,https://v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=617c65e41c32659331c3521cb502f2d4
 CCTV9,https://v4-e6b1c5baf4e240fe63adbf68dda23435.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=6c23a584667c0ec94349412478e536f2
 CCTV9,http://124.228.160.112:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -77,9 +80,6 @@ CCTV高尔夫网球,http://207.56.13.146:81/cdnlive/gefwq.m3u8
 CETV-1,http://38.75.136.137:98/gslb/dsdqpub/cetv1hd.m3u8?auth=testpub
 CETV-1,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cetv1hd
 CETV-1,http://61.138.99.166:10089/hls/17/index.m3u8
-CETV-3,http://107.150.60.122/live/cetv3.m3u8
-CETV-3,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226722/1.m3u8
-CETV-3,http://ott.mobaibox.com/PLTV/3/224/3221227018/index.m3u8
 CGTN,https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
 CGTN,http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 CGTN,https://0472.org/hls/cgtn.m3u8
@@ -199,7 +199,6 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 重庆卫视,http://222.223.41.27:8888/hls/43/index.m3u8
 重庆卫视,http://61.138.99.166:10089/hls/87/index.m3u8
 重庆卫视,http://107.150.60.122/live/cqwshd.m3u8
-陕西农林卫视,https://live.chinacert.cftest5.cn/cnmg/live/956904896
 陕西卫视,http://107.150.60.122/live/snwshd.m3u8
 陕西卫视,http://stream.snrtv.com/sxbc-star-rtxBDT.m3u8
 陕西卫视,http://t.061899.xyz/tl/tl.php?id=sxws
@@ -211,15 +210,13 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 AstroAOD,https://cdn3.indevs.in/stream/live/aod/
 AstroAOD,http://php.jdshipin.com/TVOD/iptv.php?id=aod
 AstroAOD,https://o11.163189.xyz/stream/live/aod/
+BeautifulLifeTV,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
 HOYTV,https://liveopen.siliconweb.com/openTvLive/liveopen/playlist.m3u8
 HOYTV,http://cdn6.123.rr.kg/163189/hoy
 HOYTV,http://cdn.123.rr.kg/163189/hoy
-J2,http://r.jdshipin.com/ndGgS
-J2,http://bziyunshao.synology.me:8890/bysid/82
-J2,https://hls-gateway.vpstv.net/streams/476932.m3u8
-PetClubTV,https://petclub-samsungaus.amagi.tv/playlist.m3u8
 PetClubTV,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8
 PetClubTV,http://zby.lskk.top/cdnlive.php?mode=play&id=02fe7cf0f125a2b343582a63a8f9855b&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
+PetClubTV,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=02fe7cf0f125a2b343582a63a8f9855b;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;machineid=495211d81289c09b;userip=36.231.95.229;useragent=Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2012%3B%20V2166A%20Build%2Fd063e58.0%29;source=dl_app
 TVBPlus,https://cdn3.indevs.in/stream/tvb/tvbp/
 TVBPlus,http://cdn3.123.rr.kg/stream/tvb/tvbp/
 TVBPlus,http://cdn10.123.rr.kg/163189/tvbp/
@@ -255,6 +252,9 @@ ViuTV,https://10.fast.hidns.vip/163189/viu/
 凤凰中文,http://120.198.95.220:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&down=1
 凤凰中文,http://183.10.180.46:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰中文,http://183.10.180.112:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+凤凰卫视,http://183.239.226.235:9901/tsfile/live/0108_1.m3u8?key=txiptv&playlive=1&authid=0
+凤凰卫视,https://7612-5516-affc-d88b.kylintv.tv/live/pxinhd_iphone.m3u8
+凤凰卫视,http://api.kkitv.itv888.vip:8080/streams/vny1wblsnch/index.m3u8
 凤凰资讯,http://43.152.224.209/qctv.fengshows.cn/live/0701pin72.flv
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8?
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
@@ -273,7 +273,6 @@ ViuTV,https://10.fast.hidns.vip/163189/viu/
 唯心电视,http://jy.bhzz.today:2026/YY1/WMHS.php?id=2e442016e05c9555&t=275128454570561086&line=0&token=xxx
 唯心电视,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
 唯心电视,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
-大立电视台,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 天映经典,http://zby.lskk.top/cdnlive.php?mode=play&id=95fbe855a1df5dc78b38a61bc64e7e9e&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
 天映经典,https://cdn10.123.rr.kg/163189/ccm/
 天映经典,https://cdn3.indevs.in/stream/live/ccm/
@@ -331,6 +330,7 @@ ViuTV,https://10.fast.hidns.vip/163189/viu/
 翡翠台4K,https://cdn3.indevs.in/stream/tvb/fct4k/
 翡翠台4K,http://r.jdshipin.com/qrfbg
 翡翠台4K,http://r.jdshipin.com/qClQf
+韩国电影1,https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
 韩国电影2,https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,https://hkstv.tv/api/m3u8-proxy?url=http%3A%2F%2Fwebcast.hkstv.tv%2Flivestream%2Fmutfysrq%2Fplaylist.m3u8
@@ -354,6 +354,7 @@ CHC电影,http://222.136.68.161:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive
 与凤行,http://8.155.43.98:35455/huya/26355866
 与凤行,https://live.ottiptv.cc/huya/26355866
 东阳影视生活,http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8
+仙剑奇侠传,https://live.ottiptv.cc/yy/1382749903
 倚天屠龙记,http://live.metshop.top/huya/11342403
 倚天屠龙记,https://live.ottiptv.cc/huya/11342403
 倚天屠龙记,https://live.metshop.top/huya/23734246
@@ -524,6 +525,8 @@ CHC电影,http://222.136.68.161:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive
 黑龙江少儿,https://stream1.freetv.fun/hei-long-jiang-shao-er-8.m3u8
 
 纪实科教,#genre#
+BRTV纪实科教,http://k.061899.xyz/k.php?id=bjjs
+BRTV纪实科教,http://120.76.248.139/live/bfgd/4200000113.m3u8
 东丰,http://stream5.jlntv.cn/df/sd/live.m3u8?zjild
 之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 之江纪录,http://ali-m-l.cztv.com/channels/lantian/channel12/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel12/720p.m3u8
