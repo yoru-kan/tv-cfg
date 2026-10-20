@@ -8,21 +8,21 @@ CCTV2,http://125.125.236.31:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&a
 CCTV4,http://58.56.162.102:4466/newlive/live/hls/4/live.m3u8
 CCTV4,http://61.138.99.166:10089/hls/4/index.m3u8
 CCTV4,http://113.57.140.161:10081/newlive/live/hls/4/live.m3u8
-CCTV4K,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1792580400-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-2e9026e0ddb139b33836bbc75212770c&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
-CCTV4K,http://3501776.xyz:35455/gaoma/cctv4k.m3u8
-CCTV4K,http://101.35.240.114:88/live.php?id=CCTV4K
 CCTV5,http://153.0.171.163:85/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5,http://222.223.41.27:8888/hls/5/index.m3u8
 CCTV5,http://gmxw.7766.org:808/hls/93/index.m3u8
 CCTV5+,http://58.210.97.102:1234/641886773
 CCTV5+,http://124.228.160.112:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5+,http://223.78.65.165:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV7,http://45.192.97.170:8880/play/10.m3u8
+CCTV7,http://101.66.194.125:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV7,http://1.197.250.140:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV9,http://124.228.160.112:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV9,https://v4-e6b1c5baf4e240fe63adbf68dda23435.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=9b55e7e2b01f53ce5d18fd2332e560f1
 CCTV9,https://v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=d931cc5b31f6a3011843920fea5277fb
-CCTV10,http://101.66.198.93:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV10,http://124.228.160.112:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV10,http://t.061899.xyz/tl/tl.php?id=cctv10
+CCTV10,http://101.66.194.125:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV11,http://61.138.99.166:10089/hls/11/index.m3u8
 CCTV11,http://101.66.195.137:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV11,http://101.66.195.192:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -95,9 +95,9 @@ CGTN西语,http://14.157.24.38:2345/rtp/239.77.0.221:5146
 CGTN阿语,http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd.m3u8
 CGTN阿语,https://arabic-liveali.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
 CGTN阿语,https://0472.org/hls/cgtna.m3u8
-上海第一财经,http://my1nas.dpdns.org:1234/608780988
 上海第一财经,http://47.100.80.251:50001/608780988
 上海第一财经,https://live.chinacert.cftest5.cn/cnmg/live/608780988
+上海第一财经,http://hlsztemgsplive.miguvideo.com:8080/wd_r1/2018/bestv/dycj/1000/index.m3u8?msisdn=202610040203061f759952f7044b9490e7fab0d67f85f3&mdspid=&spid=699212&netType=0&sid=2201008312&pid=2028597139&timestamp=20261004020306&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608780988&ParentNodeID=-99&assertID=2201008312&client_ip=171.8.79.254&SecurityKey=20261004020306&promotionId=&mvid=2201008312&mcid=500020&playurlVersion=WX-A1-9.9.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=56311baa08cdd98f4f825ed1c0443115
 北京新闻,http://114.242.62.109:888/hls/25/index.m3u8
 北京新闻,https://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
 北京新闻,http://8.138.7.223/tv/bj.php?id=0007
@@ -202,9 +202,9 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 陕西卫视,http://107.150.60.122/live/snwshd.m3u8
 陕西卫视,http://112.46.85.60:8009/hls/17/index.m3u8
 陕西卫视,http://stream.snrtv.com/sxbc-star-rtxBDT.m3u8
-青海卫视,https://hls-qhmh.lanzhousobey.cn/qhmh/mhds.m3u8
 青海卫视,http://222.223.41.27:8888/hls/50/index.m3u8
 青海卫视,http://61.138.99.166:10089/hls/96/index.m3u8
+青海卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=qhws
 
 港澳台,#genre#
 AstroAOD,https://cdn3.indevs.in/stream/live/aod/
