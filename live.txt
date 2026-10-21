@@ -86,9 +86,6 @@ CCTV高尔夫网球,http://207.56.13.146:81/cdnlive/gefwq.m3u8
 CETV-1,http://38.75.136.137:98/gslb/dsdqpub/cetv1hd.m3u8?auth=testpub
 CETV-1,http://198.204.228.26/live/cetv1hd.m3u8
 CETV-1,http://61.138.99.166:10089/hls/17/index.m3u8
-CETV-3,http://107.150.60.122/live/cetv3.m3u8
-CETV-3,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226722/1.m3u8
-CETV-3,http://ott.mobaibox.com/PLTV/3/224/3221227018/index.m3u8
 CGTN,https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
 CGTN,http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 CGTN,https://0472.org/hls/cgtn.m3u8
@@ -208,7 +205,6 @@ CGTN阿语,https://arabic-liveali.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LST
 重庆卫视,http://222.223.41.27:8888/hls/43/index.m3u8
 重庆卫视,http://107.150.60.122/live/cqwshd.m3u8
 重庆卫视,http://61.138.99.166:10089/hls/87/index.m3u8
-陕西农林卫视,https://live.chinacert.cftest5.cn/cnmg/live/956904896
 陕西卫视,http://107.150.60.122/live/snwshd.m3u8
 陕西卫视,http://112.46.85.60:8009/hls/17/index.m3u8
 陕西卫视,http://stream.snrtv.com/sxbc-star-rtxBDT.m3u8
@@ -265,12 +261,18 @@ ViuTV,https://10.fast.hidns.vip/163189/viu/
 凤凰中文,http://120.198.95.220:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&down=1
 凤凰中文,http://183.10.180.46:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰中文,http://183.10.180.112:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+凤凰卫视,http://183.239.226.235:9901/tsfile/live/0108_1.m3u8?key=txiptv&playlive=1&authid=0
+凤凰卫视,https://7612-5516-affc-d88b.kylintv.tv/live/pxinhd_iphone.m3u8
+凤凰卫视,http://api.kkitv.itv888.vip:8080/streams/vny1wblsnch/index.m3u8
 凤凰资讯,http://43.152.224.209/qctv.fengshows.cn/live/0701pin72.flv
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8?
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 凤凰香港,http://cdn6.123.rr.kg/163189/fhhk
 凤凰香港,http://43.152.224.209/qctv.fengshows.cn/live/0701phk72.flv
 凤凰香港,http://173.208.234.146/live/fhxg.m3u8
+华丽翡翠台,http://cdn3.123.rr.kg/stream/live/jade/
+华丽翡翠台,http://cdn9.163189.xyz/smt1.1.php?id=Tvbjade
+华丽翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali2
 南国都市,http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
 南国都市,http://zb.hmysapp.cn:802/dft/guangdong/guangzhou.php?id=shenghuo
 南国都市,http://r.jdshipin.com/nWaZO
@@ -280,7 +282,6 @@ ViuTV,https://10.fast.hidns.vip/163189/viu/
 唯心电视,http://jy.bhzz.today:2026/YY1/WMHS.php?id=2e442016e05c9555&t=275128454570561086&line=0&token=xxx
 唯心电视,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
 唯心电视,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
-大立电视台,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 天映经典,http://zby.lskk.top/cdnlive.php?mode=play&id=95fbe855a1df5dc78b38a61bc64e7e9e&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
 天映经典,https://cdn3.indevs.in/stream/live/ccm/
 天映经典,https://cdn10.123.rr.kg/163189/ccm/
@@ -335,9 +336,6 @@ ViuTV,https://10.fast.hidns.vip/163189/viu/
 翡翠台,http://cdn6.123.rr.kg/163189/fct
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
-翡翠台4K,https://cdn3.indevs.in/stream/tvb/fct4k/
-翡翠台4K,http://r.jdshipin.com/qrfbg
-翡翠台4K,http://r.jdshipin.com/qClQf
 韩国电影1,https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
 韩国电影2,https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
 香港卫视,https://hkstv.tv/api/m3u8-proxy?url=http%3A%2F%2Fwebcast.hkstv.tv%2Flivestream%2Fmutfysrq%2Fplaylist.m3u8
@@ -481,9 +479,6 @@ CHC电影,http://183.239.226.235:9901/tsfile/live/1000_1.m3u8?key=txiptv&playliv
 天津体育,http://192.151.150.154/live/tjtv5.m3u8#http://lanfenggood.cn:4022/udp/225.1.1.122:5002
 天津体育,http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub
 天津体育,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjtv5
-广东体育,https://epg.pw/stream/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.m3u8
-广东体育,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gdty
-广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8
 快乐垂钓,http://121.19.134.6:808/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
 快乐垂钓,http://drive.mxmy.net:8888/udp/239.3.1.164:8001
 快乐垂钓,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/ydcmklcd/50/20251225/index.m3u8?msisdn=202610040203034b95620186af40a29399c22ddd507524&mdspid=&spid=600603&netType=0&sid=5910022317&pid=2028597139&timestamp=20261004020303&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=961930263&ParentNodeID=-99&assertID=5910022317&client_ip=171.8.79.254&SecurityKey=20261004020303&promotionId=&mvid=5900006783&mcid=500020&playurlVersion=WX-A1-9.9.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=9a29821d5404b0ac96792d4fd78cfa63
@@ -501,9 +496,9 @@ CHC电影,http://183.239.226.235:9901/tsfile/live/1000_1.m3u8?key=txiptv&playliv
 名侦探柯南,https://live.ottiptv.cc/huya/30080236
 名侦探柯南,https://huyazhibo.de5.net/?id=30080236
 名侦探柯南,https://isus.cc/php/huya.php?id=30080236
-哆啦A梦,https://isus.cc/php/huya.php?id=11601963
 哆啦A梦,http://footyun.top:35455/huya/11601963
 哆啦A梦,https://live.ottiptv.cc/huya/11601963
+哆啦A梦,https://huyazhibo.de5.net/?id=11601963
 喜羊羊与灰太狼,https://huyazhibo.de5.net/?id=23865080
 喜羊羊与灰太狼,http://footyun.top:35455/huya/23865080
 喜羊羊与灰太狼,https://live.ottiptv.cc/huya/23865080
@@ -567,6 +562,8 @@ BRTV纪实科教,http://120.76.248.139/live/bfgd/4200000113.m3u8
 舒兰新闻,http://stream8.jlntv.cn/shulan/sd/live.m3u8?zjild
 辉南新闻,http://stream5.jlntv.cn/hn/sd/live.m3u8?zjild
 通化县,http://stream5.jlntv.cn/thx/sd/live.m3u8?zjild
+邯郸科教,https://jwcdnqx.hebyun.com.cn/live/hdkj/1500k/tzwj_video.m3u8
+邯郸科教,https://jwliveqxzb.hebyun.com.cn/hdkj/hdkj.m3u8
 金鹰纪实,http://183.11.239.36:808/hls/171/index.m3u8
 金鹰纪实,http://phoneal.qing.mgtv.com/nn_live/nn_x64/Y2hzPSZkZWY9MSZ1aXA9MTA2LjE0LjM4LjU1JnRlcm09NSZtYWNpZD02ODZlOGNmOGM4OGU3N2VjOWEwNzkzMjg5ZjUzNDg0MmFiZWM0ZjNjJnFpZD0mcmF1dGhfZW5hYmxlPW9uJmNkbmV4X2lkPWFsX3Bob25lMyZlcz0xNzkyNDA5MjI1JnV1aWQ9M2I4ZjE5YzU5YzY2N2VhZDc2OWU0ODQxNzM0NTI5YTYtNmEwZTI2Mzcmcz02ODY2NTBkOTYwYzc0OTQ3YWVlNDYzZDY0YWI5OGE2MSZ1aWQ9Jm5kdj1pb3MtNi41LjAmdj0yJmFzPTAmX2NhckNvZGU9MA,,/JYKTMPP360.m3u8
 金鹰纪实,http://phoneqq.qing.mgtv.com/nn_live/nn_x64/Y2hzPSZkZWY9MSZ1aXA9MTA2LjE0LjM4LjU1JnRlcm09NSZtYWNpZD02ODZlOGNmOGM4OGU3N2VjOWEwNzkzMjg5ZjUzNDg0MmFiZWM0ZjNjJnFpZD0mcmF1dGhfZW5hYmxlPW9uJmNkbmV4X2lkPXFxX3Bob25lX2xpdmUmZXM9MTc5MTgwNTM1NSZ1dWlkPTUyY2U3Y2Q3Mzc3NzgwZTBmMTkzNTE4YTRkMzUwOGRlLTZhMGUyNjM3JnM9M2EwMzVmZjNlYzgwYjY5NTlkMTQyNmU3NmJjMzA0NjkmdWlkPSZuZHY9aW9zLTYuNS4wJnY9MiZhcz0wJl9jYXJDb2RlPTA,/KLCDMPP360.m3u8
