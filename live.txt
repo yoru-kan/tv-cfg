@@ -113,9 +113,9 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 北京新闻,http://114.242.62.109:888/hls/25/index.m3u8
 北京新闻,https://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
 北京新闻,http://8.138.7.223/tv/bj.php?id=0007
-山东教育,http://2280.eu.org:1234/609154353
 山东教育,https://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8
 山东教育,http://my1nas.dpdns.org:1234/609154353
+山东教育,http://smartzhu.cn:1234/609154353
 海峡卫视,http://r.jdshipin.com/WtYt3
 海峡卫视,http://t.061899.xyz/tl/tl.php?id=hxws
 海峡卫视,https://cdn.qd.je/163189/hxws2
@@ -403,6 +403,7 @@ CHC电影,http://183.239.226.235:9901/tsfile/live/1000_1.m3u8?key=txiptv&playliv
 扫黄先锋,http://cfss.cc/cdn/huya/23903196.flv
 扫黄先锋,https://live.metshop.top/huya/29465855
 扫黄先锋,http://footyun.top:35455/huya/23903196
+林正英电影,https://live.metshop.top/huya/11342421
 柳舟计,http://footyun.top:35455/huya/23860039
 柳舟计,http://cfss.cc/cdn/huya/23860039.flv
 柳舟计,https://live.ottiptv.cc/huya/23860039
