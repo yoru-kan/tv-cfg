@@ -1,4 +1,7 @@
 少儿动画,#genre#
+七龙珠,https://live.metshop.top/huya/11601966
+七龙珠,https://live.ottiptv.cc/huya/11601966
+七龙珠,https://huyazhibo.de5.net/?id=30273533
 中华小当家,https://huyazhibo.de5.net/?id=30613314
 中华小当家,https://live.metshop.top/huya/11342413
 中华小当家,https://live.ottiptv.cc/huya/11342413
@@ -33,6 +36,7 @@
 金鹰卡通,https://phoneal.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/JYKTMPP360.m3u8
 金鹰卡通,http://183.11.239.36:808/hls/69/index.m3u8
 金鹰卡通,http://113.15.109.216:59901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+韩国EBS少儿,http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
 黑龙江少儿,https://ls.qingting.fm/live/4972/64k.m3u8
 黑龙江少儿,https://idclive.hljtv.com:4430/live/hljse_hd.m3u8
 黑龙江少儿,https://stream1.freetv.fun/hei-long-jiang-shao-er-8.m3u8
