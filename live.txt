@@ -258,6 +258,9 @@ ViuTV,https://10.fast.hidns.vip/163189/viu/
 凤凰中文,http://120.198.95.220:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&down=1
 凤凰中文,http://183.10.180.46:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰中文,http://183.10.180.112:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+凤凰卫视,http://183.239.226.235:9901/tsfile/live/0108_1.m3u8?key=txiptv&playlive=1&authid=0
+凤凰卫视,https://7612-5516-affc-d88b.kylintv.tv/live/pxinhd_iphone.m3u8
+凤凰卫视,http://api.kkitv.itv888.vip:8080/streams/vny1wblsnch/index.m3u8
 凤凰资讯,http://43.152.224.209/qctv.fengshows.cn/live/0701pin72.flv
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8?
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
@@ -304,9 +307,9 @@ ViuTV,https://10.fast.hidns.vip/163189/viu/
 民视新闻台,http://jy.bhzz.today:2026/YY1/WMHS.php?id=4df8b0c41f0da56f&t=706020202683548286&line=0&token=xxx
 民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 民视新闻台,http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
-港台电视31,http://iptv.4666888.xyz/iptv2A.php?id=23
 港台电视31,http://cdn.123.rr.kg/163189/rthk31
 港台电视31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
+港台电视31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream3/streamPlaylist.m3u8
 港台电视32,http://zby.lskk.top/cdnlive.php?mode=play&id=d3fd85166b5abb79502d872ec49b1f61&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
 港台电视32,https://fast.hidns.vip/163189/rthk32
 港台电视32,http://cdn.123.rr.kg/163189/rthk32
@@ -328,10 +331,11 @@ ViuTV,https://10.fast.hidns.vip/163189/viu/
 翡翠台,http://iptv.4666888.xyz/iptv2A.php?id=34
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali2
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=j1
+翡翠台4K,https://cdn3.indevs.in/stream/tvb/fct4k/
+翡翠台4K,http://r.jdshipin.com/qClQf
+翡翠台4K,https://cdn.qd.je/163189/fct4k
 韩国电影1,https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
-香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-香港卫视,https://hkstv.tv/api/m3u8-proxy?url=http%3A%2F%2Fwebcast.hkstv.tv%2Flivestream%2Fmutfysrq%2Fplaylist.m3u8
-香港卫视,http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
+韩国电影2,https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
 龙华电影,https://8.fast.hidns.vip/163189/lhdy
 龙华电影,http://iptv.4666888.xyz/iptv2A.php?id=45
 龙华电影,http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
@@ -361,7 +365,6 @@ CHC电影,http://183.239.226.235:9901/tsfile/live/1000_1.m3u8?key=txiptv&playliv
 南宁影视娱乐,https://hls.nntv.cn/nnlive/YSYL_244.m3u8
 南宁影视娱乐,http://hls.nntv.cn/nnlive/YSYL_244.m3u8
 南宁影视娱乐,http://hls.nntv.cn/nnlive/NNTV_VOD_A.m3u8
-句容影视,http://jrlive.jrntv.com/live/_definst_/yingshis/playlist.m3u8
 句容影院,http://jrlive.jrntv.com/live/_definst_/yingshis/chunklist_w1994429382.m3u8?zjiangsd
 周星驰电影,https://live.metshop.top/huya/11342412
 唐诡之西行,http://footyun.top:35455/huya/26355763
@@ -461,9 +464,6 @@ CHC电影,http://183.239.226.235:9901/tsfile/live/1000_1.m3u8?key=txiptv&playliv
 五星体育,http://43.249.195.13:10213/cdnlive.php?mode=play;id=d6ae87637cb6bd59ba1e4d8ddb8041eb;token=NhHKwLOLfUweXATNNbtGMVrOJw5cPmeP
 五星体育,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=wxtyhd
 五星体育,https://cdn15.163189.xyz/163189/wxty
-天元围棋,http://204.12.221.218:8181/3m1080p/gztywq.m3u8
-天元围棋,http://107.150.60.122/live/gztywq.m3u8
-天元围棋,http://38.75.136.137:98/gslb/dsdqpub/gztywq.m3u8?auth=testpub
 天津体育,http://192.151.150.154/live/tjtv5.m3u8#http://lanfenggood.cn:4022/udp/225.1.1.122:5002
 天津体育,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjtv5
 天津体育,http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub
@@ -502,9 +502,9 @@ CHC电影,http://183.239.226.235:9901/tsfile/live/1000_1.m3u8?key=txiptv&playliv
 海绵宝宝,https://huyazhibo.de5.net/?id=11352919
 海绵宝宝,http://120.220.76.91:2003/huya.php?id=11352919
 海绵宝宝,https://isus.cc/php/huya.php?id=11352919
-灌篮高手,http://footyun.top:35455/yy/1382735626
-灌篮高手,https://live.ottiptv.cc/yy/1382735626
 灌篮高手,https://huyazhibo.de5.net/?id=25039461
+灌篮高手,http://www.douzhicloud.site:35455/yy/1382735626$LR•IPV4『线路1』
+灌篮高手,http://alist.xicp.fun:35455/yy/1382735626$LR•IPV4『线路2』
 猫和老鼠,https://live.metshop.top/huya/11352879
 猫和老鼠,https://live.ottiptv.cc/huya/11352879
 猫和老鼠,https://huyazhibo.de5.net/?id=11352879
