@@ -20,6 +20,9 @@ CCTV5+,http://219.159.147.195:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1
 CCTV6,http://120.198.95.220:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&down=1
 CCTV6,http://219.159.147.195:9901/tsfile/live/1008_1.m3u8
 CCTV6,http://219.159.147.195:9901/tsfile/live/1008_1.m3u8?key=txiptv
+CCTV8,http://173.208.212.130:8181/720p/cctv8.m3u8
+CCTV8,http://116.236.204.18:1234/624878356
+CCTV8,http://101.66.194.125:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV9,http://124.228.160.112:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV9,https://v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=617c65e41c32659331c3521cb502f2d4
 CCTV9,http://61.138.99.166:10089/hls/9/index.m3u8
@@ -213,7 +216,6 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 AstroAOD,https://cdn3.indevs.in/stream/live/aod/
 AstroAOD,https://o11.163189.xyz/stream/live/aod/
 AstroAOD,http://159.75.4.149:99/清风/iptv.php?token=fa3b99bb95bdd339eebec0e0cb4904d6&ch=e12a26c797127ae6
-BeautifulLifeTV,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
 HOYTV,https://liveopen.siliconweb.com/openTvLive/liveopen/playlist.m3u8
 HOYTV,http://cdn.123.rr.kg/163189/hoy
 HOYTV,http://cdn.132.us.kg/live/hoy/stream.m3u8
@@ -280,9 +282,9 @@ ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
 天映经典,https://cdn3.indevs.in/stream/live/ccm/
 天映经典,https://cdn10.123.rr.kg/163189/ccm/
 天映经典,https://cdn.qd.je/163189/ccm
-寰宇新闻,http://222.128.55.152:9080/live/hy.m3u8
 寰宇新闻,http://jnzq.ohoyee.com:9080/live/xiangjiaoge-hyxw.m3u8
 寰宇新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
+寰宇新闻,https://ytm2.yuanhsing.cf/GlobalNewsTV.m3u8
 广东珠江,http://iptv.4666888.xyz/iptv2A.php?id=7
 广东珠江,http://r.jdshipin.com/sE5vO
 广东珠江,http://198.204.228.26/live/gdzj.m3u8
@@ -321,6 +323,9 @@ ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
 澳门卫视,http://61.244.22.5/ch3/ch3.live/chunklist_w1228316132.m3u8
 环球电视,http://utv1.hqtvzb.com:9999/hls/world.m3u8
 环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
+纬来精采,http://61.221.215.25:8800/hls/48/index.m3u8
+纬来精采,http://31.43.191.125:8080/restream/restream/34851
+纬来精采,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=4dab5a92e41236d0d252cad9c2a713b7;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;machineid=495211d81289c09b;userip=36.231.95.229;useragent=Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2012%3B%20V2166A%20Build%2Fd063e58.0%29;source=dl_app
 美亚C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 美亚电影,http://iptv.4666888.xyz/iptv2A.php?id=30
 美亚电影,http://31.43.191.125:8080/restream/restream/34848
@@ -331,6 +336,8 @@ ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
 翡翠台4K,https://cdn3.indevs.in/stream/tvb/fct4k/
 翡翠台4K,http://r.jdshipin.com/qClQf
 翡翠台4K,https://cdn.qd.je/163189/fct4k
+韩国电影1,https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
+韩国电影2,https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
 香港卫视,https://stream1.freetv.fun/5335c88a9a7d8b74173b491f480d4f94e8d3bd596af54478106aa2399e6c7917.ctv
@@ -405,9 +412,9 @@ CHC电影,http://183.239.226.235:9901/tsfile/live/1000_1.m3u8?key=txiptv&playliv
 柳舟计,http://footyun.top:35455/huya/23860039
 柳舟计,https://live.ottiptv.cc/huya/23860039
 柳舟计,http://cfss.cc/cdn/huya/23860039.flv
-梦中的那片海,http://footyun.top:35455/huya/26355765
 梦中的那片海,https://live.ottiptv.cc/huya/26355765
 梦中的那片海,http://feilong123.vip/huya.php?raw=1&id=26355765
+梦中的那片海,http://footyun.top:35455/huya/26355765
 楚汉骄雄,http://cfss.cc/cdn/huya/29465854.flv
 楚汉骄雄,https://live.metshop.top/huya/29465854
 楚汉骄雄,http://footyun.top:35455/huya/23740156
@@ -525,8 +532,6 @@ CHC电影,http://183.239.226.235:9901/tsfile/live/1000_1.m3u8?key=txiptv&playliv
 黑龙江少儿,https://stream1.freetv.fun/hei-long-jiang-shao-er-8.m3u8
 
 纪实科教,#genre#
-BRTV纪实科教,http://k.061899.xyz/k.php?id=bjjs
-BRTV纪实科教,http://120.76.248.139/live/bfgd/4200000113.m3u8
 东丰,http://stream5.jlntv.cn/df/sd/live.m3u8?zjild
 之江纪录,http://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 之江纪录,http://ali-m-l.cztv.com/channels/lantian/channel12/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel12/720p.m3u8
