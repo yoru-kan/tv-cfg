@@ -1,5 +1,5 @@
 {
- "spider": "https://gitee.com/xhuban/getjar/raw/master/jar/custom_spider_cat.jar;md5;6f41c9fe7b72b0af49ee6f00633481e3",
+ "spider": "https://gitee.com/xhuban/getjar/raw/master/jar/custom_spider_cat.jar;md5;0ac3913718d1e3f7fbfbc6a518d0ee8e",
  "wallpaper": "https://xn--11x805d.xn--4kq62z5rby2qupq9ub.xyz/",
  "warningText": "仅作学习交流测试使用，配置或下载后请于24小时之内删除",
  "lives": [
@@ -663,11 +663,6 @@
    "url": "http://127.0.0.1:9997/proxy?do=seachdanmu&go=hubanjiexi1&url="
   },
   {
-   "name": "晴天4K Q1026038872",
-   "type": 1,
-   "url": "http://127.0.0.1:9997/proxy?do=seachdanmu&go=hubanjiexi&url="
-  },
-  {
    "name": "虎斑AB",
    "type": 1,
    "url": "http://127.0.0.1:9997/proxy?do=seachdanmu&go=getAbjx&url="
@@ -679,8 +674,8 @@
   },
   {
    "name": "虎斑XM",
-   "type": 1,
-   "url": "http://127.0.0.1:9997/proxy?do=seachdanmu&go=getXmflvjx&url=",
+   "type": 0,
+   "url": "https://jx.xmflv.com/?url=",
    "ext": {
     "header": {
      "Accept": "*/*",
