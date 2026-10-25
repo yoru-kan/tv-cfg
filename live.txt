@@ -95,6 +95,9 @@ CCTV高尔夫网球,http://207.56.13.146:81/cdnlive/gefwq.m3u8
 CETV-1,http://116.236.204.18:1234/923287154
 CETV-1,http://198.204.228.26/live/cetv1hd.m3u8
 CETV-1,http://61.138.99.166:10089/hls/17/index.m3u8
+CETV-3,http://198.204.228.26/live/cetv3.m3u8
+CETV-3,http://107.150.60.122/live/cetv3.m3u8
+CETV-3,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226722/1.m3u8
 CGTN,http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 CGTN,https://english-livebkali.cgtn.com/live/encgtn_1.m3u8
 CGTN,https://0472.org/hls/cgtn.m3u8
@@ -297,7 +300,6 @@ ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
 唯心电视,http://jy.bhzz.today:2026/YY1/WMHS.php?id=2e442016e05c9555&t=275128454570561086&line=0&token=xxx
 唯心电视,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
 唯心电视,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
-大立电视台,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 天映经典,http://zby.lskk.top/cdnlive.php?mode=play&id=95fbe855a1df5dc78b38a61bc64e7e9e&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
 天映经典,https://cdn3.indevs.in/stream/live/ccm/
 天映经典,https://cdn10.123.rr.kg/163189/ccm/
@@ -356,7 +358,6 @@ ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
 翡翠台4K,http://r.jdshipin.com/qClQf
 翡翠台4K,https://cdn.qd.je/163189/fct4k
 韩国电影1,https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
-韩国电影2,https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,https://hkstv.tv/api/m3u8-proxy?url=http%3A%2F%2Fwebcast.hkstv.tv%2Flivestream%2Fmutfysrq%2Fplaylist.m3u8
 香港卫视,http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
@@ -562,6 +563,7 @@ BRTV纪实科教,http://120.76.248.139/live/bfgd/4200000113.m3u8
 四川科教,https://stream1.freetv.fun/si-chuan-ke-jiao-3.ctv
 四川科教,https://stream1.freetv.fun/si-chuan-ke-jiao-1.m3u8
 奎屯汉语,http://218.84.12.186:8001/hls/main/playlist.m3u8?zxinjd
+宿州科教,http://live.ahsz.tv/video/s10001-kxjy/index.m3u8
 敦化一套,http://stream8.jlntv.cn/dhtv/playlist.m3u8
 敦化一套,http://stream8.jlntv.cn/dhtv/playlist.m3u8?zjild
 新纪实,http://bp-resource-dfl.bestv.cn/155/3/video.m3u8

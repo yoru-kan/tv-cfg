@@ -191,6 +191,12 @@ http://116.236.204.18:1234/923287154
 http://198.204.228.26/live/cetv1hd.m3u8
 #EXTINF:-1 tvg-name="CETV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CETV-1.png" group-title="央视频道",CETV-1
 http://61.138.99.166:10089/hls/17/index.m3u8
+#EXTINF:-1 tvg-name="CETV-3" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CETV-3.png" group-title="央视频道",CETV-3
+http://198.204.228.26/live/cetv3.m3u8
+#EXTINF:-1 tvg-name="CETV-3" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CETV-3.png" group-title="央视频道",CETV-3
+http://107.150.60.122/live/cetv3.m3u8
+#EXTINF:-1 tvg-name="CETV-3" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CETV-3.png" group-title="央视频道",CETV-3
+http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226722/1.m3u8
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="" group-title="央视频道",CGTN
 http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="" group-title="央视频道",CGTN
@@ -587,8 +593,6 @@ http://jy.bhzz.today:2026/YY1/WMHS.php?id=2e442016e05c9555&t=275128454570561086&
 http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
 #EXTINF:-1 tvg-name="唯心电视" tvg-logo="" group-title="港澳台",唯心电视
 http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
-#EXTINF:-1 tvg-name="大立电视台" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/dalitv.png" group-title="港澳台",大立电视台
-http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 #EXTINF:-1 tvg-name="天映经典" tvg-logo="https://www.xn--rgv465a.top/tvlogo/天映经典.png" group-title="港澳台",天映经典
 http://zby.lskk.top/cdnlive.php?mode=play&id=95fbe855a1df5dc78b38a61bc64e7e9e&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
 #EXTINF:-1 tvg-name="天映经典" tvg-logo="https://www.xn--rgv465a.top/tvlogo/天映经典.png" group-title="港澳台",天映经典
@@ -705,8 +709,6 @@ http://r.jdshipin.com/qClQf
 https://cdn.qd.je/163189/fct4k
 #EXTINF:-1 tvg-name="韩国电影1" tvg-logo="https://live.fanmingming.cn/tv/韩国电影1.png" group-title="港澳台",韩国电影1
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
-#EXTINF:-1 tvg-name="韩国电影2" tvg-logo="https://live.fanmingming.cn/tv/韩国电影2.png" group-title="港澳台",韩国电影2
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
 #EXTINF:-1 tvg-name="香港卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/香港卫视.png" group-title="港澳台",香港卫视
 http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-name="香港卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/香港卫视.png" group-title="港澳台",香港卫视
@@ -1101,6 +1103,8 @@ https://stream1.freetv.fun/si-chuan-ke-jiao-3.ctv
 https://stream1.freetv.fun/si-chuan-ke-jiao-1.m3u8
 #EXTINF:-1 tvg-name="奎屯汉语" tvg-logo="" group-title="纪实科教",奎屯汉语
 http://218.84.12.186:8001/hls/main/playlist.m3u8?zxinjd
+#EXTINF:-1 tvg-name="宿州科教" tvg-logo="https://www.xn--rgv465a.top/tvlogo/宿州科教.png" group-title="纪实科教",宿州科教
+http://live.ahsz.tv/video/s10001-kxjy/index.m3u8
 #EXTINF:-1 tvg-name="敦化一套" tvg-logo="" group-title="纪实科教",敦化一套
 http://stream8.jlntv.cn/dhtv/playlist.m3u8
 #EXTINF:-1 tvg-name="敦化一套" tvg-logo="" group-title="纪实科教",敦化一套
