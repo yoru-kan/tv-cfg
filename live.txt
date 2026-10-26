@@ -47,6 +47,9 @@ CCTV13,http://101.66.194.125:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&
 CCTV14,http://61.138.99.166:10089/hls/14/index.m3u8
 CCTV14,http://124.228.160.112:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV14,http://113.25.252.226:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV15,http://101.66.198.84:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV15,http://101.66.198.18:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV15,http://183.10.180.203:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV16,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
 CCTV16,http://183.10.180.203:9901/tsfile/live/1065_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV16,http://183.10.180.81:9901/tsfile/live/1065_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -145,9 +148,9 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 农林卫视,http://45.192.97.170:8880/play/35.m3u8
 农林卫视,http://8.138.7.223/%E3%80%90%E5%85%AC%E4%BC%97%E5%8F%B7%EF%BC%9A%E6%A6%B4%E8%8A%92%E7%94%B5%E8%A7%86%E3%80%91/%E5%86%9C%E6%9E%97%E5%8D%AB%E8%A7%86.m3u8
 农林卫视,http://gxlive.snrtv.com/nlws-SD.m3u8
-厦门卫视,http://198.204.228.26/live/xmws.m3u8
 厦门卫视,http://192.151.150.154/live/xmws.m3u8
 厦门卫视,http://107.150.60.122/live/xmws.m3u8
+厦门卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=xmws
 吉林卫视,http://61.138.99.166:10089/hls/71/index.m3u8
 吉林卫视,http://107.150.60.122/live/jlwshd.m3u8
 吉林卫视,http://222.223.41.27:8888/hls/47/index.m3u8
@@ -211,9 +214,9 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 辽宁卫视,http://113.15.109.216:59901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
 辽宁卫视,http://t.061899.xyz/tl/tl.php?id=lnws
 辽宁卫视,http://125.125.236.31:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
-重庆卫视,http://61.138.99.166:10089/hls/87/index.m3u8
 重庆卫视,http://107.150.60.122/live/cqwshd.m3u8
 重庆卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cqwshd
+重庆卫视,http://iptv.huuc.edu.cn/hls/cqhd.m3u8
 陕西卫视,http://112.46.85.60:8009/hls/17/index.m3u8
 陕西卫视,http://stream.snrtv.com/sxbc-star-fhiwyR.m3u8
 陕西卫视,http://stream.snrtv.com/sxbc-star-rtxBDT.m3u8
@@ -270,6 +273,9 @@ ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
 凤凰中文,http://120.198.95.220:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&down=1
 凤凰中文,http://183.10.180.46:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰中文,http://183.10.180.112:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+凤凰卫视,http://183.239.226.235:9901/tsfile/live/0108_1.m3u8?key=txiptv&playlive=1&authid=0
+凤凰卫视,https://7612-5516-affc-d88b.kylintv.tv/live/pxinhd_iphone.m3u8
+凤凰卫视,http://api.kkitv.itv888.vip:8080/streams/vny1wblsnch/index.m3u8
 凤凰资讯,http://43.152.224.209/qctv.fengshows.cn/live/0701pin72.flv
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8?
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
@@ -347,7 +353,6 @@ ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
 翡翠台4K,http://r.jdshipin.com/qClQf
 翡翠台4K,https://cdn.qd.je/163189/fct4k
 韩国电影1,https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
-韩国电影2,https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,https://hkstv.tv/api/m3u8-proxy?url=http%3A%2F%2Fwebcast.hkstv.tv%2Flivestream%2Fmutfysrq%2Fplaylist.m3u8
 香港卫视,http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
@@ -369,7 +374,6 @@ CHC电影,http://183.239.226.235:9901/tsfile/live/1000_1.m3u8?key=txiptv&playliv
 与凤行,http://8.155.43.98:35455/huya/26355866
 与凤行,http://222.186.39.21:35466/huya/26355866
 与凤行,https://live.ottiptv.cc/huya/26355866
-东阳影视生活,http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8
 仙剑奇侠传,https://live.ottiptv.cc/yy/1382749903
 伪装者,https://live.ottiptv.cc/yy/1354936244
 倚天屠龙记,https://live.ottiptv.cc/huya/11342403
@@ -480,15 +484,12 @@ CHC电影,http://183.239.226.235:9901/tsfile/live/1000_1.m3u8?key=txiptv&playliv
 五星体育,https://cdn15.163189.xyz/163189/wxty
 五星体育,http://43.249.195.13:10213/cdnlive.php?mode=play;id=d6ae87637cb6bd59ba1e4d8ddb8041eb;token=NhHKwLOLfUweXATNNbtGMVrOJw5cPmeP
 五星体育,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=wxtyhd
-天元围棋,http://192.151.150.154/live/gztywq.m3u8
-天元围棋,http://204.12.221.218:8181/3m1080p/gztywq.m3u8
 天元围棋,http://107.150.60.122/live/gztywq.m3u8
+天元围棋,http://38.75.136.137:98/gslb/dsdqpub/gztywq.m3u8?auth=testpub
+天元围棋,http://192.151.150.154/live/gztywq.m3u8
 天津体育,http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub
 天津体育,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjtv5
 天津体育,http://192.151.150.154/live/tjtv5.m3u8#http://lanfenggood.cn:4022/udp/225.1.1.122:5002
-广东体育,https://epg.pw/stream/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.m3u8
-广东体育,http://198.204.228.26/live/gdty.m3u8
-广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8
 快乐垂钓,http://121.19.134.6:808/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
 快乐垂钓,http://drive.mxmy.net:8888/udp/239.3.1.164:8001
 快乐垂钓,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/ydcmklcd/50/20251225/index.m3u8?msisdn=202610040203034b95620186af40a29399c22ddd507524&mdspid=&spid=600603&netType=0&sid=5910022317&pid=2028597139&timestamp=20261004020303&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=961930263&ParentNodeID=-99&assertID=5910022317&client_ip=171.8.79.254&SecurityKey=20261004020303&promotionId=&mvid=5900006783&mcid=500020&playurlVersion=WX-A1-9.9.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=9a29821d5404b0ac96792d4fd78cfa63
