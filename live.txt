@@ -1,4 +1,7 @@
 央视频道,#genre#
+CCTV2,http://t.061899.xyz/tl/tl.php?id=cctv2
+CCTV2,http://219.159.147.195:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV2,http://219.159.147.195:9901/tsfile/live/1019_1.m3u8?key=txiptv
 CCTV3,http://t.061899.xyz/tl/tl.php?id=cctv3
 CCTV3,http://112.30.73.119:229/tsfile/live/0003_2.m3u8?key=txiptv&playlive=0&authid=0
 CCTV3,http://101.66.194.125:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -201,9 +204,6 @@ ViuTV,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv
 纬来精采,http://31.43.191.125:8080/restream/restream/34851
 纬来精采,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=4dab5a92e41236d0d252cad9c2a713b7;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;machineid=495211d81289c09b;userip=36.231.95.229;useragent=Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2012%3B%20V2166A%20Build%2Fd063e58.0%29;source=dl_app
 美亚C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
-美亚电影,http://iptv.4666888.xyz/iptv2A.php?id=30
-美亚电影,http://31.43.191.125:8080/restream/restream/34848
-美亚电影,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=j1
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali2
 翡翠台,http://cdn9.1689.us.kg/smt1.1.php?id=jade_twn$LR•IPV4『线路2』
@@ -286,6 +286,7 @@ CHC家庭影院,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=chcjt
 爱情公寓,http://live.metshop.top/huya/11336726
 爱情公寓,https://live.ottiptv.cc/douyu/4105989
 玫瑰的故事,https://live.ottiptv.cc/huya/23865142
+芈月传,https://live.ottiptv.cc/huya/11352975
 西游记,https://live.ottiptv.cc/huya/26355861
 西游记,http://live.ottiptv.cc/huya/20985836
 西游记,http://live.nctv.top/douyu.php?id=3700024$LR•IPV4『线路1』
