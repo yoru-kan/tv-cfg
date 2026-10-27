@@ -1,5 +1,5 @@
 {
- "spider": "https://gitee.com/xhuban/getjar/raw/master/jar/custom_spider_cat.jar;md5;6d8f04ab14aed74a09df6f07d4ee0379",
+ "spider": "https://gitee.com/xhuban/getjar/raw/master/jar/custom_spider_cat.jar;md5;c09fa11cf030c17f097c140fc242190c",
  "wallpaper": "https://xn--11x805d.xn--4kq62z5rby2qupq9ub.xyz/",
  "warningText": "仅作学习交流测试使用，配置或下载后请于24小时之内删除",
  "lives": [
@@ -88,6 +88,15 @@
    "api": "csp_HBBaoHuoCAT",
    "name": "火火|弹幕",
    "type": 3
+  },
+  {
+   "key": "shanzha",
+   "api": "csp_HBShanZhaCAT",
+   "name": "山楂|弹幕",
+   "type": 3,
+   "searchable": 1,
+   "filterable": 0,
+   "quickSearch": 1
   },
   {
    "key": "HBYiQi",
