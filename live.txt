@@ -94,9 +94,6 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 新疆卫视,https://live.264788.xyz/channel/xinjiangweishi?streamid=4f481f56ae39ce5d24203471de9df635&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 新疆卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=xjws
 新疆卫视,http://38.75.136.137:98/gslb/dsdqpub/xjws.m3u8?auth=testpub
-浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
-浙江卫视,http://zwebl02.cztv.com/live/channel01720Pnew.m3u8?auth_key=1792724570-9aee3d697ed2da66093f27d871240c8d-0-a8acd5863800fa050d489432df111e08
-浙江卫视,https://kzhibo.pages.dev/channel/617?type=2
 甘肃卫视,http://38.75.136.137:98/gslb/dsdqpub/gswshd.m3u8?auth=testpub
 甘肃卫视,http://t.061899.xyz/tl/tl.php?id=gsws
 甘肃卫视,https://kzhibo.pages.dev/channel/622?type=2
@@ -210,8 +207,6 @@ ViuTV,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv
 翡翠台4K,https://cdn.qd.je/163189/fct4k
 翡翠台4K,http://r.jdshipin.com/qrfbg
 翡翠台4K,http://cdn6.163189.xyz/163189/fct4k
-翡翠台backup,http://r.jdshipin.com/qrfbg
-翡翠台backup,http://api.kkitv.itv888.vip:8080/streams/jutaw8wu0j9/index.m3u8
 翡翠台北美版,http://php.jdshipin.com:8880/TVOD/iptv.php?id=j1
 翡翠台北美版,http://r.jdshipin.com/qrfbg
 翡翠台北美版,https://6.cdn.loc.cc/163189.php?id=j1
@@ -247,9 +242,9 @@ CHC家庭影院,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=chcjt
 妙手仁心,https://huyazhibo.de5.net/?id=29465853
 妙手仁心,https://isus.cc/php/huya.php?id=29465853
 妙手仁心,https://live.metshop.top/huya/29465853
+封神榜,https://live.ottiptv.cc/huya/29465849
+封神榜,http://cfss.cc/cdn/huya/29465849.flv
 封神榜,https://huyazhibo.de5.net/?id=29465849
-封神榜,http://cdn.jdshipin.com:8880/huya.php?id=29465849
-封神榜,http://alist.xicp.fun:35455/yy/1356043643
 射雕英雄传,https://live.ottiptv.cc/huya/23824164
 射雕英雄传,https://live.metshop.top/huya/23824164
 射雕英雄传,http://cdn.jdshipin.com:8880/huya.php?id=23824164
@@ -279,14 +274,10 @@ CHC家庭影院,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=chcjt
 洗冤录,https://huyazhibo.de5.net/?id=29465851
 洗冤录,https://live.metshop.top/huya/29465851$LR•IPV4
 洗冤录,https://live.metshop.top/huya/29465851
-浙江教科影视,https://ali-xwl.cztv.com/live/channel041080Plxw.m3u8
-浙江教科影视,http://ali-vl.cztv.com/channels/lantian/channel004/360p.m3u8
-浙江教科影视,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 爱情公寓,https://live.ottiptv.cc/huya/11336726
 爱情公寓,http://live.metshop.top/huya/11336726
 爱情公寓,https://live.ottiptv.cc/douyu/4105989
 玫瑰的故事,https://live.ottiptv.cc/huya/23865142
-芈月传,https://live.ottiptv.cc/huya/11352975
 西游记,https://live.ottiptv.cc/huya/26355861
 西游记,http://live.ottiptv.cc/huya/20985836
 西游记,http://live.nctv.top/douyu.php?id=3700024$LR•IPV4『线路1』
@@ -343,7 +334,3 @@ CHC家庭影院,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=chcjt
 猫和老鼠,https://isus.cc/php/huya.php?id=11352879
 猫和老鼠,https://cdn.ttvb.eu.org/huya/11352879
 韩国EBS少儿,http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
-
-纪实科教,#genre#
-浙江之江纪录,https://ali-xwl.cztv.com/live/channel121080Plxw.m3u8
-浙江之江纪录,http://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
