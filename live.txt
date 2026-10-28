@@ -41,9 +41,6 @@ CCTV12,http://120.198.95.220:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&
 CCTV13,http://113.25.252.226:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV13,http://183.10.180.81:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV13,http://101.66.194.125:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV14,http://222.169.85.8:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV14,http://101.66.195.137:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV14,http://101.66.198.174:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV15,http://101.66.198.84:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV15,http://120.76.248.139/live/bfgd/4200000133.m3u8
 CCTV15,http://183.10.180.203:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -190,6 +187,9 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 湖南卫视,http://www.yao87.com:4022/udp/239.76.246.101:1234
 湖南卫视,http://101.66.195.192:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=0&authid=0
 湖南卫视,http://101.66.195.243:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=0&authid=0
+珠江卫视,http://183.239.226.235:9901/tsfile/live/0133_1.m3u8?key=txiptv&playlive=1&authid=0
+珠江卫视,http://iptv.4666888.xyz/iptv2A.php?id=19
+珠江卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.24:11111
 甘肃卫视,http://38.75.136.137:98/gslb/dsdqpub/gswshd.m3u8?auth=testpub
 甘肃卫视,https://kzhibo.pages.dev/channel/622?type=2
 甘肃卫视,https://zby.130519.xyz/PLTV/11/224/3221226090/index.m3u8
@@ -279,9 +279,6 @@ ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
 凤凰香港,http://r.jdshipin.com/yDoTN
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 凤凰香港,http://43.152.224.209/qctv.fengshows.cn/live/0701phk72.flv
-华丽翡翠台,http://cdn3.123.rr.kg/stream/live/jade/
-华丽翡翠台,http://cdn9.163189.xyz/smt1.1.php?id=Tvbjade
-华丽翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali2
 南国都市,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
 南国都市,http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
 南国都市,http://r.jdshipin.com/nWaZO
@@ -391,9 +388,9 @@ CHC电影,http://222.136.68.161:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive
 刑事侦缉档案,https://huyazhibo.de5.net/?id=29465856
 刑事侦缉档案,https://live.metshop.top/huya/29465856
 刑事侦缉档案,http://footyun.top:35455/huya/23734169
-创世纪,http://cfss.cc/cdn/huya/23749083.flv
 创世纪,http://footyun.top:35455/huya/23749083
 创世纪,https://live.metshop.top/huya/29465852$LR•IPV4『线路1』
+创世纪,http://www.douzhicloud.site:35455/huya/29465852$LR•IPV4『线路2』
 南宁影视娱乐,http://hls.nntv.cn/nnlive/YSYL_244.m3u8
 南宁影视娱乐,https://hls.nntv.cn/nnlive/YSYL_244.m3u8
 南宁影视娱乐,http://hls.nntv.cn/nnlive/NNTV_VOD_A.m3u8
@@ -514,9 +511,9 @@ CHC电影,http://222.136.68.161:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive
 河北少儿,http://1.94.31.214/php/hebei.php?id=sekj
 河北少儿,http://1.94.31.214/php/hebei.php?id=sekj#http://tv.pull.hebtv.com:80/jishi/shaoerkejiao.m3u8?t=1893427200&k=d4a455b288ebbc0f53903f4750372b0f
 河北少儿,http://tv.pull.hebtv.com/jishi/shaoerkejiao.m3u8?t=2510710360&k=4ff4446adf3cce3de40dd013255b38b2
-浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江少儿,https://ali-xwl.cztv.com/live/channel081080Plxw.m3u8#https://zwebl02.cztv.com/live/channel081080Pnew.m3u8?auth_key=2524708799-ca798ce95dda85537a46f2eb5be537be-0-668e5a5a00e74f14f426cc55210a4ff9
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?fbl=#migu5://611318244#https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?#http://ali-vl.cztv.com/channels/lantian/channel008/360p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?fbl=
+浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?
 海绵宝宝,https://isus.cc/php/huya.php?id=11352919
 海绵宝宝,http://cfss.cc/cdn/huya/11352919.flv
 海绵宝宝,https://huyazhibo.de5.net/?id=11352919
