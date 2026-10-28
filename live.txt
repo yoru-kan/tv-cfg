@@ -11,6 +11,9 @@ CCTV3,http://112.30.73.119:229/tsfile/live/0003_2.m3u8?key=txiptv&playlive=0&aut
 CCTV4,http://173.208.212.130:8181/720p/cctv4.m3u8
 CCTV4,http://106.52.119.159:1234/631780421
 CCTV4,http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub
+CCTV4K,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1793271600-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-1cafc5ac843953abeb6d794ca82ac450&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
+CCTV4K,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1793185200-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-dc4507b8b1ef4cefffc54d6e959b074e&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
+CCTV4K,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1793098800-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-d6d98e67dc97c3e42b4b9ac98254000c&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
 CCTV5,http://153.0.171.163:85/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5,http://107.150.60.122/live/cctv5hd.m3u8
 CCTV5,http://106.52.119.159:1234/641886683
@@ -205,12 +208,12 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 湖南卫视,http://www.yao87.com:4022/udp/239.76.246.101:1234
 湖南卫视,http://101.66.195.192:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=0&authid=0
 湖南卫视,http://101.66.195.243:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=0&authid=0
-珠江卫视,http://183.239.226.235:9901/tsfile/live/0133_1.m3u8?key=txiptv&playlive=1&authid=0
 珠江卫视,http://iptv.4666888.xyz/iptv2A.php?id=19
 珠江卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.24:11111
-甘肃卫视,http://218.13.170.98:9901/tsfile/live/0141_1.m3u8
+珠江卫视,http://183.239.226.235:9901/tsfile/live/0133_1.m3u8?key=txiptv&playlive=1&authid=0
 甘肃卫视,http://38.75.136.137:98/gslb/dsdqpub/gswshd.m3u8?auth=testpub
 甘肃卫视,https://kzhibo.pages.dev/channel/622?type=2
+甘肃卫视,https://zby.130519.xyz/PLTV/11/224/3221226090/index.m3u8
 福建海峡卫视,http://r.jdshipin.com/WtYt3
 福建海峡卫视,https://m.italkbbtv.com/live/6a30f74820a80832dc74e2c7
 福建海峡卫视,http://38.64.72.148:80/hls/modn/list/4009/chunklist0.m3u8
@@ -356,6 +359,7 @@ ViuTV,https://pull-mpeg-hs-cny-f5.douyincdn.com/live/viu-WaLq7QU9ShukSHJr4y4T8i0
 翡翠台4K,https://cdn.qd.je/163189/fct4k
 翡翠台4K,http://r.jdshipin.com/qrfbg
 韩国电影1,https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
+韩国电影2,https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,https://hkstv.tv/api/m3u8-proxy?url=http%3A%2F%2Fwebcast.hkstv.tv%2Flivestream%2Fmutfysrq%2Fplaylist.m3u8
 香港卫视,http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
@@ -492,9 +496,9 @@ CHC电影,http://222.136.68.161:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive
 五星体育,http://43.249.195.13:10213/cdnlive.php?mode=play;id=d6ae87637cb6bd59ba1e4d8ddb8041eb;token=NhHKwLOLfUweXATNNbtGMVrOJw5cPmeP
 五星体育,https://cdn15.163189.xyz/163189/wxty
 五星体育,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=wxtyhd
-天元围棋,http://192.151.150.154/live/gztywq.m3u8
-天元围棋,http://107.150.60.122/live/gztywq.m3u8
 天元围棋,http://38.75.136.137:98/gslb/dsdqpub/gztywq.m3u8?auth=testpub
+天元围棋,http://204.12.221.218:8181/3m1080p/gztywq.m3u8
+天元围棋,http://192.151.150.154/live/gztywq.m3u8
 天津体育,http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub
 天津体育,http://192.151.150.154/live/tjtv5.m3u8#http://lanfenggood.cn:4022/udp/225.1.1.122:5002
 天津体育,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjtv5
