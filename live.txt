@@ -44,6 +44,9 @@ CCTV12,http://101.66.194.29:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=0&a
 CCTV13,http://113.25.252.226:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV13,http://183.10.180.81:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV13,http://101.66.194.125:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV14,http://222.169.85.8:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV14,http://101.66.195.137:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV14,http://101.66.198.174:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV15,http://101.66.198.84:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV15,http://120.76.248.139/live/bfgd/4200000133.m3u8
 CCTV15,http://183.10.180.203:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -95,9 +98,6 @@ CCTV高尔夫网球,http://207.56.13.146:81/cdnlive/gefwq.m3u8
 CETV-1,http://198.204.228.26/live/cetv1hd.m3u8
 CETV-1,http://smartzhu.cn:1234/923287154
 CETV-1,http://61.138.99.166:10089/hls/17/index.m3u8
-CETV-3,http://107.150.60.122/live/cetv3.m3u8
-CETV-3,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226722/1.m3u8
-CETV-3,http://ott.mobaibox.com/PLTV/3/224/3221227018/index.m3u8
 CGTN,https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
 CGTN,http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 CGTN,https://0472.org/hls/cgtn.m3u8
@@ -196,6 +196,9 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 湖南卫视,http://www.yao87.com:4022/udp/239.76.246.101:1234
 湖南卫视,http://101.66.195.192:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=0&authid=0
 湖南卫视,http://101.66.195.243:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=0&authid=0
+甘肃卫视,http://38.75.136.137:98/gslb/dsdqpub/gswshd.m3u8?auth=testpub
+甘肃卫视,https://kzhibo.pages.dev/channel/622?type=2
+甘肃卫视,https://zby.130519.xyz/PLTV/11/224/3221226090/index.m3u8
 福建海峡卫视,http://r.jdshipin.com/WtYt3
 福建海峡卫视,https://m.italkbbtv.com/live/6a30f74820a80832dc74e2c7
 福建海峡卫视,http://38.64.72.148:80/hls/modn/list/4009/chunklist0.m3u8
@@ -385,9 +388,9 @@ CHC电影,http://222.136.68.161:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive
 刑事侦缉档案,http://footyun.top:35455/huya/23734169
 刑事侦缉档案,http://cfss.cc/cdn/huya/23734169.flv
 刑事侦缉档案,https://huyazhibo.de5.net/?id=29465856
-创世纪,http://footyun.top:35455/huya/29465852
 创世纪,http://cfss.cc/cdn/huya/23749083.flv
 创世纪,http://footyun.top:35455/huya/23749083
+创世纪,https://live.metshop.top/huya/29465852$LR•IPV4『线路1』
 南宁影视娱乐,http://hls.nntv.cn/nnlive/YSYL_244.m3u8
 南宁影视娱乐,https://hls.nntv.cn/nnlive/YSYL_244.m3u8
 南宁影视娱乐,http://hls.nntv.cn/nnlive/NNTV_VOD_A.m3u8
