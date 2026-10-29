@@ -23,12 +23,6 @@ http://173.208.212.130:8181/720p/cctv4.m3u8
 http://106.52.119.159:1234/631780421
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-4.png" group-title="央视频道",CCTV4
 http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub
-#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV4K.png" group-title="央视频道",CCTV4K
-https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1793271600-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-1cafc5ac843953abeb6d794ca82ac450&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
-#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV4K.png" group-title="央视频道",CCTV4K
-https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1793185200-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-dc4507b8b1ef4cefffc54d6e959b074e&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
-#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV4K.png" group-title="央视频道",CCTV4K
-https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1793098800-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-d6d98e67dc97c3e42b4b9ac98254000c&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-5.png" group-title="央视频道",CCTV5
 http://153.0.171.163:85/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-5.png" group-title="央视频道",CCTV5
@@ -461,8 +455,6 @@ http://106.52.119.159:1234/738906901
 https://kzhibo.pages.dev/channel/621?type=2
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
 http://huanggang.live.cjyun.org/video/s10120-xwzh.m3u8
-#EXTINF:-1 tvg-name="BeautifulLifeTV" tvg-logo="https://i.imgur.com/hkwcBM9.png" group-title="港澳台",BeautifulLifeTV
-https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
 #EXTINF:-1 tvg-name="HOYTV" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/HOY TV.png" group-title="港澳台",HOYTV
 http://cdn.123.rr.kg/163189/hoy
 #EXTINF:-1 tvg-name="HOYTV" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/HOY TV.png" group-title="港澳台",HOYTV
@@ -703,10 +695,6 @@ https://cdn3.indevs.in/stream/tvb/fct4k/
 https://cdn.qd.je/163189/fct4k
 #EXTINF:-1 tvg-name="翡翠台4K" tvg-logo="https://live.fanmingming.cn/tv/翡翠台4K.png" group-title="港澳台",翡翠台4K
 http://r.jdshipin.com/qrfbg
-#EXTINF:-1 tvg-name="韩国电影1" tvg-logo="https://live.fanmingming.cn/tv/韩国电影1.png" group-title="港澳台",韩国电影1
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
-#EXTINF:-1 tvg-name="韩国电影2" tvg-logo="https://live.fanmingming.cn/tv/韩国电影2.png" group-title="港澳台",韩国电影2
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
 #EXTINF:-1 tvg-name="香港卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/香港卫视.png" group-title="港澳台",香港卫视
 https://hkstv.tv/api/m3u8-proxy?url=http%3A%2F%2Fwebcast.hkstv.tv%2Flivestream%2Fmutfysrq%2Fplaylist.m3u8
 #EXTINF:-1 tvg-name="香港卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/香港卫视.png" group-title="港澳台",香港卫视
@@ -714,11 +702,11 @@ http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
 #EXTINF:-1 tvg-name="香港卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/香港卫视.png" group-title="港澳台",香港卫视
 https://stream1.freetv.fun/5335c88a9a7d8b74173b491f480d4f94e8d3bd596af54478106aa2399e6c7917.ctv
 #EXTINF:-1 tvg-name="龙华电影" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/龙华电影.png" group-title="港澳台",龙华电影
-http://iptv.4666888.xyz/iptv2A.php?id=56
-#EXTINF:-1 tvg-name="龙华电影" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/龙华电影.png" group-title="港澳台",龙华电影
 http://iptv.4666888.xyz/iptv2A.php?id=45
 #EXTINF:-1 tvg-name="龙华电影" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/龙华电影.png" group-title="港澳台",龙华电影
 http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
+#EXTINF:-1 tvg-name="龙华电影" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/龙华电影.png" group-title="港澳台",龙华电影
+https://cdn8.163189.xyz/live/lhdy/stream.m3u8
 #EXTINF:-1 tvg-name="龙祥电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/龙祥电影.png" group-title="港澳台",龙祥电影
 http://jy.bhzz.today:2026/YY1/WMHS.php?id=6f021ad5b758b2a8&t=911960020880798391&line=0&token=xxx
 #EXTINF:-1 tvg-name="龙祥电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/龙祥电影.png" group-title="港澳台",龙祥电影
@@ -860,11 +848,11 @@ http://footyun.top:35455/huya/26355765
 #EXTINF:-1 tvg-name="梦中的那片海" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/电视剧.png" group-title="影视剧场",梦中的那片海
 http://feilong123.vip/huya.php?raw=1&id=26355765
 #EXTINF:-1 tvg-name="楚汉骄雄" tvg-logo="" group-title="影视剧场",楚汉骄雄
+http://footyun.top:35455/huya/23740156
+#EXTINF:-1 tvg-name="楚汉骄雄" tvg-logo="" group-title="影视剧场",楚汉骄雄
+http://cfss.cc/cdn/huya/29465854.flv
+#EXTINF:-1 tvg-name="楚汉骄雄" tvg-logo="" group-title="影视剧场",楚汉骄雄
 https://huyazhibo.de5.net/?id=29465854
-#EXTINF:-1 tvg-name="楚汉骄雄" tvg-logo="" group-title="影视剧场",楚汉骄雄
-https://live.metshop.top/huya/29465854
-#EXTINF:-1 tvg-name="楚汉骄雄" tvg-logo="" group-title="影视剧场",楚汉骄雄
-http://120.220.76.91:2003/huya.php?id=29465854
 #EXTINF:-1 tvg-name="永夜星河" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/电视剧.png" group-title="影视剧场",永夜星河
 https://live.ottiptv.cc/huya/23734169
 #EXTINF:-1 tvg-name="河北影视" tvg-logo="https://live.fanmingming.cn/tv/河北影视.png" group-title="影视剧场",河北影视

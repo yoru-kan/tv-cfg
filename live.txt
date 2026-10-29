@@ -11,9 +11,6 @@ CCTV3,http://112.30.73.119:229/tsfile/live/0003_2.m3u8?key=txiptv&playlive=0&aut
 CCTV4,http://173.208.212.130:8181/720p/cctv4.m3u8
 CCTV4,http://106.52.119.159:1234/631780421
 CCTV4,http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub
-CCTV4K,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1793271600-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-1cafc5ac843953abeb6d794ca82ac450&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
-CCTV4K,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1793185200-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-dc4507b8b1ef4cefffc54d6e959b074e&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
-CCTV4K,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1793098800-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-d6d98e67dc97c3e42b4b9ac98254000c&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
 CCTV5,http://153.0.171.163:85/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5,http://107.150.60.122/live/cctv5hd.m3u8
 CCTV5,http://106.52.119.159:1234/641886683
@@ -234,7 +231,6 @@ CGTN阿语,http://183.51.190.156:6633/rtp/239.253.43.200:5146
 黑龙江卫视,http://huanggang.live.cjyun.org/video/s10120-xwzh.m3u8
 
 港澳台,#genre#
-BeautifulLifeTV,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
 HOYTV,http://cdn.123.rr.kg/163189/hoy
 HOYTV,https://liveopen.siliconweb.com/openTvLive/liveopen/playlist.m3u8
 HOYTV,http://uc6.i-cable.com/live_freedirect/opentvhd001_h.live/playlist.m3u8
@@ -355,14 +351,12 @@ ViuTV,http://r.jdshipin.com/vSJvl
 翡翠台4K,https://cdn3.indevs.in/stream/tvb/fct4k/
 翡翠台4K,https://cdn.qd.je/163189/fct4k
 翡翠台4K,http://r.jdshipin.com/qrfbg
-韩国电影1,https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
-韩国电影2,https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
 香港卫视,https://hkstv.tv/api/m3u8-proxy?url=http%3A%2F%2Fwebcast.hkstv.tv%2Flivestream%2Fmutfysrq%2Fplaylist.m3u8
 香港卫视,http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
 香港卫视,https://stream1.freetv.fun/5335c88a9a7d8b74173b491f480d4f94e8d3bd596af54478106aa2399e6c7917.ctv
-龙华电影,http://iptv.4666888.xyz/iptv2A.php?id=56
 龙华电影,http://iptv.4666888.xyz/iptv2A.php?id=45
 龙华电影,http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
+龙华电影,https://cdn8.163189.xyz/live/lhdy/stream.m3u8
 龙祥电影,http://jy.bhzz.today:2026/YY1/WMHS.php?id=6f021ad5b758b2a8&t=911960020880798391&line=0&token=xxx
 龙祥电影,http://31.43.191.125:8080/restream/restream/34825
 龙祥电影,http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34825
@@ -435,9 +429,9 @@ CHC电影,http://222.136.68.161:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive
 梦中的那片海,https://live.ottiptv.cc/huya/26355765
 梦中的那片海,http://footyun.top:35455/huya/26355765
 梦中的那片海,http://feilong123.vip/huya.php?raw=1&id=26355765
+楚汉骄雄,http://footyun.top:35455/huya/23740156
+楚汉骄雄,http://cfss.cc/cdn/huya/29465854.flv
 楚汉骄雄,https://huyazhibo.de5.net/?id=29465854
-楚汉骄雄,https://live.metshop.top/huya/29465854
-楚汉骄雄,http://120.220.76.91:2003/huya.php?id=29465854
 永夜星河,https://live.ottiptv.cc/huya/23734169
 河北影视,http://1.94.31.214/php/hebei.php?id=hbys
 河北影视,http://121.19.134.6:808/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
