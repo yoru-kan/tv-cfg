@@ -44,9 +44,6 @@ CCTV13,http://101.66.194.125:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&
 CCTV14,http://106.52.119.159:1234/624878440
 CCTV14,http://222.169.85.8:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV14,http://101.66.195.137:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV15,http://101.66.198.84:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV15,http://120.76.248.139/live/bfgd/4200000133.m3u8
-CCTV15,http://183.10.180.203:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV16,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
 CCTV16,http://183.10.180.203:9901/tsfile/live/1065_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV16,http://183.10.180.81:9901/tsfile/live/1065_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -95,9 +92,6 @@ CCTV高尔夫网球,http://107.150.60.122/live/gefwq.m3u8
 CETV-1,http://61.138.99.166:10089/hls/17/index.m3u8
 CETV-1,http://smartzhu.cn:1234/923287154
 CETV-1,http://198.204.228.26/live/cetv1hd.m3u8
-CETV-3,http://107.150.60.122/live/cetv3.m3u8
-CETV-3,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226722/1.m3u8
-CETV-3,http://ott.mobaibox.com/PLTV/3/224/3221227018/index.m3u8
 CGTN,https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
 CGTN,http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 CGTN,https://0472.org/hls/cgtn.m3u8
@@ -313,6 +307,9 @@ ViuTV,http://r.jdshipin.com/vSJvl
 广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=439b0fd2cf766b363c93a59cbcbe1370&txTime=18d00acf488
 广州综合,https://tencentplaybusiness.gztv.com/live/zonghes.m3u8
 广州综合,http://tencentplaygzrb01.gztv.com/live/zonghes.m3u8
+无线新闻台,http://45.192.97.170:8880/play/1313.m3u8
+无线新闻台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV62.m3u8
+无线新闻台,http://php.jdshipin.com:8880/smt.php?id=inews_twn
 明珠台,http://cdn3.123.rr.kg/stream/tvb/mzt/
 明珠台,https://live2.tensila.com/pearl-v-1.pearlfm/hls/live/mystream.m3u8
 明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
@@ -349,7 +346,7 @@ ViuTV,http://r.jdshipin.com/vSJvl
 翡翠台4K,https://cdn3.indevs.in/stream/tvb/fct4k/
 翡翠台4K,https://cdn.qd.je/163189/fct4k
 翡翠台4K,http://r.jdshipin.com/qrfbg
-韩国电影2,https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
+韩国电影1,https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,https://hkstv.tv/api/m3u8-proxy?url=http%3A%2F%2Fwebcast.hkstv.tv%2Flivestream%2Fmutfysrq%2Fplaylist.m3u8
 香港卫视,http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
@@ -374,6 +371,9 @@ CHC电影,http://222.136.68.161:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive
 三国演义,https://live.iill.top/huya/11602081
 三国演义,https://live.metshop.top/huya/11602081
 上虞文化影视,http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
+上虞文化影院,http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
+上虞文化影院,https://stream1.freetv.fun/shang-yu-wen-hua-ying-yuan-2.ctv
+上虞文化影院,https://stream1.freetv.fun/shang-yu-wen-hua-ying-yuan-1.m3u8
 与凤行,http://8.155.43.98:35455/huya/26355866
 与凤行,http://222.186.39.21:35466/huya/26355866
 与凤行,http://live.ottiptv.cc/huya/26355866
@@ -483,9 +483,6 @@ CHC电影,http://222.136.68.161:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive
 五星体育,http://43.249.195.13:10213/cdnlive.php?mode=play;id=d6ae87637cb6bd59ba1e4d8ddb8041eb;token=NhHKwLOLfUweXATNNbtGMVrOJw5cPmeP
 五星体育,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=wxtyhd
 五星体育,https://cdn15.163189.xyz/163189/wxty
-天元围棋,http://204.12.221.218:8181/3m1080p/gztywq.m3u8
-天元围棋,http://192.151.150.154/live/gztywq.m3u8
-天元围棋,http://107.150.60.122/live/gztywq.m3u8
 天津体育,http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub
 天津体育,http://192.151.150.154/live/tjtv5.m3u8#http://lanfenggood.cn:4022/udp/225.1.1.122:5002
 天津体育,http://154.12.37.196:5555/tvbox/公众号好享生活小助手/接口获取/代理.php?id=http://38.75.136.137:82/live1/jsb1.m3u8?id=tjtv5&usign=
@@ -540,8 +537,6 @@ CHC电影,http://222.136.68.161:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive
 黑龙江少儿,https://stream1.freetv.fun/hei-long-jiang-shao-er-8.m3u8
 
 纪实科教,#genre#
-BRTV纪实科教,http://k.061899.xyz/k.php?id=bjjs
-BRTV纪实科教,http://120.76.248.139/live/bfgd/4200000113.m3u8
 东丰,http://stream5.jlntv.cn/df/sd/live.m3u8?zjild
 之江纪录,http://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
