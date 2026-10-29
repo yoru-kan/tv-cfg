@@ -68,19 +68,44 @@
    "url": "https://tiktok.445569.xyz/live.m3u"
   },
   {
-   "name": "🏆PPV体育赛事直播",
+   "name": "🍿咪咕TV直播",
+   "type": 0,
+   "url": "https://eastscreen.tv/iptvlist.php?token=N1pcBwAGHwkCAx8OTFhABgEFAA"
+  },
+  {
+   "name": "🍿易发TV直播",
+   "type": 1,
+   "url": "https://445569.pages.dev/https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt"
+  },
+  {
+   "name": "🍿华视TV直播",
+   "type": 1,
+   "url": "https://445569.pages.dev/https://raw.githubusercontent.com/swhtv/111/refs/heads/main/华视box华视大全swtv"
+  },
+  {
+   "name": "🍿聚合TV直播",
+   "type": 0,
+   "url": "https://445569.pages.dev/https://raw.githubusercontent.com/pan8664716/MultiLive/main/output/multilive.m3u"
+  },
+  {
+   "name": "🍿PPV体育赛事直播",
    "type": 0,
    "url": "https://www.korice.eu.org/ppv_m3u.php"
   },
   {
-   "name": "🇰🇷韩国Panda直播",
+   "name": "🍿韩国Panda直播",
    "type": 0,
    "url": "https://xiongmao.caonizuzong.indevs.in/all.m3u"
   },
   {
-   "name": "📺咪咕TV直播",
+   "name": "🍿乌拉TV直播",
    "type": 0,
-   "url": "https://eastscreen.tv/iptvlist.php?token=N1pcBwAGHwkCAx8OTFhABgEFAA"
+   "url": "https://ilook.epg.one/5CM5SY98BF24PL/2"
+  },
+  {
+   "name": "🍿全球TV直播",
+   "type": 0,
+   "url": "https://seep.eu.org/iptv-org.github.io/iptv/index.m3u"
   }
  ],
  "sites": [
