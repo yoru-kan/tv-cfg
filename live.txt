@@ -11,6 +11,9 @@ CCTV3,http://112.30.73.119:229/tsfile/live/0003_2.m3u8?key=txiptv&playlive=0&aut
 CCTV4,http://106.52.119.159:1234/631780421
 CCTV4,http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub
 CCTV4,http://207.56.13.146:81/cdnlive/cctv4.m3u8
+CCTV4K,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1793271600-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-1cafc5ac843953abeb6d794ca82ac450&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
+CCTV4K,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1793185200-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-dc4507b8b1ef4cefffc54d6e959b074e&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
+CCTV4K,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1793098800-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-d6d98e67dc97c3e42b4b9ac98254000c&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
 CCTV5,http://107.150.60.122/live/cctv5hd.m3u8
 CCTV5,http://106.52.119.159:1234/641886683
 CCTV5,http://153.0.171.163:85/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -116,6 +119,9 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 山东教育,https://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8
 山东教育,http://183.11.239.36:808/hls/72/index.m3u8
 山东教育,http://2280.eu.org:1234/609154353
+海峡卫视,http://smartzhu.cn:1234/849119120
+海峡卫视,http://116.236.204.18:1234/849119120
+海峡卫视,http://183.239.235.3:1234/849119120
 电视指南,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dszn
 电视指南,http://107.150.60.122/live/dszn.m3u8
 电视指南,http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2026875103_dlna.m3u8
@@ -220,14 +226,15 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 陕西卫视,http://106.52.119.159:1234/738910838
 陕西卫视,http://112.46.85.60:8009/hls/17/index.m3u8
 陕西卫视,http://stream.snrtv.com/sxbc-star-fhiwyR.m3u8
-青海卫视,https://hls-qhmh.lanzhousobey.cn/qhmh/mhds.m3u8
 青海卫视,http://222.223.41.27:8888/hls/50/index.m3u8
 青海卫视,http://61.138.99.166:10089/hls/96/index.m3u8
+青海卫视,http://107.150.60.122/live/qhws.m3u8
 黑龙江卫视,http://106.52.119.159:1234/738906901
 黑龙江卫视,https://kzhibo.pages.dev/channel/621?type=2
 黑龙江卫视,http://huanggang.live.cjyun.org/video/s10120-xwzh.m3u8
 
 港澳台,#genre#
+BeautifulLifeTV,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
 HOYTV,https://liveopen.siliconweb.com/openTvLive/liveopen/playlist.m3u8
 HOYTV,http://cdn.123.rr.kg/163189/hoy
 HOYTV,http://uc6.i-cable.com/live_freedirect/opentvhd001_h.live/playlist.m3u8
@@ -347,6 +354,7 @@ ViuTV,http://r.jdshipin.com/vSJvl
 翡翠台4K,https://cdn3.indevs.in/stream/tvb/fct4k/
 翡翠台4K,https://cdn.qd.je/163189/fct4k
 翡翠台4K,http://r.jdshipin.com/qrfbg
+韩国电影2,https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,https://hkstv.tv/api/m3u8-proxy?url=http%3A%2F%2Fwebcast.hkstv.tv%2Flivestream%2Fmutfysrq%2Fplaylist.m3u8
 香港卫视,http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
