@@ -467,7 +467,7 @@
   {
    "name": "📺青龙电视",
    "type": 0,
-   "url": "https://www.9kds.com/tool/txt/files/yiwu369/ku9.txt",
+   "url": "https://www.9kds.com/tool/txt/files/yiwu369/ok.txt",
    "ua": "Goiptv/8.8.8",
    "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
   }
