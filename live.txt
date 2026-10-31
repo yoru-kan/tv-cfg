@@ -17,9 +17,6 @@ CCTV4K,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3
 CCTV5,http://153.0.171.163:85/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5,http://101.66.194.29:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV5,https://ldcctvwbcdcnc.v.wscdns.com/ldcctvwbcd/cdrmldcctv5plus_1_720P/playlist.m3u8?wsApp=HLS
-CCTV5+,http://223.78.65.165:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5+,http://183.10.180.203:9901/tsfile/live/1073_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5+,https://myip.pdtvhd.com/Sports/streams/CCTV5pul.m3u8
 CCTV6,http://198.204.240.250:82/live/cctv6.m3u8
 CCTV6,http://219.159.147.195:9901/tsfile/live/1008_1.m3u8
 CCTV6,http://219.159.147.195:9901/tsfile/live/1008_1.m3u8?key=txiptv
@@ -41,9 +38,6 @@ CCTV12,http://106.52.119.159:1234/673168185
 CCTV13,http://101.66.195.232:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV13,http://8.137.121.66:20241/608807423
 CCTV13,http://183.10.180.81:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV14,http://222.169.85.8:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV14,http://101.66.195.137:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV14,http://101.66.198.174:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV15,http://120.198.95.220:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&down=1
 CCTV15,http://101.66.194.176:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV15,http://8.137.121.66:20241/673168223
@@ -178,9 +172,15 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
 浙江卫视,http://zwebl02.cztv.com/live/channel01720Pnew.m3u8?auth_key=1793329561-59e0f7a0efd9efc05daee82b65cd6d34-0-cd52a2c0ae2b5a05abd7e27e13de9d56
 浙江卫视,http://zwebl02.cztv.com/live/channel01720Pnew.m3u8?auth_key=1792724570-9aee3d697ed2da66093f27d871240c8d-0-a8acd5863800fa050d489432df111e08
+海南卫视,http://106.52.119.159:1234/947472502
+海南卫视,http://148.135.93.213/live.php?id=海南卫视
+海南卫视,https://livelyws.chinamcache.com/lyws/zb03.m3u8
 湖南卫视,http://www.yao87.com:4022/udp/239.76.246.101:1234
 湖南卫视,http://101.66.195.192:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=0&authid=0
 湖南卫视,http://101.66.195.243:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=0&authid=0
+珠江卫视,http://183.239.226.235:9901/tsfile/live/0133_1.m3u8?key=txiptv&playlive=1&authid=0
+珠江卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.24:11111
+珠江卫视,http://iptv.4666888.xyz/iptv2A.php?id=19
 甘肃卫视,http://38.75.136.137:98/gslb/dsdqpub/gswshd.m3u8?auth=testpub
 甘肃卫视,https://kzhibo.pages.dev/channel/622?type=2
 甘肃卫视,https://zby.130519.xyz/PLTV/11/224/3221226090/index.m3u8
@@ -193,9 +193,6 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 重庆卫视,http://8.137.121.66:20241/738910914
 重庆卫视,http://107.150.60.122/live/cqwshd.m3u8
 重庆卫视,http://p.ytelc.com/videojs.php?id=https://sjlivecdn9.cbg.cn/202502032311/app_2/_definst_/ls_2.stream/chunklist.m3u8
-陕西卫视,http://106.52.119.159:1234/738910838
-陕西卫视,http://stream.snrtv.com/sxbc-star-elmqWY.m3u8
-陕西卫视,http://stream.snrtv.com/sxbc-star-fhiwyR.m3u8
 青海卫视,http://107.150.60.122/live/qhws.m3u8
 青海卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=qhws
 青海卫视,http://61.138.99.166:10089/hls/96/index.m3u8
@@ -458,9 +455,6 @@ CHC家庭影院,http://107.150.60.122/live/chcjt.m3u8
 五星体育,https://cdn15.163189.xyz/163189/wxty
 五星体育,http://43.249.195.13:10213/cdnlive.php?mode=play;id=d6ae87637cb6bd59ba1e4d8ddb8041eb;token=NhHKwLOLfUweXATNNbtGMVrOJw5cPmeP
 五星体育,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=wxtyhd
-天元围棋,http://38.75.136.137:98/gslb/dsdqpub/gztywq.m3u8?auth=testpub
-天元围棋,http://204.12.221.218:8181/3m1080p/gztywq.m3u8
-天元围棋,http://192.151.150.154/live/gztywq.m3u8
 天津体育,http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub
 天津体育,http://192.151.150.154/live/tjtv5.m3u8#http://lanfenggood.cn:4022/udp/225.1.1.122:5002
 天津体育,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjtv5
