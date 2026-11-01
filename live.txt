@@ -29,6 +29,9 @@ CCTV11,http://101.66.195.137:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&
 CCTV12,http://113.57.140.161:10081/newlive/live/hls/13/live.m3u8
 CCTV12,http://8.137.121.66:20241/673168185
 CCTV12,http://106.52.119.159:1234/673168185
+CCTV13,http://8.137.121.66:20241/608807423
+CCTV13,http://t.061899.xyz/tl/tl.php?id=cctv13
+CCTV13,http://183.10.180.81:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV15,http://8.137.121.66:20241/673168223
 CCTV15,http://101.66.198.18:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV15,http://101.66.194.176:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -211,9 +214,6 @@ TVBS新闻台,http://61.221.215.25:8800/hls/9/index.m3u8
 TVB娱乐新闻台,http://cdn6.123.rr.kg/163189/ylxw
 TVB娱乐新闻台,https://cdn6.cc.cd/163189/ylxw
 TVB娱乐新闻台,http://2k.tstvs.com/live/695a9a191c749/81c60b4a0d/500951.ts
-TVB星河,https://10.fast.hidns.vip/163189/xinghe/
-TVB星河,http://r.jdshipin.com/sXuuD
-TVB星河,http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe
 ViuTV,http://zby.lskk.top/cdnlive.php?mode=play&id=4f0dd8b20a195bdf2dcf5540f665ee0b&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
 ViuTV,https://10.fast.hidns.vip/163189/viu/
 ViuTV,https://cdn.qd.je/163189/viu
@@ -363,6 +363,7 @@ CHC家庭影院,http://hzzzz530.com:4022/udp/239.69.1.243:11100
 射雕英雄传,https://live.metshop.top/huya/23824164
 少年包青天第一部,https://live.ottiptv.cc/yy/1356043677
 少年包青天第一部,https://live.ottiptv.cc/huya/11352958
+少年包青天第二部,https://live.ottiptv.cc/huya/11342425
 平泉影视,https://jwcdnqx.hebyun.com.cn/live/pqys/1500k/tzwj_video.m3u8
 平泉影视,https://jwcdnqx.hebyun.com.cn/zb/pqys/1500k/tzwj_video.m3u8
 平泉影视,https://jwliveqxzb.hebyun.com.cn/pqys/pqys.m3u8
@@ -370,6 +371,9 @@ CHC家庭影院,http://hzzzz530.com:4022/udp/239.69.1.243:11100
 庆余年,https://live.metshop.top/douyu/5908256
 庆余年,http://cdn.jdshipin.com:8880/huya.php?id=11352960
 康熙微服私访记,https://live.ottiptv.cc/huya/11342418
+康熙王朝,https://live.ottiptv.cc/huya/11352940
+康熙王朝,http://live.metshop.top/huya/11352940
+康熙王朝,http://cdn.jdshipin.com:8880/huya.php?id=11352940
 延禧攻略,https://live.ottiptv.cc/huya/26355864
 延禧攻略,http://live.metshop.top/huya/26355864
 扫黄先锋,http://cfss.cc/cdn/huya/23903196.flv
@@ -450,9 +454,9 @@ CHC家庭影院,http://hzzzz530.com:4022/udp/239.69.1.243:11100
 天津体育,http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub
 天津体育,http://192.151.150.154/live/tjtv5.m3u8#http://lanfenggood.cn:4022/udp/225.1.1.122:5002
 天津体育,http://154.12.37.196:5555/tvbox/公众号好享生活小助手/接口获取/代理.php?id=http://38.75.136.137:82/live1/jsb1.m3u8?id=tjtv5&usign=
-广东体育,http://74.91.26.218:82/live/gdty.m3u8
 广东体育,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gdty
 广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8
+广东体育,http://cdn2.132.us.kg/live/gdty/stream.m3u8$LR•IPV4『线路1』
 快乐垂钓,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/ydcmklcd/50/20251225/index.m3u8?msisdn=202611010203008f26a25103514af4813fcb5be45057f9&mdspid=&spid=600603&netType=0&sid=5910022317&pid=2028597139&timestamp=20261101020300&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=961930263&ParentNodeID=-99&assertID=5910022317&client_ip=171.8.79.254&SecurityKey=20261101020300&promotionId=&mvid=5900006783&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=3301a53599a8bdfc2d099f4145b0b7bf
 快乐垂钓,http://106.52.119.159:1234/961930263
 快乐垂钓,http://121.19.134.6:808/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -521,7 +525,6 @@ BRTV纪实科教,http://120.76.248.139/live/bfgd/4200000113.m3u8
 新纪实,http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
 柳河,http://stream5.jlntv.cn/lh/sd/live.m3u8?zjild
 桦甸,http://stream10.jlntv.cn/huadian/sd/live.m3u8?zjild
-江津新闻,http://222.179.155.21:1935/ch1.m3u8?zzhongqd
 汪清,http://stream5.jlntv.cn/wq/sd/live.m3u8?zjild
 泸州科教,http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel103074/playlist.m3u8?zsicd
 泸州科教,http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel103074/playlist.m3u8
