@@ -20,9 +20,15 @@ CCTV7,http://101.66.194.125:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&a
 CCTV9,https://v4-e6b1c5baf4e240fe63adbf68dda23435.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=6c23a584667c0ec94349412478e536f2
 CCTV9,https://v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=6960f556d8bd1ec84381f877fd4ddf39
 CCTV9,http://74.91.26.218:82/live/cctv9hd.m3u8
+CCTV10,http://8.137.121.66:20241/624878405
+CCTV10,http://t.061899.xyz/tl/tl.php?id=cctv10
+CCTV10,http://101.66.195.232:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV12,http://113.57.140.161:10081/newlive/live/hls/13/live.m3u8
 CCTV12,http://106.52.119.159:1234/673168185
 CCTV12,http://116.236.204.18:1234/673168185
+CCTV14,http://222.169.85.8:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV14,http://101.66.195.137:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV14,http://101.66.198.174:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV16,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
 CCTV16,http://183.10.180.203:9901/tsfile/live/1065_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV16,http://183.10.180.81:9901/tsfile/live/1065_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -106,9 +112,6 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 云南卫视,http://61.138.99.166:10089/hls/92/index.m3u8
 云南卫视,http://p2.ioioz.com/xgplayer.php?id=https://hwapi.yntv.net/ew265l/z1z6s5.m3u8
 云南卫视,https://zby.130519.xyz/PLTV/11/224/3221226109/index.m3u8
-人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
-人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
-人间卫视,https://epg.pw/stream/9d0b87502ccb47a1a2c8211dc602777d5146e941c631c933743048da0b44053d.m3u8
 内蒙古卫视,http://183.11.239.36:808/hls/60/index.m3u8
 内蒙古卫视,https://live.264788.xyz/channel/neimengguweishi?streamid=81a015dbecf3031d7d847b7a9b059f67&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 内蒙古卫视,http://123.130.84.106:8154/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -127,9 +130,9 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 天津卫视,http://61.138.99.166:10089/hls/69/index.m3u8
 天津卫视,https://piccpndks.v.kcdnvip.com/audio/tianjin_2/index.m3u8
 天津卫视,https://kzhibo.pages.dev/channel/611?type=2
-宁夏卫视,http://113.15.109.216:59901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0
 宁夏卫视,http://61.138.99.166:10089/hls/93/index.m3u8
 宁夏卫视,https://live.264788.xyz/channel/ningxiaweishi?streamid=e1236348f815c36a0429357e5b5c5f10&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+宁夏卫视,https://live.264788.xyz/channel/ningxiaweishi?streamid=1b2952717a920173e66d4a348f9dcb5c&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 山西卫视,http://113.26.202.52:1299/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
 山西卫视,https://livehhhttps.sxrtv.com/lsdream/q8RVWgs/1000/75sqwR0.m3u8
 山西卫视,https://livehhhttps.sxrtv.com/lsdream/lce1mC4/800/65tlxe0.m3u8
@@ -253,9 +256,6 @@ ViuTV,http://r.jdshipin.com/vSJvl
 广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=439b0fd2cf766b363c93a59cbcbe1370&txTime=18d00acf488
 广州综合,https://tencentplaygzrb01.gztv.com/live/zonghes.m3u8
 广州综合,https://tencentplaybusiness.gztv.com/live/zonghes.m3u8
-无线新闻台,http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/500953.ts
-无线新闻台,http://4gtv.cnlive.club/channel/4fa717ad/index.m3u8?q=1782639885837
-无线新闻台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV62.m3u8
 明珠台,http://122.152.202.33/s/81a8a44f/index.m3u8?id=23
 明珠台,http://cdn3.123.rr.kg/stream/tvb/mzt/
 明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
@@ -280,9 +280,6 @@ ViuTV,http://r.jdshipin.com/vSJvl
 澳视澳门,http://112.92.129.58:9898/hls/135/index.m3u8
 澳视澳门,http://iptv.4666888.xyz/iptv2A.php?id=41
 澳视澳门,https://cdn.qd.je/163189/asam
-澳门卫视,http://183.237.95.108:9901/tsfile/live/1106_1.m3u8?key=txiptv&playlive=1&authid=0
-澳门卫视,http://61.244.22.4/ch1/ch1.live/playlist.m3u8
-澳门卫视,http://61.244.22.5/ch3/ch3.live/chunklist_w1228316132.m3u8
 环球电视,http://utv1.hqtvzb.com:9999/hls/world.m3u8
 环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 纬来精采,http://61.221.215.25:8800/hls/48/index.m3u8
@@ -292,6 +289,9 @@ ViuTV,http://r.jdshipin.com/vSJvl
 美亚电影,http://iptv.4666888.xyz/iptv2A.php?id=30
 美亚电影,http://31.43.191.125:8080/restream/restream/34848
 美亚电影,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
+翡翠台,http://45.192.97.170:8880/play/1215.m3u8
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali2
+翡翠台,http://cdn9.1689.us.kg/smt1.1.php?id=jade_twn$LR•IPV4『线路2』
 翡翠台4K,https://cdn3.indevs.in/stream/tvb/fct4k/
 翡翠台4K,http://r.jdshipin.com/qrfbg
 翡翠台4K,http://cdn6.163189.xyz/163189/fct4k
@@ -314,8 +314,6 @@ CHC动作电影,http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
 CHC家庭影院,http://107.150.60.122/live/chcjt.m3u8
 CHC家庭影院,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240323_1/playlist.m3u8?CONTENTID=00000110240323_1
 CHC家庭影院,http://t.061899.xyz/tl/tl.php?id=chcjtdy
-CHC电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
-CHC电影,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240325_1/playlist.m3u8?CONTENTID=00000110240325_1
 三国演义,https://live.ottiptv.cc/huya/11602081
 三国演义,https://live.iill.top/huya/11602081
 三国演义,https://live.metshop.top/huya/11602081
@@ -511,8 +509,6 @@ BRTV纪实科教,http://120.76.248.139/live/bfgd/4200000113.m3u8
 舒兰新闻,http://stream8.jlntv.cn/shulan/sd/live.m3u8?zjild
 辉南新闻,http://stream5.jlntv.cn/hn/sd/live.m3u8?zjild
 通化县,http://stream5.jlntv.cn/thx/sd/live.m3u8?zjild
-邯郸科教,https://jwcdnqx.hebyun.com.cn/live/hdkj/1500k/tzwj_video.m3u8
-邯郸科教,https://jwliveqxzb.hebyun.com.cn/hdkj/hdkj.m3u8
 金鹰纪实,https://phoneal.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/JYJSMPP360.m3u8
 金鹰纪实,http://183.11.239.36:808/hls/171/index.m3u8
 金鹰纪实,http://phoneal.qing.mgtv.com/nn_live/nn_x64/Y2hzPSZkZWY9MSZ1aXA9MTA2LjE0LjM4LjU1JnRlcm09NSZtYWNpZD02ODZlOGNmOGM4OGU3N2VjOWEwNzkzMjg5ZjUzNDg0MmFiZWM0ZjNjJnFpZD0mcmF1dGhfZW5hYmxlPW9uJmNkbmV4X2lkPWFsX3Bob25lMyZlcz0xNzkzMzE5NzI4JnV1aWQ9ODY3NDY0ZjFhMmQ4YzAxNjQ0MGUzNTdjNTE4NTllY2YtNmEwZTI2Mzcmcz03ODM0M2VhOGRlY2RkYmQ3MTkyMmQyNzM5YmU4NGM3NSZ1aWQ9Jm5kdj1pb3MtNi41LjAmdj0yJmFzPTAmX2NhckNvZGU9MA,,/HNDSMPP360.m3u8
