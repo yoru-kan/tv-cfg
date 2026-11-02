@@ -14,6 +14,9 @@ CCTV4K,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3
 CCTV5,http://153.0.171.163:85/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5,https://ldcctvwbcdtxy.liveplay.myqcloud.com/ldcctvwbcd/cdrmldcctv5plus_1_td.m3u8
 CCTV5,http://207.56.13.146:81/cdnlive/cctv5.m3u8
+CCTV5+,http://223.78.65.165:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5+,http://183.10.180.203:9901/tsfile/live/1073_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5+,https://myip.pdtvhd.com/Sports/streams/CCTV5pul.m3u8
 CCTV6,http://120.198.95.220:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&down=1
 CCTV6,http://198.204.240.250:82/live/cctv6.m3u8
 CCTV6,http://219.159.147.195:9901/tsfile/live/1008_1.m3u8
@@ -23,15 +26,9 @@ CCTV7,http://101.66.194.125:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&a
 CCTV9,https://v4-e6b1c5baf4e240fe63adbf68dda23435.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=6c23a584667c0ec94349412478e536f2
 CCTV9,https://v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=cbc9978fad9f8e5608769790988176a0
 CCTV9,http://74.91.26.218:82/live/cctv9hd.m3u8
-CCTV11,http://8.137.121.66:20241/667987558
-CCTV11,http://106.52.119.159:1234/667987558
-CCTV11,http://101.66.195.137:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV12,http://113.57.140.161:10081/newlive/live/hls/13/live.m3u8
 CCTV12,http://106.52.119.159:1234/673168185
 CCTV12,http://116.236.204.18:1234/673168185
-CCTV14,http://222.169.85.8:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV14,http://101.66.195.137:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV14,http://101.66.198.174:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV16,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
 CCTV16,http://183.10.180.203:9901/tsfile/live/1065_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV16,http://183.10.180.81:9901/tsfile/live/1065_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -298,6 +295,9 @@ ViuTV,http://r.jdshipin.com/vSJvl
 纬来精采,http://31.43.191.125:8080/restream/restream/34851
 纬来精采,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=4dab5a92e41236d0d252cad9c2a713b7;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;machineid=495211d81289c09b;userip=36.231.95.229;useragent=Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2012%3B%20V2166A%20Build%2Fd063e58.0%29;source=dl_app
 美亚C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
+美亚电影,http://iptv.4666888.xyz/iptv2A.php?id=30
+美亚电影,http://31.43.191.125:8080/restream/restream/34848
+美亚电影,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
 翡翠台4K,https://cdn3.indevs.in/stream/tvb/fct4k/
 翡翠台4K,http://r.jdshipin.com/qrfbg
 翡翠台4K,http://cdn6.163189.xyz/163189/fct4k
@@ -440,14 +440,17 @@ CHC电影,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240325_1/playlist.m
 天津体育,http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub
 天津体育,http://192.151.150.154/live/tjtv5.m3u8#http://lanfenggood.cn:4022/udp/225.1.1.122:5002
 天津体育,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjtv5
+广东体育,https://epg.pw/stream/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.m3u8
+广东体育,http://198.204.228.26/live/gdty.m3u8
+广东体育,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gdty
 
 少儿动画,#genre#
 七龙珠,https://live.ottiptv.cc/huya/11601966
 七龙珠,https://huyazhibo.de5.net/?id=30273533
 七龙珠,https://isus.cc/php/huya.php?id=11601966
-中华小当家,https://huyazhibo.de5.net/?id=30613314
 中华小当家,https://live.ottiptv.cc/huya/11342413
 中华小当家,https://live.iill.top/huya/11342413
+中华小当家,http://cdn.jdshipin.com:8880/huya.php?id=11342413
 优漫卡通,http://144.52.160.115:9901/tsfile/live/1057_1.m3u8?key=txiptv&playlive=1&authid=0
 优漫卡通,http://hlsztemgsplive.miguvideo.com:8080/wd_r2/jstv/ymkt/600/index.m3u8?msisdn=202611010402576a808b9263f4480dbaf3a9ae4f33a4dd&mdspid=&spid=699067&netType=0&sid=5500260553&pid=2028597139&timestamp=20261101040257&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=626064703&ParentNodeID=-99&assertID=5500260553&client_ip=171.8.79.254&SecurityKey=20261101040257&promotionId=&mvid=5100186455&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=379bd3ac8bf7f30040f0f2b3fe705715
 优漫卡通,http://t.061899.xyz/tl/tl.php?id=ymkt
