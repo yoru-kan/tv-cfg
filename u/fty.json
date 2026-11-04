@@ -1,10 +1,10 @@
 {
- "spider": "https://xiuxiu-pro-new.meitudata.com/posters/c2759c9c03b22f2242475139110972c7.jpg;md5;d2a33b53d09ec59c4cb7e3f482ef3907",
+ "spider": "https://xiuxiu-pro-new.meitudata.com/posters/da71a704cbc49a16c8a6339c640b7986.jpg;md5;10e816e12a91e021ca809ca07f58762d",
  "wallpaper": "https://动态壁纸.饭.eu.org/",
  "sites": [
   {
    "key": "点我切源",
-   "name": "豆豆┃片单<修复所有>",
+   "name": "豆豆┃片单",
    "type": 3,
    "api": "csp_DouDouGuard",
    "indexs": 1,
@@ -104,7 +104,11 @@
    "playerType": "2",
    "searchable": 1,
    "quickSearch": 1,
-   "changeable": 1
+   "changeable": 1,
+   "ext": {
+    "v2": "1",
+    "deviceId": "6fd6416460897d6b"
+   }
   },
   {
    "key": "立播",
