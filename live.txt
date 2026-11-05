@@ -14,6 +14,9 @@ CCTV4,http://173.208.212.130:8181/1080p/cctv4.m3u8
 CCTV5,https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?b=200-2100
 CCTV5,http://gmxw.7766.org:808/hls/93/index.m3u8
 CCTV5,http://107.150.60.122/live/cctv5hd.m3u8
+CCTV5+,http://223.78.65.165:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5+,http://183.10.180.203:9901/tsfile/live/1073_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5+,https://myip.pdtvhd.com/Sports/streams/CCTV5pul.m3u8
 CCTV7,http://106.52.119.159:1234/673168121
 CCTV7,http://115.48.161.74:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV7,http://119.125.131.239:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&down=1
@@ -334,6 +337,7 @@ ViuTV,http://r.jdshipin.com/TcKr2
 翡翠台4K,https://cdn3.indevs.in/stream/tvb/fct4k/
 翡翠台4K,http://o11.163189.xyz/stream/tvb/fct4k/
 翡翠台4K,https://cdn.qd.je/163189/fct4k
+韩国电影1,https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
 韩国电影2,https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,https://hkstv.tv/api/m3u8-proxy?url=http%3A%2F%2Fwebcast.hkstv.tv%2Flivestream%2Fmutfysrq%2Fplaylist.m3u8
