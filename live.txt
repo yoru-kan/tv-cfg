@@ -145,9 +145,6 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 厦门卫视,http://198.204.228.26/live/xmws.m3u8
 厦门卫视,http://107.150.60.122/live/xmws.m3u8
 厦门卫视,http://192.151.150.154/live/xmws.m3u8
-吉林卫视,http://47.100.80.251:50001/947472500
-吉林卫视,http://101.66.195.243:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=0&authid=0
-吉林卫视,https://zby.130519.xyz/PLTV/11/224/3221226149/index.m3u8
 大湾区卫视,http://222.128.55.152:9080/live/dwq.m3u8
 大湾区卫视,http://198.204.228.26/live/nfws.m3u8
 大湾区卫视,http://8.137.121.66:20241/608917627
@@ -226,9 +223,9 @@ PetClubTV,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=02fe7cf0f125a2b34358
 TVBPlus,https://cdn3.indevs.in/stream/tvb/tvbp/
 TVBPlus,http://cdn3.123.rr.kg/stream/tvb/tvbp/
 TVBPlus,http://cdn10.123.rr.kg/163189/tvbp/
-TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 TVBS亚洲,http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/500947.ts
 TVBS亚洲,http://31.43.191.125:8080/restream/restream/34561
+TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
 TVBS新闻台,http://jy.bhzz.today:2026/YY1/WMHS.php?id=9e74834dab995f15&t=1046029502270653165&line=0&token=xxx
 TVBS新闻台,http://61.221.215.25:8800/hls/9/index.m3u8
 TVBS新闻台,http://38.64.72.148/hls/modn/list/4027/playlist.m3u8
@@ -247,11 +244,6 @@ ViuTV,http://r.jdshipin.com/TcKr2
 东森洋片,http://jy.bhzz.today:2026/YY1/WMHS.php?id=404c047310e78077&t=38410562139429009&line=0&token=xxx
 东森洋片,http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34904
 东森洋片,http://31.43.191.125:8080/restream/restream/34904
-东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
-东森超视,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=163e6c3e3bd21f2beb6af46d4b6b9353;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;machineid=495211d81289c09b;userip=36.231.95.229;useragent=Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2012%3B%20V2166A%20Build%2Fd063e58.0%29;source=dl_app
-东森超视,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=163e6c3e3bd21f2beb6af46d4b6b9353;token=fRfrVRwByx2YB2HDJeYAgdVDU9tZVSat;machineid=495211d81289c09b;userip=36.231.95.229;useragent=Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2012%3B%20V2166A%20Build%2Fd063e58.0%29;source=dl_app
-东森超视34.5,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
-东森超视34.5,http://38.64.72.148/hls/modn/list/2013/chunklist0.m3u8
 中天新闻,http://jnzq.ohoyee.com:9080/live/332123-ztxw2.m3u8
 中天新闻,http://222.128.55.152:9080/live/fc.m3u8
 中天新闻,http://38.76.205.104:660/cdnlive.php?mode=play;id=800e215cf4d45a5b8e2bd2f4b9997ee9;token=8JHJbFjSVWW1yh6v2QmA7Ef59GdgVZmJ
@@ -297,9 +289,9 @@ ViuTV,http://r.jdshipin.com/TcKr2
 有线新闻,http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/playlist.m3u8
 有线新闻,http://61.10.2.141:80/live_freedirect/freehd209_h.live/chunklist.m3u8
 有线新闻,http://61.10.2.140/live_freedirect/freehd209_h.live/playlist.m3u8
-民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
 民视新闻,http://211.72.174.95:8117/0.ts
 民视新闻,https://d2jc41c1shgcol.cloudfront.net/live/ftvnewsqt/playlist.m3u8
+民视新闻,http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
 民视新闻台,http://jy.bhzz.today:2026/YY1/WMHS.php?id=4df8b0c41f0da56f&t=706020202683548286&line=0&token=xxx
 民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 民视新闻台,http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
@@ -324,6 +316,12 @@ ViuTV,http://r.jdshipin.com/TcKr2
 纬来精采,http://31.43.191.125:8080/restream/restream/34851
 纬来精采,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=4dab5a92e41236d0d252cad9c2a713b7;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;machineid=495211d81289c09b;userip=36.231.95.229;useragent=Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2012%3B%20V2166A%20Build%2Fd063e58.0%29;source=dl_app
 美亚C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
+美亚电影,http://iptv.4666888.xyz/iptv2A.php?id=30
+美亚电影,http://31.43.191.125:8080/restream/restream/34848
+美亚电影,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
+翡翠台,http://103.172.187.30:12000/stream/mytv/null-1/master.m3u8
+翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
 翡翠台4K,https://cdn3.indevs.in/stream/tvb/fct4k/
 翡翠台4K,http://o11.163189.xyz/stream/tvb/fct4k/
 翡翠台4K,https://cdn.qd.je/163189/fct4k
@@ -374,8 +372,8 @@ CHC动作电影,http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
 庆余年,https://live.ottiptv.cc/huya/11352960
 庆余年,http://cdn.jdshipin.com:8880/huya.php?id=11352960
 庆余年,http://live.iill.top/huya.php?id=11352960
-延禧攻略,http://live.metshop.top/huya/26355864
 延禧攻略,https://live.ottiptv.cc/huya/26355864
+延禧攻略,http://live.metshop.top/huya/26355864
 扫黄先锋,http://cfss.cc/cdn/huya/23903196.flv
 扫黄先锋,http://footyun.top:35455/huya/23903196
 扫黄先锋,https://live.metshop.top/huya/29465855
@@ -517,7 +515,6 @@ BRTV纪实科教,http://120.76.248.139/live/bfgd/4200000113.m3u8
 宿州科教,http://live.ahsz.tv/video/s10001-kxjy/index.m3u8
 敦化一套,http://stream8.jlntv.cn/dhtv/playlist.m3u8
 敦化一套,http://stream8.jlntv.cn/dhtv/playlist.m3u8?zjild
-新纪实,http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
 柳河,http://stream5.jlntv.cn/lh/sd/live.m3u8?zjild
 桦甸,http://stream10.jlntv.cn/huadian/sd/live.m3u8?zjild
 江津新闻,http://222.179.155.21:1935/ch1.m3u8?zzhongqd
