@@ -166,12 +166,6 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 宁夏卫视,http://107.150.60.122/live/nxws.m3u8
 宁夏卫视,http://61.138.99.166:10089/hls/93/index.m3u8
 宁夏卫视,https://live.264788.xyz/channel/ningxiaweishi?streamid=e1236348f815c36a0429357e5b5c5f10&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-安徽卫视,http://125.43.249.76:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
-安徽卫视,http://123.130.84.106:8154/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
-安徽卫视,http://104.152.209.49:8181/720p/ahws.m3u8
-山东卫视,http://125.43.249.76:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
-山东卫视,http://101.66.195.243:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=0&authid=0
-山东卫视,http://101.66.194.125:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=0&authid=0
 山西卫视,http://113.26.202.52:1299/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
 山西卫视,https://livehhhttps.sxrtv.com/lsdream/q8RVWgs/1000/22sqvR0.m3u8
 山西卫视,https://livehhhttps.sxrtv.com/lsdream/q8RVWgs/1000/75sqwR0.m3u8
@@ -455,12 +449,12 @@ ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 五星体育,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=wxtyhd
 五星体育,http://43.249.195.13:10213/cdnlive.php?mode=play;id=d6ae87637cb6bd59ba1e4d8ddb8041eb;token=NhHKwLOLfUweXATNNbtGMVrOJw5cPmeP
 五星体育,https://cdn15.163189.xyz/163189/wxty
+天元围棋,http://107.150.60.122/live/gztywq.m3u8
+天元围棋,http://38.75.136.137:98/gslb/dsdqpub/gztywq.m3u8?auth=testpub
+天元围棋,http://204.12.221.218:8181/3m1080p/gztywq.m3u8
 天津体育,http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub
 天津体育,http://192.151.150.154/live/tjtv5.m3u8#http://lanfenggood.cn:4022/udp/225.1.1.122:5002
 天津体育,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjtv5
-广东体育,http://198.204.228.26/live/gdty.m3u8
-广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8
-广东体育,http://cdn2.132.us.kg/live/gdty/stream.m3u8$LR•IPV4『线路1』
 
 少儿动画,#genre#
 七龙珠,https://live.ottiptv.cc/huya/11601966
@@ -484,9 +478,9 @@ ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 河北少儿,http://1.94.31.214/php/hebei.php?id=sekj
 河北少儿,http://1.94.31.214/php/hebei.php?id=sekj#http://tv.pull.hebtv.com:80/jishi/shaoerkejiao.m3u8?t=1893427200&k=d4a455b288ebbc0f53903f4750372b0f
 河北少儿,http://tv.pull.hebtv.com/jishi/shaoerkejiao.m3u8?t=2510710360&k=4ff4446adf3cce3de40dd013255b38b2
-浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?
 浙江少儿,http://ali-vl.cztv.com/channels/lantian/channel008/360p.m3u8
 浙江少儿,http://124.90.45.52:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+浙江少儿,https://stream1.freetv.fun/zhe-jiang-shao-er-4.m3u8
 海绵宝宝,http://cfss.cc/cdn/huya/11352919.flv
 海绵宝宝,https://live.metshop.top/douyu/3949681
 海绵宝宝,https://huyazhibo.de5.net/?id=11352919
@@ -538,11 +532,7 @@ BRTV纪实科教,http://120.76.248.139/live/bfgd/4200000113.m3u8
 舒兰新闻,http://stream8.jlntv.cn/shulan/sd/live.m3u8?zjild
 辉南新闻,http://stream5.jlntv.cn/hn/sd/live.m3u8?zjild
 通化县,http://stream5.jlntv.cn/thx/sd/live.m3u8?zjild
-邯郸科教,https://jwcdnqx.hebyun.com.cn/live/hdkj/1500k/tzwj_video.m3u8
-邯郸科教,https://jwliveqxzb.hebyun.com.cn/hdkj/hdkj.m3u8
 金鹰纪实,https://phoneal.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/JYJSMPP360.m3u8
 金鹰纪实,http://183.11.239.36:808/hls/171/index.m3u8
 金鹰纪实,http://phoneal.qing.mgtv.com/nn_live/nn_x64/Y2hzPSZkZWY9MSZ1aXA9MTA2LjE0LjM4LjU1JnRlcm09NSZtYWNpZD02ODZlOGNmOGM4OGU3N2VjOWEwNzkzMjg5ZjUzNDg0MmFiZWM0ZjNjJnFpZD0mcmF1dGhfZW5hYmxlPW9uJmNkbmV4X2lkPWFsX3Bob25lMyZlcz0xNzkzMzE5NzI4JnV1aWQ9ODY3NDY0ZjFhMmQ4YzAxNjQ0MGUzNTdjNTE4NTllY2YtNmEwZTI2Mzcmcz03ODM0M2VhOGRlY2RkYmQ3MTkyMmQyNzM5YmU4NGM3NSZ1aWQ9Jm5kdj1pb3MtNi41LjAmdj0yJmFzPTAmX2NhckNvZGU9MA,,/HNDSMPP360.m3u8
-长白山电视台,http://stream8.jlntv.cn/cbstv/sd/live.m3u8?zjild
-靖宇,http://stream8.jlntv.cn/jytv/sd/live.m3u8?zjild
 龙井,http://stream8.jlntv.cn/ljtv/sd/live.m3u8?zjild

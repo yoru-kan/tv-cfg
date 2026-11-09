@@ -329,18 +329,6 @@ http://107.150.60.122/live/nxws.m3u8
 http://61.138.99.166:10089/hls/93/index.m3u8
 #EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/宁夏卫视.png" group-title="卫视频道",宁夏卫视
 https://live.264788.xyz/channel/ningxiaweishi?streamid=e1236348f815c36a0429357e5b5c5f10&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/安徽卫视.png" group-title="卫视频道",安徽卫视
-http://125.43.249.76:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/安徽卫视.png" group-title="卫视频道",安徽卫视
-http://123.130.84.106:8154/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/安徽卫视.png" group-title="卫视频道",安徽卫视
-http://104.152.209.49:8181/720p/ahws.m3u8
-#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/山东卫视.png" group-title="卫视频道",山东卫视
-http://125.43.249.76:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/山东卫视.png" group-title="卫视频道",山东卫视
-http://101.66.195.243:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/山东卫视.png" group-title="卫视频道",山东卫视
-http://101.66.194.125:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/山西卫视.png" group-title="卫视频道",山西卫视
 http://113.26.202.52:1299/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/山西卫视.png" group-title="卫视频道",山西卫视
@@ -895,18 +883,18 @@ http://63.141.230.178:82/gslb/zbdq5.m3u8?id=wxtyhd
 http://43.249.195.13:10213/cdnlive.php?mode=play;id=d6ae87637cb6bd59ba1e4d8ddb8041eb;token=NhHKwLOLfUweXATNNbtGMVrOJw5cPmeP
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://www.xn--rgv465a.top/tvlogo/五星体育.png" group-title="体育赛事",五星体育
 https://cdn15.163189.xyz/163189/wxty
+#EXTINF:-1 tvg-name="天元围棋" tvg-logo="https://www.xn--rgv465a.top/tvlogo/天元围棋.png" group-title="体育赛事",天元围棋
+http://107.150.60.122/live/gztywq.m3u8
+#EXTINF:-1 tvg-name="天元围棋" tvg-logo="https://www.xn--rgv465a.top/tvlogo/天元围棋.png" group-title="体育赛事",天元围棋
+http://38.75.136.137:98/gslb/dsdqpub/gztywq.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="天元围棋" tvg-logo="https://www.xn--rgv465a.top/tvlogo/天元围棋.png" group-title="体育赛事",天元围棋
+http://204.12.221.218:8181/3m1080p/gztywq.m3u8
 #EXTINF:-1 tvg-name="天津体育" tvg-logo="https://www.xn--rgv465a.top/tvlogo/天津体育.png" group-title="体育赛事",天津体育
 http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="天津体育" tvg-logo="https://www.xn--rgv465a.top/tvlogo/天津体育.png" group-title="体育赛事",天津体育
 http://192.151.150.154/live/tjtv5.m3u8#http://lanfenggood.cn:4022/udp/225.1.1.122:5002
 #EXTINF:-1 tvg-name="天津体育" tvg-logo="https://www.xn--rgv465a.top/tvlogo/天津体育.png" group-title="体育赛事",天津体育
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjtv5
-#EXTINF:-1 tvg-name="广东体育" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广东体育.png" group-title="体育赛事",广东体育
-http://198.204.228.26/live/gdty.m3u8
-#EXTINF:-1 tvg-name="广东体育" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广东体育.png" group-title="体育赛事",广东体育
-http://cdn2.163189.xyz/live/gdty/stream.m3u8
-#EXTINF:-1 tvg-name="广东体育" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广东体育.png" group-title="体育赛事",广东体育
-http://cdn2.132.us.kg/live/gdty/stream.m3u8$LR•IPV4『线路1』
 #EXTINF:-1 tvg-name="七龙珠" tvg-logo="https://www.xn--rgv465a.top/tvlogo/七龙珠.png" group-title="少儿动画",七龙珠
 https://live.ottiptv.cc/huya/11601966
 #EXTINF:-1 tvg-name="七龙珠" tvg-logo="https://www.xn--rgv465a.top/tvlogo/七龙珠.png" group-title="少儿动画",七龙珠
@@ -950,11 +938,11 @@ http://1.94.31.214/php/hebei.php?id=sekj#http://tv.pull.hebtv.com:80/jishi/shaoe
 #EXTINF:-1 tvg-name="河北少儿" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Hebei4.png" group-title="少儿动画",河北少儿
 http://tv.pull.hebtv.com/jishi/shaoerkejiao.m3u8?t=2510710360&k=4ff4446adf3cce3de40dd013255b38b2
 #EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Zhejiang6.png" group-title="少儿动画",浙江少儿
-https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?
-#EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Zhejiang6.png" group-title="少儿动画",浙江少儿
 http://ali-vl.cztv.com/channels/lantian/channel008/360p.m3u8
 #EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Zhejiang6.png" group-title="少儿动画",浙江少儿
 http://124.90.45.52:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Zhejiang6.png" group-title="少儿动画",浙江少儿
+https://stream1.freetv.fun/zhe-jiang-shao-er-4.m3u8
 #EXTINF:-1 tvg-name="海绵宝宝" tvg-logo="https://www.xn--rgv465a.top/tvlogo/海绵宝宝.png" group-title="少儿动画",海绵宝宝
 http://cfss.cc/cdn/huya/11352919.flv
 #EXTINF:-1 tvg-name="海绵宝宝" tvg-logo="https://www.xn--rgv465a.top/tvlogo/海绵宝宝.png" group-title="少儿动画",海绵宝宝
@@ -1053,19 +1041,11 @@ http://stream8.jlntv.cn/shulan/sd/live.m3u8?zjild
 http://stream5.jlntv.cn/hn/sd/live.m3u8?zjild
 #EXTINF:-1 tvg-name="通化县" tvg-logo="" group-title="纪实科教",通化县
 http://stream5.jlntv.cn/thx/sd/live.m3u8?zjild
-#EXTINF:-1 tvg-name="邯郸科教" tvg-logo="https://www.xn--rgv465a.top/tvlogo/邯郸科教.png" group-title="纪实科教",邯郸科教
-https://jwcdnqx.hebyun.com.cn/live/hdkj/1500k/tzwj_video.m3u8
-#EXTINF:-1 tvg-name="邯郸科教" tvg-logo="https://www.xn--rgv465a.top/tvlogo/邯郸科教.png" group-title="纪实科教",邯郸科教
-https://jwliveqxzb.hebyun.com.cn/hdkj/hdkj.m3u8
 #EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://www.xn--rgv465a.top/tvlogo/金鹰纪实.png" group-title="纪实科教",金鹰纪实
 https://phoneal.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/JYJSMPP360.m3u8
 #EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://www.xn--rgv465a.top/tvlogo/金鹰纪实.png" group-title="纪实科教",金鹰纪实
 http://183.11.239.36:808/hls/171/index.m3u8
 #EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://www.xn--rgv465a.top/tvlogo/金鹰纪实.png" group-title="纪实科教",金鹰纪实
 http://phoneal.qing.mgtv.com/nn_live/nn_x64/Y2hzPSZkZWY9MSZ1aXA9MTA2LjE0LjM4LjU1JnRlcm09NSZtYWNpZD02ODZlOGNmOGM4OGU3N2VjOWEwNzkzMjg5ZjUzNDg0MmFiZWM0ZjNjJnFpZD0mcmF1dGhfZW5hYmxlPW9uJmNkbmV4X2lkPWFsX3Bob25lMyZlcz0xNzkzMzE5NzI4JnV1aWQ9ODY3NDY0ZjFhMmQ4YzAxNjQ0MGUzNTdjNTE4NTllY2YtNmEwZTI2Mzcmcz03ODM0M2VhOGRlY2RkYmQ3MTkyMmQyNzM5YmU4NGM3NSZ1aWQ9Jm5kdj1pb3MtNi41LjAmdj0yJmFzPTAmX2NhckNvZGU9MA,,/HNDSMPP360.m3u8
-#EXTINF:-1 tvg-name="长白山电视台" tvg-logo="" group-title="纪实科教",长白山电视台
-http://stream8.jlntv.cn/cbstv/sd/live.m3u8?zjild
-#EXTINF:-1 tvg-name="靖宇" tvg-logo="" group-title="纪实科教",靖宇
-http://stream8.jlntv.cn/jytv/sd/live.m3u8?zjild
 #EXTINF:-1 tvg-name="龙井" tvg-logo="" group-title="纪实科教",龙井
 http://stream8.jlntv.cn/ljtv/sd/live.m3u8?zjild
