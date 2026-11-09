@@ -142,9 +142,9 @@ CGTN阿语,http://183.51.190.156:6633/rtp/239.253.43.200:5146
 内蒙古卫视,http://183.11.239.36:808/hls/60/index.m3u8
 内蒙古卫视,http://123.130.84.106:8154/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
 内蒙古卫视,http://t.061899.xyz/tl/tl.php?id=nmws
-农林卫视,http://113.98.11.46:3000/956904896
 农林卫视,http://gxlive.snrtv.com/nlws-SD.m3u8
 农林卫视,http://45.192.97.170:8880/play/37.m3u8
+农林卫视,http://45.192.97.170:8880/play/35.m3u8
 厦门卫视,http://120.40.39.246:352/newlive/live/hls/28/live.m3u8
 厦门卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=xmws
 厦门卫视,http://107.150.60.122/live/xmws.m3u8
@@ -190,9 +190,6 @@ CGTN阿语,http://183.51.190.156:6633/rtp/239.253.43.200:5146
 西藏卫视,http://107.150.60.122/live/xzws.m3u8
 西藏卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=xzws
 西藏卫视,http://120.76.248.139/live/bfgd/4200000121.m3u8
-辽宁卫视,http://113.15.109.216:59901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
-辽宁卫视,http://t.061899.xyz/tl/tl.php?id=lnws
-辽宁卫视,http://125.125.236.31:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cqwshd
 重庆卫视,http://8.137.121.66:20241/738910914
 重庆卫视,http://p.ytelc.com/videojs.php?id=https://sjlivecdn9.cbg.cn/202502032311/app_2/_definst_/ls_2.stream/chunklist.m3u8
@@ -211,9 +208,9 @@ HOYTV,http://cdn.132.us.kg/live/hoy/stream.m3u8
 J2,http://r.jdshipin.com/ndGgS
 J2,https://hls-gateway.vpstv.net/streams/476932.m3u8
 J2,http://api.kkitv.itv888.vip:8080/streams/48uxa7dlbga/index.m3u8
-Now新闻台,http://psyl11.dyndns.tv:35451/live/axdynowtream/fSlawNmh15/23.ts
 Now新闻台,http://cdn.123.rr.kg/163189/now
 Now新闻台,http://cdn.163189.xyz/163189/now
+Now新闻台,http://173.208.234.146/live/nowxw.m3u8
 PetClubTV,https://petclub-samsungaus.amagi.tv/playlist.m3u8
 PetClubTV,http://zby.lskk.top/cdnlive.php?mode=play&id=02fe7cf0f125a2b343582a63a8f9855b&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
 PetClubTV,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8
@@ -335,7 +332,6 @@ ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 与凤行,http://159.75.85.63:35455/huya/26355866
 与凤行,http://cfss.cc/cdn/hy/26355866.m3u8
 东阳影视生活,http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8
-仙剑奇侠传,https://live.ottiptv.cc/yy/1382749903
 倚天屠龙记,https://live.ottiptv.cc/huya/11342403
 倚天屠龙记,https://live.metshop.top/huya/23734246
 倚天屠龙记,http://live.metshop.top/huya/11342403
@@ -373,6 +369,7 @@ ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 扫黄先锋,http://cfss.cc/cdn/huya/23903196.flv
 扫黄先锋,http://footyun.top:35455/huya/23903196
 扫黄先锋,https://live.metshop.top/huya/29465855
+枪战电影,https://live.metshop.top/huya/21059579
 柳舟计,https://live.ottiptv.cc/huya/23860039
 梦中的那片海,http://footyun.top:35455/huya/26355765
 梦中的那片海,https://live.ottiptv.cc/huya/26355765
@@ -404,6 +401,7 @@ ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 爱情公寓,https://live.ottiptv.cc/huya/11336726
 电影八点档,http://live.metshop.top/huya/880261?cdn=alicdn
 电影喜剧专场,http://live.metshop.top/huya/11602044?cdn=alicdn
+电影谍战片,http://live.metshop.top/huya/21059587?cdn=alicdn
 电影贺岁,http://live.metshop.top/huya/11601971?cdn=alicdn
 笑傲江湖,https://live.metshop.top/huya/23865142
 笑傲江湖,https://live.ottiptv.cc/huya/26355790
