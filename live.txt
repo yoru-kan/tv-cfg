@@ -41,9 +41,9 @@ CCTV11,http://101.66.195.137:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&
 CCTV12,http://59.39.89.130:60901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV12,http://124.228.160.112:9901/tsfile/live/0012_2.m3u8?key=txiptv&playlive=1&authid=0
 CCTV12,http://106.52.119.159:1234/673168185
-CCTV13,http://8.137.121.66:20241/608807423
 CCTV13,http://45.192.97.170:8880/play/402.m3u8
 CCTV13,http://106.52.119.159:1234/608807423
+CCTV13,http://t.061899.xyz/tl/tl.php?id=cctv13
 CCTV14,http://113.90.154.189:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV14,http://45.192.97.170:8880/play/403.m3u8
 CCTV14,http://8.137.121.66:20241/624878440
@@ -62,9 +62,9 @@ CCTV世界地理,http://120.76.248.139/live/bfgd/4200000177.m3u8
 CCTV兵器科技,http://198.204.228.26/live/gfjs.m3u8
 CCTV兵器科技,http://204.12.221.218:8181/3m1080p/gfjs.m3u8
 CCTV兵器科技,http://207.56.13.146:81/cdnlive/gfjs.m3u8
-CCTV发现之旅,http://k.061899.xyz/k.php?id=fxzl
 CCTV发现之旅,http://38.75.136.137:98/gslb/dsdqpub/fxzl.m3u8?auth=testpub
 CCTV发现之旅,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fxzl
+CCTV发现之旅,http://ygbh.live/migu.php?id=fxzl
 CCTV台球,http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
 CCTV台球,http://107.150.60.122/live/ystq.m3u8
 CCTV台球,http://207.56.13.146:81/cdnlive/ystq.m3u8
@@ -92,12 +92,9 @@ CCTV风云足球,http://207.56.13.146:81/cdnlive/fyzq.m3u8
 CCTV高尔夫网球,http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
 CCTV高尔夫网球,http://107.150.60.122/live/gefwq.m3u8
 CCTV高尔夫网球,http://207.56.13.146:81/cdnlive/gefwq.m3u8
-CETV-1,http://8.137.121.66:20241/923287154
 CETV-1,http://61.138.99.166:10089/hls/17/index.m3u8
 CETV-1,http://38.75.136.137:98/gslb/dsdqpub/cetv1hd.m3u8?auth=testpub
-CETV-3,http://107.150.60.122/live/cetv3.m3u8
-CETV-3,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226722/1.m3u8
-CETV-3,http://ott.mobaibox.com/PLTV/3/224/3221227018/index.m3u8
+CETV-1,http://198.204.228.26/live/cetv1hd.m3u8
 CGTN,https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
 CGTN,http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 CGTN,http://8.137.121.66:20241/609017205
@@ -204,9 +201,6 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 青海卫视,http://61.138.99.166:10089/hls/96/index.m3u8
 
 港澳台,#genre#
-AstroAOD,https://cdn3.indevs.in/stream/live/aod/
-AstroAOD,http://php.jdshipin.com/TVOD/iptv.php?id=aod
-AstroAOD,https://o11.163189.xyz/stream/live/aod/
 BeautifulLifeTV,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
 HOYTV,http://cdn.123.rr.kg/163189/hoy
 HOYTV,https://liveopen.siliconweb.com/openTvLive/liveopen/playlist.m3u8
@@ -395,9 +389,9 @@ ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 河北影视,http://121.19.134.33:808/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 洗冤录,https://live.metshop.top/huya/29465851
 洗冤录,https://huyazhibo.de5.net/?id=29465851
-浙江教科影视,http://ali-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8
 浙江教科影视,http://ali-vl.cztv.com/channels/lantian/channel004/360p.m3u8
 浙江教科影视,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+浙江教科影视,http://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 浙江教科影院,http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 湖南电影,https://phoneal.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNDYMPP360.m3u8
 湖南电影,http://124.228.160.112:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -450,17 +444,23 @@ ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 五星体育,http://43.249.195.13:10213/cdnlive.php?mode=play;id=d6ae87637cb6bd59ba1e4d8ddb8041eb;token=NhHKwLOLfUweXATNNbtGMVrOJw5cPmeP
 五星体育,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=wxtyhd
 五星体育,https://cdn15.163189.xyz/163189/wxty
-天津体育,http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub
+天元围棋,http://38.75.136.137:98/gslb/dsdqpub/gztywq.m3u8?auth=testpub
+天元围棋,http://204.12.221.218:8181/3m1080p/gztywq.m3u8
+天元围棋,http://192.151.150.154/live/gztywq.m3u8
 天津体育,http://192.151.150.154/live/tjtv5.m3u8#http://lanfenggood.cn:4022/udp/225.1.1.122:5002
 天津体育,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjtv5
+天津体育,http://154.12.37.196:5555/tvbox/公众号好享生活小助手/接口获取/代理.php?id=http://38.75.136.137:82/live1/jsb1.m3u8?id=tjtv5&usign=
+广东体育,http://198.204.228.26/live/gdty.m3u8
+广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8
+广东体育,http://cdn2.132.us.kg/live/gdty/stream.m3u8$LR•IPV4『线路1』
 
 少儿动画,#genre#
 七龙珠,https://live.ottiptv.cc/huya/11601966
 七龙珠,https://live.metshop.top/huya/11601966
 七龙珠,https://huyazhibo.de5.net/?id=30273533
-中华小当家,https://huyazhibo.de5.net/?id=30613314
 中华小当家,https://live.ottiptv.cc/huya/11342413
 中华小当家,https://live.metshop.top/huya/11342413
+中华小当家,https://live.iill.top/huya/11342413
 优漫卡通,http://144.52.160.115:9901/tsfile/live/1057_1.m3u8?key=txiptv&playlive=1&authid=0
 优漫卡通,http://192.151.150.154/live/ymkt.m3u8
 优漫卡通,http://hlsztemgsplive.miguvideo.com:8080/wd_r2/jstv/ymkt/600/index.m3u8?msisdn=202611010402576a808b9263f4480dbaf3a9ae4f33a4dd&mdspid=&spid=699067&netType=0&sid=5500260553&pid=2028597139&timestamp=20261101040257&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=626064703&ParentNodeID=-99&assertID=5500260553&client_ip=171.8.79.254&SecurityKey=20261101040257&promotionId=&mvid=5100186455&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=379bd3ac8bf7f30040f0f2b3fe705715
