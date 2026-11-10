@@ -151,9 +151,9 @@ CGTN阿语,http://183.51.190.156:6633/rtp/239.253.43.200:5146
 农林卫视,http://gxlive.snrtv.com/nlws-SD.m3u8
 农林卫视,http://45.192.97.170:8880/play/37.m3u8
 农林卫视,http://45.192.97.170:8880/play/35.m3u8
-北京卫视,http://106.52.119.159:1234/630287636
 北京卫视,http://116.236.204.18:1234/630287636
 北京卫视,http://101.66.198.93:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=0&authid=0
+北京卫视,http://101.66.194.125:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=0&authid=0
 厦门卫视,http://192.151.150.154/live/xmws.m3u8
 厦门卫视,http://107.150.60.122/live/xmws.m3u8
 厦门卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=xmws
@@ -169,6 +169,9 @@ CGTN阿语,http://183.51.190.156:6633/rtp/239.253.43.200:5146
 山西卫视,http://113.26.202.52:1299/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
 山西卫视,https://livehhhttps.sxrtv.com/lsdream/q8RVWgs/1000/22sqvR0.m3u8
 山西卫视,https://livehhhttps.sxrtv.com/lsdream/q8RVWgs/1000/75sqwR0.m3u8
+广东卫视,http://106.52.119.159:1234/608831231
+广东卫视,http://125.125.236.31:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
+广东卫视,http://101.66.194.125:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=0&authid=0
 延边卫视,https://srs.iyb983.cn/video/CYS/index.m3u8
 延边卫视,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
 延边卫视,http://120.76.248.139/live/bfgd/4200000117.m3u8
@@ -217,6 +220,9 @@ CGTN阿语,http://183.51.190.156:6633/rtp/239.253.43.200:5146
 青海卫视,http://222.223.41.27:8888/hls/50/index.m3u8
 青海卫视,http://61.138.99.166:10089/hls/96/index.m3u8
 青海卫视,http://107.150.60.122/live/qhws.m3u8
+黑龙江卫视,http://106.52.119.159:1234/738906901
+黑龙江卫视,https://kzhibo.pages.dev/channel/621?type=2
+黑龙江卫视,http://huanggang.live.cjyun.org/video/s10120-xwzh.m3u8
 
 港澳台,#genre#
 AstroAOD,https://cdn3.indevs.in/stream/live/aod/
@@ -373,9 +379,9 @@ ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 周星驰电影,https://live.metshop.top/huya/11342412
 唐诡之西行,https://live.ottiptv.cc/huya/26355763
 固镇影视,http://www.guzhenm.com:7004/hls/hd-live.m3u8
-大唐双龙传,https://huyazhibo.de5.net/?id=29465850
 大唐双龙传,https://live.metshop.top/huya/29465850
 大唐双龙传,http://www.douzhicloud.site:35455/huya/29465850$LR•IPV4『线路2』
+大唐双龙传,http://alist.xicp.fun:35455/yy/1354930979$LR•IPV4『线路3』
 大秦赋,http://footyun.top:35455/huya/23903130
 大秦赋,http://cfss.cc/cdn/huya/23903130.flv
 大秦赋,https://live.ottiptv.cc/huya/23903130
@@ -549,8 +555,6 @@ BRTV纪实科教,http://120.76.248.139/live/bfgd/4200000113.m3u8
 舒兰新闻,http://stream8.jlntv.cn/shulan/sd/live.m3u8?zjild
 辉南新闻,http://stream5.jlntv.cn/hn/sd/live.m3u8?zjild
 通化县,http://stream5.jlntv.cn/thx/sd/live.m3u8?zjild
-邯郸科教,https://jwcdnqx.hebyun.com.cn/live/hdkj/1500k/tzwj_video.m3u8
-邯郸科教,https://jwliveqxzb.hebyun.com.cn/hdkj/hdkj.m3u8
 金鹰纪实,https://phoneal.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/JYJSMPP360.m3u8
 金鹰纪实,http://183.11.239.36:808/hls/171/index.m3u8
 金鹰纪实,http://phoneal.qing.mgtv.com/nn_live/nn_x64/Y2hzPSZkZWY9MSZ1aXA9MTA2LjE0LjM4LjU1JnRlcm09NSZtYWNpZD02ODZlOGNmOGM4OGU3N2VjOWEwNzkzMjg5ZjUzNDg0MmFiZWM0ZjNjJnFpZD0mcmF1dGhfZW5hYmxlPW9uJmNkbmV4X2lkPWFsX3Bob25lMyZlcz0xNzkzMzE5NzI4JnV1aWQ9ODY3NDY0ZjFhMmQ4YzAxNjQ0MGUzNTdjNTE4NTllY2YtNmEwZTI2Mzcmcz03ODM0M2VhOGRlY2RkYmQ3MTkyMmQyNzM5YmU4NGM3NSZ1aWQ9Jm5kdj1pb3MtNi41LjAmdj0yJmFzPTAmX2NhckNvZGU9MA,,/HNDSMPP360.m3u8
