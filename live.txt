@@ -2,6 +2,9 @@
 CCTV1,http://113.90.154.189:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://45.192.97.170:8880/play/389.m3u8
 CCTV1,http://8.137.121.66:20241/608807420
+CCTV2,http://45.192.97.170:8880/play/390.m3u8
+CCTV2,http://106.52.119.159:1234/631780532
+CCTV2,http://t.061899.xyz/tl/tl.php?id=cctv2
 CCTV3,http://222.223.41.27:8888/hls/3/index.m3u8
 CCTV3,http://183.129.255.66:8480/hls/3/index.m3u8
 CCTV3,http://112.27.5.218:9901/tsfile/live/faacts/0003_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -116,9 +119,9 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 北京新闻,http://8.138.7.223/tv/bj.php?id=0007
 北京新闻,http://114.242.62.109:888/hls/25/index.m3u8
 北京新闻,https://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
-山东教育,http://8.137.121.66:20241/609154353
 山东教育,http://183.11.239.36:808/hls/72/index.m3u8
 山东教育,http://smartzhu.cn:1234/609154353
+山东教育,http://2280.eu.org:1234/609154353
 海峡卫视,http://731200.xyz:9999/rtp/239.255.40.157:8208
 海峡卫视,http://106.52.119.159:1234/849119120
 海峡卫视,https://live1-fuyun.fjtv.net/dnpd/hd/live.m3u8?_upt=b27e26291792993731
@@ -160,12 +163,6 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 宁夏卫视,http://107.150.60.122/live/nxws.m3u8
 宁夏卫视,http://61.138.99.166:10089/hls/93/index.m3u8
 宁夏卫视,https://live.264788.xyz/channel/ningxiaweishi?streamid=e1236348f815c36a0429357e5b5c5f10&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-安徽卫视,http://125.43.249.76:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
-安徽卫视,http://123.130.84.106:8154/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
-安徽卫视,http://104.152.209.49:8181/720p/ahws.m3u8
-山东卫视,http://125.43.249.76:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
-山东卫视,http://101.66.195.243:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=0&authid=0
-山东卫视,http://101.66.194.125:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=0&authid=0
 山西卫视,http://113.26.202.52:1299/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
 山西卫视,https://livehhhttps.sxrtv.com/lsdream/q8RVWgs/1000/22sqvR0.m3u8
 山西卫视,https://livehhhttps.sxrtv.com/lsdream/q8RVWgs/1000/75sqwR0.m3u8
@@ -503,6 +500,8 @@ ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 黑龙江少儿,https://stream1.freetv.fun/hei-long-jiang-shao-er-8.m3u8
 
 纪实科教,#genre#
+BRTV纪实科教,http://k.061899.xyz/k.php?id=bjjs
+BRTV纪实科教,http://120.76.248.139/live/bfgd/4200000113.m3u8
 东丰,http://stream5.jlntv.cn/df/sd/live.m3u8?zjild
 之江纪录,http://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel12/720p.m3u8
@@ -532,6 +531,7 @@ ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 玛纳斯,http://218.84.127.245:1026/hls/main1/playlist.m3u8?zxinjd
 珲春新闻,http://stream8.jlntv.cn/hctv/sd/live.m3u8?zjild
 白山公共,http://stream8.jlntv.cn/baishan2/playlist.m3u8?zjild
+磐石,http://stream5.jlntv.cn/ps/sd/live.m3u8?zjild
 舒兰新闻,http://stream8.jlntv.cn/shulan/sd/live.m3u8?zjild
 辉南新闻,http://stream5.jlntv.cn/hn/sd/live.m3u8?zjild
 通化县,http://stream5.jlntv.cn/thx/sd/live.m3u8?zjild
