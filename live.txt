@@ -207,9 +207,6 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 青海卫视,http://61.138.99.166:10089/hls/96/index.m3u8
 
 港澳台,#genre#
-AstroAOD,https://cdn3.indevs.in/stream/live/aod/
-AstroAOD,http://php.jdshipin.com/TVOD/iptv.php?id=aod
-AstroAOD,https://o11.163189.xyz/stream/live/aod/
 BeautifulLifeTV,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
 HOYTV,https://liveopen.siliconweb.com/openTvLive/liveopen/playlist.m3u8
 HOYTV,http://cdn.123.rr.kg/163189/hoy
@@ -313,9 +310,6 @@ ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 澳视澳门,http://cdn6.123.rr.kg/163189/asam
 澳视澳门,https://cdn.qd.je/163189/asam
 澳视澳门,https://cdn6.163189.xyz/163189/asam
-澳门卫视,http://183.237.95.108:9901/tsfile/live/1106_1.m3u8?key=txiptv&playlive=1&authid=0
-澳门卫视,http://61.244.22.4/ch1/ch1.live/playlist.m3u8
-澳门卫视,http://61.244.22.5/ch3/ch3.live/chunklist_w1228316132.m3u8
 环球电视,http://utv1.hqtvzb.com:9999/hls/world.m3u8
 环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 纬来精采,http://61.221.215.25:8800/hls/48/index.m3u8
@@ -343,6 +337,7 @@ ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 与凤行,https://live.ottiptv.cc/huya/26355866
 与凤行,http://159.75.85.63:35455/huya/26355866
 与凤行,http://cfss.cc/cdn/hy/26355866.m3u8
+东阳影视生活,http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8
 倚天屠龙记,https://live.ottiptv.cc/huya/11342403
 倚天屠龙记,http://live.metshop.top/huya/11342403
 倚天屠龙记,https://live.metshop.top/huya/23734246
@@ -382,9 +377,9 @@ ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 扫黄先锋,http://footyun.top:35455/huya/23903196
 扫黄先锋,https://huyazhibo.de5.net/?id=29465855
 柳舟计,https://live.ottiptv.cc/huya/23860039
-梦中的那片海,http://footyun.top:35455/huya/26355765
 梦中的那片海,https://live.ottiptv.cc/huya/26355765
 梦中的那片海,http://feilong123.vip/huya.php?raw=1&id=26355765
+梦中的那片海,http://footyun.top:35455/huya/26355765
 楚汉骄雄,http://footyun.top:35455/huya/23740156
 楚汉骄雄,http://cfss.cc/cdn/huya/29465854.flv
 楚汉骄雄,https://live.metshop.top/huya/29465854
@@ -414,7 +409,6 @@ ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 电影八点档,http://live.metshop.top/huya/880261?cdn=alicdn
 电影刘德华,http://live.metshop.top/huya/11342424?cdn=alicdn
 电影喜剧专场,http://live.metshop.top/huya/11602044?cdn=alicdn
-电影梁家辉,http://live.metshop.top/huya/11342429?cdn=alicdn
 电影谍战片,http://live.metshop.top/huya/21059587?cdn=alicdn
 笑傲江湖,https://live.metshop.top/huya/26355790
 笑傲江湖,https://live.ottiptv.cc/huya/26355790
