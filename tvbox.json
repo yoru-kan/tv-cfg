@@ -367,29 +367,19 @@
    "quickSearch": 0
   },
   {
-   "key": "pan_xpb_csp_woog2",
-   "name": "💾装歌·网盘(百度/夸克)",
+   "key": "pan_xflx_八零",
+   "name": "💾八零·网盘(百度/夸克)",
    "type": 3,
-   "changeable": "0",
-   "api": "csp_Duopan",
-   "filterable": 1,
-   "jar": "https://ncstatic-file.clewm.net/rsrc/2026/0524/23/bddac79856595d96120f2620c139605d.jpg;md5;ce0e1ac1479b78f120064cc4669f40ae",
-   "ext": {
-    "site_urls": [
-     "https://ogkk.nxog.fun/",
-     "https://ogkk.nxog.eu.org",
-     "https://ogkk.430520.xyz",
-     "https://ogkk.装歌.de5.net",
-     "https://woog.430520.xyz"
-    ],
-    "url_key": "woog2",
-    "threadinfo": {
-     "chunksize": 422,
-     "threads": 16
-    }
-   },
+   "api": "csp_PanWebShare",
    "searchable": 0,
-   "quickSearch": 0
+   "quickSearch": 0,
+   "filterable": 1,
+   "changeable": 1,
+   "ext": {
+    "site": "https://woog.430520.xyz/"
+   },
+   "timeout": 60,
+   "jar": "http://150.158.52.248/tgyg/spider.jar"
   },
   {
    "key": "drpy_js_豆瓣",
