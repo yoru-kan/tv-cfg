@@ -2,9 +2,6 @@
 CCTV1,http://113.90.154.189:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://45.192.97.170:8880/play/389.m3u8
 CCTV1,http://106.52.119.159:1234/608807420
-CCTV2,http://106.52.119.159:1234/631780532
-CCTV2,http://t.061899.xyz/tl/tl.php?id=cctv2
-CCTV2,http://115.48.161.74:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV3,http://183.129.255.66:8480/hls/3/index.m3u8
 CCTV3,http://222.223.41.27:8888/hls/3/index.m3u8
 CCTV3,http://120.40.39.246:352/newlive/live/hls/3/live.m3u8
@@ -133,9 +130,9 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 电视指南,http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2026875103_dlna.m3u8
 
 卫视频道,#genre#
-三沙卫视,http://106.52.119.159:1234/961023778
 三沙卫视,http://38.75.136.137:98/gslb/dsdqpub/ssws.m3u8?auth=testpub
 三沙卫视,http://107.150.60.122/live/ssws.m3u8
+三沙卫视,http://198.204.228.26/live/ssws.m3u8
 东南卫视,http://61.138.99.166:10089/hls/88/index.m3u8
 东南卫视,https://live1-fuyun.fjtv.net/dnpd/hd/live.m3u8?_upt=ad8a1e6f1794269060
 东南卫视,http://115.48.161.74:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -172,9 +169,6 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 山西卫视,http://113.26.202.52:1299/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
 山西卫视,https://livehhhttps.sxrtv.com/lsdream/q8RVWgs/1000/22sqvR0.m3u8
 山西卫视,https://livehhhttps.sxrtv.com/lsdream/q8RVWgs/1000/75sqwR0.m3u8
-广东卫视,http://106.52.119.159:1234/608831231
-广东卫视,http://125.125.236.31:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
-广东卫视,http://101.66.194.125:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=0&authid=0
 延边卫视,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
 延边卫视,https://srs.iyb983.cn/video/CYS/index.m3u8
 延边卫视,http://120.76.248.139/live/bfgd/4200000117.m3u8
@@ -187,6 +181,9 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 江西卫视,http://106.52.119.159:1234/783847495
 江西卫视,https://jsp-tv-live.jxtvcn.com.cn/live-jsp/tv_taoci.m3u8?t=1792803144&token=1d16fc5a-5f09-4fda-a54e-74ed2d0cf0f3&d=c3828b8aec6d4dc4827fb2bb8c45a51e
 江西卫视,https://jsp-tv-live.jxtvcn.com.cn/live-jsp/tv_jxtv1.m3u8?t=1792198247&token=a4f55604-2566-4367-81a0-922a55462089&d=59247c6514ae44089f5dbc7d18aa63fe
+河北卫视,http://106.52.119.159:1234/962042070
+河北卫视,https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1793599611&k=4240e01cf8dd1c025928dff438565d5a
+河北卫视,https://tv.pull.hebtv.com/jishi/nongminpindao.m3u8?t=1792994725&k=a64b15ac05f1bdd47b48b578f1b9f1a1
 河南卫视,http://61.136.172.236:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
 河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=e5d1ea81ecd8cfb7cb754fb985142493&wsTime=1794157947
 河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=9dcc2f2fe27b74ba62c937c2b5d1f22c&wsTime=1793714221
@@ -226,6 +223,9 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 青海卫视,http://106.52.119.159:1234/947472506
 青海卫视,http://222.223.41.27:8888/hls/50/index.m3u8
 青海卫视,http://61.138.99.166:10089/hls/96/index.m3u8
+黑龙江卫视,http://106.52.119.159:1234/738906901
+黑龙江卫视,http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
+黑龙江卫视,https://kzhibo.pages.dev/channel/621?type=2
 
 港澳台,#genre#
 AstroAOD,https://cdn3.indevs.in/stream/live/aod/
