@@ -2,9 +2,6 @@
 CCTV1,http://113.90.154.189:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://45.192.97.170:8880/play/389.m3u8
 CCTV1,http://106.52.119.159:1234/608807420
-CCTV2,http://106.52.119.159:1234/631780532
-CCTV2,http://t.061899.xyz/tl/tl.php?id=cctv2
-CCTV2,http://115.48.161.74:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV3,http://183.129.255.66:8480/hls/3/index.m3u8
 CCTV3,http://222.223.41.27:8888/hls/3/index.m3u8
 CCTV3,http://120.40.39.246:352/newlive/live/hls/3/live.m3u8
@@ -62,9 +59,9 @@ CCTV世界地理,http://183.11.239.36:808/hls/11/index.m3u8
 CCTV兵器科技,http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub
 CCTV兵器科技,http://198.204.228.26/live/gfjs.m3u8
 CCTV兵器科技,http://207.56.13.146:81/cdnlive/gfjs.m3u8
-CCTV发现之旅,http://k.061899.xyz/k.php?id=fxzl
 CCTV发现之旅,http://38.75.136.137:98/gslb/dsdqpub/fxzl.m3u8?auth=testpub
 CCTV发现之旅,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fxzl
+CCTV发现之旅,http://ygbh.live/migu.php?id=fxzl
 CCTV台球,http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
 CCTV台球,http://107.150.60.122/live/ystq.m3u8
 CCTV台球,http://207.56.13.146:81/cdnlive/ystq.m3u8
@@ -208,9 +205,6 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 湖北卫视,http://106.52.119.159:1234/947472496
 湖北卫视,http://115.48.161.74:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北卫视,http://125.125.236.31:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南卫视,http://www.yao87.com:4022/udp/239.76.246.101:1234
-湖南卫视,http://101.66.195.192:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=0&authid=0
-湖南卫视,http://101.66.195.243:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=0&authid=0
 珠江卫视,http://183.239.226.235:9901/tsfile/live/0133_1.m3u8?key=txiptv&playlive=1&authid=0
 珠江卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.24:11111
 珠江卫视,http://iptv.4666888.xyz/iptv2A.php?id=19
@@ -232,9 +226,6 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 青海卫视,http://106.52.119.159:1234/947472506
 青海卫视,http://222.223.41.27:8888/hls/50/index.m3u8
 青海卫视,http://61.138.99.166:10089/hls/96/index.m3u8
-黑龙江卫视,http://106.52.119.159:1234/738906901
-黑龙江卫视,http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
-黑龙江卫视,https://kzhibo.pages.dev/channel/621?type=2
 
 港澳台,#genre#
 AstroAOD,https://cdn3.indevs.in/stream/live/aod/
