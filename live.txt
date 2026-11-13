@@ -232,6 +232,9 @@ BeautifulLifeTV,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
 HOYTV,https://liveopen.siliconweb.com/openTvLive/liveopen/playlist.m3u8
 HOYTV,http://cdn.123.rr.kg/163189/hoy
 HOYTV,http://uc6.i-cable.com/live_freedirect/opentvhd001_h.live/playlist.m3u8
+J2,http://r.jdshipin.com/ndGgS
+J2,https://hls-gateway.vpstv.net/streams/476932.m3u8
+J2,http://api.kkitv.itv888.vip:8080/streams/48uxa7dlbga/index.m3u8
 Now新闻台,http://cdn.123.rr.kg/163189/now
 Now新闻台,http://psyl11.dyndns.tv:35451/live/axdynowtream/fSlawNmh15/23.ts
 Now新闻台,http://cdn.163189.xyz/163189/now
@@ -250,9 +253,9 @@ TVBS新闻台,http://38.64.72.148/hls/modn/list/4027/playlist.m3u8
 TVB娱乐新闻台,http://cdn6.123.rr.kg/163189/ylxw
 TVB娱乐新闻台,http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/500951.ts
 TVB娱乐新闻台,https://cdn6.cc.cd/163189/ylxw
-TVB星河,https://cdn3.indevs.in/stream/live/tvbxh/
 TVB星河,https://10.fast.hidns.vip/163189/xinghe/
 TVB星河,http://r.jdshipin.com/sXuuD
+TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
 ViuTV,http://zby.lskk.top/cdnlive.php?mode=play&id=4f0dd8b20a195bdf2dcf5540f665ee0b&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
 ViuTV,http://r.jdshipin.com/TcKr2
 ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
@@ -265,8 +268,8 @@ ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 东森超视,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=163e6c3e3bd21f2beb6af46d4b6b9353;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;machineid=495211d81289c09b;userip=36.231.95.229;useragent=Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2012%3B%20V2166A%20Build%2Fd063e58.0%29;source=dl_app
 东森超视,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=163e6c3e3bd21f2beb6af46d4b6b9353;token=fRfrVRwByx2YB2HDJeYAgdVDU9tZVSat;machineid=495211d81289c09b;userip=36.231.95.229;useragent=Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2012%3B%20V2166A%20Build%2Fd063e58.0%29;source=dl_app
-东森超视34.5,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 东森超视34.5,http://38.64.72.148/hls/modn/list/2013/chunklist0.m3u8
+东森超视34.5,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 中天新闻,http://38.76.205.104:660/cdnlive.php?mode=play;id=800e215cf4d45a5b8e2bd2f4b9997ee9;token=8JHJbFjSVWW1yh6v2QmA7Ef59GdgVZmJ
 中天新闻,https://d2jc41c1shgcol.cloudfront.net/live/CtiNEWS1/playlist.m3u8
 中天新闻,http://tv.redrainl.site:9500/live.m3u8?c=3
@@ -307,15 +310,15 @@ ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 明珠台,http://cdn3.123.rr.kg/stream/tvb/mzt/
 明珠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=mzt
 明珠台,http://cdn9.163189.xyz/smt1.1.php?id=pearl_twn
-有线新闻,http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/chunklist_w1949275579.m3u8
-有线新闻,http://cm61-10-2-143.hkcable.com.hk/live_freedirect/hd110_h.live/playlist.m3u8
 有线新闻,http://61.10.2.141:80/live_freedirect/freehd209_h.live/chunklist.m3u8
+有线新闻,http://61.10.2.141/live_freedirect/hd110_h.live/playlist.m3u8
+有线新闻,http://61.10.2.140/live_freedirect/freehd209_h.live/playlist.m3u8
 民视新闻,http://211.72.174.95:8117/0.ts
 民视新闻,http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
 民视新闻,https://d2jc41c1shgcol.cloudfront.net/live/ftvnewsqt/playlist.m3u8
-民视新闻台,http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
 民视新闻台,http://jy.bhzz.today:2026/YY1/WMHS.php?id=4df8b0c41f0da56f&t=706020202683548286&line=0&token=xxx
 民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+民视新闻台,http://74.91.26.218:82/live/ftvnews.m3u8
 港台电视31,http://iptv.4666888.xyz/iptv2A.php?id=23
 港台电视31,http://cdn.123.rr.kg/163189/rthk31
 港台电视31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
@@ -449,9 +452,9 @@ ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 鬼吹灯之云南虫谷,https://live.ottiptv.cc/huya/11352898
 鬼吹灯之云南虫谷,http://cdn.jdshipin.com:8880/huya.php?id=11352898
 鬼吹灯之云南虫谷,http://live.iill.top/huya.php?id=11352898
+鬼吹灯之龙岭迷窟,https://live.ottiptv.cc/huya/29465863
 鬼吹灯之龙岭迷窟,http://live.metshop.top/huya/29465863
 鬼吹灯之龙岭迷窟,http://cdn.jdshipin.com:8880/huya.php?id=29465863
-鬼吹灯之龙岭迷窟,http://live.iill.top/huya.php?id=29465863
 
 体育赛事,#genre#
 五星体育,http://43.249.195.13:10213/cdnlive.php?mode=play;id=d6ae87637cb6bd59ba1e4d8ddb8041eb;token=NhHKwLOLfUweXATNNbtGMVrOJw5cPmeP
@@ -463,6 +466,9 @@ ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 天津体育,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjtv5
 天津体育,http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub
 天津体育,http://192.151.150.154/live/tjtv5.m3u8#http://lanfenggood.cn:4022/udp/225.1.1.122:5002
+广东体育,http://198.204.228.26/live/gdty.m3u8
+广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8
+广东体育,http://cdn2.132.us.kg/live/gdty/stream.m3u8$LR•IPV4『线路1』
 快乐垂钓,http://106.52.119.159:1234/961930263
 快乐垂钓,http://121.19.134.6:808/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
 快乐垂钓,http://drive.mxmy.net:8888/udp/239.3.1.164:8001
