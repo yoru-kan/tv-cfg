@@ -297,6 +297,7 @@ ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 唯心电视,http://jy.bhzz.today:2026/YY1/WMHS.php?id=2e442016e05c9555&t=275128454570561086&line=0&token=xxx
 唯心电视,https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
 唯心电视,http://159.75.4.149:99/清风/iptv.php?token=2edec56e728c4511f1ec62f11b746dec&ch=3c710daf3d69e697
+大立电视台,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 天映经典,http://zby.lskk.top/cdnlive.php?mode=play&id=95fbe855a1df5dc78b38a61bc64e7e9e&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
 天映经典,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:7E:2F:ED&stream=1919463
 天映经典,https://cdn3.indevs.in/stream/live/ccm/
