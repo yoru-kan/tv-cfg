@@ -505,6 +505,12 @@ http://jy.bhzz.today:2026/YY1/WMHS.php?id=9e74834dab995f15&t=1046029502270653165
 http://61.221.215.25:8800/hls/9/index.m3u8
 #EXTINF:-1 tvg-name="TVBS新闻台" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/TVBS1.png" group-title="港澳台",TVBS新闻台
 http://38.64.72.148/hls/modn/list/4027/playlist.m3u8
+#EXTINF:-1 tvg-name="TVB娱乐新闻台" tvg-logo="https://live.fanmingming.cn/tv/TVB娱乐新闻台.png" group-title="港澳台",TVB娱乐新闻台
+http://cdn6.123.rr.kg/163189/ylxw
+#EXTINF:-1 tvg-name="TVB娱乐新闻台" tvg-logo="https://live.fanmingming.cn/tv/TVB娱乐新闻台.png" group-title="港澳台",TVB娱乐新闻台
+http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/500951.ts
+#EXTINF:-1 tvg-name="TVB娱乐新闻台" tvg-logo="https://live.fanmingming.cn/tv/TVB娱乐新闻台.png" group-title="港澳台",TVB娱乐新闻台
+https://cdn6.cc.cd/163189/ylxw
 #EXTINF:-1 tvg-name="TVB星河" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/TVB星河.png" group-title="港澳台",TVB星河
 https://cdn3.indevs.in/stream/live/tvbxh/
 #EXTINF:-1 tvg-name="TVB星河" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/TVB星河.png" group-title="港澳台",TVB星河
@@ -529,12 +535,6 @@ http://jy.bhzz.today:2026/YY1/WMHS.php?id=404c047310e78077&t=38410562139429009&l
 http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34904
 #EXTINF:-1 tvg-name="东森洋片" tvg-logo="https://www.xn--rgv465a.top/tvlogo/东森洋片.png" group-title="港澳台",东森洋片
 http://31.43.191.125:8080/restream/restream/34904
-#EXTINF:-1 tvg-name="东森超视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/东森超视.png" group-title="港澳台",东森超视
-http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
-#EXTINF:-1 tvg-name="东森超视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/东森超视.png" group-title="港澳台",东森超视
-http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=163e6c3e3bd21f2beb6af46d4b6b9353;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;machineid=495211d81289c09b;userip=36.231.95.229;useragent=Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2012%3B%20V2166A%20Build%2Fd063e58.0%29;source=dl_app
-#EXTINF:-1 tvg-name="东森超视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/东森超视.png" group-title="港澳台",东森超视
-http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=163e6c3e3bd21f2beb6af46d4b6b9353;token=fRfrVRwByx2YB2HDJeYAgdVDU9tZVSat;machineid=495211d81289c09b;userip=36.231.95.229;useragent=Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2012%3B%20V2166A%20Build%2Fd063e58.0%29;source=dl_app
 #EXTINF:-1 tvg-name="东森超视34.5" tvg-logo="" group-title="港澳台",东森超视34.5
 http://38.64.72.148/hls/modn/list/2013/chunklist0.m3u8
 #EXTINF:-1 tvg-name="东森超视34.5" tvg-logo="" group-title="港澳台",东森超视34.5
@@ -705,6 +705,12 @@ http://107.150.60.122/live/chcdz.m3u8
 http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="上虞文化影视" tvg-logo="" group-title="影视剧场",上虞文化影视
 http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
+#EXTINF:-1 tvg-name="上虞文化影院" tvg-logo="https://www.xn--rgv465a.top/tvlogo/上虞文化影院.png" group-title="影视剧场",上虞文化影院
+http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8?zzhed
+#EXTINF:-1 tvg-name="上虞文化影院" tvg-logo="https://www.xn--rgv465a.top/tvlogo/上虞文化影院.png" group-title="影视剧场",上虞文化影院
+https://stream1.freetv.fun/shang-yu-wen-hua-ying-yuan-2.ctv
+#EXTINF:-1 tvg-name="上虞文化影院" tvg-logo="https://www.xn--rgv465a.top/tvlogo/上虞文化影院.png" group-title="影视剧场",上虞文化影院
+https://stream1.freetv.fun/shang-yu-wen-hua-ying-yuan-1.m3u8
 #EXTINF:-1 tvg-name="与凤行" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/电视剧.png" group-title="影视剧场",与凤行
 https://live.ottiptv.cc/huya/26355866
 #EXTINF:-1 tvg-name="与凤行" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/电视剧.png" group-title="影视剧场",与凤行
@@ -725,6 +731,12 @@ http://live.metshop.top/huya/11342403
 https://live.metshop.top/huya/29465856
 #EXTINF:-1 tvg-name="刑事侦缉档案" tvg-logo="" group-title="影视剧场",刑事侦缉档案
 https://huyazhibo.de5.net/?id=29465856
+#EXTINF:-1 tvg-name="创世纪" tvg-logo="" group-title="影视剧场",创世纪
+https://live.metshop.top/huya/29465852
+#EXTINF:-1 tvg-name="创世纪" tvg-logo="" group-title="影视剧场",创世纪
+https://live.metshop.top/huya/29465852$LR•IPV4『线路1』
+#EXTINF:-1 tvg-name="创世纪" tvg-logo="" group-title="影视剧场",创世纪
+http://www.douzhicloud.site:35455/huya/29465852$LR•IPV4『线路2』
 #EXTINF:-1 tvg-name="南宁影视娱乐" tvg-logo="https://www.xn--rgv465a.top/tvlogo/南宁影视娱乐.png" group-title="影视剧场",南宁影视娱乐
 http://hls.nntv.cn/nnlive/YSYL_244.m3u8
 #EXTINF:-1 tvg-name="南宁影视娱乐" tvg-logo="https://www.xn--rgv465a.top/tvlogo/南宁影视娱乐.png" group-title="影视剧场",南宁影视娱乐
@@ -833,8 +845,6 @@ http://cdn.jdshipin.com:8880/huya.php?id=11352935
 http://live.iill.top/huya.php?id=11352935
 #EXTINF:-1 tvg-name="电影八点档" tvg-logo="" group-title="影视剧场",电影八点档
 http://live.metshop.top/huya/880261?cdn=alicdn
-#EXTINF:-1 tvg-name="电影嫣然影厅" tvg-logo="" group-title="影视剧场",电影嫣然影厅
-http://live.metshop.top/huya/11601977?cdn=alicdn
 #EXTINF:-1 tvg-name="电影谍战片" tvg-logo="" group-title="影视剧场",电影谍战片
 http://live.metshop.top/huya/21059587?cdn=alicdn
 #EXTINF:-1 tvg-name="笑傲江湖" tvg-logo="https://www.xn--rgv465a.top/tvlogo/笑傲江湖.png" group-title="影视剧场",笑傲江湖
@@ -868,11 +878,17 @@ http://204315.xyz:20204/rtp/233.18.204.48:5140
 #EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/都市剧场.png" group-title="影视剧场",都市剧场
 http://38.75.136.137:98/gslb/dsdqpub/dsjchd.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="野蛮亲家" tvg-logo="" group-title="影视剧场",野蛮亲家
-http://footyun.top:35455/huya/23863796
-#EXTINF:-1 tvg-name="野蛮亲家" tvg-logo="" group-title="影视剧场",野蛮亲家
 https://live.metshop.top/huya/23863796
 #EXTINF:-1 tvg-name="野蛮亲家" tvg-logo="" group-title="影视剧场",野蛮亲家
 https://huyazhibo.de5.net/?id=23863796
+#EXTINF:-1 tvg-name="野蛮亲家" tvg-logo="" group-title="影视剧场",野蛮亲家
+http://footyun.top:35455/huya/23863796
+#EXTINF:-1 tvg-name="金枝欲孽" tvg-logo="" group-title="影视剧场",金枝欲孽
+https://live.metshop.top/huya/29465847
+#EXTINF:-1 tvg-name="金枝欲孽" tvg-logo="" group-title="影视剧场",金枝欲孽
+https://live.metshop.top/huya/29465847$LR•IPV4『线路1』
+#EXTINF:-1 tvg-name="金枝欲孽" tvg-logo="" group-title="影视剧场",金枝欲孽
+http://www.douzhicloud.site:35455/huya/29465847$LR•IPV4『线路2』
 #EXTINF:-1 tvg-name="铁齿铜牙纪晓岚" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/铁齿铜牙纪晓岚.png" group-title="影视剧场",铁齿铜牙纪晓岚
 https://live.ottiptv.cc/huya/11342396
 #EXTINF:-1 tvg-name="铁齿铜牙纪晓岚" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/铁齿铜牙纪晓岚.png" group-title="影视剧场",铁齿铜牙纪晓岚
@@ -936,11 +952,11 @@ https://live.metshop.top/huya/11601966
 #EXTINF:-1 tvg-name="七龙珠" tvg-logo="https://www.xn--rgv465a.top/tvlogo/七龙珠.png" group-title="少儿动画",七龙珠
 https://huyazhibo.de5.net/?id=30273533
 #EXTINF:-1 tvg-name="中华小当家" tvg-logo="https://www.xn--rgv465a.top/tvlogo/中华小当家.png" group-title="少儿动画",中华小当家
-https://huyazhibo.de5.net/?id=30613314
-#EXTINF:-1 tvg-name="中华小当家" tvg-logo="https://www.xn--rgv465a.top/tvlogo/中华小当家.png" group-title="少儿动画",中华小当家
 https://live.ottiptv.cc/huya/11342413
 #EXTINF:-1 tvg-name="中华小当家" tvg-logo="https://www.xn--rgv465a.top/tvlogo/中华小当家.png" group-title="少儿动画",中华小当家
 https://live.metshop.top/huya/11342413
+#EXTINF:-1 tvg-name="中华小当家" tvg-logo="https://www.xn--rgv465a.top/tvlogo/中华小当家.png" group-title="少儿动画",中华小当家
+https://live.iill.top/huya/11342413
 #EXTINF:-1 tvg-name="优漫卡通" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/优漫卡通.png" group-title="少儿动画",优漫卡通
 http://192.151.150.154/live/ymkt.m3u8
 #EXTINF:-1 tvg-name="优漫卡通" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/优漫卡通.png" group-title="少儿动画",优漫卡通
@@ -997,6 +1013,12 @@ https://live.metshop.top/huya/11352879
 https://live.ottiptv.cc/huya/11352879
 #EXTINF:-1 tvg-name="福州少儿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/福州少儿.png" group-title="少儿动画",福州少儿
 http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://www.xn--rgv465a.top/tvlogo/金鹰卡通.png" group-title="少儿动画",金鹰卡通
+http://125.43.249.76:9901/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://www.xn--rgv465a.top/tvlogo/金鹰卡通.png" group-title="少儿动画",金鹰卡通
+http://phoneqq.qing.mgtv.com/nn_live/nn_x64/Y2hzPSZkZWY9MSZ1aXA9MTA2LjE0LjM4LjU1JnRlcm09NSZtYWNpZD02ODZlOGNmOGM4OGU3N2VjOWEwNzkzMjg5ZjUzNDg0MmFiZWM0ZjNjJnFpZD0mcmF1dGhfZW5hYmxlPW9mZiZjZG5leF9pZD1xcV9waG9uZV9saXZlJmVzPTE3OTI3MTQ5MjUmdXVpZD05Yjk5MTc3YjQwNmZmMWYwN2NiZTgzYjY0ZTFlNDQ0OS02YTBlMjYzNyZzPTY4YmQ5ZjA5MzhlYmRkODZmNzNmNTE5Mjc0ZjZjMjYyJnVpZD0mbmR2PWlvcy02LjUuMCZ2PTImYXM9MCZfY2FyQ29kZT0w/HNDSJMPP360.m3u8
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://www.xn--rgv465a.top/tvlogo/金鹰卡通.png" group-title="少儿动画",金鹰卡通
+http://101.66.195.192:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="韩国EBS少儿" tvg-logo="" group-title="少儿动画",韩国EBS少儿
 http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
 #EXTINF:-1 tvg-name="黑龙江少儿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/黑龙江少儿.png" group-title="少儿动画",黑龙江少儿
@@ -1047,6 +1069,8 @@ http://stream5.jlntv.cn/lh/sd/live.m3u8?zjild
 http://stream10.jlntv.cn/huadian/sd/live.m3u8?zjild
 #EXTINF:-1 tvg-name="江津新闻" tvg-logo="" group-title="纪实科教",江津新闻
 http://222.179.155.21:1935/ch1.m3u8?zzhongqd
+#EXTINF:-1 tvg-name="汪清" tvg-logo="" group-title="纪实科教",汪清
+http://stream5.jlntv.cn/wq/sd/live.m3u8?zjild
 #EXTINF:-1 tvg-name="泸州科教" tvg-logo="" group-title="纪实科教",泸州科教
 http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel103074/playlist.m3u8
 #EXTINF:-1 tvg-name="泸州科教" tvg-logo="" group-title="纪实科教",泸州科教
@@ -1079,6 +1103,8 @@ https://phoneal.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE
 http://183.11.239.36:808/hls/171/index.m3u8
 #EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://www.xn--rgv465a.top/tvlogo/金鹰纪实.png" group-title="纪实科教",金鹰纪实
 http://phoneal.qing.mgtv.com/nn_live/nn_x64/Y2hzPSZkZWY9MSZ1aXA9MTA2LjE0LjM4LjU1JnRlcm09NSZtYWNpZD02ODZlOGNmOGM4OGU3N2VjOWEwNzkzMjg5ZjUzNDg0MmFiZWM0ZjNjJnFpZD0mcmF1dGhfZW5hYmxlPW9uJmNkbmV4X2lkPWFsX3Bob25lMyZlcz0xNzkzMzE5NzI4JnV1aWQ9ODY3NDY0ZjFhMmQ4YzAxNjQ0MGUzNTdjNTE4NTllY2YtNmEwZTI2Mzcmcz03ODM0M2VhOGRlY2RkYmQ3MTkyMmQyNzM5YmU4NGM3NSZ1aWQ9Jm5kdj1pb3MtNi41LjAmdj0yJmFzPTAmX2NhckNvZGU9MA,,/HNDSMPP360.m3u8
+#EXTINF:-1 tvg-name="长白山电视台" tvg-logo="" group-title="纪实科教",长白山电视台
+http://stream8.jlntv.cn/cbstv/sd/live.m3u8?zjild
 #EXTINF:-1 tvg-name="靖宇" tvg-logo="" group-title="纪实科教",靖宇
 http://stream8.jlntv.cn/jytv/sd/live.m3u8?zjild
 #EXTINF:-1 tvg-name="龙井" tvg-logo="" group-title="纪实科教",龙井
