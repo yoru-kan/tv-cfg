@@ -303,7 +303,6 @@ ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 唯心电视,http://jy.bhzz.today:2026/YY1/WMHS.php?id=2e442016e05c9555&t=275128454570561086&line=0&token=xxx
 唯心电视,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
 唯心电视,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
-大立电视台,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 天映经典,http://zby.lskk.top/cdnlive.php?mode=play&id=95fbe855a1df5dc78b38a61bc64e7e9e&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
 天映经典,https://cdn10.123.rr.kg/163189/ccm/
 天映经典,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:7E:2F:ED&stream=1919463
@@ -328,9 +327,9 @@ ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 港台电视31,http://iptv.4666888.xyz/iptv2A.php?id=23
 港台电视31,https://fast.hidns.vip/163189/rthk31
 港台电视31,http://cdn.123.rr.kg/163189/rthk31
-港台电视32,http://45.192.97.170:8880/play/1203.m3u8
 港台电视32,http://cdn.123.rr.kg/163189/rthk32
 港台电视32,https://fast.hidns.vip/163189/rthk32
+港台电视32,http://zby.lskk.top/cdnlive.php?mode=play&id=d3fd85166b5abb79502d872ec49b1f61&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
 澳视卫星,http://cdn6.123.rr.kg/163189/as
 澳视卫星,https://cdn6.cc.cd/163189/as
 澳视卫星,https://cdn.qd.je/163189/as
