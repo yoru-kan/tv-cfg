@@ -235,9 +235,9 @@ AstroAOD,https://cdn3.indevs.in/stream/live/aod/
 AstroAOD,http://php.jdshipin.com/TVOD/iptv.php?id=aod
 AstroAOD,https://o11.163189.xyz/stream/live/aod/
 BeautifulLifeTV,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
-HOYTV,https://liveopen.siliconweb.com/openTvLive/liveopen/playlist.m3u8
 HOYTV,http://cdn.123.rr.kg/163189/hoy
 HOYTV,http://uc6.i-cable.com/live_freedirect/opentvhd001_h.live/playlist.m3u8
+HOYTV,http://cdn.132.us.kg/live/hoy/stream.m3u8
 J2,http://r.jdshipin.com/ndGgS
 J2,https://hls-gateway.vpstv.net/streams/476932.m3u8
 J2,http://api.kkitv.itv888.vip:8080/streams/48uxa7dlbga/index.m3u8
@@ -316,9 +316,9 @@ ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 明珠台,http://cdn3.123.rr.kg/stream/tvb/mzt/
 明珠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=mzt
 明珠台,http://cdn9.163189.xyz/smt1.1.php?id=pearl_twn
-有线新闻,http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u8
 有线新闻,http://61.10.2.140/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
 有线新闻,http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/chunklist_w1949275579.m3u8
+有线新闻,http://61.10.2.141:80/live_freedirect/freehd209_h.live/chunklist.m3u8
 民视新闻,http://211.72.174.95:8117/0.ts
 民视新闻,http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
 民视新闻,https://d2jc41c1shgcol.cloudfront.net/live/ftvnewsqt/playlist.m3u8
@@ -361,9 +361,9 @@ CHC动作电影,http://198.204.228.26/live/chcdz.m3u8
 CHC动作电影,http://107.150.60.122/live/chcdz.m3u8
 CHC动作电影,http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
 上虞文化影视,http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
-上虞文化影院,http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
 上虞文化影院,http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8?zzhed
 上虞文化影院,https://stream1.freetv.fun/shang-yu-wen-hua-ying-yuan-2.ctv
+上虞文化影院,https://stream1.freetv.fun/shang-yu-wen-hua-ying-yuan-1.m3u8
 与凤行,https://live.ottiptv.cc/huya/26355866
 与凤行,http://159.75.85.63:35455/huya/26355866
 与凤行,http://cfss.cc/cdn/hy/26355866.m3u8
@@ -381,13 +381,12 @@ CHC动作电影,http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
 南宁影视娱乐,http://hls.nntv.cn/nnlive/NNTV_VOD_A.m3u8
 句容影视,http://jrlive.jrntv.com/live/_definst_/yingshis/playlist.m3u8
 句容影院,http://jrlive.jrntv.com/live/_definst_/yingshis/chunklist_w1994429382.m3u8?zjiangsd
-周星驰电影,https://live.metshop.top/huya/11342412
 唐诡之西行,https://live.ottiptv.cc/huya/26355763
 固镇影视,http://www.guzhenm.com:7004/hls/hd-live.m3u8
 如懿传,https://live.ottiptv.cc/huya/29465868
-妙手仁心,https://huyazhibo.de5.net/?id=29465853
 妙手仁心,https://live.metshop.top/huya/29465853
 妙手仁心,http://www.douzhicloud.site:35455/huya/29465853$LR•IPV4『线路2』
+妙手仁心,http://live.nctv.top/huya.php?id=23829543$LR•IPV4『线路3』
 封神榜,https://live.ottiptv.cc/huya/29465849
 封神榜,https://live.metshop.top/huya/29465849
 封神榜,https://huyazhibo.de5.net/?id=29465849
@@ -431,7 +430,6 @@ CHC动作电影,http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
 甄子丹电影,http://cdn.jdshipin.com:8880/huya.php?id=11352935
 甄子丹电影,http://live.iill.top/huya.php?id=11352935
 电影八点档,http://live.metshop.top/huya/880261?cdn=alicdn
-电影嫣然影厅,http://live.metshop.top/huya/11601977?cdn=alicdn
 电影谍战片,http://live.metshop.top/huya/21059587?cdn=alicdn
 笑傲江湖,https://live.ottiptv.cc/huya/26355790
 笑傲江湖,https://live.metshop.top/yy/1354930909
@@ -510,9 +508,6 @@ CHC动作电影,http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
 海绵宝宝,http://cfss.cc/cdn/huya/11352919.flv
 海绵宝宝,https://live.metshop.top/douyu/3949681
 海绵宝宝,https://huyazhibo.de5.net/?id=11352919
-灌篮高手,https://huyazhibo.de5.net/?id=25039461
-灌篮高手,https://live.ottiptv.cc/yy/1382735626
-灌篮高手,http://www.douzhicloud.site:35455/yy/1382735626$LR•IPV4『线路1』
 猫和老鼠,https://huyazhibo.de5.net/?id=11352879
 猫和老鼠,https://live.metshop.top/huya/11352879
 猫和老鼠,https://live.ottiptv.cc/huya/11352879
