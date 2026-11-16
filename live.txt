@@ -208,15 +208,9 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 重庆卫视,http://107.150.60.122/live/cqwshd.m3u8
 重庆卫视,http://p.ytelc.com/videojs.php?id=https://sjlivecdn9.cbg.cn/202411200910/app_2/_definst_/ls_2.stream/chunklist.m3u8
 重庆卫视,http://p.ytelc.com/videojs.php?id=https://sjlivecdn9.cbg.cn/202411201110/app_2/_definst_/ls_2.stream/chunklist.m3u8
-陕西卫视,http://106.52.119.159:1234/738910838
-陕西卫视,http://stream.snrtv.com/sxbc-star-lyJQT7.m3u8
-陕西卫视,http://stream.snrtv.com/sxbc-star-elmqWY.m3u8
 青海卫视,http://8.137.121.66:20241/947472506
 青海卫视,http://222.223.41.27:8888/hls/50/index.m3u8
 青海卫视,http://61.138.99.166:10089/hls/96/index.m3u8
-黑龙江卫视,http://106.52.119.159:1234/738906901
-黑龙江卫视,http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
-黑龙江卫视,https://kzhibo.pages.dev/channel/621?type=2
 
 港澳台,#genre#
 AstroAOD,https://cdn3.indevs.in/stream/live/aod/
@@ -340,9 +334,6 @@ ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 翡翠台4K,https://cdn3.indevs.in/stream/tvb/fct4k/
 翡翠台4K,http://o11.163189.xyz/stream/tvb/fct4k/
 翡翠台4K,https://cdn.qd.je/163189/fct4k
-龙华电影,https://8.fast.hidns.vip/163189/lhdy
-龙华电影,https://cdn.qd.je/163189/lhdy
-龙华电影,http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
 
 影视剧场,#genre#
 CHC动作电影,http://198.204.228.26/live/chcdz.m3u8
@@ -372,7 +363,6 @@ CHC动作电影,http://107.150.60.122/live/chcdz.m3u8
 句容影视,http://jrlive.jrntv.com/live/_definst_/yingshis/playlist.m3u8
 句容影院,http://jrlive.jrntv.com/live/_definst_/yingshis/chunklist_w1994429382.m3u8?zjiangsd
 周星驰电影,https://live.metshop.top/huya/11342412
-唐诡之西行,https://live.ottiptv.cc/huya/26355763
 固镇影视,http://www.guzhenm.com:7004/hls/hd-live.m3u8
 士兵突击,http://live.metshop.top/huya/11342430
 士兵突击,http://cdn.jdshipin.com:8880/huya.php?id=11342430
@@ -447,6 +437,9 @@ CHC动作电影,http://107.150.60.122/live/chcdz.m3u8
 野蛮亲家,http://footyun.top:35455/huya/23863796
 野蛮亲家,https://live.metshop.top/huya/23863796
 野蛮亲家,https://huyazhibo.de5.net/?id=23863796
+金枝欲孽,https://live.metshop.top/huya/29465847
+金枝欲孽,https://live.metshop.top/huya/29465847$LR•IPV4『线路1』
+金枝欲孽,http://www.douzhicloud.site:35455/huya/29465847$LR•IPV4『线路2』
 铁齿铜牙纪晓岚,https://live.ottiptv.cc/huya/11342396
 铁齿铜牙纪晓岚,http://live.metshop.top/huya/11342396
 铁齿铜牙纪晓岚,http://cdn.jdshipin.com:8880/huya.php?id=11342396
@@ -462,9 +455,6 @@ CHC动作电影,http://107.150.60.122/live/chcdz.m3u8
 天津体育,http://192.151.150.154/live/tjtv5.m3u8#http://lanfenggood.cn:4022/udp/225.1.1.122:5002
 天津体育,http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub
 天津体育,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjtv5
-广东体育,http://198.204.228.26/live/gdty.m3u8
-广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8
-广东体育,http://cdn2.132.us.kg/live/gdty/stream.m3u8$LR•IPV4『线路1』
 
 少儿动画,#genre#
 七龙珠,https://live.metshop.top/huya/11601966
