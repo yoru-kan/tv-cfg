@@ -310,9 +310,6 @@ ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 澳视澳门,http://cdn6.123.rr.kg/163189/asam
 澳视澳门,https://cdn.qd.je/163189/asam
 澳视澳门,https://cdn6.163189.xyz/163189/asam
-澳门卫视,http://183.237.95.108:9901/tsfile/live/1106_1.m3u8?key=txiptv&playlive=1&authid=0
-澳门卫视,http://61.244.22.4/ch1/ch1.live/playlist.m3u8
-澳门卫视,http://61.244.22.5/ch3/ch3.live/chunklist_w1228316132.m3u8
 环球电视,http://utv1.hqtvzb.com:9999/hls/world.m3u8
 环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 纬来精采,http://61.221.215.25:8800/hls/48/index.m3u8
