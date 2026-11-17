@@ -204,9 +204,6 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 青海卫视,http://107.150.60.122/live/qhws.m3u8
 
 港澳台,#genre#
-AstroAOD,https://cdn3.indevs.in/stream/live/aod/
-AstroAOD,http://php.jdshipin.com/TVOD/iptv.php?id=aod
-AstroAOD,https://o11.163189.xyz/stream/live/aod/
 BeautifulLifeTV,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
 HOYTV,http://cdn.123.rr.kg/163189/hoy
 HOYTV,http://uc6.i-cable.com/live_freedirect/opentvhd001_h.live/playlist.m3u8
@@ -220,9 +217,9 @@ Now新闻台,http://cdn.163189.xyz/163189/now
 PetClubTV,http://zby.lskk.top/cdnlive.php?mode=play&id=02fe7cf0f125a2b343582a63a8f9855b&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
 PetClubTV,https://petclub-samsungaus.amagi.tv/playlist.m3u8
 PetClubTV,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8
-TVBPlus,http://cdn3.123.rr.kg/stream/tvb/tvbp/
-TVBPlus,https://cdn3.indevs.in/stream/tvb/tvbp/
 TVBPlus,http://cdn10.123.rr.kg/163189/tvbp/
+TVBPlus,https://sktv.mxnticek.eu/new/stream.php?ch=JOJ%2024
+TVBPlus,http://bxtv.3a.ink/api.php?id=tvbp
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
@@ -258,9 +255,6 @@ ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 凤凰卫视,http://221.7.175.154:8445/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰卫视,http://122.152.202.33/s/81a8a44f/index.m3u8?id=15
 凤凰卫视,http://183.239.226.235:9901/tsfile/live/0108_1.m3u8?key=txiptv&playlive=1&authid=0
-凤凰资讯,http://43.152.224.209/qctv.fengshows.cn/live/0701pin72.flv
-凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8?
-凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 凤凰香港,http://cdn6.123.rr.kg/163189/fhhk
 凤凰香港,http://173.208.234.146/live/fhxg.m3u8
 凤凰香港,https://php.946985.filegear-sg.me/mytv265.php?id=PHK
@@ -277,9 +271,6 @@ ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 唯心电视,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
 唯心电视,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
 大立电视台,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-天映经典,https://cdn3.indevs.in/stream/live/ccm/
-天映经典,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:7E:2F:ED&stream=1919463
-天映经典,https://cdn.qd.je/163189/ccm
 广东珠江,http://8.137.121.66:20241/639731952
 广东珠江,http://38.75.136.137:98/gslb/dsdqpub/gdzj.m3u8?auth=testpub
 广东珠江,http://198.204.228.26/live/gdzj.m3u8
@@ -301,18 +292,15 @@ ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 港台电视31,http://cdn.123.rr.kg/163189/rthk31
 港台电视31,https://fast.hidns.vip/163189/rthk31
 港台电视31,http://iptv.4666888.xyz/iptv2A.php?id=23
-港台电视32,http://zby.lskk.top/cdnlive.php?mode=play&id=d3fd85166b5abb79502d872ec49b1f61&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
 港台电视32,http://45.192.97.170:8880/play/1203.m3u8
 港台电视32,http://cdn.123.rr.kg/163189/rthk32
+港台电视32,https://fast.hidns.vip/163189/rthk32
 澳视卫星,http://cdn6.123.rr.kg/163189/as
 澳视卫星,https://cdn6.cc.cd/163189/as
 澳视卫星,https://cdn.qd.je/163189/as
 澳视澳门,http://cdn6.123.rr.kg/163189/asam
 澳视澳门,https://cdn.qd.je/163189/asam
 澳视澳门,https://cdn6.163189.xyz/163189/asam
-澳门卫视,http://183.237.95.108:9901/tsfile/live/1106_1.m3u8?key=txiptv&playlive=1&authid=0
-澳门卫视,http://61.244.22.4/ch1/ch1.live/playlist.m3u8
-澳门卫视,http://61.244.22.5/ch3/ch3.live/chunklist_w1228316132.m3u8
 环球电视,http://utv1.hqtvzb.com:9999/hls/world.m3u8
 环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 纬来精采,http://61.221.215.25:8800/hls/48/index.m3u8
@@ -413,9 +401,9 @@ ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 贺岁电影,https://live.metshop.top/huya/11601986
 贺岁电影,http://cdn.jdshipin.com:8880/huya.php?id=11601986
 贺岁电影,http://live.iill.top/huya.php?id=11601986
-都市剧场,https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8
 都市剧场,http://204315.xyz:20204/rtp/233.18.204.48:5140
 都市剧场,http://38.75.136.137:98/gslb/dsdqpub/dsjchd.m3u8?auth=testpub
+都市剧场,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dsjchd
 野蛮亲家,http://footyun.top:35455/huya/23863796
 野蛮亲家,https://live.metshop.top/huya/23863796
 野蛮亲家,https://huyazhibo.de5.net/?id=23863796
