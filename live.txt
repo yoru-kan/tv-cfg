@@ -32,6 +32,9 @@ CCTV9,https://v4-e6b1c5baf4e240fe63adbf68dda23435.livehwc4.com/play.kankanlive.c
 CCTV10,http://113.25.252.226:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV10,http://t.061899.xyz/tl/tl.php?id=cctv10
 CCTV10,http://115.48.161.74:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV11,http://8.137.121.66:20241/667987558
+CCTV11,http://106.52.119.159:1234/667987558
+CCTV11,http://101.66.195.137:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV12,http://183.223.157.123:85/tsfile/live/0012_1.m3u8?key=txiptv
 CCTV12,http://183.129.255.66:8480/hls/13/index.m3u8
 CCTV12,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv12hd
@@ -74,9 +77,9 @@ CCTV文化精品,http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
 CCTV第一剧场,http://192.151.150.154/live/dyjc.m3u8
 CCTV第一剧场,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dyjc
 CCTV第一剧场,https://live.264788.xyz/channel/diyijuchang?streamid=e9b0fb1ca135a4aeae12944494883794&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-CCTV老故事,http://k.061899.xyz/k.php?id=lgs
 CCTV老故事,http://38.75.136.137:98/gslb/dsdqpub/lgs.m3u8?auth=testpub
 CCTV老故事,http://204.12.221.218:8181/3m1080p/lgs.m3u8
+CCTV老故事,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=lgs
 CCTV风云足球,http://183.11.239.36:808/hls/133/index.m3u8
 CCTV风云足球,http://112.92.129.58:9898/hls/114/index.m3u8
 CCTV风云足球,http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
@@ -208,6 +211,9 @@ BeautifulLifeTV,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
 HOYTV,http://cdn.123.rr.kg/163189/hoy
 HOYTV,http://uc6.i-cable.com/live_freedirect/opentvhd001_h.live/playlist.m3u8
 HOYTV,http://cdn.132.us.kg/live/hoy/stream.m3u8
+J2,http://r.jdshipin.com/ndGgS
+J2,https://hls-gateway.vpstv.net/streams/476932.m3u8
+J2,http://api.kkitv.itv888.vip:8080/streams/48uxa7dlbga/index.m3u8
 Now新闻台,http://cdn.123.rr.kg/163189/now
 Now新闻台,http://psyl11.dyndns.tv:35451/live/axdynowtream/fSlawNmh15/23.ts
 Now新闻台,http://cdn.163189.xyz/163189/now
@@ -270,7 +276,6 @@ ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 唯心电视,http://jy.bhzz.today:2026/YY1/WMHS.php?id=2e442016e05c9555&t=275128454570561086&line=0&token=xxx
 唯心电视,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
 唯心电视,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
-大立电视台,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 天映经典,https://cdn3.indevs.in/stream/live/ccm/
 天映经典,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:7E:2F:ED&stream=1919463
 天映经典,https://cdn.qd.je/163189/ccm
@@ -333,7 +338,6 @@ ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 与凤行,http://cfss.cc/cdn/hy/26355866.m3u8
 东阳影视生活,http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8
 仙剑奇侠传,https://live.ottiptv.cc/yy/1382749903
-伪装者,https://live.ottiptv.cc/yy/1354936244
 倚天屠龙记,https://live.ottiptv.cc/huya/11342403
 倚天屠龙记,http://live.metshop.top/huya/11342403
 倚天屠龙记,https://live.metshop.top/huya/23734246
@@ -350,6 +354,7 @@ ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 唐诡之西行,https://live.ottiptv.cc/huya/26355763
 固镇影视,http://www.guzhenm.com:7004/hls/hd-live.m3u8
 大唐双龙传,https://live.metshop.top/huya/29465850
+大秦赋,https://live.ottiptv.cc/huya/23903130
 如懿传,https://live.ottiptv.cc/huya/29465868
 妙手仁心,https://huyazhibo.de5.net/?id=29465853
 妙手仁心,https://live.metshop.top/huya/29465853
@@ -360,9 +365,6 @@ ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 射雕英雄传,https://live.metshop.top/huya/23824164
 射雕英雄传,https://live.ottiptv.cc/huya/23824164
 射雕英雄传,http://cdn.jdshipin.com:8880/huya.php?id=23824164
-庆余年,https://live.ottiptv.cc/huya/11352960
-庆余年,http://cdn.jdshipin.com:8880/huya.php?id=11352960
-庆余年,http://live.iill.top/huya.php?id=11352960
 延禧攻略,https://live.ottiptv.cc/huya/26355864
 延禧攻略,http://live.metshop.top/huya/26355864
 扫黄先锋,http://footyun.top:35455/huya/23903196
@@ -436,9 +438,9 @@ ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 天元围棋,http://107.150.60.122/live/gztywq.m3u8
 天元围棋,http://204.12.221.218:8181/3m1080p/gztywq.m3u8
 天元围棋,http://38.75.136.137:98/gslb/dsdqpub/gztywq.m3u8?auth=testpub
-天津体育,http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub
 天津体育,http://192.151.150.154/live/tjtv5.m3u8#http://lanfenggood.cn:4022/udp/225.1.1.122:5002
 天津体育,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjtv5
+天津体育,http://154.12.37.196:5555/tvbox/公众号好享生活小助手/接口获取/代理.php?id=http://38.75.136.137:82/live1/jsb1.m3u8?id=tjtv5&usign=
 广东体育,http://218.13.138.139:59901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8
 广东体育,http://cdn2.132.us.kg/live/gdty/stream.m3u8$LR•IPV4『线路1』
