@@ -20,9 +20,6 @@ CCTV5+,http://124.228.160.40:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&
 CCTV6,https://piccpndks.v.kcdnvip.com/audio/cctv6_2/index.m3u8
 CCTV6,http://8.137.121.66:20241/624878396
 CCTV6,http://106.52.119.159:1234/624878396
-CCTV7,http://8.137.121.66:20241/673168121
-CCTV7,http://106.52.119.159:1234/673168121
-CCTV7,http://115.48.161.74:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV8,http://173.208.234.146/live/cctv8.m3u8
 CCTV8,http://183.223.157.33:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV8,http://124.228.160.112:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -276,7 +273,6 @@ ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 唯心电视,http://jy.bhzz.today:2026/YY1/WMHS.php?id=2e442016e05c9555&t=275128454570561086&line=0&token=xxx
 唯心电视,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
 唯心电视,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
-大立电视台,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 天映经典,https://cdn3.indevs.in/stream/live/ccm/
 天映经典,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:7E:2F:ED&stream=1919463
 天映经典,https://cdn.qd.je/163189/ccm
@@ -375,7 +371,6 @@ ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 扫黄先锋,http://cfss.cc/cdn/huya/23903196.flv
 扫黄先锋,http://footyun.top:35455/huya/23903196
 扫黄先锋,https://live.metshop.top/huya/29465855
-林正英电影,https://live.metshop.top/huya/11342421
 枪战电影,https://live.metshop.top/huya/21059579
 柳舟计,https://live.ottiptv.cc/huya/23860039
 梦中的那片海,https://live.ottiptv.cc/huya/26355765
@@ -413,9 +408,9 @@ ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 贺岁电影,https://live.metshop.top/huya/11601986
 贺岁电影,http://cdn.jdshipin.com:8880/huya.php?id=11601986
 贺岁电影,http://live.iill.top/huya.php?id=11601986
-都市剧场,https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8
 都市剧场,http://204315.xyz:20204/rtp/233.18.204.48:5140
 都市剧场,http://38.75.136.137:98/gslb/dsdqpub/dsjchd.m3u8?auth=testpub
+都市剧场,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dsjchd
 野蛮亲家,http://footyun.top:35455/huya/23863796
 野蛮亲家,https://live.metshop.top/huya/23863796
 野蛮亲家,https://huyazhibo.de5.net/?id=23863796
@@ -443,9 +438,9 @@ ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 天元围棋,http://107.150.60.122/live/gztywq.m3u8
 天元围棋,http://192.151.150.154/live/gztywq.m3u8
 天元围棋,http://204.12.221.218:8181/3m1080p/gztywq.m3u8
-天津体育,http://192.151.150.154/live/tjtv5.m3u8#http://lanfenggood.cn:4022/udp/225.1.1.122:5002
 天津体育,http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub
 天津体育,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjtv5
+天津体育,http://154.12.37.196:5555/tvbox/公众号好享生活小助手/接口获取/代理.php?id=http://38.75.136.137:82/live1/jsb1.m3u8?id=tjtv5&usign=
 广东体育,http://218.13.138.139:59901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8
 广东体育,http://cdn2.132.us.kg/live/gdty/stream.m3u8$LR•IPV4『线路1』
@@ -475,9 +470,9 @@ ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 浙江少儿,http://ali-vl.cztv.com/channels/lantian/channel008/360p.m3u8
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江少儿,http://124.90.45.52:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
-海绵宝宝,https://live.metshop.top/douyu/3949681
-海绵宝宝,https://huyazhibo.de5.net/?id=11352919
 海绵宝宝,http://cfss.cc/cdn/huya/11352919.flv
+海绵宝宝,http://120.220.76.91:2003/huya.php?id=11352919
+海绵宝宝,http://zzy789.xyz/douyu1.php?id=1569773
 灌篮高手,https://live.ottiptv.cc/yy/1382735626
 灌篮高手,http://www.douzhicloud.site:35455/yy/1382735626$LR•IPV4『线路1』
 灌篮高手,http://alist.xicp.fun:35455/yy/1382735626$LR•IPV4『线路2』
@@ -521,7 +516,6 @@ BRTV纪实科教,http://120.76.248.139/live/bfgd/4200000113.m3u8
 浙江之江纪录,http://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 玛纳斯,http://218.84.127.245:1026/hls/main1/playlist.m3u8?zxinjd
 珲春新闻,http://stream8.jlntv.cn/hctv/sd/live.m3u8?zjild
-白山公共,http://stream8.jlntv.cn/baishan2/playlist.m3u8?zjild
 磐石,http://stream5.jlntv.cn/ps/sd/live.m3u8?zjild
 舒兰新闻,http://stream8.jlntv.cn/shulan/sd/live.m3u8?zjild
 辉南新闻,http://stream5.jlntv.cn/hn/sd/live.m3u8?zjild
