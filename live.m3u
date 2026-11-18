@@ -287,12 +287,6 @@ http://stream.jinjiang.tv/1/sd/live.m3u8?zfud
 http://107.150.60.122/live/xmws.m3u8
 #EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/厦门卫视.png" group-title="卫视频道",厦门卫视
 http://183.11.239.36:808/hls/17/index.m3u8
-#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/吉林卫视.png" group-title="卫视频道",吉林卫视
-http://47.100.80.251:50001/947472500
-#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/吉林卫视.png" group-title="卫视频道",吉林卫视
-http://101.66.195.243:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/吉林卫视.png" group-title="卫视频道",吉林卫视
-https://zby.130519.xyz/PLTV/11/224/3221226149/index.m3u8
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/四川卫视.png" group-title="卫视频道",四川卫视
 https://piccpndks.v.kcdnvip.com/audio/sichuan_2/index.m3u8
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/四川卫视.png" group-title="卫视频道",四川卫视
