@@ -59,9 +59,9 @@ CCTV世界地理,http://111.61.236.247:9081/hls/62/index.m3u8
 CCTV兵器科技,http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub
 CCTV兵器科技,http://198.204.228.26/live/gfjs.m3u8
 CCTV兵器科技,http://204.12.221.218:8181/3m1080p/gfjs.m3u8
-CCTV发现之旅,http://k.061899.xyz/k.php?id=fxzl
 CCTV发现之旅,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fxzl
 CCTV发现之旅,http://38.75.136.137:98/gslb/dsdqpub/fxzl.m3u8?auth=testpub
+CCTV发现之旅,http://ygbh.live/migu.php?id=fxzl
 CCTV台球,http://107.150.60.122/live/ystq.m3u8
 CCTV台球,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ystq
 CCTV台球,http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
@@ -273,7 +273,6 @@ ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 唯心电视,http://jy.bhzz.today:2026/YY1/WMHS.php?id=2e442016e05c9555&t=275128454570561086&line=0&token=xxx
 唯心电视,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
 唯心电视,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
-大立电视台,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 天映经典,https://cdn10.123.rr.kg/163189/ccm/
 天映经典,https://cdn3.indevs.in/stream/live/ccm/
 天映经典,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:7E:2F:ED&stream=1919463
