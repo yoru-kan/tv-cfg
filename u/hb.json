@@ -1,5 +1,5 @@
 {
- "spider": "https://gitee.com/xhuban/getjar/raw/master/jar/custom_spider_cat.jar;md5;a2a6875f5686c0e4bf688497490d6e84",
+ "spider": "https://gitee.com/xhuban/getjar/raw/master/jar/custom_spider_cat.jar;md5;87c7ad53761e504671305443b45a111e",
  "wallpaper": "https://xn--11x805d.xn--4kq62z5rby2qupq9ub.xyz/",
  "warningText": "仅作学习交流测试使用，配置或下载后请于24小时之内删除",
  "lives": [
@@ -820,15 +820,6 @@
    "ext": "DyUuHTg+VUg="
   },
   {
-   "key": "manju",
-   "name": "七猫|漫剧",
-   "type": 3,
-   "api": "csp_HBManJuCAT",
-   "searchable": 1,
-   "quickSearch": 1,
-   "ext": "DTUUHTg4UEg="
-  },
-  {
    "key": "hongguo",
    "name": "红果|听书",
    "type": 3,
@@ -1292,6 +1283,42 @@
    }
   },
   {
+   "key": "kqt",
+   "name": "看球通|体育",
+   "type": 3,
+   "api": "csp_HBSportAiCAT",
+   "searchable": 0,
+   "quickSearch": 0,
+   "ext": "CxsyWQQ3KhkrCwFYD1E+WSgBWEg="
+  },
+  {
+   "key": "kafei",
+   "name": "咖啡|体育",
+   "type": 3,
+   "api": "csp_HBSportAiCAT",
+   "searchable": 0,
+   "quickSearch": 0,
+   "ext": "CxsyWQQ3KhkrCwFYD1A+BDs4AxwEMFMM"
+  },
+  {
+   "key": "guazi",
+   "name": "瓜子|体育",
+   "type": 3,
+   "api": "csp_HBSportAiCAT",
+   "searchable": 0,
+   "quickSearch": 0,
+   "ext": "CxsyWQQ3KhkrCwFYNFEuAQQCAxwEMFMM"
+  },
+  {
+   "key": "feiqiu",
+   "name": "飞球|体育",
+   "type": 3,
+   "api": "csp_HBSportAiCAT",
+   "searchable": 0,
+   "quickSearch": 0,
+   "ext": "CxsyWQQ3KhkrCwFYNA8uGQI4BEQrD14M"
+  },
+  {
    "key": "xingya",
    "name": "星芽|短剧",
    "type": 3,
@@ -1344,6 +1371,15 @@
     "type": "rect",
     "ratio": 0.75
    }
+  },
+  {
+   "key": "manju",
+   "name": "七猫漫|短剧",
+   "type": 3,
+   "api": "csp_HBManJuCAT",
+   "searchable": 1,
+   "quickSearch": 1,
+   "ext": "DTUUHTg4UEg="
   },
   {
    "key": "HB36DJ",
