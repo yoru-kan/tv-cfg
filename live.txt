@@ -295,9 +295,9 @@ ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 港台电视31,https://fast.hidns.vip/163189/rthk31
 港台电视31,http://iptv.4666888.xyz/iptv2A.php?id=23
 港台电视31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream3/streamPlaylist.m3u8
-港台电视32,http://45.192.97.170:8880/play/1203.m3u8
 港台电视32,http://zby.lskk.top/cdnlive.php?mode=play&id=d3fd85166b5abb79502d872ec49b1f61&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
 港台电视32,https://fast.hidns.vip/163189/rthk32
+港台电视32,http://cdn.123.rr.kg/163189/rthk32
 澳视卫星,http://cdn6.123.rr.kg/163189/as
 澳视卫星,https://cdn6.cc.cd/163189/as
 澳视卫星,https://cdn.qd.je/163189/as
@@ -338,6 +338,7 @@ CHC电影,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240325_1/playlist.m
 南宁影视娱乐,http://hls.nntv.cn/nnlive/YSYL_244.m3u8
 南宁影视娱乐,http://hls.nntv.cn/nnlive/NNTV_VOD_A.m3u8
 南宁影视娱乐,rtmp://hls.nntv.cn/nnlive/YSYL_244
+句容影视,http://jrlive.jrntv.com/live/_definst_/yingshis/playlist.m3u8
 句容影院,http://jrlive.jrntv.com/live/_definst_/yingshis/chunklist_w1994429382.m3u8?zjiangsd
 固镇影视,http://www.guzhenm.com:7004/hls/hd-live.m3u8
 大唐双龙传,https://live.metshop.top/huya/29465850
