@@ -121,9 +121,9 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 电视指南,http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2026875103_dlna.m3u8
 
 卫视频道,#genre#
-三沙卫视,http://8.137.121.66:20241/961023778
-三沙卫视,http://198.204.228.26/live/ssws.m3u8
 三沙卫视,http://107.150.60.122/live/ssws.m3u8
+三沙卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ssws
+三沙卫视,http://38.75.136.137:98/gslb/dsdqpub/ssws.m3u8?auth=testpub
 东南卫视,http://61.138.99.166:10089/hls/88/index.m3u8
 东南卫视,https://live1-fuyun.fjtv.net/dnpd/hd/live.m3u8?_upt=ad8a1e6f1794269060
 东南卫视,http://115.48.161.74:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -145,9 +145,6 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 厦门卫视,http://stream.jinjiang.tv/1/sd/live.m3u8?zfud
 厦门卫视,http://107.150.60.122/live/xmws.m3u8
 厦门卫视,http://183.11.239.36:808/hls/17/index.m3u8
-吉林卫视,http://47.100.80.251:50001/947472500
-吉林卫视,http://101.66.195.243:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=0&authid=0
-吉林卫视,https://zby.130519.xyz/PLTV/11/224/3221226149/index.m3u8
 四川卫视,https://piccpndks.v.kcdnvip.com/audio/sichuan_2/index.m3u8
 四川卫视,http://101.66.195.137:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=0&authid=0
 四川卫视,http://101.66.194.125:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -178,9 +175,6 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
 浙江卫视,http://lyayun.dedyn.io:61612/rtp/239.3.1.137:8036
 浙江卫视,http://zwebl02.cztv.com/live/channel01720Pnew.m3u8?auth_key=1794274643-40af6a43071088d57fabf9745802654a-0-6ad959df13be2952491b7a011c5eedb0
-深圳卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=szwshd
-深圳卫视,https://sztv-hls.sztv.com.cn/AxeFRth/500/q7A4e0R.m3u8?sign=fd2b11690d32e81b8039d68714b75a99&t=6af26296
-深圳卫视,https://sztv-hls.sztv.com.cn/sztvgjpd/500/v37pzsvm.m3u8?sign=04db80f6da90ff51c0ca60380bb5ae6c&t=6aedbb9d
 湖南卫视,http://www.yao87.com:4022/udp/239.76.246.101:1234
 湖南卫视,http://101.66.195.192:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=0&authid=0
 湖南卫视,http://101.66.195.243:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -204,6 +198,9 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 青海卫视,http://107.150.60.122/live/qhws.m3u8
 
 港澳台,#genre#
+AstroAOD,https://cdn3.indevs.in/stream/live/aod/
+AstroAOD,http://php.jdshipin.com/TVOD/iptv.php?id=aod
+AstroAOD,https://o11.163189.xyz/stream/live/aod/
 BeautifulLifeTV,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
 HOYTV,http://cdn.123.rr.kg/163189/hoy
 HOYTV,http://uc6.i-cable.com/live_freedirect/opentvhd001_h.live/playlist.m3u8
@@ -214,9 +211,9 @@ Now新闻台,http://cdn.163189.xyz/163189/now
 PetClubTV,http://zby.lskk.top/cdnlive.php?mode=play&id=02fe7cf0f125a2b343582a63a8f9855b&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
 PetClubTV,https://petclub-samsungaus.amagi.tv/playlist.m3u8
 PetClubTV,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=02fe7cf0f125a2b343582a63a8f9855b;token=R6t2euYFvTPtNGV6HgyWZD2Ynxc5SNqr;machineid=495211d81289c09b;userip=36.231.95.229;useragent=Dalvik%2F2.1.0%20%28Linux%3B%20U%3B%20Android%2012%3B%20V2166A%20Build%2Fd063e58.0%29;source=dl_app
-TVBPlus,http://cdn3.123.rr.kg/stream/tvb/tvbp/
 TVBPlus,http://cdn10.123.rr.kg/163189/tvbp/
 TVBPlus,https://cdn3.indevs.in/stream/tvb/tvbp/
+TVBPlus,https://sktv.mxnticek.eu/new/stream.php?ch=JOJ%2024
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
 TVBS亚洲,http://31.43.191.125:8080/restream/restream/34561
 TVBS亚洲,http://2k.tstvs.com/live/047306b75f/b5a06cc482d6/500947.ts
@@ -274,9 +271,9 @@ ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 广州综合,http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8
 广州综合,https://tencentplaygzrb01.gztv.com/live/zonghes.m3u8
 广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=439b0fd2cf766b363c93a59cbcbe1370&txTime=18d00acf488
-有线新闻,http://61.10.2.141/live_freedirect/hd110_h.live/playlist.m3u8
 有线新闻,http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/chunklist_w1949275579.m3u8
 有线新闻,http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u
+有线新闻,http://61.10.2.141:80/live_freedirect/freehd209_h.live/chunklist.m3u8
 民视新闻,https://d2jc41c1shgcol.cloudfront.net/live/ftvnewsqt/playlist.m3u8
 民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
@@ -311,8 +308,6 @@ CHC动作电影,http://107.150.60.122/live/chcdz.m3u8
 CHC家庭影院,http://198.204.228.26/live/chcjt.m3u8
 CHC家庭影院,http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
 CHC家庭影院,http://107.150.60.122/live/chcjt.m3u8
-CHC电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
-CHC电影,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240325_1/playlist.m3u8?CONTENTID=00000110240325_1
 上虞文化影视,http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
 上虞文化影院,http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
 上虞文化影院,http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8?zzhed
