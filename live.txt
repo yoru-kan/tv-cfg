@@ -133,9 +133,9 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 云南卫视,http://61.138.99.166:10089/hls/92/index.m3u8
 云南卫视,https://p2.ioioz.com/xgplayer.php?id=https://hwapi.yntv.net/ew265l/z1z6s5.m3u8
 云南卫视,http://p2.ioioz.com/xgplayer.php?id=https://hwapi.yntv.net/ew265l/z1z6s5.m3u8
-人间卫视,https://epg.pw/stream/9d0b87502ccb47a1a2c8211dc602777d5146e941c631c933743048da0b44053d.m3u8
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
 人间卫视,https://stream1.freetv.fun/05b9099bef592e55129817a0f82b4cc60378970bc856b993ae9e330e85f4351f.m3u8
+人间卫视,https://www.youtube.com/watch?v=SyWDqvV5ajY
 内蒙古卫视,http://sphinger.f3322.net:11012/rtp/239.3.1.43:8176
 内蒙古卫视,http://183.11.239.36:808/hls/60/index.m3u8
 内蒙古卫视,http://123.130.84.106:8154/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -181,6 +181,9 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 深圳卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=szwshd
 深圳卫视,https://yshipin.pages.dev/play/szws
 深圳卫视,https://sztv-hls.sztv.com.cn/AxeFRth/500/q7A4e0R.m3u8?sign=fd2b11690d32e81b8039d68714b75a99&t=6af26296
+湖北卫视,https://yshipin.pages.dev/play/hbws
+湖北卫视,http://106.52.119.159:1234/947472496
+湖北卫视,http://115.48.161.74:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南卫视,http://www.yao87.com:4022/udp/239.76.246.101:1234
 湖南卫视,https://yshipin.pages.dev/play/hnws
 湖南卫视,http://101.66.195.192:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -199,9 +202,9 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 辽宁卫视,http://113.15.109.216:59901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
 辽宁卫视,http://t.061899.xyz/tl/tl.php?id=lnws
 辽宁卫视,http://125.125.236.31:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
-重庆卫视,http://8.137.121.66:20241/738910914
 重庆卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cqwshd
 重庆卫视,http://iptv.huuc.edu.cn/hls/cqhd.m3u8
+重庆卫视,https://zby.130519.xyz/PLTV/11/224/3221226171/index.m3u8
 青海卫视,http://107.150.60.122/live/qhws.m3u8
 青海卫视,http://61.138.99.166:10089/hls/96/index.m3u8
 青海卫视,http://106.52.119.159:1234/947472506
@@ -276,6 +279,7 @@ ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 唯心电视,http://jy.bhzz.today:2026/YY1/WMHS.php?id=2e442016e05c9555&t=275128454570561086&line=0&token=xxx
 唯心电视,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
 唯心电视,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+大立电视台,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 天映经典,https://cdn10.123.rr.kg/163189/ccm/
 天映经典,https://cdn3.indevs.in/stream/live/ccm/
 天映经典,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:7E:2F:ED&stream=1919463
@@ -456,9 +460,9 @@ CHC电影,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240325_1/playlist.m
 名侦探柯南,https://isus.cc/php/huya.php?id=30080236
 名侦探柯南,https://huyazhibo.de5.net/?id=30080236
 名侦探柯南,https://live.ottiptv.cc/huya/30080236
-哆啦A梦,https://isus.cc/php/huya.php?id=11601963
 哆啦A梦,http://footyun.top:35455/huya/11601963
 哆啦A梦,https://huyazhibo.de5.net/?id=11601963
+哆啦A梦,https://live.ottiptv.cc/huya/11601963
 喜羊羊与灰太狼,https://huyazhibo.de5.net/?id=23865080
 喜羊羊与灰太狼,http://footyun.top:35455/huya/23865080
 喜羊羊与灰太狼,https://live.ottiptv.cc/huya/23865080
@@ -513,7 +517,6 @@ BRTV纪实科教,http://120.76.248.139/live/bfgd/4200000113.m3u8
 浙江之江纪录,https://ali-xwl.cztv.com/live/channel121080Plxw.m3u8
 玛纳斯,http://218.84.127.245:1026/hls/main1/playlist.m3u8?zxinjd
 珲春新闻,http://stream8.jlntv.cn/hctv/sd/live.m3u8?zjild
-白山公共,http://stream8.jlntv.cn/baishan2/playlist.m3u8?zjild
 磐石,http://stream5.jlntv.cn/ps/sd/live.m3u8?zjild
 舒兰新闻,http://stream8.jlntv.cn/shulan/sd/live.m3u8?zjild
 辉南新闻,http://stream5.jlntv.cn/hn/sd/live.m3u8?zjild
