@@ -80,6 +80,9 @@ CCTV第一剧场,https://live.264788.xyz/channel/diyijuchang?streamid=e9b0fb1ca1
 CCTV老故事,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=lgs
 CCTV老故事,http://204.12.221.218:8181/3m1080p/lgs.m3u8
 CCTV老故事,http://38.75.136.137:98/gslb/dsdqpub/lgs.m3u8?auth=testpub
+CCTV风云剧场,https://yshipin.pages.dev/play/cctvfyjc
+CCTV风云剧场,http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2025637103_dlna.m3u8
+CCTV风云剧场,https://hls-gateway.vpstv.net/streams/708861.m3u8
 CCTV风云足球,http://112.92.129.58:9898/hls/114/index.m3u8
 CCTV风云足球,http://183.11.239.36:808/hls/133/index.m3u8
 CCTV风云足球,http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
@@ -133,9 +136,9 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 云南卫视,http://61.138.99.166:10089/hls/92/index.m3u8
 云南卫视,https://p2.ioioz.com/xgplayer.php?id=https://hwapi.yntv.net/ew265l/z1z6s5.m3u8
 云南卫视,http://p2.ioioz.com/xgplayer.php?id=https://hwapi.yntv.net/ew265l/z1z6s5.m3u8
-人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
 人间卫视,https://epg.pw/stream/9d0b87502ccb47a1a2c8211dc602777d5146e941c631c933743048da0b44053d.m3u8
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
+人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
 内蒙古卫视,http://sphinger.f3322.net:11012/rtp/239.3.1.43:8176
 内蒙古卫视,http://183.11.239.36:808/hls/60/index.m3u8
 内蒙古卫视,http://123.130.84.106:8154/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -157,6 +160,9 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 大湾区卫视,http://198.204.228.26/live/nfws.m3u8
 大湾区卫视,http://113.15.109.216:59901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 大湾区卫视,http://8.137.121.66:20241/608917627
+天津卫视,https://yshipin.pages.dev/play/tjws
+天津卫视,http://115.48.161.74:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
+天津卫视,https://kzhibo.pages.dev/channel/611?type=2
 宁夏卫视,http://198.204.228.26/live/nxws.m3u8
 宁夏卫视,http://120.76.248.139/live/bfgd/4200000118.m3u8
 宁夏卫视,https://live.264788.xyz/channel/ningxiaweishi?streamid=e1236348f815c36a0429357e5b5c5f10&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
@@ -216,6 +222,9 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 黑龙江卫视,http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
 
 港澳台,#genre#
+AstroAOD,https://cdn3.indevs.in/stream/live/aod/
+AstroAOD,http://php.jdshipin.com/TVOD/iptv.php?id=aod
+AstroAOD,https://o11.163189.xyz/stream/live/aod/
 BeautifulLifeTV,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
 HOYTV,https://liveopen.siliconweb.com/openTvLive/liveopen/playlist.m3u8
 HOYTV,http://cdn.123.rr.kg/163189/hoy
@@ -298,9 +307,9 @@ ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 民视新闻台,http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
 民视新闻台,http://jy.bhzz.today:2026/YY1/WMHS.php?id=4df8b0c41f0da56f&t=706020202683548286&line=0&token=xxx
 民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
-港台电视31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 港台电视31,https://fast.hidns.vip/163189/rthk31
 港台电视31,http://iptv.4666888.xyz/iptv2A.php?id=23
+港台电视31,http://cdn.123.rr.kg/163189/rthk31
 港台电视32,https://fast.hidns.vip/163189/rthk32
 港台电视32,http://zby.lskk.top/cdnlive.php?mode=play&id=d3fd85166b5abb79502d872ec49b1f61&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
 港台电视32,http://cdn.123.rr.kg/163189/rthk32
@@ -475,9 +484,6 @@ CHC电影,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240325_1/playlist.m
 海绵宝宝,https://isus.cc/php/huya.php?id=11352919
 海绵宝宝,http://cfss.cc/cdn/huya/11352919.flv
 海绵宝宝,https://live.metshop.top/douyu/3949681
-灌篮高手,https://huyazhibo.de5.net/?id=25039461
-灌篮高手,https://live.ottiptv.cc/yy/1382735626
-灌篮高手,http://www.douzhicloud.site:35455/yy/1382735626$LR•IPV4『线路1』
 猫和老鼠,https://isus.cc/php/huya.php?id=11352879
 猫和老鼠,https://huyazhibo.de5.net/?id=11352879
 猫和老鼠,https://live.metshop.top/huya/11352879
