@@ -142,6 +142,9 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 农林卫视,http://gxlive.snrtv.com/nlws-SD.m3u8
 农林卫视,http://45.192.97.170:8880/play/37.m3u8
 农林卫视,http://45.192.97.170:8880/play/35.m3u8
+北京卫视,https://yshipin.pages.dev/play/bjws
+北京卫视,http://116.236.204.18:1234/630287636
+北京卫视,http://101.66.198.93:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=0&authid=0
 厦门卫视,http://stream.jinjiang.tv/1/sd/live.m3u8?zfud
 厦门卫视,http://183.11.239.36:808/hls/17/index.m3u8
 厦门卫视,http://107.150.60.122/live/xmws.m3u8
@@ -163,6 +166,9 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 山西卫视,http://113.26.202.52:1299/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
 山西卫视,https://livehhhttps.sxrtv.com/lsdream/lce1mC4/800/c1tlfe0.m3u8
 山西卫视,https://livehhhttps.sxrtv.com/lsdream/q8RVWgs/1000/22sqvR0.m3u8
+广西卫视,https://yshipin.pages.dev/play/gxws
+广西卫视,http://t.061899.xyz/tl/tl.php?id=gxws
+广西卫视,http://101.66.195.137:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=0&authid=0
 延边卫视,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
 延边卫视,http://120.76.248.139/live/bfgd/4200000117.m3u8
 延边卫视,http://live.ybtvyun.com/video/s10016-6f0dfd97912f/index.m3u8
@@ -205,14 +211,12 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 青海卫视,https://hls-qhmh.lanzhousobey.cn/qhmh/mhds.m3u8
 青海卫视,http://61.138.99.166:10089/hls/96/index.m3u8
 青海卫视,http://107.150.60.122/live/qhws.m3u8
-黑龙江卫视,https://yshipin.pages.dev/play/hljws
-黑龙江卫视,http://106.52.119.159:1234/738906901
-黑龙江卫视,http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
 
 港澳台,#genre#
 AstroAOD,https://cdn3.indevs.in/stream/live/aod/
 AstroAOD,http://php.jdshipin.com/TVOD/iptv.php?id=aod
 AstroAOD,https://o11.163189.xyz/stream/live/aod/
+BeautifulLifeTV,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
 HOYTV,https://liveopen.siliconweb.com/openTvLive/liveopen/playlist.m3u8
 HOYTV,http://cdn.123.rr.kg/163189/hoy
 HOYTV,http://uc6.i-cable.com/live_freedirect/opentvhd001_h.live/playlist.m3u8
@@ -319,6 +323,8 @@ CHC动作电影,http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
 CHC家庭影院,http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
 CHC家庭影院,http://107.150.60.122/live/chcjt.m3u8
 CHC家庭影院,http://198.204.228.26/live/chcjt.m3u8
+CHC电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
+CHC电影,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240325_1/playlist.m3u8?CONTENTID=00000110240325_1
 上虞文化影视,http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
 上虞文化影院,http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8?zzhed
 上虞文化影院,http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
@@ -327,8 +333,8 @@ CHC家庭影院,http://198.204.228.26/live/chcjt.m3u8
 倚天屠龙记,http://live.metshop.top/huya/11342403
 倚天屠龙记,https://live.metshop.top/huya/23734246
 倚天屠龙记,http://cdn.jdshipin.com:8880/huya.php?id=11342403
-刑事侦缉档案,https://huyazhibo.de5.net/?id=29465856
 刑事侦缉档案,https://live.metshop.top/huya/29465856
+刑事侦缉档案,https://huyazhibo.de5.net/?id=29465856
 创世纪,https://live.metshop.top/huya/29465852
 创世纪,https://live.metshop.top/huya/29465852$LR•IPV4『线路1』
 创世纪,http://www.douzhicloud.site:35455/huya/29465852$LR•IPV4『线路2』
@@ -385,9 +391,9 @@ CHC家庭影院,http://198.204.228.26/live/chcjt.m3u8
 王晶电影,https://live.metshop.top/huya/11602058
 王晶电影,http://cdn.jdshipin.com:8880/huya.php?id=11602058
 王晶电影,http://live.iill.top/huya.php?id=11602058
-电影八点档,http://live.metshop.top/huya/880261?cdn=alicdn
 电影功夫片,http://live.metshop.top/huya/11352941?cdn=alicdn
 电影谍战片,http://live.metshop.top/huya/21059587?cdn=alicdn
+电影贺岁,http://live.metshop.top/huya/11601971?cdn=alicdn
 电影高分动作,http://live.metshop.top/huya/11352884?cdn=alicdn
 神雕侠侣,http://live.metshop.top/huya/11352964
 神雕侠侣,https://live.ottiptv.cc/huya/11352964
