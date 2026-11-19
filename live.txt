@@ -219,6 +219,9 @@ AstroAOD,https://o11.163189.xyz/stream/live/aod/
 HOYTV,https://liveopen.siliconweb.com/openTvLive/liveopen/playlist.m3u8
 HOYTV,http://cdn.123.rr.kg/163189/hoy
 HOYTV,http://uc6.i-cable.com/live_freedirect/opentvhd001_h.live/playlist.m3u8
+J2,http://r.jdshipin.com/ndGgS
+J2,https://hls-gateway.vpstv.net/streams/476932.m3u8
+J2,http://api.kkitv.itv888.vip:8080/streams/48uxa7dlbga/index.m3u8
 Now新闻台,http://cdn.123.rr.kg/163189/now
 Now新闻台,http://psyl11.dyndns.tv:35451/live/axdynowtream/fSlawNmh15/23.ts
 Now新闻台,http://cdn.163189.xyz/163189/now
@@ -275,6 +278,7 @@ ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 唯心电视,http://jy.bhzz.today:2026/YY1/WMHS.php?id=2e442016e05c9555&t=275128454570561086&line=0&token=xxx
 唯心电视,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
 唯心电视,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
+大立电视台,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 天映经典,http://zby.lskk.top/cdnlive.php?mode=play&id=95fbe855a1df5dc78b38a61bc64e7e9e&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
 天映经典,https://cdn3.indevs.in/stream/live/ccm/
 天映经典,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:7E:2F:ED&stream=1919463
@@ -385,6 +389,7 @@ CHC电影,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240325_1/playlist.m
 湖南电视剧,http://8.138.7.223/tv/mgtv.php?id=484
 湖南电视剧,http://phoneqq.qing.mgtv.com/nn_live/nn_x64/Y2hzPSZkZWY9MSZ1aXA9MTA2LjE0LjM4LjU1JnRlcm09NSZtYWNpZD02ODZlOGNmOGM4OGU3N2VjOWEwNzkzMjg5ZjUzNDg0MmFiZWM0ZjNjJnFpZD0mcmF1dGhfZW5hYmxlPW9mZiZjZG5leF9pZD1xcV9waG9uZV9saXZlJmVzPTE3OTI3MTQ5MjUmdXVpZD05Yjk5MTc3YjQwNmZmMWYwN2NiZTgzYjY0ZTFlNDQ0OS02YTBlMjYzNyZzPTY4YmQ5ZjA5MzhlYmRkODZmNzNmNTE5Mjc0ZjZjMjYyJnVpZD0mbmR2PWlvcy02LjUuMCZ2PTImYXM9MCZfY2FyQ29kZT0w/HNDSJMPP360.m3u8
 湖南电视剧,http://phoneal.qing.mgtv.com/nn_live/nn_x64/Y2hzPSZkZWY9MSZ1aXA9MTA2LjE0LjM4LjU1JnRlcm09NSZtYWNpZD02ODZlOGNmOGM4OGU3N2VjOWEwNzkzMjg5ZjUzNDg0MmFiZWM0ZjNjJnFpZD0mcmF1dGhfZW5hYmxlPW9uJmNkbmV4X2lkPWFsX3Bob25lMyZlcz0xNzkyNDA5MjI1JnV1aWQ9M2I4ZjE5YzU5YzY2N2VhZDc2OWU0ODQxNzM0NTI5YTYtNmEwZTI2Mzcmcz02ODY2NTBkOTYwYzc0OTQ3YWVlNDYzZDY0YWI5OGE2MSZ1aWQ9Jm5kdj1pb3MtNi41LjAmdj0yJmFzPTAmX2NhckNvZGU9MA,,/JYKTMPP360.m3u8
+狄仁杰电影,https://live.metshop.top/huya/30080229
 王晶电影,https://live.metshop.top/huya/11602058
 王晶电影,http://cdn.jdshipin.com:8880/huya.php?id=11602058
 王晶电影,http://live.iill.top/huya.php?id=11602058
@@ -396,9 +401,9 @@ CHC电影,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240325_1/playlist.m
 神雕侠侣,http://live.metshop.top/huya/11352964
 神雕侠侣,https://live.ottiptv.cc/huya/11352964
 神雕侠侣,http://cdn.jdshipin.com:8880/huya.php?id=11352964
-笑傲江湖,https://live.metshop.top/huya/23865142
 笑傲江湖,https://live.metshop.top/huya/26355790
 笑傲江湖,http://live.metshop.top/huya/26355790
+笑傲江湖,https://live.ottiptv.cc/huya/26355790
 绍兴文化影视,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
 绍兴文化影视,https://stream1.freetv.fun/shao-xing-wen-hua-ying-shi-1.m3u8
 绍兴文化影视,https://t.freetv.fun/live/shao-xing-wen-hua-ying-shi-1.m3u8
@@ -414,6 +419,9 @@ CHC电影,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240325_1/playlist.m
 野蛮亲家,http://footyun.top:35455/huya/23863796
 野蛮亲家,https://live.metshop.top/huya/23863796
 野蛮亲家,https://huyazhibo.de5.net/?id=23863796
+金枝欲孽,https://live.metshop.top/huya/29465847
+金枝欲孽,https://live.metshop.top/huya/29465847$LR•IPV4『线路1』
+金枝欲孽,http://www.douzhicloud.site:35455/huya/29465847$LR•IPV4『线路2』
 铁齿铜牙纪晓岚,http://live.metshop.top/huya/11342396
 铁齿铜牙纪晓岚,http://cdn.jdshipin.com:8880/huya.php?id=11342396
 铁齿铜牙纪晓岚,http://live.iill.top/huya.php?id=11342396
