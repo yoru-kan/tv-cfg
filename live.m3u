@@ -311,12 +311,6 @@ http://198.204.228.26/live/nfws.m3u8
 http://8.137.121.66:20241/608917627
 #EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/大湾区卫视.png" group-title="卫视频道",大湾区卫视
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=nfws
-#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/天津卫视.png" group-title="卫视频道",天津卫视
-https://yshipin.pages.dev/play/tjws
-#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/天津卫视.png" group-title="卫视频道",天津卫视
-http://115.48.161.74:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/天津卫视.png" group-title="卫视频道",天津卫视
-https://kzhibo.pages.dev/channel/611?type=2
 #EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/宁夏卫视.png" group-title="卫视频道",宁夏卫视
 http://198.204.228.26/live/nxws.m3u8
 #EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/宁夏卫视.png" group-title="卫视频道",宁夏卫视
@@ -377,6 +371,12 @@ http://63.141.230.178:82/gslb/zbdq5.m3u8?id=szwshd
 https://yshipin.pages.dev/play/szws
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/深圳卫视.png" group-title="卫视频道",深圳卫视
 https://sztv-hls.sztv.com.cn/AxeFRth/500/q7A4e0R.m3u8?sign=fd2b11690d32e81b8039d68714b75a99&t=6af26296
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/湖北卫视.png" group-title="卫视频道",湖北卫视
+https://yshipin.pages.dev/play/hbws
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/湖北卫视.png" group-title="卫视频道",湖北卫视
+http://106.52.119.159:1234/947472496
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/湖北卫视.png" group-title="卫视频道",湖北卫视
+http://115.48.161.74:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/湖南卫视.png" group-title="卫视频道",湖南卫视
 http://www.yao87.com:4022/udp/239.76.246.101:1234
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/湖南卫视.png" group-title="卫视频道",湖南卫视
@@ -814,11 +814,11 @@ http://204315.xyz:20204/rtp/233.18.204.48:5140
 #EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/都市剧场.png" group-title="影视剧场",都市剧场
 http://38.75.136.137:98/gslb/dsdqpub/dsjchd.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="野蛮亲家" tvg-logo="" group-title="影视剧场",野蛮亲家
-http://footyun.top:35455/huya/23863796
-#EXTINF:-1 tvg-name="野蛮亲家" tvg-logo="" group-title="影视剧场",野蛮亲家
 https://live.metshop.top/huya/23863796
 #EXTINF:-1 tvg-name="野蛮亲家" tvg-logo="" group-title="影视剧场",野蛮亲家
 https://huyazhibo.de5.net/?id=23863796
+#EXTINF:-1 tvg-name="野蛮亲家" tvg-logo="" group-title="影视剧场",野蛮亲家
+http://footyun.top:35455/huya/23863796
 #EXTINF:-1 tvg-name="金庸武侠" tvg-logo="" group-title="影视剧场",金庸武侠
 https://live.metshop.top/huya/11342435
 #EXTINF:-1 tvg-name="金庸武侠" tvg-logo="" group-title="影视剧场",金庸武侠

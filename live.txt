@@ -157,9 +157,6 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 大湾区卫视,http://198.204.228.26/live/nfws.m3u8
 大湾区卫视,http://8.137.121.66:20241/608917627
 大湾区卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=nfws
-天津卫视,https://yshipin.pages.dev/play/tjws
-天津卫视,http://115.48.161.74:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
-天津卫视,https://kzhibo.pages.dev/channel/611?type=2
 宁夏卫视,http://198.204.228.26/live/nxws.m3u8
 宁夏卫视,http://120.76.248.139/live/bfgd/4200000118.m3u8
 宁夏卫视,https://live.264788.xyz/channel/ningxiaweishi?streamid=e1236348f815c36a0429357e5b5c5f10&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
@@ -190,6 +187,9 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 深圳卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=szwshd
 深圳卫视,https://yshipin.pages.dev/play/szws
 深圳卫视,https://sztv-hls.sztv.com.cn/AxeFRth/500/q7A4e0R.m3u8?sign=fd2b11690d32e81b8039d68714b75a99&t=6af26296
+湖北卫视,https://yshipin.pages.dev/play/hbws
+湖北卫视,http://106.52.119.159:1234/947472496
+湖北卫视,http://115.48.161.74:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南卫视,http://www.yao87.com:4022/udp/239.76.246.101:1234
 湖南卫视,https://yshipin.pages.dev/play/hnws
 湖南卫视,http://101.66.195.192:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -412,9 +412,9 @@ CHC家庭影院,http://107.150.60.122/live/chcjt.m3u8
 都市剧场,https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8
 都市剧场,http://204315.xyz:20204/rtp/233.18.204.48:5140
 都市剧场,http://38.75.136.137:98/gslb/dsdqpub/dsjchd.m3u8?auth=testpub
-野蛮亲家,http://footyun.top:35455/huya/23863796
 野蛮亲家,https://live.metshop.top/huya/23863796
 野蛮亲家,https://huyazhibo.de5.net/?id=23863796
+野蛮亲家,http://footyun.top:35455/huya/23863796
 金庸武侠,https://live.metshop.top/huya/11342435
 金庸武侠,http://cdn.jdshipin.com:8880/huya.php?id=11342435
 金庸武侠,http://live.iill.top/huya.php?id=11342435
