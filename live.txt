@@ -142,9 +142,6 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 农林卫视,http://gxlive.snrtv.com/nlws-SD.m3u8
 农林卫视,http://45.192.97.170:8880/play/37.m3u8
 农林卫视,http://45.192.97.170:8880/play/35.m3u8
-北京卫视,https://yshipin.pages.dev/play/bjws
-北京卫视,http://116.236.204.18:1234/630287636
-北京卫视,http://101.66.198.93:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=0&authid=0
 厦门卫视,http://stream.jinjiang.tv/1/sd/live.m3u8?zfud
 厦门卫视,http://107.150.60.122/live/xmws.m3u8
 厦门卫视,http://183.11.239.36:808/hls/17/index.m3u8
@@ -157,6 +154,9 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 大湾区卫视,http://198.204.228.26/live/nfws.m3u8
 大湾区卫视,http://8.137.121.66:20241/608917627
 大湾区卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=nfws
+天津卫视,https://yshipin.pages.dev/play/tjws
+天津卫视,http://115.48.161.74:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
+天津卫视,https://kzhibo.pages.dev/channel/611?type=2
 宁夏卫视,http://198.204.228.26/live/nxws.m3u8
 宁夏卫视,http://120.76.248.139/live/bfgd/4200000118.m3u8
 宁夏卫视,https://live.264788.xyz/channel/ningxiaweishi?streamid=e1236348f815c36a0429357e5b5c5f10&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
@@ -187,9 +187,6 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 深圳卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=szwshd
 深圳卫视,https://yshipin.pages.dev/play/szws
 深圳卫视,https://sztv-hls.sztv.com.cn/AxeFRth/500/q7A4e0R.m3u8?sign=fd2b11690d32e81b8039d68714b75a99&t=6af26296
-湖北卫视,https://yshipin.pages.dev/play/hbws
-湖北卫视,http://106.52.119.159:1234/947472496
-湖北卫视,http://115.48.161.74:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南卫视,http://www.yao87.com:4022/udp/239.76.246.101:1234
 湖南卫视,https://yshipin.pages.dev/play/hnws
 湖南卫视,http://101.66.195.192:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -211,6 +208,9 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 重庆卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cqwshd
 重庆卫视,http://p.ytelc.com/videojs.php?id=https://sjlivecdn9.cbg.cn/202411200910/app_2/_definst_/ls_2.stream/chunklist.m3u8
 重庆卫视,http://p.ytelc.com/videojs.php?id=https://sjlivecdn9.cbg.cn/202411201110/app_2/_definst_/ls_2.stream/chunklist.m3u8
+陕西卫视,https://yshipin.pages.dev/play/saxws
+陕西卫视,http://106.52.119.159:1234/738910838
+陕西卫视,http://stream.snrtv.com/sxbc-star-lyJQT7.m3u8
 青海卫视,http://107.150.60.122/live/qhws.m3u8
 青海卫视,http://61.138.99.166:10089/hls/96/index.m3u8
 青海卫视,http://106.52.119.159:1234/947472506
