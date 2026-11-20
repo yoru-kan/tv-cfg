@@ -59,9 +59,9 @@ CCTV世界地理,http://183.11.239.36:808/hls/11/index.m3u8
 CCTV兵器科技,http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub
 CCTV兵器科技,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gfjs
 CCTV兵器科技,http://198.204.228.26/live/gfjs.m3u8
-CCTV发现之旅,http://k.061899.xyz/k.php?id=fxzl
 CCTV发现之旅,http://38.75.136.137:98/gslb/dsdqpub/fxzl.m3u8?auth=testpub
 CCTV发现之旅,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fxzl
+CCTV发现之旅,http://ygbh.live/migu.php?id=fxzl
 CCTV台球,http://107.150.60.122/live/ystq.m3u8
 CCTV台球,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ystq
 CCTV台球,http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
@@ -178,6 +178,9 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 深圳卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=szwshd
 深圳卫视,https://yshipin.pages.dev/play/szws
 深圳卫视,https://sztv-hls.sztv.com.cn/AxeFRth/500/q7A4e0R.m3u8?sign=fd2b11690d32e81b8039d68714b75a99&t=6af26296
+湖北卫视,https://yshipin.pages.dev/play/hbws
+湖北卫视,http://106.52.119.159:1234/947472496
+湖北卫视,http://115.48.161.74:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南卫视,http://www.yao87.com:4022/udp/239.76.246.101:1234
 湖南卫视,https://yshipin.pages.dev/play/hnws
 湖南卫视,http://101.66.195.192:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -196,9 +199,6 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 重庆卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cqwshd
 重庆卫视,http://p.ytelc.com/videojs.php?id=https://sjlivecdn9.cbg.cn/202411200910/app_2/_definst_/ls_2.stream/chunklist.m3u8
 重庆卫视,http://p.ytelc.com/videojs.php?id=https://sjlivecdn9.cbg.cn/202411201110/app_2/_definst_/ls_2.stream/chunklist.m3u8
-陕西卫视,https://yshipin.pages.dev/play/saxws
-陕西卫视,http://106.52.119.159:1234/738910838
-陕西卫视,http://stream.snrtv.com/sxbc-star-lyJQT7.m3u8
 青海卫视,http://61.138.99.166:10089/hls/96/index.m3u8
 青海卫视,http://107.150.60.122/live/qhws.m3u8
 青海卫视,http://106.52.119.159:1234/947472506
@@ -301,9 +301,6 @@ ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 澳视澳门,http://cdn6.123.rr.kg/163189/asam
 澳视澳门,https://cdn.qd.je/163189/asam
 澳视澳门,https://cdn6.163189.xyz/163189/asam
-澳门卫视,http://183.237.95.108:9901/tsfile/live/1106_1.m3u8?key=txiptv&playlive=1&authid=0
-澳门卫视,http://61.244.22.4/ch1/ch1.live/playlist.m3u8
-澳门卫视,http://61.244.22.5/ch3/ch3.live/chunklist_w1228316132.m3u8
 环球电视,http://utv1.hqtvzb.com:9999/hls/world.m3u8
 环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 美亚电影,http://iptv.4666888.xyz/iptv2A.php?id=30
