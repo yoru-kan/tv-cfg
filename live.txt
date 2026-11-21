@@ -145,6 +145,9 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 厦门卫视,http://stream.jinjiang.tv/1/sd/live.m3u8?zfud
 厦门卫视,http://107.150.60.122/live/xmws.m3u8
 厦门卫视,http://183.11.239.36:808/hls/17/index.m3u8
+吉林卫视,https://yshipin.pages.dev/play/jlws
+吉林卫视,http://101.66.195.243:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=0&authid=0
+吉林卫视,https://zby.130519.xyz/PLTV/11/224/3221226149/index.m3u8
 四川卫视,https://piccpndks.v.kcdnvip.com/audio/sichuan_2/index.m3u8
 四川卫视,http://101.66.195.137:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=0&authid=0
 四川卫视,http://101.66.194.125:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -190,6 +193,9 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 西藏卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=xzws
 西藏卫视,http://101.35.240.114:88/live.php?id=西藏卫视
 西藏卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221225723/index.m3u8
+贵州卫视,https://yshipin.pages.dev/play/gzws
+贵州卫视,https://9bwaz8y2.gzstv.com/live/CH01_lo.m3u8?txSecret=87ff4bba1b0724d16d390c0133828ab4&txTime=6AF8BE44
+贵州卫视,http://t.061899.xyz/tl/tl.php?id=gzws
 青海卫视,http://61.138.99.166:10089/hls/96/index.m3u8
 青海卫视,https://yshipin.pages.dev/play/qhws
 青海卫视,http://106.52.119.159:1234/947472506
@@ -261,6 +267,7 @@ ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 唯心电视,http://jy.bhzz.today:2026/YY1/WMHS.php?id=2e442016e05c9555&t=275128454570561086&line=0&token=xxx
 唯心电视,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
 唯心电视,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+大立电视台,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 天映经典,http://zby.lskk.top/cdnlive.php?mode=play&id=95fbe855a1df5dc78b38a61bc64e7e9e&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
 天映经典,https://cdn10.123.rr.kg/163189/ccm/
 天映经典,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:7E:2F:ED&stream=1919463
@@ -300,6 +307,7 @@ ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 美亚电影,http://31.43.191.125:8080/restream/restream/34848
 美亚电影,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
 韩国电影1,https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
+韩国电影2,https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
 
 影视剧场,#genre#
 CHC动作电影,http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
@@ -360,8 +368,6 @@ CHC家庭影院,http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
 沈腾电影,https://live.metshop.top/huya/11601968
 沈腾电影,http://cdn.jdshipin.com:8880/huya.php?id=11601968
 沈腾电影,http://live.iill.top/huya.php?id=11601968
-河北影视,http://1.94.31.214/php/hebei.php?id=hbys
-河北影视,http://121.19.134.33:808/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江教科影视,http://ali-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8
 浙江教科影视,http://ali-vl.cztv.com/channels/lantian/channel004/360p.m3u8
 浙江教科影视,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
@@ -499,11 +505,13 @@ BRTV纪实科教,http://120.76.248.139/live/bfgd/4200000113.m3u8
 白山公共,http://stream8.jlntv.cn/baishan2/playlist.m3u8?zjild
 磐石,http://stream5.jlntv.cn/ps/sd/live.m3u8?zjild
 舒兰新闻,http://stream8.jlntv.cn/shulan/sd/live.m3u8?zjild
+辉南新闻,http://stream5.jlntv.cn/hn/sd/live.m3u8?zjild
 通化县,http://stream5.jlntv.cn/thx/sd/live.m3u8?zjild
 邯郸科教,https://jwcdnqx.hebyun.com.cn/live/hdkj/1500k/tzwj_video.m3u8
 邯郸科教,https://jwliveqxzb.hebyun.com.cn/hdkj/hdkj.m3u8
 金鹰纪实,https://phoneal.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/JYJSMPP360.m3u8
 金鹰纪实,http://183.11.239.36:808/hls/171/index.m3u8
 金鹰纪实,http://phoneal.qing.mgtv.com/nn_live/nn_x64/Y2hzPSZkZWY9MSZ1aXA9MTA2LjE0LjM4LjU1JnRlcm09NSZtYWNpZD02ODZlOGNmOGM4OGU3N2VjOWEwNzkzMjg5ZjUzNDg0MmFiZWM0ZjNjJnFpZD0mcmF1dGhfZW5hYmxlPW9uJmNkbmV4X2lkPWFsX3Bob25lMyZlcz0xNzkzMzE5NzI4JnV1aWQ9ODY3NDY0ZjFhMmQ4YzAxNjQ0MGUzNTdjNTE4NTllY2YtNmEwZTI2Mzcmcz03ODM0M2VhOGRlY2RkYmQ3MTkyMmQyNzM5YmU4NGM3NSZ1aWQ9Jm5kdj1pb3MtNi41LjAmdj0yJmFzPTAmX2NhckNvZGU9MA,,/HNDSMPP360.m3u8
+长白山电视台,http://stream8.jlntv.cn/cbstv/sd/live.m3u8?zjild
 靖宇,http://stream8.jlntv.cn/jytv/sd/live.m3u8?zjild
 龙井,http://stream8.jlntv.cn/ljtv/sd/live.m3u8?zjild
